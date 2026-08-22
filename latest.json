@@ -1,43 +1,43 @@
 {
   "dato": "2026-08-22",
   "dato_norsk": "Lørdag 22. august 2026",
-  "generert_kl": "20:12",
+  "generert_kl": "20:53",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "U.S. Steel Stocks Nucor, Steel Dynamics: Big Winners As Canada Trade Talks Collapse?",
+      "tittel": "U.S. Steel Stocks Nucor, Steel Dynamics: Store vinnere når handelssamtalene i Canada kollapser?",
       "kilde": "Yahoo Finance",
       "tid": "18:15",
       "lenke": "https://www.investors.com/news/u-s-steel-stocks-nucor-steel-dynamics-canada-trade-talks-collapse/?src=A00220&yptr=yahoo",
-      "engelsk_kilde": false
+      "engelsk_kilde": true
     },
     {
-      "tittel": "Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole",
-      "kilde": "Yahoo Finance",
-      "tid": "17:49",
-      "lenke": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-a-choppy-market-heads-for-nvidia-earnings-jackson-hole/?src=A00220&yptr=yahoo",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
+      "tittel": "Trump endret porteføljen sin i juni, og solgte navn som Meta og kjøpte Berkshire Hathaway",
       "kilde": "CNBC Top News",
       "tid": "18:57",
       "lenke": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
-      "engelsk_kilde": false
+      "engelsk_kilde": true
     },
     {
-      "tittel": "Dow Jones Futures: Market Rally Repairs Some Damage As Nvidia Looms; New Trump Tariffs On Canada",
+      "tittel": "Nvidia-kunder skal ha advart om AI-relaterte prisøkninger",
+      "kilde": "CNBC Top News",
+      "tid": "20:26",
+      "lenke": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Dow Jones Futures: Market Rally reparerer noen skader ettersom Nvidia truer; Nye Trump-tollsatser på Canada",
       "kilde": "Yahoo Finance",
       "tid": "15:25",
       "lenke": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
-      "engelsk_kilde": false
+      "engelsk_kilde": true
     },
     {
-      "tittel": "Snowflake (SNOW) Stock: AI Growth Is Real, But Is the Valuation Already Priced In?",
+      "tittel": "Snowflake (SNOW)-aksjen: AI-veksten er reell, men er verdsettelsen allerede priset inn?",
       "kilde": "Yahoo Finance",
       "tid": "19:41",
       "lenke": "https://finance.yahoo.com/markets/stocks/articles/snowflake-snow-stock-ai-growth-194107701.html",
-      "engelsk_kilde": false
+      "engelsk_kilde": true
     }
   ],
   "kategorier": {
@@ -59,94 +59,173 @@
     ],
     "MAKRO": [
       {
-        "tittel": "Mohamed El-Erian says 30-year Treasury yield at 5.27% signals a structural shift that will make America more expensive",
+        "tittel": "Mohamed El-Erian sier en 30-årig statsrente på 5,27 % signaliserer et strukturelt skifte som vil gjøre USA dyrere",
         "kilde": "Yahoo Finance",
         "tid": "16:00",
         "lenke": "https://finance.yahoo.com/economy/policy/articles/mohamed-el-erian-says-30-160000225.html",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week",
+        "tittel": "Hvorfor en kunngjøring fra statskassen utløste et rally i gull og bitcoin denne uken",
         "kilde": "MarketWatch",
         "tid": "13:00",
         "lenke": "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b?mod=mw_rss_topstories",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "Snowflake (SNOW) Stock: AI Growth Is Real, But Is the Valuation Already Priced In?",
+        "tittel": "Ross Stores økte sammenlignbare salg 10 %. TJX vokste 4 %. Bare én aksje gikk opp.",
+        "kilde": "Yahoo Finance",
+        "tid": "20:43",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/ross-stores-grew-comparable-sales-204301377.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Snowflake (SNOW)-aksjen: AI-veksten er reell, men er verdsettelsen allerede priset inn?",
         "kilde": "Yahoo Finance",
         "tid": "19:41",
         "lenke": "https://finance.yahoo.com/markets/stocks/articles/snowflake-snow-stock-ai-growth-194107701.html",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "U.S. Steel Stocks Nucor, Steel Dynamics: Big Winners As Canada Trade Talks Collapse?",
+        "tittel": "U.S. Steel Stocks Nucor, Steel Dynamics: Store vinnere når handelssamtalene i Canada kollapser?",
         "kilde": "Yahoo Finance",
         "tid": "18:15",
         "lenke": "https://www.investors.com/news/u-s-steel-stocks-nucor-steel-dynamics-canada-trade-talks-collapse/?src=A00220&yptr=yahoo",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole",
+        "tittel": "Børsuke fremover: Et hakkete marked går mot Nvidia-inntekter, Jackson Hole",
         "kilde": "Yahoo Finance",
         "tid": "17:49",
         "lenke": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-a-choppy-market-heads-for-nvidia-earnings-jackson-hole/?src=A00220&yptr=yahoo",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Dow Jones Futures: Market Rally Repairs Some Damage As Nvidia Looms; New Trump Tariffs On Canada",
+        "tittel": "Dow Jones Futures: Market Rally reparerer noen skader ettersom Nvidia truer; Nye Trump-tollsatser på Canada",
         "kilde": "Yahoo Finance",
         "tid": "15:25",
         "lenke": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
+        "tittel": "Vår 4 år gamle sønn har $100 000 på 529-kontoen sin. Er et oksemarked et dårlig tidspunkt å kjøpe aksjer til ham i stedet?",
         "kilde": "MarketWatch",
         "tid": "13:01",
         "lenke": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Warren Buffett Watch: It's Buffett, not Abel, who appears to be calling the shots on stocks",
+        "tittel": "Warren Buffett Watch: Det er Buffett, ikke Abel, som ser ut til å satse på aksjer",
         "kilde": "CNBC Top News",
         "tid": "12:06",
         "lenke": "https://www.cnbc.com/2026/08/22/warren-buffett-not-greg-abel-appears-to-still-be-calling-the-shots-on-stocks.html",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
+      }
+    ],
+    "TEKNOLOGI": [
+      {
+        "tittel": "Nvidia-kunder skal ha advart om AI-relaterte prisøkninger",
+        "kilde": "CNBC Top News",
+        "tid": "20:26",
+        "lenke": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
+        "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
+        "tittel": "Trump endret porteføljen sin i juni, og solgte navn som Meta og kjøpte Berkshire Hathaway",
         "kilde": "CNBC Top News",
         "tid": "18:57",
         "lenke": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'",
+        "tittel": "I forkant av tøffe nye amerikanske sanksjoner, kritiserer Iran \"ekstraterritoriell suverenitet\"",
         "kilde": "CNBC Top News",
         "tid": "10:34",
         "lenke": "https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
       {
-        "tittel": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down",
+        "tittel": "\"Fremmedgjørelsen handler ikke om politikk\": Datteren min har ikke snakket med meg på 4 år. Gir jeg henne en månedlig livrente?",
         "kilde": "MarketWatch",
-        "tid": "19:51",
+        "tid": "20:45",
+        "lenke": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kontoret i Paramount, California AG planlegger etter sigende å møtes mandag for å diskutere en løsning på WBD-søksmålet",
+        "kilde": "CNBC Top News",
+        "tid": "20:34",
+        "lenke": "https://www.cnbc.com/2026/08/22/paramount-california-ag-said-to-plan-meeting-on-settling-wbd-suit-.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Canada kunngjør gjengjeldelsestoller på amerikanske varer etter at handelssamtalene bryter sammen",
+        "kilde": "MarketWatch",
+        "tid": "20:31",
         "lenke": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "'Vi er engasjerte kristne': Vår sønn og svigerdatter avskjærer oss over politikk. Bør vi endre testamentet på 3 millioner dollar?",
+        "kilde": "MarketWatch",
+        "tid": "20:30",
+        "lenke": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Å vite når du skal stoppe: Kunsten å få en sløyfe til å konvergere",
+        "kilde": "Hacker News",
+        "tid": "20:21",
+        "lenke": "https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ettersom handelssamtalene mellom USA og Canada kollapser, sier Carney at gjengjeldelsestariffer vil starte 8. september",
+        "kilde": "CNBC Top News",
+        "tid": "20:18",
+        "lenke": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Lewis Hamilton stråler med Kardashian: – Følelsesmessig berg-og-dal-bane",
+        "kilde": "NRK Nyheter",
+        "tid": "20:15",
+        "lenke": "https://www.nrk.no/sport/kan-kim-kardashian-hjelpe-lewis-hamilton-til-historisk-vm-tittel_-1.17995720",
         "engelsk_kilde": false
       },
       {
-        "tittel": "How a 56-Year-Old Turned a $735,000 401(k) Rollover Into a $4,300 Monthly Paycheck Without Buying an Annuity",
+        "tittel": "\"Hun så på COBRA\": Vennen min ble permittert og mistet helseforsikringen. Hvordan kan hun finne rimelig dekning?",
+        "kilde": "MarketWatch",
+        "tid": "20:15",
+        "lenke": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Rask og hard kode",
+        "kilde": "Hacker News",
+        "tid": "19:56",
+        "lenke": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Er Alphabets søkerisiko virkelig priset inn? Stresstesting av Rosenblatts $410-avhandling",
         "kilde": "Yahoo Finance",
-        "tid": "19:38",
-        "lenke": "https://finance.yahoo.com/markets/options/articles/56-old-turned-735-000-193815853.html",
-        "engelsk_kilde": false
+        "tid": "19:56",
+        "lenke": "https://finance.yahoo.com/technology/ai/articles/alphabet-search-risk-really-priced-195602365.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Engelsk ↔ Claudish Translator",
+        "kilde": "Hacker News",
+        "tid": "19:19",
+        "lenke": "https://programasweights.com/claudish",
+        "engelsk_kilde": true
       },
       {
         "tittel": "Langrennsprofil i ukjent drama: – Kappet av senene til tre fingrer",
@@ -156,45 +235,38 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "NetBSD and My Life (2005)",
+        "tittel": "NetBSD og mitt liv (2005)",
         "kilde": "Hacker News",
         "tid": "19:07",
         "lenke": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "hdiutil is deprecated in macOS 27 Golden Gate",
+        "tittel": "hdiutil er avviklet i macOS 27 Golden Gate",
         "kilde": "Hacker News",
         "tid": "19:04",
         "lenke": "https://lapcatsoftware.com/articles/2026/8/7.html",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Clean Energy Spending Tracking Toward Record $180 Billion in 2026",
+        "tittel": "Sporing av rent energiforbruk mot rekord på 180 milliarder dollar i 2026",
         "kilde": "Yahoo Finance",
         "tid": "19:00",
         "lenke": "https://finance.yahoo.com/energy/articles/clean-energy-spending-tracking-toward-190000970.html",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports",
+        "tittel": "Paramount og California for å holde foreløpige samtaler om Warner Bros-avtalen, melder NYT",
         "kilde": "Yahoo Finance",
         "tid": "18:56",
         "lenke": "https://finance.yahoo.com/media-advertising/articles/paramount-california-hold-preliminary-talks-185659000.html",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
         "tittel": "Freser mot evaluering om sjøfolk: – Vi må ha ei uavhengig gransking",
         "kilde": "NRK Nyheter",
         "tid": "18:53",
         "lenke": "https://www.nrk.no/dokumentar/freser-mot-evaluering-om-sjofolk_-_-skuleeksempel-pa-ei-byrakratisk-bortforklaring-1.17986312",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Show HN: Make your logo extra bright on HDR screens",
-        "kilde": "Hacker News",
-        "tid": "18:43",
-        "lenke": "https://www.soverybright.com/",
         "engelsk_kilde": false
       },
       {
@@ -212,32 +284,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Scrap",
-        "kilde": "Hacker News",
-        "tid": "18:08",
-        "lenke": "https://twitter.com/moxie/status/2091218652133732491",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Belgian car salesman becomes prince after DNA test proves royal parentage",
-        "kilde": "Hacker News",
-        "tid": "17:09",
-        "lenke": "https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
-        "kilde": "CNBC Top News",
-        "tid": "17:01",
-        "lenke": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
+        "tittel": "Jeg har min svigermors fullmakt. Jeg er også hennes bobestyrer og bobestyrer. Har jeg for mye makt over hennes saker?",
         "kilde": "MarketWatch",
         "tid": "17:00",
         "lenke": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
         "tittel": "Storeslem for «Affeksjonsverdi» – vant åtte Amandapriser",
@@ -254,11 +305,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
+        "tittel": "\"Jeg går tom for tid\": Jeg solgte utleieeiendommen min på 300 000 USD med et tap på 75 000 USD. Bør jeg kjøpe en annen for å unngå skatt?",
         "kilde": "MarketWatch",
         "tid": "16:00",
         "lenke": "https://www.marketwatch.com/story/im-running-out-of-time-i-sold-my-300-000-rental-property-at-a-75-000-loss-should-i-buy-another-one-to-avoid-taxes-f214c172?mod=mw_rss_topstories",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
         "tittel": "Svindeljakten",
@@ -275,24 +326,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Skal løpe 50 mil på to dager: – Ønsker å vise at det er greit å snakke om følelser",
-        "kilde": "NRK Nyheter",
-        "tid": "15:06",
-        "lenke": "https://www.nrk.no/trondelag/david-sannesmoen-fra-melhus-skal-lope-fra-oslo-til-trondheim-til-inntekt-for-menns-psykiske-helse-1.17996177",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Ánne Kátjá flyttet hjem – Ayla tviler på om hun vil tilbake",
         "kilde": "NRK Nyheter",
         "tid": "15:06",
         "lenke": "https://www.nrk.no/sapmi/derfor-kom-anne-katja-hjem-igjen-til-finnmark-1.17994253",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "When he dies, Warren Buffett wants 90% of wife’s inheritance put into 1 investment. Here’s what it is, and how to get it",
-        "kilde": "Yahoo Finance",
-        "tid": "15:05",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/dies-warren-buffett-wants-90-150500152.html",
         "engelsk_kilde": false
       },
       {
@@ -303,67 +340,32 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "38-year-old runs a mobile pizzeria out of his Smart car in New York City: It's 'like a circus or a magic act'",
+        "tittel": "38-åringen driver en mobil pizzeria ut av Smart-bilen sin i New York City: Det er \"som et sirkus eller en magisk handling\"",
         "kilde": "CNBC Top News",
         "tid": "14:00",
         "lenke": "https://www.cnbc.com/2026/08/22/bradley-alvelo-runs-pizza-pod-mobile-pizzeria-smart-car-new-york-city.html",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Airbnb's new fee change frustrates hosts—what to know before renting out your home",
-        "kilde": "CNBC Top News",
-        "tid": "14:00",
-        "lenke": "https://www.cnbc.com/2026/08/22/airbnb-fee-change-frustrates-hosts-what-to-know-before-listing.html",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "‘She’s desperate’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-        "kilde": "MarketWatch",
-        "tid": "13:45",
-        "lenke": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Emergency savings shortfall signals 'danger' for working households, Suze Orman says",
+        "tittel": "Nødsparingsmangel signaliserer \"fare\" for arbeidende husholdninger, sier Suze Orman",
         "kilde": "CNBC Top News",
         "tid": "13:30",
         "lenke": "https://www.cnbc.com/2026/08/22/emergency-savings-workers-financial-strain.html",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "How a physician with a 1 a.m. bedtime optimizes his health: I try to 'tick all the longevity boxes that I can'",
-        "kilde": "CNBC Top News",
-        "tid": "13:05",
-        "lenke": "https://www.cnbc.com/2026/08/22/longevity-doctor-daily-habits-healthy-aging.html",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Move over, credit cards: Social-media stars are tapping magic wands to buy things",
-        "kilde": "MarketWatch",
-        "tid": "12:30",
-        "lenke": "https://www.marketwatch.com/story/move-over-credit-cards-social-media-stars-are-tapping-magic-wands-to-buy-things-62e475d4?mod=mw_rss_topstories",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers",
+        "tittel": "Meta er den siste teknologigiganten som har landet i rettssalen hennes. Møt dommer Yvonne Gonzalez Rogers",
         "kilde": "CNBC Top News",
         "tid": "12:12",
         "lenke": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "tittel": "Inne i Coca-Colas hemmelige innovasjonslaboratorier: Hvordan drikkevaregiganten ønsker å automatisere skitten brus og oppfriskning",
         "kilde": "CNBC Top News",
         "tid": "12:00",
         "lenke": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘We are committed Christians’: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?",
-        "kilde": "MarketWatch",
-        "tid": "12:00",
-        "lenke": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Fortsatt farlig å seile gjennom Hormuzstredet: 67 angrep – 19 drepte sjøfolk",
@@ -401,18 +403,18 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Bill Gates pulls $818M from Berkshire to buy this giant",
+        "tittel": "Bill Gates henter 818 millioner dollar fra Berkshire for å kjøpe denne giganten",
         "kilde": "Yahoo Finance",
         "tid": "03:07",
         "lenke": "https://finance.yahoo.com/markets/stocks/articles/bill-gates-pulls-818m-berkshire-030700591.html",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+        "tittel": "«Vi har mer arbeid å gjøre», sier Canadas forhandler mens amerikansk handelsfrist nærmer seg",
         "kilde": "BBC Business",
         "tid": "00:40",
         "lenke": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       }
     ]
   }
