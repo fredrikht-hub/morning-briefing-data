@@ -1,7 +1,7 @@
 {
   "dato": "2026-08-23",
   "dato_norsk": "Søndag 23. august 2026",
-  "generert_kl": "19:15",
+  "generert_kl": "19:23",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
@@ -93,7 +93,7 @@
         "kilde": "Yahoo Finance",
         "tid": "15:25",
         "lenke": "https://finance.yahoo.com/technology/ai/articles/nvidia-cloverleaf-partnering-advance-data-152523132.html",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
         "tittel": "Nvidia-kunder skal ha advart om AI-relaterte prisøkninger",
@@ -127,6 +127,13 @@
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "Peter Frølich er sykemeldt etter hjerteinfarkt",
+        "kilde": "NRK Nyheter",
+        "tid": "19:13",
+        "lenke": "https://www.nrk.no/nyheter/peter-frolich-er-sykemeldt-etter-hjerteinfarkt-1.17998957",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "\"Markedet er åpenbart i brann\": Skal jeg ta $ 1000 fra meglerkontoen min for å betale ned billånet mitt?",
         "kilde": "MarketWatch",
@@ -265,13 +272,6 @@
         "kilde": "E24",
         "tid": "16:34",
         "lenke": "https://e24.no/naeringsliv/i/Oke1Wb/norwegian-disse-flyene-kanselleres-mandag-morgen?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "TikTok «skjønte» at Lisa var skeiv før hun selv skjønte det",
-        "kilde": "NRK Nyheter",
-        "tid": "16:06",
-        "lenke": "https://www.nrk.no/kultur/xl/tiktok-_skjonte_-at-lisa-var-skeiv-for-hun-selv-skjonte-det-1.17958616",
         "engelsk_kilde": false
       },
       {
