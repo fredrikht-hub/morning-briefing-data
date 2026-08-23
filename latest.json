@@ -1,106 +1,90 @@
 {
   "dato": "2026-08-23",
   "dato_norsk": "Søndag 23. august 2026",
-  "generert_kl": "16:56",
+  "generert_kl": "19:15",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Dow Jones Futures Due After Market Damage; Nvidia, Canada Tariffs, Warsh In Focus",
+      "tittel": "Trump sier Canada ønsker \"fordeler\" av å være amerikansk stat etter handelssamtaler kollaps",
+      "kilde": "BBC Business",
+      "tid": "19:11",
+      "lenke": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Dow Jones Futures forfaller med marked på nøkkelpunktet; Nvidia, tariffer, Warsh i fokus",
       "kilde": "Yahoo Finance",
-      "tid": "15:56",
+      "tid": "18:36",
       "lenke": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
-      "engelsk_kilde": false
+      "engelsk_kilde": true
     },
     {
-      "tittel": "NVIDIA, Cloverleaf Partnering to Advance Data Center Development",
-      "kilde": "Yahoo Finance",
-      "tid": "15:25",
-      "lenke": "https://finance.yahoo.com/technology/ai/articles/nvidia-cloverleaf-partnering-advance-data-152523132.html",
-      "engelsk_kilde": false
+      "tittel": "Her er de to store tingene vi ser på aksjemarkedet denne uken",
+      "kilde": "CNBC Top News",
+      "tid": "16:56",
+      "lenke": "https://www.cnbc.com/2026/08/23/here-are-the-2-big-things-were-watching-in-the-stock-market-this-week.html",
+      "engelsk_kilde": true
     },
     {
-      "tittel": "Har funnet flere døde sauer – starter nok en bjørnejakt",
-      "kilde": "NRK Nyheter",
-      "tid": "15:00",
-      "lenke": "https://www.nrk.no/nordland/har-funnet-flere-dode-sau-i-saltdal-etter-at-en-bjorn-ble-skutt-1.17998815",
-      "engelsk_kilde": false
+      "tittel": "Nvidia er det bankende hjertet av AI-boomen og aksjemarkedet — som setter opp en stor test",
+      "kilde": "MarketWatch",
+      "tid": "13:00",
+      "lenke": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
+      "engelsk_kilde": true
     },
     {
-      "tittel": "Is This $7 Stock Your Ticket to Becoming a Millionaire?",
-      "kilde": "Yahoo Finance",
-      "tid": "16:44",
-      "lenke": "https://finance.yahoo.com/markets/stocks/articles/7-stock-ticket-becoming-millionaire-164400898.html",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Gas Turbine Prices Are on Track to Nearly Triple. These Stocks Are Cashing In",
-      "kilde": "Yahoo Finance",
-      "tid": "16:31",
-      "lenke": "https://finance.yahoo.com/markets/stocks/articles/gas-turbine-prices-track-nearly-163100823.html",
-      "engelsk_kilde": false
+      "tittel": "Finansdepartementets intervensjon i obligasjonsmarkedet virker ikke. Så hva kommer nå?",
+      "kilde": "MarketWatch",
+      "tid": "12:00",
+      "lenke": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories",
+      "engelsk_kilde": true
     }
   ],
   "kategorier": {
-    "NORGE": [
-      {
-        "tittel": "Har funnet flere døde sauer – starter nok en bjørnejakt",
-        "kilde": "NRK Nyheter",
-        "tid": "15:00",
-        "lenke": "https://www.nrk.no/nordland/har-funnet-flere-dode-sau-i-saltdal-etter-at-en-bjorn-ble-skutt-1.17998815",
-        "engelsk_kilde": false
-      }
-    ],
     "MAKRO": [
       {
-        "tittel": "The Treasury’s bond-market intervention isn’t working. So what comes next?",
+        "tittel": "Finansdepartementets intervensjon i obligasjonsmarkedet virker ikke. Så hva kommer nå?",
         "kilde": "MarketWatch",
         "tid": "12:00",
         "lenke": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "Is This $7 Stock Your Ticket to Becoming a Millionaire?",
+        "tittel": "Dow Jones Futures forfaller med marked på nøkkelpunktet; Nvidia, tariffer, Warsh i fokus",
         "kilde": "Yahoo Finance",
-        "tid": "16:44",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/7-stock-ticket-becoming-millionaire-164400898.html",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Gas Turbine Prices Are on Track to Nearly Triple. These Stocks Are Cashing In",
-        "kilde": "Yahoo Finance",
-        "tid": "16:31",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/gas-turbine-prices-track-nearly-163100823.html",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Dow Jones Futures Due After Market Damage; Nvidia, Canada Tariffs, Warsh In Focus",
-        "kilde": "Yahoo Finance",
-        "tid": "15:56",
+        "tid": "18:36",
         "lenke": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion",
+        "tittel": "Her er de to store tingene vi ser på aksjemarkedet denne uken",
+        "kilde": "CNBC Top News",
+        "tid": "16:56",
+        "lenke": "https://www.cnbc.com/2026/08/23/here-are-the-2-big-things-were-watching-in-the-stock-market-this-week.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Likevekts S&P 500 leder 2026-markedet, og flaggskiphandelen har akkurat nådd $ 100 milliarder",
         "kilde": "CNBC Top News",
         "tid": "13:00",
         "lenke": "https://www.cnbc.com/2026/08/23/stocks-market-investing-sp500-spx.html",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
+        "tittel": "Nvidia er det bankende hjertet av AI-boomen og aksjemarkedet — som setter opp en stor test",
         "kilde": "MarketWatch",
         "tid": "13:00",
         "lenke": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Top Wall Street analysts believe in the growth potential of these 3 stocks",
+        "tittel": "Topp Wall Street-analytikere tror på vekstpotensialet til disse tre aksjene",
         "kilde": "CNBC Top News",
         "tid": "11:29",
         "lenke": "https://www.cnbc.com/2026/08/23/top-analysts-believe-in-the-growth-potential-of-these-3-stocks.html",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
@@ -112,50 +96,169 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Nvidia customers reportedly warned about AI-related price hikes",
+        "tittel": "Nvidia-kunder skal ha advart om AI-relaterte prisøkninger",
         "kilde": "CNBC Top News",
         "tid": "20:26",
         "lenke": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Small UK power generator shut down after cyberattack linked to Iran: Telegraph",
+        "tittel": "Trump sier Canada ønsker \"fordeler\" av å være amerikansk stat etter handelssamtaler kollaps",
+        "kilde": "BBC Business",
+        "tid": "19:11",
+        "lenke": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Liten britisk kraftgenerator stengt etter cyberangrep knyttet til Iran: Telegraph",
         "kilde": "CNBC Top News",
         "tid": "12:46",
         "lenke": "https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-        "kilde": "BBC Business",
-        "tid": "05:46",
-        "lenke": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
+        "tittel": "Iran-tilknyttede hackere bak cyberangrep som stenger ned kraftverk, sier rapporter",
         "kilde": "BBC Business",
         "tid": "02:48",
         "lenke": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Trump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway",
-        "kilde": "CNBC Top News",
-        "tid": "18:57",
-        "lenke": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
       {
-        "tittel": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+        "tittel": "\"Markedet er åpenbart i brann\": Skal jeg ta $ 1000 fra meglerkontoen min for å betale ned billånet mitt?",
+        "kilde": "MarketWatch",
+        "tid": "19:00",
+        "lenke": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bil kjørte av veien i Nordre Follo",
+        "kilde": "NRK Nyheter",
+        "tid": "18:59",
+        "lenke": "https://www.nrk.no/stor-oslo/bil-kjorte-av-veien-i-nordre-follo-1.17998845",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Hvorfor sosial sikkerhet ikke kan være sentrum for pensjonsinntektsplanen din",
+        "kilde": "Yahoo Finance",
+        "tid": "18:56",
+        "lenke": "https://finance.yahoo.com/markets/articles/why-social-security-cant-center-185600538.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kinas største AI-svakhet",
+        "kilde": "E24",
+        "tid": "18:43",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/e7ezJR/kinas-stoerste-ai-svakhet?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Sender varme tanker og de beste ønsker",
+        "kilde": "NRK Nyheter",
+        "tid": "18:21",
+        "lenke": "https://www.nrk.no/nyheter/sender-varme-tanker-og-de-beste-onsker-1.17998935",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "– Kan være en alvorlig tilstand",
+        "kilde": "NRK Nyheter",
+        "tid": "18:19",
+        "lenke": "https://www.nrk.no/nyheter/_-kan-vaere-en-alvorlig-tilstand-1.17998924",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "‘Vi er engasjerte kristne’: Vår sønn og svigerdatter avbrøt oss på grunn av politikk. Skal vi endre vårt testamente på $ 3 millioner?",
+        "kilde": "MarketWatch",
+        "tid": "18:00",
+        "lenke": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Private equity sirkulerer verktøy mens kunstig intelligens omformer rutenettet",
+        "kilde": "Yahoo Finance",
+        "tid": "18:00",
+        "lenke": "https://finance.yahoo.com/energy/articles/private-equity-circling-utilities-ai-180000273.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Demokratenes hus-leder Jeffries møter Jared Kushner som midtvev",
+        "kilde": "CNBC Top News",
+        "tid": "17:58",
+        "lenke": "https://www.cnbc.com/2026/08/23/democratic-leader-jeffries-meets-with-jared-kushner-as-midterms-loom.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kongens helsetilstand forverret",
+        "kilde": "NRK Nyheter",
+        "tid": "17:37",
+        "lenke": "https://www.nrk.no/nyheter/kongens-helsetilstand-forverret-1.17998918",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Paramount, California AG-kontoret planlegger angivelig å møtes mandag for å diskutere å avgjøre WBD-søksmål",
+        "kilde": "CNBC Top News",
+        "tid": "17:30",
+        "lenke": "https://www.cnbc.com/2026/08/22/paramount-california-ag-said-to-plan-meeting-on-settling-wbd-suit-.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vi er i 50-årene og har $ 1,5 millioner i tradisjonelle 401(k). Er det for tidlig å starte Roth-konverteringer?",
+        "kilde": "MarketWatch",
+        "tid": "17:30",
+        "lenke": "https://www.marketwatch.com/story/were-in-our-50s-and-have-1-5-million-in-traditional-401-k-s-is-it-too-early-to-start-roth-conversions-2d0f9287?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Liverpool fikk strykkarakter – så berget de poeng i straffedrama på overtid",
+        "kilde": "NRK Nyheter",
+        "tid": "17:28",
+        "lenke": "https://www.nrk.no/sport/premier-league_-liverpool-far-strykkarakter-etter-uavgjort-mot-newcastle-1.17998830",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "– Dette er veldig dramatisk! En katastrofe",
+        "kilde": "E24",
+        "tid": "17:12",
+        "lenke": "https://e24.no/naeringsliv/i/5pOvpE/dette-er-veldig-dramatisk-en-katastrofe?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Ulykke mellom bil og sykkel i Bergen",
+        "kilde": "NRK Nyheter",
+        "tid": "17:10",
+        "lenke": "https://www.nrk.no/vestland/ulykke-mellom-bil-og-sykkel-i-bergen-1.17998899",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "‘Fremmedgjøringen handler ikke om politikk’: Datteren min har ikke snakket med meg på 4 år. Skal jeg gi henne en månedlig livrente?",
+        "kilde": "MarketWatch",
+        "tid": "17:00",
+        "lenke": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Rachel Cruze og George Kamel deler utgiftene \"ledetråder\" som avslører om du er blakk, gjennomsnittlig eller velstående",
+        "kilde": "Yahoo Finance",
+        "tid": "17:00",
+        "lenke": "https://finance.yahoo.com/markets/articles/rachel-cruze-george-kamel-share-170000908.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Opplever rotte-økning i byer: Advarer mot smitte",
+        "kilde": "NRK Nyheter",
+        "tid": "16:57",
+        "lenke": "https://www.nrk.no/sorlandet/opplever-rotte-okning-i-byer_-advarer-mot-smitte-1.17995510",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "‘Hun undersøkte COBRA’: Vennen min ble permittert og mistet helseforsikringen sin. Hvordan kan hun finne rimelig dekning?",
         "kilde": "MarketWatch",
         "tid": "16:45",
         "lenke": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
         "tittel": "Norwegian: Disse flyene kanselleres mandag morgen",
@@ -172,11 +275,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "40% of companies posted fake job listings in 2024 — now lawmakers in multiple states are moving to ban them",
+        "tittel": "40% av selskapene la ut falske stillingsannonser i 2024 — nå flytter lovgivere i flere delstater for å forby dem",
         "kilde": "Yahoo Finance",
         "tid": "15:30",
         "lenke": "https://finance.yahoo.com/small-business/articles/40-companies-posted-fake-job-153000925.html",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
         "tittel": "Flygeleder-sjefen svarer på Avinor-kritikken: – Faller på sin egen urimelighet",
@@ -186,116 +289,88 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Kopier referanse Sissel om Fosen-kampen: – Jeg tror ikke vindturbiner står for evig",
-        "kilde": "NRK Nyheter",
-        "tid": "15:13",
-        "lenke": "https://www.nrk.no/sapmi/xl/sissel-om-fosen-kampen_-_-jeg-tror-ikke-vindturbiner-star-for-evig-1.17972462",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Rocket Mortgage pushes home equity loans to wipe out credit card debt — here's how that could backfire on homeowners",
+        "tittel": "Rakettlån skyver boliglån for å utslette kredittkortgjeld — her er hvordan det kan slå tilbake på huseiere",
         "kilde": "Yahoo Finance",
         "tid": "15:00",
         "lenke": "https://finance.yahoo.com/real-estate/articles/rocket-mortgage-pushes-home-equity-150000372.html",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Luxury auto CEOs say there's a K-shaped economy even at the very top of the market",
+        "tittel": "Luxury auto CEOs sier at det er en K-formet økonomi selv på toppen av markedet",
         "kilde": "Yahoo Finance",
         "tid": "14:55",
         "lenke": "https://finance.yahoo.com/markets/article/luxury-auto-ceos-say-theres-a-k-shaped-economy-even-at-the-very-top-of-the-market-145500874.html",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Slovakia finds Russian backdoor in traffic speed cameras",
+        "tittel": "Slovakia finner russisk bakdør i trafikkhastighetskameraer",
         "kilde": "Hacker News",
         "tid": "14:38",
         "lenke": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Authoritarianism of Code",
+        "tittel": "Kodeksens autoritarisme",
         "kilde": "Hacker News",
         "tid": "14:36",
         "lenke": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "What Is a Harness?",
+        "tittel": "Hva er en sele?",
         "kilde": "Hacker News",
         "tid": "14:24",
         "lenke": "https://earendil.com/posts/what-is-a-harness/",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "CrossCountry cancels 'almost all' UK services after power cut",
+        "tittel": "CrossCountry kansellerer «nesten alle» tjenester i Storbritannia etter strømbrudd",
         "kilde": "BBC Business",
         "tid": "14:05",
         "lenke": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Oppskrapa Ingebrigtsen utanfor pallen: – Eit rustent maskineri",
-        "kilde": "NRK Nyheter",
-        "tid": "13:56",
-        "lenke": "https://www.nrk.no/sport/warholm_-jaeger-og-jakob-ingebrigtsen-lopar-diamond-league-i-silesia-1.17998760",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Death to px, long live ch",
+        "tittel": "Død til px, lenge leve ch",
         "kilde": "Hacker News",
         "tid": "13:56",
         "lenke": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "My favorite nonfiction books about cults, scams, and schemes",
+        "tittel": "Mine favoritt fagbøker om kulter, svindel og planer",
         "kilde": "Hacker News",
         "tid": "13:51",
         "lenke": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Campingvogn ga full stopp på E18 i Bærum",
-        "kilde": "NRK Nyheter",
-        "tid": "12:50",
-        "lenke": "https://www.nrk.no/stor-oslo/campingvogn-ga-full-stopp-pa-e18-i-baerum-1.17998725",
-        "engelsk_kilde": false
+        "tittel": "Hjemmeforsikringsselskaper får $ 8,8 millioner per dag i investeringsinntekter når krav blir forsinket, nye analysefunn",
+        "kilde": "Yahoo Finance",
+        "tid": "13:30",
+        "lenke": "https://finance.yahoo.com/real-estate/articles/home-insurers-pocket-8-8m-133000616.html",
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Trafikkulykke mellom motorsykkel og bil",
-        "kilde": "NRK Nyheter",
-        "tid": "12:19",
-        "lenke": "https://www.nrk.no/mr/trafikkulykke-mellom-motorsykkel-og-bil-1.17998679",
-        "engelsk_kilde": false
+        "tittel": "Wells Fargo og Citigroup har plass til å kjøpe en stor bank. Disse 5 regionsmesterskapene passer regningen",
+        "kilde": "CNBC Top News",
+        "tid": "12:00",
+        "lenke": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "tittel": "Etter 10 år i United tenker administrerende direktør Scott Kirby stort om fremtiden til flyselskapet sitt fra JFK til AI",
         "kilde": "CNBC Top News",
         "tid": "12:00",
         "lenke": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
-        "kilde": "CNBC Top News",
-        "tid": "12:00",
-        "lenke": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
-        "kilde": "MarketWatch",
-        "tid": "12:00",
-        "lenke": "https://www.marketwatch.com/story/were-in-our-50s-and-have-1-5-million-in-traditional-401-k-s-is-it-too-early-to-start-roth-conversions-2d0f9287?mod=mw_rss_topstories",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "I’m turning 70. Here’s how I’m making this decade the richest of my retirement.",
+        "tittel": "Jeg fyller 70. Slik gjør jeg dette tiåret til det rikeste av pensjonisttilværelsen min.",
         "kilde": "MarketWatch",
         "tid": "12:00",
         "lenke": "https://www.marketwatch.com/story/im-turning-70-heres-how-im-making-this-decade-the-richest-of-my-retirement-ae351f90?mod=mw_rss_topstories",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
         "tittel": "– Nesten umulig å si hvordan dette ender",
@@ -319,53 +394,32 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Flygelederforeningen til NRK: Møter Spekter mandag morgen",
-        "kilde": "NRK Nyheter",
-        "tid": "11:08",
-        "lenke": "https://www.nrk.no/nyheter/flygelederforeningen-til-nrk_-moter-spekter-mandag-morgen-1.17998665",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Struggling households need more help with bills, energy industry says",
+        "tittel": "Sliter husholdninger trenger mer hjelp med regninger, sier energibransjen",
         "kilde": "BBC Business",
         "tid": "10:11",
         "lenke": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Mayors to get powers to overrule local councils on planning decisions",
+        "tittel": "Ordførere for å få fullmakter til å overstyre lokale råd om planleggingsbeslutninger",
         "kilde": "BBC Business",
         "tid": "10:02",
         "lenke": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Mortgage and refinance interest rates today, Sunday, August 23, 2026: Higher than last weekend as prime selling season wraps up",
-        "kilde": "Yahoo Finance",
-        "tid": "10:00",
-        "lenke": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-august-23-2026-higher-than-last-weekend-as-prime-selling-season-wraps-up-100000382.html",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Haaland overrasket alle med ny sveis – City reddet seieren på overtid",
-        "kilde": "NRK Nyheter",
-        "tid": "09:34",
-        "lenke": "https://www.nrk.no/sport/haaland-med-ny-sveis_-_-bildene-kommer-til-a-ga-verden-rundt-1.17998609",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+        "tittel": "Etter hvert som handelssamtalene mellom USA og Canada kollapser, sier Carney at gjengjeldelsestollene vil starte 8. september",
         "kilde": "CNBC Top News",
         "tid": "06:39",
         "lenke": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Les used a QR code to download a parking app - but it was a scam",
+        "tittel": "Les brukte en QR-kode for å laste ned en parkeringsapp - men det var en svindel",
         "kilde": "BBC Business",
         "tid": "06:23",
         "lenke": "https://www.bbc.co.uk/news/articles/cwyjqg578e1o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       },
       {
         "tittel": "Nå gjenåpner Gardermoen etter fem timer stengt: – Det er bare flaks",
@@ -389,60 +443,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Derfor vinner ikke «rikingene» skattedebatten",
-        "kilde": "E24",
-        "tid": "05:11",
-        "lenke": "https://e24.no/norsk-oekonomi/i/k0ebjj/derfor-vinner-ikke-rikingene-skattedebatten?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "91-year-old supermarket chain closes stores, lays off employees",
+        "tittel": "91 år gammel supermarkedkjede stenger butikker, permitterer ansatte",
         "kilde": "Yahoo Finance",
         "tid": "23:17",
         "lenke": "https://finance.yahoo.com/economy/articles/91-old-supermarket-chain-closes-231700441.html",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
-        "kilde": "MarketWatch",
-        "tid": "20:45",
-        "lenke": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit",
-        "kilde": "CNBC Top News",
-        "tid": "20:34",
-        "lenke": "https://www.cnbc.com/2026/08/22/paramount-california-ag-said-to-plan-meeting-on-settling-wbd-suit-.html",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down",
-        "kilde": "MarketWatch",
-        "tid": "20:31",
-        "lenke": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
-        "kilde": "MarketWatch",
-        "tid": "20:30",
-        "lenke": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Iconic fast-food fried chicken chain closes over 300 restaurants",
-        "kilde": "Yahoo Finance",
-        "tid": "18:47",
-        "lenke": "https://finance.yahoo.com/small-business/articles/iconic-fast-food-fried-chicken-184700958.html",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Tiktok løfter bokbransjen: – En motreaksjon",
-        "kilde": "E24",
-        "tid": "18:36",
-        "lenke": "https://e24.no/norsk-oekonomi/i/d4GV6B/tiktok-loefter-bokbransjen-en-motreaksjon?utm_medium=rss",
-        "engelsk_kilde": false
+        "engelsk_kilde": true
       }
     ]
   }
