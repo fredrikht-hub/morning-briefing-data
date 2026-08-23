@@ -1,7 +1,7 @@
 {
   "dato": "2026-08-23",
   "dato_norsk": "Søndag 23. august 2026",
-  "generert_kl": "19:23",
+  "generert_kl": "20:53",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
@@ -19,24 +19,24 @@
       "engelsk_kilde": true
     },
     {
-      "tittel": "Her er de to store tingene vi ser på aksjemarkedet denne uken",
-      "kilde": "CNBC Top News",
-      "tid": "16:56",
-      "lenke": "https://www.cnbc.com/2026/08/23/here-are-the-2-big-things-were-watching-in-the-stock-market-this-week.html",
+      "tittel": "Gileads inntekter akselererer, men er oppkjøpene verdt kostnaden?",
+      "kilde": "Yahoo Finance",
+      "tid": "19:57",
+      "lenke": "https://finance.yahoo.com/healthcare/articles/gilead-revenue-accelerating-acquisitions-worth-195747159.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Nvidia er det bankende hjertet av AI-boomen og aksjemarkedet — som setter opp en stor test",
-      "kilde": "MarketWatch",
-      "tid": "13:00",
-      "lenke": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
+      "tittel": "Medtronic vs. Tenet Healthcare: Hvilken helseaksje gir bedre langsiktig vekst?",
+      "kilde": "Yahoo Finance",
+      "tid": "19:43",
+      "lenke": "https://finance.yahoo.com/healthcare/articles/medtronic-vs-tenet-healthcare-healthcare-194303713.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Finansdepartementets intervensjon i obligasjonsmarkedet virker ikke. Så hva kommer nå?",
-      "kilde": "MarketWatch",
-      "tid": "12:00",
-      "lenke": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories",
+      "tittel": "Zoetis inntjening avslører en delt virksomhet, men kan rørledningen gjenopprette veksten?",
+      "kilde": "Yahoo Finance",
+      "tid": "19:49",
+      "lenke": "https://finance.yahoo.com/healthcare/articles/zoetis-earnings-reveal-divided-business-194924344.html",
       "engelsk_kilde": true
     }
   ],
@@ -51,6 +51,20 @@
       }
     ],
     "MARKEDER": [
+      {
+        "tittel": "Gileads inntekter akselererer, men er oppkjøpene verdt kostnaden?",
+        "kilde": "Yahoo Finance",
+        "tid": "19:57",
+        "lenke": "https://finance.yahoo.com/healthcare/articles/gilead-revenue-accelerating-acquisitions-worth-195747159.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Medtronic vs. Tenet Healthcare: Hvilken helseaksje gir bedre langsiktig vekst?",
+        "kilde": "Yahoo Finance",
+        "tid": "19:43",
+        "lenke": "https://finance.yahoo.com/healthcare/articles/medtronic-vs-tenet-healthcare-healthcare-194303713.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Dow Jones Futures forfaller med marked på nøkkelpunktet; Nvidia, tariffer, Warsh i fokus",
         "kilde": "Yahoo Finance",
@@ -87,19 +101,12 @@
         "engelsk_kilde": true
       }
     ],
-    "TEKNOLOGI": [
+    "ENERGI_RAAVARER": [
       {
-        "tittel": "NVIDIA, Cloverleaf Partnering to Advance Data Center Development",
+        "tittel": "Zoetis inntjening avslører en delt virksomhet, men kan rørledningen gjenopprette veksten?",
         "kilde": "Yahoo Finance",
-        "tid": "15:25",
-        "lenke": "https://finance.yahoo.com/technology/ai/articles/nvidia-cloverleaf-partnering-advance-data-152523132.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nvidia-kunder skal ha advart om AI-relaterte prisøkninger",
-        "kilde": "CNBC Top News",
-        "tid": "20:26",
-        "lenke": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
+        "tid": "19:49",
+        "lenke": "https://finance.yahoo.com/healthcare/articles/zoetis-earnings-reveal-divided-business-194924344.html",
         "engelsk_kilde": true
       }
     ],
@@ -128,6 +135,55 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "Dette selskapet betalte nettopp ut $ 6,8 milliarder. Dens AI-regning var fire ganger så høy",
+        "kilde": "Yahoo Finance",
+        "tid": "20:38",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/company-just-paid-6-8-203855489.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Pfizer vs. Gilead: Hvilken medikamentmaker har den sterkere veksthistorien?",
+        "kilde": "Yahoo Finance",
+        "tid": "19:54",
+        "lenke": "https://finance.yahoo.com/healthcare/articles/pfizer-vs-gilead-drugmaker-stronger-195408536.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Stopper ikke streiken ennå: – Tvungen lønnsnemnd er siste utvei",
+        "kilde": "E24",
+        "tid": "19:40",
+        "lenke": "https://e24.no/boers-og-finans/i/6q8MjW/stopper-ikke-streiken-ennaa-tvungen-loennsnemnd-er-siste-utvei?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "AstraZeneca satset 1,5 milliarder $ på lungekreft, men kan Zegfrovy styrke sin onkologiske vekst?",
+        "kilde": "Yahoo Finance",
+        "tid": "19:38",
+        "lenke": "https://finance.yahoo.com/healthcare/articles/astrazeneca-made-1-5-billion-193855181.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Sønnen min jobber ikke, men betaler likevel $ 500 for Affordable Care Act helseforsikring. Er det rettferdig?",
+        "kilde": "MarketWatch",
+        "tid": "19:30",
+        "lenke": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Peter Frølich er sykemeldt etter hjerteinfarkt",
+        "kilde": "NRK Nyheter",
+        "tid": "19:25",
+        "lenke": "https://www.nrk.no/vestland/peter-frolich-er-sykemeldt-etter-hjerteinfarkt-1.17998966",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Oljekrisen forverres: – Vil ta knekken på global økonomi",
+        "kilde": "NRK Nyheter",
+        "tid": "19:25",
+        "lenke": "https://www.nrk.no/rogaland/energimessa-ons-i-stavanger-starter-med-et-dramatisk-bakteppe-1.17992605",
+        "engelsk_kilde": false
+      },
+      {
         "tittel": "Peter Frølich er sykemeldt etter hjerteinfarkt",
         "kilde": "NRK Nyheter",
         "tid": "19:13",
@@ -142,18 +198,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Bil kjørte av veien i Nordre Follo",
+        "tittel": "Fire kjørt til sykehus etter ulykke i Norde Follo",
         "kilde": "NRK Nyheter",
         "tid": "18:59",
-        "lenke": "https://www.nrk.no/stor-oslo/bil-kjorte-av-veien-i-nordre-follo-1.17998845",
+        "lenke": "https://www.nrk.no/stor-oslo/fire-kjort-til-sykehus-etter-ulykke-i-norde-follo-1.17998845",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Hvorfor sosial sikkerhet ikke kan være sentrum for pensjonsinntektsplanen din",
-        "kilde": "Yahoo Finance",
-        "tid": "18:56",
-        "lenke": "https://finance.yahoo.com/markets/articles/why-social-security-cant-center-185600538.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Kinas største AI-svakhet",
@@ -233,13 +282,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Ulykke mellom bil og sykkel i Bergen",
-        "kilde": "NRK Nyheter",
-        "tid": "17:10",
-        "lenke": "https://www.nrk.no/vestland/ulykke-mellom-bil-og-sykkel-i-bergen-1.17998899",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "‘Fremmedgjøringen handler ikke om politikk’: Datteren min har ikke snakket med meg på 4 år. Skal jeg gi henne en månedlig livrente?",
         "kilde": "MarketWatch",
         "tid": "17:00",
@@ -252,13 +294,6 @@
         "tid": "17:00",
         "lenke": "https://finance.yahoo.com/markets/articles/rachel-cruze-george-kamel-share-170000908.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Opplever rotte-økning i byer: Advarer mot smitte",
-        "kilde": "NRK Nyheter",
-        "tid": "16:57",
-        "lenke": "https://www.nrk.no/sorlandet/opplever-rotte-okning-i-byer_-advarer-mot-smitte-1.17995510",
-        "engelsk_kilde": false
       },
       {
         "tittel": "‘Hun undersøkte COBRA’: Vennen min ble permittert og mistet helseforsikringen sin. Hvordan kan hun finne rimelig dekning?",
@@ -275,32 +310,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "40% av selskapene la ut falske stillingsannonser i 2024 — nå flytter lovgivere i flere delstater for å forby dem",
-        "kilde": "Yahoo Finance",
-        "tid": "15:30",
-        "lenke": "https://finance.yahoo.com/small-business/articles/40-companies-posted-fake-job-153000925.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Flygeleder-sjefen svarer på Avinor-kritikken: – Faller på sin egen urimelighet",
         "kilde": "E24",
         "tid": "15:15",
         "lenke": "https://e24.no/norsk-oekonomi/i/zOQwGq/flygeleder-sjefen-svarer-paa-avinor-kritikken-faller-paa-sin-egen-urimelighet?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Rakettlån skyver boliglån for å utslette kredittkortgjeld — her er hvordan det kan slå tilbake på huseiere",
-        "kilde": "Yahoo Finance",
-        "tid": "15:00",
-        "lenke": "https://finance.yahoo.com/real-estate/articles/rocket-mortgage-pushes-home-equity-150000372.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Luxury auto CEOs sier at det er en K-formet økonomi selv på toppen av markedet",
-        "kilde": "Yahoo Finance",
-        "tid": "14:55",
-        "lenke": "https://finance.yahoo.com/markets/article/luxury-auto-ceos-say-theres-a-k-shaped-economy-even-at-the-very-top-of-the-market-145500874.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Slovakia finner russisk bakdør i trafikkhastighetskameraer",
@@ -345,13 +359,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hjemmeforsikringsselskaper får $ 8,8 millioner per dag i investeringsinntekter når krav blir forsinket, nye analysefunn",
-        "kilde": "Yahoo Finance",
-        "tid": "13:30",
-        "lenke": "https://finance.yahoo.com/real-estate/articles/home-insurers-pocket-8-8m-133000616.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Wells Fargo og Citigroup har plass til å kjøpe en stor bank. Disse 5 regionsmesterskapene passer regningen",
         "kilde": "CNBC Top News",
         "tid": "12:00",
@@ -363,13 +370,6 @@
         "kilde": "CNBC Top News",
         "tid": "12:00",
         "lenke": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg fyller 70. Slik gjør jeg dette tiåret til det rikeste av pensjonisttilværelsen min.",
-        "kilde": "MarketWatch",
-        "tid": "12:00",
-        "lenke": "https://www.marketwatch.com/story/im-turning-70-heres-how-im-making-this-decade-the-richest-of-my-retirement-ae351f90?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -433,13 +433,6 @@
         "kilde": "E24",
         "tid": "05:12",
         "lenke": "https://e24.no/naeringsliv/i/lnrg87/ai-eksperten-skal-bli-filosof-blir-viktigere?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Høsten i boligmarkedet: – Et utrolig godt kjøpstidspunkt",
-        "kilde": "E24",
-        "tid": "05:11",
-        "lenke": "https://e24.no/norsk-oekonomi/i/rrVGwm/hoesten-i-boligmarkedet-et-utrolig-godt-kjoepstidspunkt?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
