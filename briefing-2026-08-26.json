@@ -1,29 +1,15 @@
 {
   "dato": "2026-08-26",
   "dato_norsk": "Onsdag 26. august 2026",
-  "generert_kl": "09:28",
+  "generert_kl": "10:05",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Nedgang på Oslo Børs",
-      "kilde": "E24",
-      "tid": "07:00",
-      "lenke": "https://e24.no/boers-og-finans/i/ArQoAx/nedgang-paa-oslo-boers?utm_medium=rss",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Iran og Oman forbereder Hormuz-avtale mens USA holder tilbake på sekundære sanksjoner",
-      "kilde": "CNBC Top News",
-      "tid": "06:47",
-      "lenke": "https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html",
+      "tittel": "Kundene flykter fra TurboTax på grunn av prisen, og Intuits aksjer glir",
+      "kilde": "MarketWatch",
+      "tid": "09:50",
+      "lenke": "https://www.marketwatch.com/story/customers-are-fleeing-turbotax-over-price-and-intuits-stock-is-sliding-a37dcce0?mod=mw_rss_topstories",
       "engelsk_kilde": true
-    },
-    {
-      "tittel": "Rødt krever full gjennomgang av hele barnevernet i Norge",
-      "kilde": "NRK Nyheter",
-      "tid": "09:04",
-      "lenke": "https://www.nrk.no/norge/tiltak-for-a-hindre-at-kriminelle-jobber-i-barnevernet-1.18001962",
-      "engelsk_kilde": false
     },
     {
       "tittel": "Japan ble fanget i teknologisalget. Nå er det på tide å kjøpe dipp, sier strateg.",
@@ -38,33 +24,40 @@
       "tid": "08:58",
       "lenke": "https://www.marketwatch.com/story/sap-stock-slumps-as-ubs-downgrades-stock-on-slow-move-into-ai-ed5bd4ab?mod=mw_rss_topstories",
       "engelsk_kilde": true
+    },
+    {
+      "tittel": "S&P 500 har tre hindringer å rydde før et trekk til 8000, sier denne strategen",
+      "kilde": "MarketWatch",
+      "tid": "08:36",
+      "lenke": "https://www.marketwatch.com/story/the-s-p-500-has-three-hurdles-to-clear-before-a-move-to-8-000-says-this-strategist-c2ddcb89?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Oljeprisene forlenger lysbildet ettersom Iran og Oman har en midlertidig Hormuz-avtale",
+      "kilde": "MarketWatch",
+      "tid": "08:54",
+      "lenke": "https://www.marketwatch.com/story/oil-prices-extend-slide-as-iran-and-oman-eye-temporary-hormuz-deal-a86a86bf?mod=mw_rss_topstories",
+      "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
-      {
-        "tittel": "Rødt krever full gjennomgang av hele barnevernet i Norge",
-        "kilde": "NRK Nyheter",
-        "tid": "09:04",
-        "lenke": "https://www.nrk.no/norge/tiltak-for-a-hindre-at-kriminelle-jobber-i-barnevernet-1.18001962",
-        "engelsk_kilde": false
-      },
       {
         "tittel": "Nedgang på Oslo Børs",
         "kilde": "E24",
         "tid": "07:00",
         "lenke": "https://e24.no/boers-og-finans/i/ArQoAx/nedgang-paa-oslo-boers?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Norsk suksessduo forbløffar Europa: – Eg er framleis gift",
-        "kilde": "NRK Nyheter",
-        "tid": "04:35",
-        "lenke": "https://www.nrk.no/sport/bjarte-lunde-aarsheim-og-morten-jensen-utgjer-unik-trenarduo-i-viking-1.17994382",
-        "engelsk_kilde": false
       }
     ],
     "MARKEDER": [
+      {
+        "tittel": "Kundene flykter fra TurboTax på grunn av prisen, og Intuits aksjer glir",
+        "kilde": "MarketWatch",
+        "tid": "09:50",
+        "lenke": "https://www.marketwatch.com/story/customers-are-fleeing-turbotax-over-price-and-intuits-stock-is-sliding-a37dcce0?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Japan ble fanget i teknologisalget. Nå er det på tide å kjøpe dipp, sier strateg.",
         "kilde": "MarketWatch",
@@ -85,6 +78,13 @@
         "tid": "08:36",
         "lenke": "https://www.marketwatch.com/story/the-s-p-500-has-three-hurdles-to-clear-before-a-move-to-8-000-says-this-strategist-c2ddcb89?mod=mw_rss_topstories",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nvidias avhengighet av hyperskalere står overfor en stor test i inntjeningsrapporten",
+        "kilde": "CNBC Top News",
+        "tid": "14:46",
+        "lenke": "https://www.cnbc.com/2026/08/25/nvidias-dependence-on-hyperscalers-faces-big-test-in-earnings-report.html",
+        "engelsk_kilde": true
       }
     ],
     "ENERGI_RAAVARER": [
@@ -100,20 +100,6 @@
         "kilde": "BBC Business",
         "tid": "23:11",
         "lenke": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Demonstranter skåler i «olje» utenfor Equinors hagefest",
-        "kilde": "E24",
-        "tid": "19:43",
-        "lenke": "https://e24.no/norsk-oekonomi/i/zOQqlv/demonstranter-skaaler-i-olje-utenfor-equinors-hagefest?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Gullprisene i dag, tirsdag 25. august 2026: Gull treffer 3-måneders høydepunkt denne morgenen",
-        "kilde": "Yahoo Finance",
-        "tid": "12:07",
-        "lenke": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-august-25-2026-gold-hits-3-month-high-this-morning-120736963.html",
         "engelsk_kilde": true
       }
     ],
@@ -140,28 +126,21 @@
         "engelsk_kilde": true
       },
       {
+        "tittel": "SpaceX planlegger å bygge en $ 100 milliarder romhavn i Louisiana",
+        "kilde": "CNBC Top News",
+        "tid": "22:09",
+        "lenke": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Louis Navellier har en direkte melding om Nvidias styre før inntektene",
         "kilde": "Yahoo Finance",
         "tid": "21:47",
         "lenke": "https://finance.yahoo.com/markets/stocks/articles/louis-navellier-blunt-message-nvidia-214700439.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "OpenAI-datasentersjef Chris Malone er ute, den siste i rekken av lederutganger",
-        "kilde": "CNBC Top News",
-        "tid": "21:26",
-        "lenke": "https://www.cnbc.com/2026/08/25/openais-head-of-data-centers-chris-malone-is-out-in-latest-exec-exit.html",
-        "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
-      {
-        "tittel": "Forstyrre en ny skjult påvirkningskampanje fra Russland",
-        "kilde": "Hacker News",
-        "tid": "07:31",
-        "lenke": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
-        "engelsk_kilde": true
-      },
       {
         "tittel": "Iran og Oman forbereder Hormuz-avtale mens USA holder tilbake på sekundære sanksjoner",
         "kilde": "CNBC Top News",
@@ -170,24 +149,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Harvest (IBM 7950): Superdatamaskin for kryptoanalyse hos NSA under den kalde krigen",
-        "kilde": "Hacker News",
-        "tid": "05:09",
-        "lenke": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Trumps saudiarabiske atomavtale når kongressen da eksperter advarer om spredningsrisiko",
         "kilde": "CNBC Top News",
         "tid": "02:34",
         "lenke": "https://www.cnbc.com/2026/08/26/trump-saudi-nuclear-agreement-congress-iran-deal-.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Fra militærallianse til økonomisk partnerskap: Hvordan Trump omdefinerer båndene mellom USA og Sør-Korea",
-        "kilde": "CNBC Top News",
-        "tid": "02:06",
-        "lenke": "https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html",
         "engelsk_kilde": true
       },
       {
@@ -214,10 +179,59 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "To tredjedeler av foreldrene har ikke dette viktige dokumentet de trenger i nødstilfeller",
+        "kilde": "MarketWatch",
+        "tid": "10:00",
+        "lenke": "https://www.marketwatch.com/story/two-thirds-of-parents-dont-have-this-vital-document-they-need-in-case-of-emergency-7c54efb3?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tapte millioner etter Hoka-brudd",
+        "kilde": "E24",
+        "tid": "09:47",
+        "lenke": "https://e24.no/naeringsliv/i/Gx5qxJ/tapte-millioner-etter-hoka-brudd?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Haidilao-aksjer øker etter hvert som leveringsveksten og nye restaurantmerker øker utsiktene",
+        "kilde": "CNBC Top News",
+        "tid": "09:35",
+        "lenke": "https://www.cnbc.com/2026/08/26/haidilao-shares-delivery-restaurant-growth.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Husholdningenes energiregninger treffer det høyeste nivået i tre år, ettersom Ofgem kunngjør en økning på 4% fra oktober",
+        "kilde": "BBC Business",
+        "tid": "09:31",
+        "lenke": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "‘Forholdet ble raskt forverret’: Min venns advokat avgjorde sin skadesak uten hans samtykke. Hva kan han gjøre?",
         "kilde": "MarketWatch",
         "tid": "09:15",
         "lenke": "https://www.marketwatch.com/story/the-relationship-quickly-deteriorated-my-friends-lawyer-settled-his-injury-case-without-his-consent-what-can-he-do-a289fee9?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Endrar programmet til dronninga torsdag",
+        "kilde": "NRK Nyheter",
+        "tid": "09:14",
+        "lenke": "https://www.nrk.no/nyheter/endrar-programmet-til-dronninga-torsdag-1.18002085",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Risiko for at kriminelle nettverk får ansvar for sårbare barn og unge",
+        "kilde": "NRK Nyheter",
+        "tid": "09:04",
+        "lenke": "https://www.nrk.no/norge/tiltak-for-a-hindre-at-kriminelle-jobber-i-barnevernet-1.18001962",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vis HN: Banking Access Index – 19 amerikanske bankleverandører, 8 land, CC-BY",
+        "kilde": "Hacker News",
+        "tid": "09:01",
+        "lenke": "https://www.globalsolo.global/data/banking-access-index",
         "engelsk_kilde": true
       },
       {
@@ -235,6 +249,20 @@
         "engelsk_kilde": false
       },
       {
+        "tittel": "Verdiklasser trenger fortsatt kompilatorsympati",
+        "kilde": "Hacker News",
+        "tid": "08:59",
+        "lenke": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Oldinsurancemaps.net er nå et charterprosjekt",
+        "kilde": "Hacker News",
+        "tid": "08:57",
+        "lenke": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "'Strykebrett' seter som skal skiftes ut på Thameslink",
         "kilde": "BBC Business",
         "tid": "08:47",
@@ -249,18 +277,18 @@
         "engelsk_kilde": false
       },
       {
+        "tittel": "RAG er enklere enn du tror",
+        "kilde": "Hacker News",
+        "tid": "08:39",
+        "lenke": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "– Går vi inn i EU, tror jeg fiskeindustrien kollapser",
         "kilde": "E24",
         "tid": "07:51",
         "lenke": "https://e24.no/internasjonal-oekonomi/i/bOe575/gaar-vi-inn-i-eu-tror-jeg-fiskeindustrien-kollapser?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Husholdningenes energiregninger treffer det høyeste nivået i tre år, ettersom Ofgem kunngjør en økning på 4% fra oktober",
-        "kilde": "BBC Business",
-        "tid": "07:48",
-        "lenke": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Vis HN: Buslens – hvor kan jeg komme til med buss? (Storbritannia)",
@@ -312,13 +340,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Mer enn halvparten av voksne i USA sier at de mangler grunnleggende statistisk forståelse",
-        "kilde": "Hacker News",
-        "tid": "05:49",
-        "lenke": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Kommunane fortviler: Manglar halv milliard til integrering",
         "kilde": "NRK Nyheter",
         "tid": "05:28",
@@ -331,6 +352,13 @@
         "tid": "05:02",
         "lenke": "https://e24.no/boers-og-finans/i/ArQKVn/mpc-container-ships-tjente-69-millioner-dollar-etter-skatt-i-andre-kvartal?utm_medium=rss",
         "engelsk_kilde": false
+      },
+      {
+        "tittel": "HP samarbeider med Huawei, som er svartelistet i USA, for å lisensiere det kinesiske selskapets WiFi-teknologi",
+        "kilde": "CNBC Top News",
+        "tid": "04:20",
+        "lenke": "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html",
+        "engelsk_kilde": true
       },
       {
         "tittel": "Dette blir viktig i Frontline-rapporten",
@@ -347,31 +375,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Agentkontekstadministrasjon: Minne og kostnader som arkitekturproblemer",
-        "kilde": "Hacker News",
-        "tid": "02:35",
-        "lenke": "https://arxiv.org/abs/2607.21503",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Ødelegger eldre amerikanere økonomien for alle andre?",
         "kilde": "MarketWatch",
         "tid": "01:41",
         "lenke": "https://www.marketwatch.com/story/are-older-americans-spoiling-the-economy-for-everyone-else-064b5820?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "5 billige amerikanske byer å pensjonere seg i — hvis du kan håndtere denne ene tingen",
-        "kilde": "MarketWatch",
-        "tid": "01:35",
-        "lenke": "https://www.marketwatch.com/story/5-cheap-u-s-cities-to-retire-in-if-you-can-deal-with-this-one-thing-fbda5d1a?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Svigerfaren min døde da han forlot et hus med leietakere. Skal jeg kaste dem ut?",
-        "kilde": "MarketWatch",
-        "tid": "00:30",
-        "lenke": "https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -389,13 +396,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Instagramsjef Mosseri sier i rettssaken mot avhengighet på sosiale medier at han ikke ber teamet om å \"skjule noe\"",
-        "kilde": "CNBC Top News",
-        "tid": "22:41",
-        "lenke": "https://www.cnbc.com/2026/08/25/instagram-adam-mosseri-testifies-california-state-ag-federal-meta.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Canada avslører gjengjeldelsestoll på rundt 20 milliarder $ av amerikanske varer",
         "kilde": "CNBC Top News",
         "tid": "21:26",
@@ -403,24 +403,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Slutter den K-formede økonomien? Finansproffene veier inn",
-        "kilde": "CNBC Top News",
-        "tid": "21:05",
-        "lenke": "https://www.cnbc.com/2026/08/25/k-shaped-economy-c-shaped-economy-may-be-changing.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Protokoll fra styrets diskonteringsrente-møter 20. og 29. juli 2026",
         "kilde": "Federal Reserve",
         "tid": "18:00",
         "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "De beste CD-prisene i dag, tirsdag 25. august 2026: Lås inn opptil 4,30% APY i dag med flere tilbud",
-        "kilde": "Yahoo Finance",
-        "tid": "10:00",
-        "lenke": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-august-25-2026-lock-in-up-to-430-apy-today-with-multiple-offers-100000257.html",
         "engelsk_kilde": true
       }
     ]
