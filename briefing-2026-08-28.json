@@ -1,14 +1,21 @@
 {
   "dato": "2026-08-28",
   "dato_norsk": "Fredag 28. august 2026",
-  "generert_kl": "01:10",
+  "generert_kl": "02:19",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Er Nvidia på vei mot $ 1 billion i årlig omsetning? En analytiker tror nå at det er mulig.",
-      "kilde": "MarketWatch",
-      "tid": "23:05",
-      "lenke": "https://www.marketwatch.com/story/nvidia-stock-is-climbing-after-another-set-of-blockbuster-results-heres-what-wall-street-is-saying-a2260a62?mod=mw_rss_topstories",
+      "tittel": "Trump trapper opp retorikken mot Beijing mens tjenestemenn fra USA og Kina møtes for Xis Washington-besøk",
+      "kilde": "CNBC Top News",
+      "tid": "01:35",
+      "lenke": "https://www.cnbc.com/2026/08/28/trump-x-meeting-us-china-iran-sanctions.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "DeepSeek ser etter ny kapital når grunnleggerens kvantitetsimperium navigerer Kinas hakkete børsnoteringsmarked",
+      "kilde": "CNBC Top News",
+      "tid": "02:17",
+      "lenke": "https://www.cnbc.com/2026/08/28/deepseek-founder-liang-wenfeng-high-flyer-china-tech-ipos-funding.html",
       "engelsk_kilde": true
     },
     {
@@ -19,13 +26,6 @@
       "engelsk_kilde": true
     },
     {
-      "tittel": "Jim Cramer sier at Nvidias og Salesforces inntjening økte to bjørnefortellinger",
-      "kilde": "CNBC Top News",
-      "tid": "22:20",
-      "lenke": "https://www.cnbc.com/2026/08/27/cramer-nvidia-salesforce-earnings-upended-two-bear-narratives.html",
-      "engelsk_kilde": true
-    },
-    {
       "tittel": "Marvell øker prognosene, men aksjen glir mens Wall Street lurer på om det er mer i historien",
       "kilde": "MarketWatch",
       "tid": "00:20",
@@ -33,10 +33,10 @@
       "engelsk_kilde": true
     },
     {
-      "tittel": "Min mor, 91, har demens. Hver bank sier at jeg trenger signaturen hennes for å låse opp hennes $ 100 000 aksjesertifikat. Hva kan jeg gjøre?",
-      "kilde": "MarketWatch",
-      "tid": "23:00",
-      "lenke": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
+      "tittel": "Federal Reserve Board utsteder håndhevelsestiltak med tidligere ansatt i Banco Popular de Puerto Rico",
+      "kilde": "Federal Reserve",
+      "tid": "15:00",
+      "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
       "engelsk_kilde": true
     }
   ],
@@ -81,6 +81,13 @@
       }
     ],
     "MARKEDER": [
+      {
+        "tittel": "DeepSeek ser etter ny kapital når grunnleggerens kvantitetsimperium navigerer Kinas hakkete børsnoteringsmarked",
+        "kilde": "CNBC Top News",
+        "tid": "02:17",
+        "lenke": "https://www.cnbc.com/2026/08/28/deepseek-founder-liang-wenfeng-high-flyer-china-tech-ipos-funding.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Marvell øker prognosene, men aksjen glir mens Wall Street lurer på om det er mer i historien",
         "kilde": "MarketWatch",
@@ -133,13 +140,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Jim Cramer sier at Nvidias og Salesforces inntjening økte to bjørnefortellinger",
-        "kilde": "CNBC Top News",
-        "tid": "22:20",
-        "lenke": "https://www.cnbc.com/2026/08/27/cramer-nvidia-salesforce-earnings-upended-two-bear-narratives.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Nvidia løftet tekaksjer på Wall Street",
         "kilde": "E24",
         "tid": "08:18",
@@ -148,6 +148,20 @@
       }
     ],
     "GEOPOLITIKK": [
+      {
+        "tittel": "Dommer blokkerer Pentagons svarteliste over antropiske stoffer som forsyningskjederisiko",
+        "kilde": "CNBC Top News",
+        "tid": "02:18",
+        "lenke": "https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump trapper opp retorikken mot Beijing mens tjenestemenn fra USA og Kina møtes for Xis Washington-besøk",
+        "kilde": "CNBC Top News",
+        "tid": "01:35",
+        "lenke": "https://www.cnbc.com/2026/08/28/trump-x-meeting-us-china-iran-sanctions.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Kinas superrike flyktet fra Singapore. Nå ønsker de å komme tilbake",
         "kilde": "CNBC Top News",
@@ -235,24 +249,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Leger lærer endelig å håndtere antidepressiv abstinens",
-        "kilde": "Hacker News",
-        "tid": "22:26",
-        "lenke": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Good Good Golf-annonsenedfallet blir dypere etter hvert som Callaway avslutter samarbeidet, forhandlere trekker ut utstyr og Golf Channel-forsinkelser viser",
         "kilde": "MarketWatch",
         "tid": "22:17",
         "lenke": "https://www.marketwatch.com/story/good-good-golf-ad-fallout-deepens-as-callaway-ends-partnership-retailers-pull-gear-and-golf-channel-delays-show-33546426?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Gap aksjer hopper 12% etter at selskapet navngir ny Old Navy CEO for å gjenopplive sliter merkevare",
-        "kilde": "CNBC Top News",
-        "tid": "21:54",
-        "lenke": "https://www.cnbc.com/2026/08/27/gap-q2-2026-earnings.html",
         "engelsk_kilde": true
       },
       {
@@ -274,6 +274,13 @@
         "kilde": "BBC Business",
         "tid": "21:44",
         "lenke": "https://www.bbc.co.uk/news/articles/cx2z44982e4o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vis HN: Vi bygde åpen OpenRouter som gjør bruk til en bedre modell",
+        "kilde": "Hacker News",
+        "tid": "21:18",
+        "lenke": "https://github.com/experientiallabs/experiential",
         "engelsk_kilde": true
       },
       {
@@ -372,13 +379,6 @@
         "kilde": "BBC Business",
         "tid": "16:07",
         "lenke": "https://www.bbc.co.uk/news/articles/c7v4353rry7o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Lekebransjens nyeste mani er billig, fargerik og veldig klissete",
-        "kilde": "CNBC Top News",
-        "tid": "12:20",
-        "lenke": "https://www.cnbc.com/2026/08/27/the-toy-industrys-latest-craze-is-cheap-colorful-and-very-squishy-.html",
         "engelsk_kilde": true
       },
       {
