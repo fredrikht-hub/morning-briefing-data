@@ -1,52 +1,52 @@
 {
   "dato": "2026-08-29",
   "dato_norsk": "Lørdag 29. august 2026",
-  "generert_kl": "08:02",
+  "generert_kl": "12:08",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Donald Trump om kong Harald: – Et virkelig stort tap",
-      "kilde": "E24",
-      "tid": "05:03",
-      "lenke": "https://e24.no/internasjonal-oekonomi/i/9pM3O9/donald-trump-om-kong-harald-et-virkelig-stort-tap?utm_medium=rss",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Donald Trump kondolerer",
+      "tittel": "Islandsk ja kan presse Norge inn i EU",
       "kilde": "NRK Nyheter",
-      "tid": "06:20",
-      "lenke": "https://www.nrk.no/urix/donald-trump-kondolerer-1.18006844",
+      "tid": "10:57",
+      "lenke": "https://www.nrk.no/urix/kan-et-islandsk-eu-ja-presse-norge-inn-i-eu_-1.17999829",
       "engelsk_kilde": false
     },
     {
-      "tittel": "Nvidias inntektsprognose er så stor at Wall Street lurer på om SpaceX er årsaken",
+      "tittel": "Bedriftsinntektene har vokst i et rasende tempo. Her er grunnen til at det sannsynligvis ikke vil vare.",
       "kilde": "MarketWatch",
-      "tid": "20:58",
-      "lenke": "https://www.marketwatch.com/story/nvidias-revenue-forecast-is-so-huge-that-wall-street-wonders-if-spacex-is-the-reason-1ee7a8a9?mod=mw_rss_topstories",
+      "tid": "11:30",
+      "lenke": "https://www.marketwatch.com/story/corporate-earnings-have-been-growing-at-a-blistering-pace-heres-why-thats-not-likely-to-last-28810eac?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Trump kunngjør avtale med Venezuela for å sikre mer enn 65 milliarder fat oljereserver",
-      "kilde": "CNBC Top News",
-      "tid": "23:42",
-      "lenke": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
+      "tittel": "Entreprenøren min leverte bassengoppgraderingen på $ 42 000 til en underleverandør jeg allerede hadde avvist. Hva kan jeg gjøre?",
+      "kilde": "MarketWatch",
+      "tid": "11:00",
+      "lenke": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Analyse: Kevin Warsh skjerper inflasjonsvarselet ved Jackson Hole, og signaliserer mulig renteøkning",
+      "tittel": "S&P 500 fortsetter å klatre på dager da aksjer i stor grad sliter. Her er hva som skjer.",
+      "kilde": "MarketWatch",
+      "tid": "11:00",
+      "lenke": "https://www.marketwatch.com/story/the-s-p-500-keeps-climbing-on-days-when-stocks-broadly-struggle-heres-whats-going-on-60ad5c72?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Irans handel faller ettersom øverste leder Khamenei oppfordrer til mindre avhengighet av den amerikanske dollaren",
       "kilde": "CNBC Top News",
-      "tid": "17:44",
-      "lenke": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html",
+      "tid": "12:06",
+      "lenke": "https://www.cnbc.com/2026/08/29/iran-trade-sanctions-dollar-oil-exports.html",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "Viaplay: De norske Premier League-stjernene spiller med sørgebånd i helgen",
+        "tittel": "Islandsk ja kan presse Norge inn i EU",
         "kilde": "NRK Nyheter",
-        "tid": "18:19",
-        "lenke": "https://www.nrk.no/sport/viaplay_-de-norske-premier-league-stjernene-spiller-med-sorgeband-i-helgen-1.18006694",
+        "tid": "10:57",
+        "lenke": "https://www.nrk.no/urix/kan-et-islandsk-eu-ja-presse-norge-inn-i-eu_-1.17999829",
         "engelsk_kilde": false
       },
       {
@@ -54,27 +54,6 @@
         "kilde": "E24",
         "tid": "17:42",
         "lenke": "https://e24.no/norsk-oekonomi/i/L4qmyx/kronjuvelene-er-paa-plass-i-oslo?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "DNB ber ansatte ta vare på hverandre",
-        "kilde": "E24",
-        "tid": "10:31",
-        "lenke": "https://e24.no/naeringsliv/i/rrbAJm/dnb-ber-ansatte-ta-vare-paa-hverandre?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kong Haakon VIII: «Alt for Norge»",
-        "kilde": "E24",
-        "tid": "10:24",
-        "lenke": "https://e24.no/norsk-oekonomi/i/7pQdG9/kong-harald-er-doed-stoere-uttaler-seg?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Et langt kapittel i norsk historie er over",
-        "kilde": "E24",
-        "tid": "09:45",
-        "lenke": "https://e24.no/naeringsliv/i/GxqQ6x/et-langt-kapittel-i-norsk-historie-er-over?utm_medium=rss",
         "engelsk_kilde": false
       }
     ],
@@ -96,31 +75,24 @@
     ],
     "MARKEDER": [
       {
-        "tittel": "Min mor, 91, har demens. Hver bank sier at jeg trenger signaturen hennes for å låse opp hennes $ 100 000 aksjesertifikat. Hva kan jeg gjøre?",
+        "tittel": "Bedriftsinntektene har vokst i et rasende tempo. Her er grunnen til at det sannsynligvis ikke vil vare.",
         "kilde": "MarketWatch",
-        "tid": "23:00",
-        "lenke": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nvidias inntektsprognose er så stor at Wall Street lurer på om SpaceX er årsaken",
-        "kilde": "MarketWatch",
-        "tid": "20:58",
-        "lenke": "https://www.marketwatch.com/story/nvidias-revenue-forecast-is-so-huge-that-wall-street-wonders-if-spacex-is-the-reason-1ee7a8a9?mod=mw_rss_topstories",
+        "tid": "11:30",
+        "lenke": "https://www.marketwatch.com/story/corporate-earnings-have-been-growing-at-a-blistering-pace-heres-why-thats-not-likely-to-last-28810eac?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
         "tittel": "Entreprenøren min leverte bassengoppgraderingen på $ 42 000 til en underleverandør jeg allerede hadde avvist. Hva kan jeg gjøre?",
         "kilde": "MarketWatch",
-        "tid": "20:45",
+        "tid": "11:00",
         "lenke": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Kevin Warsh får det hver Fed-stol håper på: et obligasjonsmarked som stoler på hans ord",
+        "tittel": "S&P 500 fortsetter å klatre på dager da aksjer i stor grad sliter. Her er hva som skjer.",
         "kilde": "MarketWatch",
-        "tid": "20:10",
-        "lenke": "https://www.marketwatch.com/story/kevin-warsh-gets-what-every-fed-chair-hopes-for-a-bond-market-that-trust-his-words-5103dad5?mod=mw_rss_topstories",
+        "tid": "11:00",
+        "lenke": "https://www.marketwatch.com/story/the-s-p-500-keeps-climbing-on-days-when-stocks-broadly-struggle-heres-whats-going-on-60ad5c72?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -128,20 +100,6 @@
         "kilde": "CNBC Top News",
         "tid": "19:35",
         "lenke": "https://www.cnbc.com/2026/08/28/stock-traders-warm-up-to-warsh-as-volatility-index-touches-year-to-date-low.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nedgang på Wall Street",
-        "kilde": "E24",
-        "tid": "13:31",
-        "lenke": "https://e24.no/boers-og-finans/i/j0pV5A/rolig-aapning-paa-wall-street?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Colman's Mustard lagt ut for salg i forkant av fusjonen",
-        "kilde": "BBC Business",
-        "tid": "10:34",
-        "lenke": "https://www.bbc.co.uk/news/articles/cd08g4pjkymo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ],
@@ -170,10 +128,10 @@
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Microsofts aksjer forsegler årets lengste seiersrekke ettersom AI-programvare frykter å falme",
-        "kilde": "MarketWatch",
-        "tid": "21:34",
-        "lenke": "https://www.marketwatch.com/story/microsofts-stock-seals-its-longest-winning-streak-of-the-year-as-ai-software-fears-fade-e5669f5b?mod=mw_rss_topstories",
+        "tittel": "Vår beslutning om Cursor etter oppkjøpet av SpaceX",
+        "kilde": "Hacker News",
+        "tid": "01:47",
+        "lenke": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
         "engelsk_kilde": true
       },
       {
@@ -185,6 +143,13 @@
       }
     ],
     "GEOPOLITIKK": [
+      {
+        "tittel": "Irans handel faller ettersom øverste leder Khamenei oppfordrer til mindre avhengighet av den amerikanske dollaren",
+        "kilde": "CNBC Top News",
+        "tid": "12:06",
+        "lenke": "https://www.cnbc.com/2026/08/29/iran-trade-sanctions-dollar-oil-exports.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Donald Trump kondolerer",
         "kilde": "NRK Nyheter",
@@ -200,13 +165,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Trump kondolerer etter kongens død",
-        "kilde": "NRK Nyheter",
-        "tid": "02:11",
-        "lenke": "https://www.nrk.no/nyheter/trump-kondolerer-etter-kongens-dod-1.18006820",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Trumps Grønlandsfiksering setter sikkerhet i hjertet av Islands knivkant EU-stemme",
         "kilde": "CNBC Top News",
         "tid": "13:45",
@@ -216,18 +174,109 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "Autistici/inventati: Manifest – hvem vi er og hva vi vil (2002)",
-        "kilde": "Hacker News",
-        "tid": "07:38",
-        "lenke": "https://www.inventati.org/who/manifesto",
+        "tittel": "Hvor er alle de nye jobbene? Ansettelsen går saktere igjen — og det vil sannsynligvis ikke gå raskere snart.",
+        "kilde": "MarketWatch",
+        "tid": "12:00",
+        "lenke": "https://www.marketwatch.com/story/where-are-all-the-new-jobs-hiring-slows-again-and-it-probably-wont-speed-up-soon-66920f1d?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "e er et egendefinerbart, selvbevisst Emacs-lignende redigeringsprogram skrevet i Chez Scheme",
-        "kilde": "Hacker News",
-        "tid": "06:35",
-        "lenke": "https://github.com/paveluv/e",
+        "tittel": "Jeg leder en patologisk løgner som aldri gjør jobben sin. Hvordan takler jeg henne?",
+        "kilde": "MarketWatch",
+        "tid": "12:00",
+        "lenke": "https://www.marketwatch.com/story/im-managing-a-pathological-liar-who-never-does-her-work-how-do-i-deal-with-her-e3c06081?mod=mw_rss_topstories",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "97-åring overlevde flommen i Nepal: Lignet en seirende kriger",
+        "kilde": "NRK Nyheter",
+        "tid": "11:59",
+        "lenke": "https://www.nrk.no/urix/97-aring-overlevde-flommen-i-nepal_-lignet-en-seirende-kriger-1.18006890",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kong Haakon skal tale til folket klokken 19.00",
+        "kilde": "E24",
+        "tid": "11:56",
+        "lenke": "https://e24.no/norsk-oekonomi/i/9pM27E/kong-haakon-skal-tale-til-folket-klokken-19-00?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Island stemmer om å gjenoppta samtalene om å bli medlem av EU",
+        "kilde": "Hacker News",
+        "tid": "11:39",
+        "lenke": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Slik spilles Mesterliga-kampene til Glimt og Viking",
+        "kilde": "NRK Nyheter",
+        "tid": "11:39",
+        "lenke": "https://www.nrk.no/nordland/slik-spilles-mesterliga-kampene-til-glimt-og-viking-1.18007168",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Arver en mottaker på 2% 100% hvis mottakeren på 98% dør i en bilulykke? Spør etter en venn.",
+        "kilde": "MarketWatch",
+        "tid": "11:16",
+        "lenke": "https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Jeg føler meg skohorned’: Min far finansierte min $ 800.000 Roth Ira. Gir det ham rett til å si hvordan jeg investerer det?",
+        "kilde": "MarketWatch",
+        "tid": "11:00",
+        "lenke": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Sørger ved hytta til kongefamilien: – Kongen har vært fast gjest",
+        "kilde": "NRK Nyheter",
+        "tid": "10:22",
+        "lenke": "https://www.nrk.no/innlandet/sorger-ved-hytta-til-kongefamilien-i-sikkilsdalen-i-nord-fron_-_-kongen-har-vaert-fast-gjest-1.18006869",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "\"Mitt hovedmål er å hjelpe folk\": Jeg er singel, 74, med $ 10 millioner som brenner et hull i lommen. Hva skal jeg gjøre?",
+        "kilde": "MarketWatch",
+        "tid": "10:16",
+        "lenke": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "2026: Markedets hevn over ekspertene",
+        "kilde": "E24",
+        "tid": "09:59",
+        "lenke": "https://e24.no/boers-og-finans/i/xrwEM8/2026-markedets-hevn-over-ekspertene?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Erkjenner svikt: «Det beklages på det sterkeste»",
+        "kilde": "E24",
+        "tid": "09:58",
+        "lenke": "https://e24.no/naeringsliv/i/PdeB0R/erkjenner-svikt-det-beklages-paa-det-sterkeste?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Minst 27 drept i russisk angrep nær Kyiv",
+        "kilde": "NRK Nyheter",
+        "tid": "08:48",
+        "lenke": "https://www.nrk.no/nyheter/minst-27-drept-i-russisk-angrep-naer-kyiv-1.18007012",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Røper rørende konge-historie: – Hele Norges bestefar",
+        "kilde": "NRK Nyheter",
+        "tid": "08:42",
+        "lenke": "https://www.nrk.no/sport/roper-rorende-konge-historie_-_-hele-norges-bestefar-1.18003301",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Svært jevnt før islendingene tar EU-valget",
+        "kilde": "E24",
+        "tid": "08:30",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/K8q8AE/svaert-jevnt-foer-islendingene-tar-eu-valget?utm_medium=rss",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Ukens Investtech: Kjøp disse aksjene",
@@ -272,10 +321,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Eit land i sorg: – Han var ein av folket",
+        "tittel": "Nepal: Trenger mange milliarder til gjenoppbygging",
         "kilde": "NRK Nyheter",
-        "tid": "03:29",
-        "lenke": "https://www.nrk.no/norge/et-land-i-sorg_-_-han-var-en-av-folket-1.18006155",
+        "tid": "04:44",
+        "lenke": "https://www.nrk.no/nyheter/nepal_-trenger-mange-milliarder-til-gjenoppbygging-1.18006827",
         "engelsk_kilde": false
       },
       {
@@ -291,48 +340,6 @@
         "tid": "01:48",
         "lenke": "https://www.kumander.org/",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Arver en mottaker på 2% 100% hvis mottakeren på 98% dør i en bilulykke? Spør etter en venn.",
-        "kilde": "MarketWatch",
-        "tid": "22:15",
-        "lenke": "https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Vi er engasjerte kristne’: Vår sønn og svigerdatter avbrøt oss på grunn av politikk. Skal vi endre vårt testamente på $ 3 millioner?",
-        "kilde": "MarketWatch",
-        "tid": "21:31",
-        "lenke": "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Dolly Partons musikk, bøker og fornøyelsespark viser interesse etter hennes død",
-        "kilde": "MarketWatch",
-        "tid": "20:21",
-        "lenke": "https://www.marketwatch.com/story/dolly-partons-music-books-and-theme-park-see-spikes-in-interest-following-her-death-c497bd04?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kongen fikk meg ut av skapet",
-        "kilde": "NRK Nyheter",
-        "tid": "19:13",
-        "lenke": "https://www.nrk.no/ytring/kongen-fikk-meg-ut-av-skapet-1.17999378",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Gjennomfører festival tross kongens død: – Noen mener det er smakløst",
-        "kilde": "NRK Nyheter",
-        "tid": "18:42",
-        "lenke": "https://www.nrk.no/rogaland/gjennomforer-festival-tross-kongens-dod_-_-noen-mener-det-er-smaklost-1.18006643",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Haaland herjet i storseier – hedret kong Harald",
-        "kilde": "NRK Nyheter",
-        "tid": "18:36",
-        "lenke": "https://www.nrk.no/sport/fotball_-norske-premier-league-stjerner-spiller-med-sorgeband-etter-kong-haralds-bortgang-1.18006712",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Gift med mann som døde etter turbulens saksøker flyselskap",
@@ -370,13 +377,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Kong Harald V og samene",
-        "kilde": "NRK Nyheter",
-        "tid": "16:00",
-        "lenke": "https://www.nrk.no/sapmi/kong-harald-v-og-samene-1.15387198",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Fed har \"arbeid å gjøre\" hvis prisstigninger ikke letter for amerikanerne, sier Warsh",
         "kilde": "BBC Business",
         "tid": "15:15",
@@ -389,27 +389,6 @@
         "tid": "15:12",
         "lenke": "https://e24.no/internasjonal-oekonomi/i/bOj4l5/ny-fed-sjef-bekymret-for-prisveksten-stoerre-sannsynlighet-for-hoeyere-renter?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Imax sier det er åpent for salg. Hvorfor er det ingen som kjøper?",
-        "kilde": "CNBC Top News",
-        "tid": "11:54",
-        "lenke": "https://www.cnbc.com/2026/08/28/imax-sale-potential-buyers.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "'Cowboybyggere' målrettet i ny regjeringskamp",
-        "kilde": "BBC Business",
-        "tid": "10:49",
-        "lenke": "https://www.bbc.co.uk/news/articles/cx2z44982e4o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "\"Ikke langt nok\" - amerikanske foreldre og tenåringer på Metas nye grenser for unge brukere",
-        "kilde": "BBC Business",
-        "tid": "09:32",
-        "lenke": "https://www.bbc.co.uk/news/articles/cx2zn9zj361o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
       }
     ]
   }
