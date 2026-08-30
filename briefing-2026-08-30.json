@@ -1,9 +1,30 @@
 {
   "dato": "2026-08-30",
   "dato_norsk": "Søndag 30. august 2026",
-  "generert_kl": "08:02",
+  "generert_kl": "12:07",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
+    {
+      "tittel": "Nvidias AI-fordel beveger seg utover GPU-en",
+      "kilde": "Hacker News",
+      "tid": "09:57",
+      "lenke": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Topp Wall Street-analytikere foreslår disse 3 utbytteaksjene for konsistent inntekt",
+      "kilde": "CNBC Top News",
+      "tid": "10:42",
+      "lenke": "https://www.cnbc.com/2026/08/30/top-analysts-suggest-these-dividend-stocks-for-consistent-income.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "AI spiser ikke programvare likevel — og sektorens \"episke\" rally kan løpe gjennom oktober",
+      "kilde": "MarketWatch",
+      "tid": "12:00",
+      "lenke": "https://www.marketwatch.com/story/ai-isnt-eating-software-after-all-and-the-sectors-epic-rally-could-run-through-october-a4610583?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
     {
       "tittel": "Trump kunngjør avtale med Venezuela for å sikre mer enn 65 milliarder fat oljereserver",
       "kilde": "CNBC Top News",
@@ -12,64 +33,27 @@
       "engelsk_kilde": true
     },
     {
-      "tittel": "Nvidia fjerner ikke boblefrykten",
-      "kilde": "E24",
-      "tid": "05:12",
-      "lenke": "https://e24.no/boers-og-finans/i/e7y2v9/nvidia-fjerner-ikke-boblefrykten?utm_medium=rss",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Trump hyller 'historisk' avtale for USA om å kontrollere 65 milliarder fat av Venezuelas olje",
+      "tittel": "Trump hyller 'historisk' avtale for å kontrollere 65 milliarder fat venezuelansk olje",
       "kilde": "BBC Business",
       "tid": "04:01",
       "lenke": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
       "engelsk_kilde": true
-    },
-    {
-      "tittel": "Det «norske» Amerika sørger over kong Harald",
-      "kilde": "NRK Nyheter",
-      "tid": "20:23",
-      "lenke": "https://www.nrk.no/urix/det-_norske_-amerika-sorger-over-kong-harald-1.18007410",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Ingen oppkjøpskandidat",
-      "kilde": "E24",
-      "tid": "07:54",
-      "lenke": "https://e24.no/boers-og-finans/i/2pJ56R/grieg-seafood-er-ikke-lenger-en-oppkjoepskandidat?utm_medium=rss",
-      "engelsk_kilde": false
     }
   ],
   "kategorier": {
-    "NORGE": [
-      {
-        "tittel": "Det «norske» Amerika sørger over kong Harald",
-        "kilde": "NRK Nyheter",
-        "tid": "20:23",
-        "lenke": "https://www.nrk.no/urix/det-_norske_-amerika-sorger-over-kong-harald-1.18007410",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Norsk snøryddings-gigant saksøkt for 100 mill. dollar",
-        "kilde": "E24",
-        "tid": "17:28",
-        "lenke": "https://e24.no/naeringsliv/i/6q8xQ3/norsk-snoeryddings-gigant-saksoekt-for-100-mill-dollar?utm_medium=rss",
-        "engelsk_kilde": false
-      }
-    ],
     "MARKEDER": [
+      {
+        "tittel": "Topp Wall Street-analytikere foreslår disse 3 utbytteaksjene for konsistent inntekt",
+        "kilde": "CNBC Top News",
+        "tid": "10:42",
+        "lenke": "https://www.cnbc.com/2026/08/30/top-analysts-suggest-these-dividend-stocks-for-consistent-income.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Min mor, 91, har demens. Hver bank sier at jeg trenger signaturen hennes for å låse opp hennes $ 100 000 aksjesertifikat. Hva kan jeg gjøre?",
         "kilde": "MarketWatch",
         "tid": "16:00",
         "lenke": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Den store lærdommen fra denne ukens inntekter: AI-utbyggingen er ikke et nullsumspill",
-        "kilde": "CNBC Top News",
-        "tid": "13:25",
-        "lenke": "https://www.cnbc.com/2026/08/29/big-lesson-from-this-weeks-earnings-ai-buildout-is-not-a-zero-sum-game.html",
         "engelsk_kilde": true
       }
     ],
@@ -82,7 +66,7 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Trump hyller 'historisk' avtale for USA om å kontrollere 65 milliarder fat av Venezuelas olje",
+        "tittel": "Trump hyller 'historisk' avtale for å kontrollere 65 milliarder fat venezuelansk olje",
         "kilde": "BBC Business",
         "tid": "04:01",
         "lenke": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
@@ -91,11 +75,18 @@
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Nvidia fjerner ikke boblefrykten",
-        "kilde": "E24",
-        "tid": "05:12",
-        "lenke": "https://e24.no/boers-og-finans/i/e7y2v9/nvidia-fjerner-ikke-boblefrykten?utm_medium=rss",
-        "engelsk_kilde": false
+        "tittel": "AI spiser ikke programvare likevel — og sektorens \"episke\" rally kan løpe gjennom oktober",
+        "kilde": "MarketWatch",
+        "tid": "12:00",
+        "lenke": "https://www.marketwatch.com/story/ai-isnt-eating-software-after-all-and-the-sectors-epic-rally-could-run-through-october-a4610583?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nvidias AI-fordel beveger seg utover GPU-en",
+        "kilde": "Hacker News",
+        "tid": "09:57",
+        "lenke": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+        "engelsk_kilde": true
       },
       {
         "tittel": "OpenAI for å avslutte modelltilgang til markøren etter oppkjøp av Elon Musks SpaceX",
@@ -137,6 +128,90 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "Sorg i kong Haralds «andre hjem»: – Følte han var deres konge",
+        "kilde": "E24",
+        "tid": "11:52",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/16dKXG/sorg-i-kong-haralds-andre-hjem-usa-foelte-han-var-deres-konge?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kjenner du egentlig din kollega Lise?",
+        "kilde": "E24",
+        "tid": "11:40",
+        "lenke": "https://e24.no/karriere-og-ledelse/i/2pXE3G/kjenner-du-egentlig-din-kollega-lise?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Fotballen skal hedre kong Harald – LSK-sjef mener kampene burde vært utsatt",
+        "kilde": "NRK Nyheter",
+        "tid": "11:21",
+        "lenke": "https://www.nrk.no/sport/fotballen-skal-hedre-kong-harald-_-lsk-sjef-mener-kampene-burde-vaert-utsatt-1.18007855",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Passasjerbåt med 267 ombord har sunket utenfor Kypros",
+        "kilde": "NRK Nyheter",
+        "tid": "11:14",
+        "lenke": "https://www.nrk.no/urix/passasjerbat-med-267-ombord-har-sunket-utenfor-kypros-1.18008039",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Passasjerferge med 270 om bord synker utenfor Kypros",
+        "kilde": "NRK Nyheter",
+        "tid": "11:07",
+        "lenke": "https://www.nrk.no/nyheter/passasjerferge-med-270-om-bord-synker-utenfor-kypros-1.18008024",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Tegn til panikk i det amerikanske finansdepartementet",
+        "kilde": "E24",
+        "tid": "10:45",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/M7qoMR/tegn-til-panikk-i-det-amerikanske-finansdepartementet?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Europabevegelsen er skuffet på islendingenes vegne etter EU-nei",
+        "kilde": "E24",
+        "tid": "10:44",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/RjqkGO/europabevegelsen-er-skuffet-paa-islendingenes-vegne-etter-eu-nei?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Frp advarer mot «britiske tilstander» på sokkelen",
+        "kilde": "E24",
+        "tid": "10:43",
+        "lenke": "https://e24.no/energi-og-klima/i/oE8yla/frp-advarer-mot-britiske-tilstander-paa-sokkelen?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Fair Work Commission fordømmer \"ren feil\" AI juridisk rådgivning",
+        "kilde": "Hacker News",
+        "tid": "10:20",
+        "lenke": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Spark: Sparklines i skallet ditt",
+        "kilde": "Hacker News",
+        "tid": "10:02",
+        "lenke": "https://git.zx2c4.com/spark/about/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vis HN: Bolnee-Chat – Self Hosted Chatbot Integration på bedriftens nettsted",
+        "kilde": "Hacker News",
+        "tid": "09:56",
+        "lenke": "https://github.com/AniketWathore/bolnee-chat",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Alle bør bygge sin egen nettverksstabel",
+        "kilde": "Hacker News",
+        "tid": "09:52",
+        "lenke": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Ingen oppkjøpskandidat",
         "kilde": "E24",
         "tid": "07:54",
@@ -168,7 +243,7 @@
         "tittel": "UD: To nordmenn pågrepet på Kypros",
         "kilde": "NRK Nyheter",
         "tid": "06:49",
-        "lenke": "https://www.nrk.no/urix/ud_-to-nordmenn-pagrepet-pa-kyprosto-nordmenn-pagrepet-pa-kypros-1.18007778",
+        "lenke": "https://www.nrk.no/urix/ud_-to-nordmenn-pagrepet-pa-kyprost-1.18007778",
         "engelsk_kilde": false
       },
       {
@@ -179,7 +254,7 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Venter storinnrykk til sørgegudstjenestene",
+        "tittel": "Sørgegudstjenester landet over – dronning Sonja klemte presten",
         "kilde": "NRK Nyheter",
         "tid": "06:42",
         "lenke": "https://www.nrk.no/norge/sorgegudstjenester-over-hele-landet-1.18007727",
@@ -204,69 +279,6 @@
         "kilde": "E24",
         "tid": "05:13",
         "lenke": "https://e24.no/karriere-og-ledelse/i/0pkB5B/forelsket-i-en-kollega-dette-boer-du-tenke-paa?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Ny toppsjefgruppe vil redde Europa",
-        "kilde": "E24",
-        "tid": "05:08",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/43X6Xa/ny-toppsjefgruppe-vil-redde-europa?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "RUV: Island sier nei til EU-forhandlinger",
-        "kilde": "E24",
-        "tid": "05:04",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/aJp6XL/folkeavstemning-om-eu-paa-island-resultatet?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Disse kan dukke opp i kong Haralds begravelse",
-        "kilde": "E24",
-        "tid": "05:03",
-        "lenke": "https://e24.no/norsk-oekonomi/i/XMprxW/disse-kan-dukke-opp-i-kong-haralds-begravelse?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Lovgivere i California godkjenner enstemmig Linux-unntak fra aldersverifiseringsloven",
-        "kilde": "Hacker News",
-        "tid": "03:15",
-        "lenke": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Algoritmiske tvister om leiepris utvides under nye statlige og lokale lover",
-        "kilde": "Hacker News",
-        "tid": "02:25",
-        "lenke": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "FreeCORE TrueNAS Core – Fortsatt",
-        "kilde": "Hacker News",
-        "tid": "01:31",
-        "lenke": "https://freecore.org/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Benjamin Franklins alter egoer ga ham mest frihet",
-        "kilde": "Hacker News",
-        "tid": "01:09",
-        "lenke": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Åpen Oscar-server: åpen kildekode-server som er kompatibel MED AIM- og ICQ-klienter",
-        "kilde": "Hacker News",
-        "tid": "00:33",
-        "lenke": "https://github.com/mk6i/open-oscar-server",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Heller mot et «nei» til EU på Island",
-        "kilde": "NRK Nyheter",
-        "tid": "23:22",
-        "lenke": "https://www.nrk.no/urix/eu-dramaet-pa-island_-opptellingen-er-i-gang-1.18007111",
         "engelsk_kilde": false
       },
       {
@@ -326,17 +338,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hvor er alle de nye jobbene? Ansettelsen går saktere igjen — og det vil sannsynligvis ikke gå raskere snart.",
-        "kilde": "MarketWatch",
-        "tid": "12:00",
-        "lenke": "https://www.marketwatch.com/story/where-are-all-the-new-jobs-hiring-slows-again-and-it-probably-wont-speed-up-soon-66920f1d?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg leder en patologisk løgner som aldri gjør jobben sin. Hvordan takler jeg henne?",
-        "kilde": "MarketWatch",
-        "tid": "12:00",
-        "lenke": "https://www.marketwatch.com/story/im-managing-a-pathological-liar-who-never-does-her-work-how-do-i-deal-with-her-e3c06081?mod=mw_rss_topstories",
+        "tittel": "\"Du kan tape 25% til 35%.\" AARP advarer amerikanere om å gjøre denne 401(k) bevegelsen. Her er 4 alternativer å vurdere",
+        "kilde": "Yahoo Finance",
+        "tid": "12:15",
+        "lenke": "https://finance.yahoo.com/markets/articles/could-lose-25-35-aarp-121500853.html",
         "engelsk_kilde": true
       }
     ]
