@@ -1,9 +1,23 @@
 {
   "dato": "2026-08-30",
   "dato_norsk": "Søndag 30. august 2026",
-  "generert_kl": "04:08",
+  "generert_kl": "08:02",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
+    {
+      "tittel": "Trump kunngjør avtale med Venezuela for å sikre mer enn 65 milliarder fat oljereserver",
+      "kilde": "CNBC Top News",
+      "tid": "07:27",
+      "lenke": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Nvidia fjerner ikke boblefrykten",
+      "kilde": "E24",
+      "tid": "05:12",
+      "lenke": "https://e24.no/boers-og-finans/i/e7y2v9/nvidia-fjerner-ikke-boblefrykten?utm_medium=rss",
+      "engelsk_kilde": false
+    },
     {
       "tittel": "Trump hyller 'historisk' avtale for USA om å kontrollere 65 milliarder fat av Venezuelas olje",
       "kilde": "BBC Business",
@@ -12,31 +26,17 @@
       "engelsk_kilde": true
     },
     {
-      "tittel": "Trump-administrasjonen veier Yosemite landbytte for privatutviklerens adkomstvei",
-      "kilde": "CNBC Top News",
-      "tid": "18:21",
-      "lenke": "https://www.cnbc.com/2026/08/29/trump-yosemite-land-swap-kingsbarn.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "National Park Service støtter Trumps 250-fots bue til tross for ‘negative effekter’ på historiske steder",
-      "kilde": "CNBC Top News",
-      "tid": "18:23",
-      "lenke": "https://www.cnbc.com/2026/08/29/trump-arch-national-park-service-report.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Norsk snøryddings-gigant saksøkt for 100 mill. dollar",
-      "kilde": "E24",
-      "tid": "17:28",
-      "lenke": "https://e24.no/naeringsliv/i/6q8xQ3/norsk-snoeryddings-gigant-saksoekt-for-100-mill-dollar?utm_medium=rss",
-      "engelsk_kilde": false
-    },
-    {
       "tittel": "Det «norske» Amerika sørger over kong Harald",
       "kilde": "NRK Nyheter",
       "tid": "20:23",
       "lenke": "https://www.nrk.no/urix/det-_norske_-amerika-sorger-over-kong-harald-1.18007410",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Ingen oppkjøpskandidat",
+      "kilde": "E24",
+      "tid": "07:54",
+      "lenke": "https://e24.no/boers-og-finans/i/2pJ56R/grieg-seafood-er-ikke-lenger-en-oppkjoepskandidat?utm_medium=rss",
       "engelsk_kilde": false
     }
   ],
@@ -64,25 +64,39 @@
         "tid": "16:00",
         "lenke": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Den store lærdommen fra denne ukens inntekter: AI-utbyggingen er ikke et nullsumspill",
+        "kilde": "CNBC Top News",
+        "tid": "13:25",
+        "lenke": "https://www.cnbc.com/2026/08/29/big-lesson-from-this-weeks-earnings-ai-buildout-is-not-a-zero-sum-game.html",
+        "engelsk_kilde": true
       }
     ],
     "ENERGI_RAAVARER": [
+      {
+        "tittel": "Trump kunngjør avtale med Venezuela for å sikre mer enn 65 milliarder fat oljereserver",
+        "kilde": "CNBC Top News",
+        "tid": "07:27",
+        "lenke": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Trump hyller 'historisk' avtale for USA om å kontrollere 65 milliarder fat av Venezuelas olje",
         "kilde": "BBC Business",
         "tid": "04:01",
         "lenke": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Advarer om Norges olje: – Risikoen er økende",
-        "kilde": "E24",
-        "tid": "13:48",
-        "lenke": "https://e24.no/energi-og-klima/i/L4eK3Q/advarer-om-norges-olje-risikoen-er-oekende?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ],
     "TEKNOLOGI": [
+      {
+        "tittel": "Nvidia fjerner ikke boblefrykten",
+        "kilde": "E24",
+        "tid": "05:12",
+        "lenke": "https://e24.no/boers-og-finans/i/e7y2v9/nvidia-fjerner-ikke-boblefrykten?utm_medium=rss",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "OpenAI for å avslutte modelltilgang til markøren etter oppkjøp av Elon Musks SpaceX",
         "kilde": "CNBC Top News",
@@ -123,7 +137,105 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "Algoritmisk leieprisprosess utvides under nye statlige og lokale lover",
+        "tittel": "Ingen oppkjøpskandidat",
+        "kilde": "E24",
+        "tid": "07:54",
+        "lenke": "https://e24.no/boers-og-finans/i/2pJ56R/grieg-seafood-er-ikke-lenger-en-oppkjoepskandidat?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "– Vi levde i kong Harald Vs verden",
+        "kilde": "E24",
+        "tid": "07:54",
+        "lenke": "https://e24.no/norsk-oekonomi/i/gkBo0q/vi-levde-i-kong-harald-vs-verden?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Konfronterte arbeids­ministeren: – Dere har et stort ansvar",
+        "kilde": "E24",
+        "tid": "07:53",
+        "lenke": "https://e24.no/karriere-og-ledelse/i/j0pR2z/konfronterte-arbeidsministeren-dere-har-et-stort-ansvar?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Glemmer aldri klemmen kongen ga etter 22. juli",
+        "kilde": "NRK Nyheter",
+        "tid": "06:52",
+        "lenke": "https://www.nrk.no/stor-oslo/glemmer-aldri-klemmen-kong-harald-ga-etter-22.-juli-1.18007318",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "UD: To nordmenn pågrepet på Kypros",
+        "kilde": "NRK Nyheter",
+        "tid": "06:49",
+        "lenke": "https://www.nrk.no/urix/ud_-to-nordmenn-pagrepet-pa-kyprosto-nordmenn-pagrepet-pa-kypros-1.18007778",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "To nordmenn pågrepet på Kypros, opplyser UD til VG",
+        "kilde": "NRK Nyheter",
+        "tid": "06:44",
+        "lenke": "https://www.nrk.no/nyheter/to-nordmenn-pagrepet-pa-kypros_-opplyser-ud-til-vg-1.18007768",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Venter storinnrykk til sørgegudstjenestene",
+        "kilde": "NRK Nyheter",
+        "tid": "06:42",
+        "lenke": "https://www.nrk.no/norge/sorgegudstjenester-over-hele-landet-1.18007727",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kirsebær­plukking om skogbranner",
+        "kilde": "E24",
+        "tid": "05:44",
+        "lenke": "https://e24.no/energi-og-klima/i/K8ed8E/kirsebaerplukking-om-skogbranner?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Skyting på rave-party i Sveits",
+        "kilde": "NRK Nyheter",
+        "tid": "05:32",
+        "lenke": "https://www.nrk.no/urix/skyting-pa-rave-party-i-sveits-1.18007712",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Forelsket i en kollega? Dette bør du tenke på",
+        "kilde": "E24",
+        "tid": "05:13",
+        "lenke": "https://e24.no/karriere-og-ledelse/i/0pkB5B/forelsket-i-en-kollega-dette-boer-du-tenke-paa?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Ny toppsjefgruppe vil redde Europa",
+        "kilde": "E24",
+        "tid": "05:08",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/43X6Xa/ny-toppsjefgruppe-vil-redde-europa?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "RUV: Island sier nei til EU-forhandlinger",
+        "kilde": "E24",
+        "tid": "05:04",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/aJp6XL/folkeavstemning-om-eu-paa-island-resultatet?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Disse kan dukke opp i kong Haralds begravelse",
+        "kilde": "E24",
+        "tid": "05:03",
+        "lenke": "https://e24.no/norsk-oekonomi/i/XMprxW/disse-kan-dukke-opp-i-kong-haralds-begravelse?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Lovgivere i California godkjenner enstemmig Linux-unntak fra aldersverifiseringsloven",
+        "kilde": "Hacker News",
+        "tid": "03:15",
+        "lenke": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Algoritmiske tvister om leiepris utvides under nye statlige og lokale lover",
         "kilde": "Hacker News",
         "tid": "02:25",
         "lenke": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
@@ -144,25 +256,18 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Feilblindhet",
+        "tittel": "Åpen Oscar-server: åpen kildekode-server som er kompatibel MED AIM- og ICQ-klienter",
         "kilde": "Hacker News",
-        "tid": "00:21",
-        "lenke": "https://danluu.com/bug-blind/",
+        "tid": "00:33",
+        "lenke": "https://github.com/mk6i/open-oscar-server",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Helt jevnt i EU-avstemningen på Island",
+        "tittel": "Heller mot et «nei» til EU på Island",
         "kilde": "NRK Nyheter",
         "tid": "23:22",
         "lenke": "https://www.nrk.no/urix/eu-dramaet-pa-island_-opptellingen-er-i-gang-1.18007111",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Lovgivere la til $ 1 til bilforsikringer. De pengene betalte for Flock-kameraer",
-        "kilde": "Hacker News",
-        "tid": "23:17",
-        "lenke": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-        "engelsk_kilde": true
       },
       {
         "tittel": "K, C eller E? Hvorfor økonomer ikke kan bli enige om formen på dagens økonomi",
@@ -179,67 +284,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Rashidi: – Viste oss at vi kan vere like stolte av å vere ein del av dette landet",
-        "kilde": "NRK Nyheter",
-        "tid": "19:37",
-        "lenke": "https://www.nrk.no/norge/rashidi_-_-viste-oss-at-vi-kan-vere-like-stolte-av-a-vere-ein-del-av-dette-landet-1.18006291",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Hele Norges bestefar: Slik minnes han som barnas konge",
-        "kilde": "NRK Nyheter",
-        "tid": "18:57",
-        "lenke": "https://www.nrk.no/vestfoldogtelemark/kong-harald-var-barnas-konge-1.18005912",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "58-års bryllaupsdag: – Eg får heilt gåsehud",
-        "kilde": "NRK Nyheter",
-        "tid": "18:20",
-        "lenke": "https://www.nrk.no/norge/dronning-sonja-har-bryllaupsdag-og-folk-sender-helsing-1.18007353",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Når ordene mangler, tar kunsten over",
-        "kilde": "NRK Nyheter",
-        "tid": "18:01",
-        "lenke": "https://www.nrk.no/ostfold/kong-harald-v-er-dod_-kunst-setter-ord-pa-sorgen-1.18006401",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Gjøvik-selskap saksøkt for 100 mill. dollar",
-        "kilde": "NRK Nyheter",
-        "tid": "17:55",
-        "lenke": "https://www.nrk.no/innlandet/gjovik-selskap-saksokt-for-100-mill.-dollar-1.18007440",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kong Haakons første tale: – Takk for at du var en så god pappa",
-        "kilde": "E24",
-        "tid": "17:10",
-        "lenke": "https://e24.no/norsk-oekonomi/i/PdqMnJ/kong-haakon-holder-sin-foerste-tale-til-folket?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kong Haakons første tale",
-        "kilde": "E24",
-        "tid": "16:57",
-        "lenke": "https://e24.no/norsk-oekonomi/i/16dEVG/kong-harald-er-doed?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Er jeg for gammel for Roth-konverteringer? Jeg er 84 og min kone er 77. Vi har $ 8 millioner spart.",
         "kilde": "MarketWatch",
         "tid": "16:30",
         "lenke": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kong Haakon tok imot statsministeren til syning: – En nær og verdig opplevelse",
-        "kilde": "E24",
-        "tid": "16:12",
-        "lenke": "https://e24.no/norsk-oekonomi/i/y5bWzg/kong-harald-v-har-flere-avtaler-paa-slottet-loerdag?utm_medium=rss",
-        "engelsk_kilde": false
       },
       {
         "tittel": "‘Jeg føler meg skohorned’: Min far finansierte min $ 800.000 Roth Ira. Gir det ham rett til å si hvordan jeg investerer det?",
@@ -288,55 +337,6 @@
         "kilde": "MarketWatch",
         "tid": "12:00",
         "lenke": "https://www.marketwatch.com/story/im-managing-a-pathological-liar-who-never-does-her-work-how-do-i-deal-with-her-e3c06081?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kong Haakon skal tale til folket klokken 19.00",
-        "kilde": "E24",
-        "tid": "11:56",
-        "lenke": "https://e24.no/norsk-oekonomi/i/9pM27E/kong-haakon-skal-tale-til-folket-klokken-19-00?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Buffett er fortsatt aktiv på 96, men Berkshires aksjer gjør ikke mye",
-        "kilde": "CNBC Top News",
-        "tid": "11:53",
-        "lenke": "https://www.cnbc.com/2026/08/29/buffett-remains-active-at-96-but-berkshires-shares-arent-doing-much.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "2026: Markedets hevn over ekspertene",
-        "kilde": "E24",
-        "tid": "09:59",
-        "lenke": "https://e24.no/boers-og-finans/i/xrwEM8/2026-markedets-hevn-over-ekspertene?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Erkjenner svikt: «Det beklages på det sterkeste»",
-        "kilde": "E24",
-        "tid": "09:58",
-        "lenke": "https://e24.no/naeringsliv/i/PdeB0R/erkjenner-svikt-det-beklages-paa-det-sterkeste?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Svært jevnt før islendingene tar EU-valget",
-        "kilde": "E24",
-        "tid": "08:30",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/K8q8AE/svaert-jevnt-foer-islendingene-tar-eu-valget?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Ukens Investtech: Kjøp disse aksjene",
-        "kilde": "E24",
-        "tid": "06:14",
-        "lenke": "https://e24.no/boers-og-finans/i/wrbPRA/ukens-investtech-kjoep-disse-aksjene?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Metas oppgjør på 18 milliarder $ varsler TikTok og YouTube. Hvem er den neste på skuddlinjen?",
-        "kilde": "CNBC Top News",
-        "tid": "05:00",
-        "lenke": "https://www.cnbc.com/2026/08/29/meta-settlement-tiktok-youtube-snap-teen-safety.html",
         "engelsk_kilde": true
       }
     ]
