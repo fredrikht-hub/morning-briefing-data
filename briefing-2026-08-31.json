@@ -1,47 +1,61 @@
 {
   "dato": "2026-08-31",
   "dato_norsk": "Mandag 31. august 2026",
-  "generert_kl": "08:03",
+  "generert_kl": "12:07",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Oslo Børs stiger etter oljeprishopp",
-      "kilde": "E24",
-      "tid": "07:01",
-      "lenke": "https://e24.no/boers-og-finans/i/L4qJvQ/oslo-boers-stiger-etter-oljeprishopp?utm_medium=rss",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Frankrike er i ferd med å bli \"plakatbarnet\" av statsgjeldsproblemer da statlige lånekostnader rammet nær 2008-høyder",
-      "kilde": "CNBC Top News",
-      "tid": "05:08",
-      "lenke": "https://www.cnbc.com/2026/08/31/france-debt-bond-yields-budget.html",
+      "tittel": "\"Jeg elsker inflasjonen!\": Trump trekker på skuldrene for stigende priser — her er hva du kan gjøre før inflasjonen tærer på sparepengene dine",
+      "kilde": "Yahoo Finance",
+      "tid": "10:35",
+      "lenke": "https://finance.yahoo.com/economy/articles/love-inflation-trump-shrugs-off-103500495.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Trump truer med å sprenge Irans oljeknutepunkt på Kharg-øya etter hvert som fiendtlighetene eskalerer igjen",
+      "tittel": "Dell eller Palo Alto: Hvilken inntjeningsrapport vil avsløre overvurdering?",
+      "kilde": "Yahoo Finance",
+      "tid": "11:45",
+      "lenke": "https://finance.yahoo.com/markets/stocks/articles/dell-palo-alto-earnings-report-114518508.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Bank of England-sjef advarer mot at nye AI-modeller truer den globale finansielle stabiliteten",
       "kilde": "CNBC Top News",
-      "tid": "05:49",
+      "tid": "10:18",
+      "lenke": "https://www.cnbc.com/2026/08/31/bailey-frontier-ai-financial-stability-risk.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "USA, Iran utvekslingsstreik for første gang siden juli som Trump truer strategisk oljeknutepunkt",
+      "kilde": "CNBC Top News",
+      "tid": "11:52",
       "lenke": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "USA-Iran-eskalering viser Washingtons frustrasjon over saktegående sanksjoner",
-      "kilde": "CNBC Top News",
-      "tid": "06:59",
-      "lenke": "https://www.cnbc.com/2026/08/31/us-trump-hormuz-iran-kharg-larak-oil-analysts-sanctions-.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Kinas Xi bygger diplomatisk slagkraft med flere statsbesøk i forkant av Trump-toppmøtet",
-      "kilde": "CNBC Top News",
-      "tid": "04:57",
-      "lenke": "https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi-india.html",
-      "engelsk_kilde": true
+      "tittel": "Norsk ambassadør reddet av Elon Musks satellitt­sverm",
+      "kilde": "E24",
+      "tid": "09:15",
+      "lenke": "https://e24.no/teknologi/i/WvaE9j/norsk-ambassadoer-reddet-av-elon-musks-satellittsverm?utm_medium=rss",
+      "engelsk_kilde": false
     }
   ],
   "kategorier": {
     "NORGE": [
+      {
+        "tittel": "Norsk ambassadør reddet av Elon Musks satellitt­sverm",
+        "kilde": "E24",
+        "tid": "09:15",
+        "lenke": "https://e24.no/teknologi/i/WvaE9j/norsk-ambassadoer-reddet-av-elon-musks-satellittsverm?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Norges Bank skal selge kroner i september",
+        "kilde": "E24",
+        "tid": "08:07",
+        "lenke": "https://e24.no/norsk-oekonomi/i/JOqV24/norges-bank-skal-selge-kroner-for-176-millioner-kroner-i-september?utm_medium=rss",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Oslo Børs stiger etter oljeprishopp",
         "kilde": "E24",
@@ -52,26 +66,40 @@
     ],
     "MAKRO": [
       {
+        "tittel": "\"Jeg elsker inflasjonen!\": Trump trekker på skuldrene for stigende priser — her er hva du kan gjøre før inflasjonen tærer på sparepengene dine",
+        "kilde": "Yahoo Finance",
+        "tid": "10:35",
+        "lenke": "https://finance.yahoo.com/economy/articles/love-inflation-trump-shrugs-off-103500495.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bank of England-sjef advarer mot at nye AI-modeller truer den globale finansielle stabiliteten",
+        "kilde": "CNBC Top News",
+        "tid": "10:18",
+        "lenke": "https://www.cnbc.com/2026/08/31/bailey-frontier-ai-financial-stability-risk.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Frankrike er i ferd med å bli \"plakatbarnet\" av statsgjeldsproblemer da statlige lånekostnader rammet nær 2008-høyder",
         "kilde": "CNBC Top News",
         "tid": "05:08",
         "lenke": "https://www.cnbc.com/2026/08/31/france-debt-bond-yields-budget.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jackson Hole analytiker roundup: Warshs tale sender fottur sjansene høyere, kan sette Fed `på kant' med Treasury",
-        "kilde": "CNBC Top News",
-        "tid": "03:47",
-        "lenke": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html",
-        "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "Byd aksjer glir som hard Kina konkurranse bulker første halvdel inntjening",
-        "kilde": "CNBC Top News",
-        "tid": "04:01",
-        "lenke": "https://www.cnbc.com/2026/08/31/byd-shares-slide-as-fierce-china-competition-dents-first-half-earnings.html",
+        "tittel": "Dell eller Palo Alto: Hvilken inntjeningsrapport vil avsløre overvurdering?",
+        "kilde": "Yahoo Finance",
+        "tid": "11:45",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/dell-palo-alto-earnings-report-114518508.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Aksjemarkedet i dag: Dow, S&P 500, Nasdaq futures faller når USA treffer Iran, satsøkende spill hopper",
+        "kilde": "Yahoo Finance",
+        "tid": "11:38",
+        "lenke": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-31-dow-sp-500-nasdaq-113851714.html",
         "engelsk_kilde": true
       },
       {
@@ -80,56 +108,46 @@
         "tid": "03:03",
         "lenke": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-chances-of-rate-hike-rise-after-warshs-jackson-hole-comments-1f5287f2?mod=mw_rss_topstories",
         "engelsk_kilde": true
-      },
+      }
+    ],
+    "ENERGI_RAAVARER": [
       {
-        "tittel": "Min mor, 91, har demens. Hver bank sier at jeg trenger signaturen hennes for å låse opp hennes $ 100 000 aksjesertifikat. Hva kan jeg gjøre?",
+        "tittel": "Brentolje topper $ 90 etter de første kampene mellom USA og Iran på en måned",
         "kilde": "MarketWatch",
-        "tid": "14:30",
-        "lenke": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Entreprenøren min leverte bassengoppgraderingen på $ 42 000 til en underleverandør jeg allerede hadde avvist. Hva kan jeg gjøre?",
-        "kilde": "MarketWatch",
-        "tid": "14:00",
-        "lenke": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Utkonkurrerer Coca-Cola-aksjen Nasdaq?",
-        "kilde": "Yahoo Finance",
-        "tid": "08:37",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-stock-outperforming-nasdaq-083719227.html",
+        "tid": "08:55",
+        "lenke": "https://www.marketwatch.com/story/brent-oil-tops-90-after-first-u-s-and-iran-fighting-in-a-month-3b818e19?mod=mw_rss_topstories",
         "engelsk_kilde": true
       }
     ],
+    "TEKNOLOGI": [
+      {
+        "tittel": "OpenAI kutte av markør AI modelltilgang etter SpaceX avtale",
+        "kilde": "Yahoo Finance",
+        "tid": "11:44",
+        "lenke": "https://finance.yahoo.com/technology/ai/articles/openai-cutting-off-cursor-ai-114454715.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Strengere EU-regler for ChatGPT, Reddit og Roblox",
+        "kilde": "NRK Nyheter",
+        "tid": "10:02",
+        "lenke": "https://www.nrk.no/nyheter/strengere-eu-regler-for-chatgpt_-reddit-og-roblox-1.18008768",
+        "engelsk_kilde": false
+      }
+    ],
     "GEOPOLITIKK": [
+      {
+        "tittel": "USA, Iran utvekslingsstreik for første gang siden juli som Trump truer strategisk oljeknutepunkt",
+        "kilde": "CNBC Top News",
+        "tid": "11:52",
+        "lenke": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Russland forbereder «massive angrep» på Ukrainas energisteder etter årets dødeligste angrep",
         "kilde": "CNBC Top News",
         "tid": "07:29",
         "lenke": "https://www.cnbc.com/2026/08/31/russia-massive-strikes-ukraine-energy-infrastructure.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "USA-Iran-eskalering viser Washingtons frustrasjon over saktegående sanksjoner",
-        "kilde": "CNBC Top News",
-        "tid": "06:59",
-        "lenke": "https://www.cnbc.com/2026/08/31/us-trump-hormuz-iran-kharg-larak-oil-analysts-sanctions-.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trump truer med å sprenge Irans oljeknutepunkt på Kharg-øya etter hvert som fiendtlighetene eskalerer igjen",
-        "kilde": "CNBC Top News",
-        "tid": "05:49",
-        "lenke": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kinas Xi bygger diplomatisk slagkraft med flere statsbesøk i forkant av Trump-toppmøtet",
-        "kilde": "CNBC Top News",
-        "tid": "04:57",
-        "lenke": "https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi-india.html",
         "engelsk_kilde": true
       },
       {
@@ -140,27 +158,188 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Iran: – Har angrepet amerikanske militærbaser i Jordan",
-        "kilde": "NRK Nyheter",
-        "tid": "23:09",
-        "lenke": "https://www.nrk.no/nyheter/iran_-_-har-angrepet-amerikanske-militaerbaser-i-jordan-1.18008531",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Islendinger avviser å gjenoppta forhandlinger om å bli med i EU til tross for Trumps Grønlandstrusler",
+        "tittel": "Trump-promoterte Freedom Fuel-stasjoner solgte gass som en distributør sier gikk ubetalt for",
         "kilde": "CNBC Top News",
-        "tid": "12:32",
-        "lenke": "https://www.cnbc.com/2026/08/30/iceland-eu-accession-referendum-result.html",
+        "tid": "18:06",
+        "lenke": "https://www.cnbc.com/2026/08/30/trump-freedom-fuel-mansfield-lawsuit.html",
         "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
       {
-        "tittel": "Metasikkerhetsforskerens AI-agent slettet ved et uhell e-postene hennes",
-        "kilde": "Hacker News",
-        "tid": "07:23",
-        "lenke": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
+        "tittel": "Eksklusive hoteller fullbooket under kongens gravferd",
+        "kilde": "E24",
+        "tid": "12:01",
+        "lenke": "https://e24.no/naeringsliv/i/m0pXw0/eksklusive-hoteller-fullbooket-under-kongens-gravferd?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kalshi samarbeider med meglerfirmaet Alpaca i et forsøk på å bygge sitt internasjonale publikum",
+        "kilde": "CNBC Top News",
+        "tid": "12:00",
+        "lenke": "https://www.cnbc.com/2026/08/31/kalshi-looks-international-partners-with-brokerage-alpaca.html",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Her er hva som er verdt å streame i september 2026 på Netflix, Hulu, HBO Max og mer",
+        "kilde": "MarketWatch",
+        "tid": "12:00",
+        "lenke": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2026-on-netflix-hulu-hbo-max-and-more-a702e7dd?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "\"Jeg legger igjen penger på bordet\": Jeg er 64 og mannen min er 70. Skal jeg ta ektefellefordeler eller vente på mine egne?",
+        "kilde": "MarketWatch",
+        "tid": "11:45",
+        "lenke": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Santoli: Hvorfor investorer bør være på vakt på vei inn i september",
+        "kilde": "CNBC Top News",
+        "tid": "11:40",
+        "lenke": "https://www.cnbc.com/2026/08/31/santoli-why-investors-should-be-on-high-alert-heading-into-september.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Høiby får delta i gravferden til kong Harald",
+        "kilde": "NRK Nyheter",
+        "tid": "11:28",
+        "lenke": "https://www.nrk.no/nyheter/hoiby-far-delta-i-gravferden-til-kong-harald-1.18009102",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Manhattans luksusutleiemarked blomstrer, med enheter som når $ 100 000 i måneden",
+        "kilde": "CNBC Top News",
+        "tid": "11:27",
+        "lenke": "https://www.cnbc.com/2026/08/31/manhattan-luxury-rentals-100000-month.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Amerika stiller feil spørsmål om sin gjeld på $ 40 billioner, advarer denne MIT-eksperten",
+        "kilde": "MarketWatch",
+        "tid": "11:21",
+        "lenke": "https://www.marketwatch.com/story/america-is-asking-the-wrong-question-about-its-40-trillion-in-debt-this-mit-expert-warns-0fbda60e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kryptobørs Gemini ikke skyld i kollaps av Tjen utlånsprogram, sier voldgiftsmann",
+        "kilde": "CNBC Top News",
+        "tid": "11:00",
+        "lenke": "https://www.cnbc.com/2026/08/31/gemini-not-at-fault-for-collapse-of-earn-lending-program-arbitrator-says.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Reiseskuldersesongen krymper - og det gjør også besparelsene",
+        "kilde": "CNBC Top News",
+        "tid": "11:00",
+        "lenke": "https://www.cnbc.com/2026/08/31/travel-savings-shoulder-season.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Jeg føler meg skohorned’: Min far finansierte min $ 800.000 Roth Ira. Gir det ham rett til å si hvordan jeg investerer det?",
+        "kilde": "MarketWatch",
+        "tid": "11:00",
+        "lenke": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "2 nøkkel trucking grupper i arkivering heve alarm på Penske avgjørelse nedfall",
+        "kilde": "Yahoo Finance",
+        "tid": "11:00",
+        "lenke": "https://finance.yahoo.com/economy/policy/articles/2-key-trucking-groups-filing-110000220.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fare for togstreik",
+        "kilde": "E24",
+        "tid": "10:59",
+        "lenke": "https://e24.no/naeringsliv/i/Pdqk15/kan-bli-togstreik-fra-onsdag?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Mann arrestert etter skyting på ravefest i Sveits i helga",
+        "kilde": "NRK Nyheter",
+        "tid": "10:55",
+        "lenke": "https://www.nrk.no/nyheter/mann-arrestert-etter-skyting-pa-ravefest-i-sveits-i-helga-1.18009070",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Dronning Mette-Marit med på edsavleggelsen",
+        "kilde": "NRK Nyheter",
+        "tid": "10:50",
+        "lenke": "https://www.nrk.no/norge/dronning-mette-marit-med-pa-edsavleggelsen-1.18008968",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "3 superenkle hack som kan spare deg for tusenvis uten problemer — men du må gjøre dem før september er over",
+        "kilde": "Yahoo Finance",
+        "tid": "10:30",
+        "lenke": "https://finance.yahoo.com/markets/articles/3-super-simple-hacks-save-103000062.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "De beste CD-prisene i dag, mandag 31. august 2026: Lås inn opptil 4,30% APY",
+        "kilde": "Yahoo Finance",
+        "tid": "10:00",
+        "lenke": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-31-2026-lock-in-up-to-430-apy-100000028.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "De beste sparerentene med høy avkastning i dag, mandag 31. august 2026: Tjen opptil 4,15% APY",
+        "kilde": "Yahoo Finance",
+        "tid": "10:00",
+        "lenke": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-31-2026-earn-up-to-415-apy-100000500.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Boliglåns- og refinansieringsrenten i dag, mandag 31. august 2026: Kjøpsrenten er for tiden høyere enn refinansieringsrenten",
+        "kilde": "Yahoo Finance",
+        "tid": "10:00",
+        "lenke": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-august-31-2026-purchase-rates-currently-higher-than-refinance-rates-100000904.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "HELOC og egenkapitalrentene i dag, mandag 31. august 2026: En differensial på 19 basispunkter",
+        "kilde": "Yahoo Finance",
+        "tid": "10:00",
+        "lenke": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-august-31-2026-a-19-basis-point-differential-100000999.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Historisk hjem på $ 7,5 millioner i L.A. restaurert av \"Rocky Horror\" -skuespilleren Tim Curry finner en kjøper bare timer etter hans død",
+        "kilde": "MarketWatch",
+        "tid": "09:02",
+        "lenke": "https://www.marketwatch.com/story/historic-7-5-million-l-a-home-restored-by-rocky-horror-actor-tim-curry-finds-a-buyer-just-hours-after-his-death-4934687a?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Her er hva prins Harry og Meghan Markles herskapshus i California virkelig kan være verdt, og hvor mye det koster å holde det oppe",
+        "kilde": "MarketWatch",
+        "tid": "08:59",
+        "lenke": "https://www.marketwatch.com/story/heres-what-prince-harry-and-meghan-markles-california-mansion-could-really-be-worth-and-how-much-it-costs-to-keep-it-up-93a3c5fa?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Rørt av Mesternes mester-detaljen: – Dette var stort",
+        "kilde": "NRK Nyheter",
+        "tid": "08:56",
+        "lenke": "https://www.nrk.no/sport/mesternes-mester-team_-aksel-lund-svindal-hylla-finn-christian-jagge-_-familien-blei-rort-av-detalj-1.17945486",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Aksjemarkedet: – Kan faktisk påstå at det er rekordbillig",
+        "kilde": "E24",
+        "tid": "08:45",
+        "lenke": "https://e24.no/boers-og-finans/i/lnb1de/aksjemarkedet-kan-faktisk-paastaa-at-det-er-rekordbillig?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Folk om den nye monarken: – Vil leie Noreg inn i ei ny tid",
+        "kilde": "NRK Nyheter",
+        "tid": "08:34",
+        "lenke": "https://www.nrk.no/norge/folk-om-kong-haakon-viii_-_-vil-lede-norge-inn-i-en-ny-tid-1.18008653",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Et siste oppdrag for kong Harald",
@@ -177,31 +356,17 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Rettssaken etter drapet på Marita (35): Jørn Andersen erkjenner ikke straffskyld",
+        "tittel": "Erkjenner ikke å ha drept Marita (35): – Det ble helt svart",
         "kilde": "NRK Nyheter",
         "tid": "06:20",
         "lenke": "https://www.nrk.no/trondelag/rettssaken-etter-drapet-pa-marita-lofshus-haugen-_-uvisst-om-jorn-andersen-vil-forklare-seg-1.18004154",
         "engelsk_kilde": false
       },
       {
-        "tittel": "En 12 TB Steam \"teraleak\" søl mer enn et tiår med tapt PC-spillhistorikk",
-        "kilde": "Hacker News",
-        "tid": "06:10",
-        "lenke": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Svakere enn ventet fra Bakkafrost",
         "kilde": "E24",
         "tid": "04:34",
         "lenke": "https://e24.no/boers-og-finans/i/zObvow/bakkafrost-tapte-241-millioner-danske-kroner-foer-skatt?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Fagfolk slår alarm om nasjonal skrivekrise",
-        "kilde": "NRK Nyheter",
-        "tid": "04:15",
-        "lenke": "https://www.nrk.no/rogaland/fagfolk-slar-alarm-om-ei-nasjonal-skrivekrise-blant-norske-elevar-1.17956434",
         "engelsk_kilde": false
       },
       {
@@ -219,171 +384,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "OpenClaw 2.0, tilfeldigvis",
-        "kilde": "Hacker News",
-        "tid": "03:38",
-        "lenke": "https://openclaw.ai/blog/openclaw-2-accidentally",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "P99 0 ms* autofullfør for 240 millioner domenenavn",
-        "kilde": "Hacker News",
-        "tid": "03:20",
-        "lenke": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Overfør filer over en Ethernet-oppdateringskabel",
-        "kilde": "Hacker News",
-        "tid": "03:19",
-        "lenke": "https://maurycyz.com/misc/etherfiles/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "– Har angrepet amerikanske militærbaser i Jordan",
-        "kilde": "NRK Nyheter",
-        "tid": "23:42",
-        "lenke": "https://www.nrk.no/urix/iran_-_-har-angrepet-amerikanske-militaere-mal-i-jordan-1.18008533",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Singapore takler økonomi og kultur for å avverge en demografisk krise",
-        "kilde": "CNBC Top News",
-        "tid": "23:31",
-        "lenke": "https://www.cnbc.com/2026/08/31/singapore-ndr-childcare-incentives-demographic-crisis-.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "\"Foreldrene mine vil ikke låne meg £ 10 000, men hjalp broren min\": Når familier spiller økonomiske favoritter",
         "kilde": "BBC Business",
         "tid": "23:22",
         "lenke": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "\"Det er den ultimate regiftingen\": Moren min ga meg et hus. Skal jeg overføre det tilbake til henne for å redusere kapitalgevinster?",
-        "kilde": "MarketWatch",
-        "tid": "22:31",
-        "lenke": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "\"Mitt hovedmål er å hjelpe folk\": Jeg er singel, 74, med $ 10 millioner som brenner et hull i lommen. Hva skal jeg gjøre?",
-        "kilde": "MarketWatch",
-        "tid": "22:15",
-        "lenke": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Jeg føler meg skohorned’: Min far finansierte min $ 800.000 Roth Ira. Gir det ham rett til å si hvordan jeg investerer det?",
-        "kilde": "MarketWatch",
-        "tid": "22:15",
-        "lenke": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Flere er savnet etter styrtflom i Grand Canyon",
-        "kilde": "NRK Nyheter",
-        "tid": "21:25",
-        "lenke": "https://www.nrk.no/nyheter/flere-er-savnet-etter-styrtflom-i-grand-canyon-1.18008508",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "For første gang er Sápmi en del av statssorgen",
-        "kilde": "NRK Nyheter",
-        "tid": "19:53",
-        "lenke": "https://www.nrk.no/sapmi/for-forste-gang-inkluderes-sametinget-formelt-i-et-tronskifte-1.18008229",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Tallbonanza fra USA: – Dette blir kjempeviktig",
-        "kilde": "E24",
-        "tid": "19:25",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/lnbdl9/tallbonanza-fra-usa-dette-blir-kjempeviktig?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Frustrert Hovland mistet seieren: – Føles som en kniv i hjertet",
-        "kilde": "NRK Nyheter",
-        "tid": "17:47",
-        "lenke": "https://www.nrk.no/sport/golf_-seieren-glapp-for-viktor-hovland-i-pga-sluttspillet-1.18008246",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "EU truer med Kina-grep: – Må snart vise handling",
-        "kilde": "E24",
-        "tid": "16:57",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/pBV8W1/eu-truer-med-kina-grep-maa-snart-vise-handling?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kong Haralds gravferd blir onsdag 9. september",
-        "kilde": "E24",
-        "tid": "16:54",
-        "lenke": "https://e24.no/norsk-oekonomi/i/430M5a/kong-haralds-gravferd-blir-9-september?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Han slo Big Tobacco. Vil den samme spilleboken fungere mot Meta og sosiale medier?",
-        "kilde": "CNBC Top News",
-        "tid": "15:48",
-        "lenke": "https://www.cnbc.com/2026/08/30/mike-moore-ag-social-media-settlement-big-tobacco.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "«Bakmann» i Dubai-saken pågrepet",
-        "kilde": "E24",
-        "tid": "13:53",
-        "lenke": "https://e24.no/boers-og-finans/i/q6VgpO/bakmann-i-dubai-saken-paagrepet?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Arver en mottaker på 2% 100% hvis mottakeren på 98% dør i en bilulykke? Spør etter en venn.",
-        "kilde": "MarketWatch",
-        "tid": "13:30",
-        "lenke": "https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Er jeg for gammel for Roth-konverteringer? Jeg er 84 og min kone er 77. Vi har $ 8 millioner spart.",
-        "kilde": "MarketWatch",
-        "tid": "13:01",
-        "lenke": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Sorg i kong Haralds «andre hjem»: – Følte han var deres konge",
-        "kilde": "E24",
-        "tid": "11:52",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/16dKXG/sorg-i-kong-haralds-andre-hjem-usa-foelte-han-var-deres-konge?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Boliglåns- og refinansieringsrenten i dag, søndag 30. august 2026: Kjøpsrenten høyere enn forrige uke",
-        "kilde": "Yahoo Finance",
-        "tid": "10:00",
-        "lenke": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-august-30-2026-purchase-rates-higher-than-last-week-100000187.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "De beste CD-prisene i dag, søndag 30. august 2026: Lås inn opptil 4,30% APY",
-        "kilde": "Yahoo Finance",
-        "tid": "10:00",
-        "lenke": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-august-30-2026-lock-in-up-to-430-apy-100000110.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Etter 35 års ekteskap frykter dette paret å trekke seg tilbake sammen — en pensjonisttrener forklarer hvorfor det er så vanlig",
-        "kilde": "Yahoo Finance",
-        "tid": "09:30",
-        "lenke": "https://finance.yahoo.com/small-business/articles/35-years-marriage-couple-dreads-093000588.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Millioner av amerikanere har en tikkende bombe i sine skatteutsatte kontoer — 3 enkle måter å begynne å desarmere den nå",
-        "kilde": "Yahoo Finance",
-        "tid": "09:00",
-        "lenke": "https://finance.yahoo.com/markets/articles/millions-americans-ticking-time-bomb-090000486.html",
         "engelsk_kilde": true
       }
     ]
