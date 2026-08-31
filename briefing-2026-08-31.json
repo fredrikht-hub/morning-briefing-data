@@ -1,47 +1,63 @@
 {
   "dato": "2026-08-31",
   "dato_norsk": "Mandag 31. august 2026",
-  "generert_kl": "04:08",
+  "generert_kl": "08:03",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Byd aksjer glir som hard Kina konkurranse bulker første halvdel inntjening",
-      "kilde": "CNBC Top News",
-      "tid": "04:01",
-      "lenke": "https://www.cnbc.com/2026/08/31/byd-shares-slide-as-fierce-china-competition-dents-first-half-earnings.html",
-      "engelsk_kilde": true
+      "tittel": "Oslo Børs stiger etter oljeprishopp",
+      "kilde": "E24",
+      "tid": "07:01",
+      "lenke": "https://e24.no/boers-og-finans/i/L4qJvQ/oslo-boers-stiger-etter-oljeprishopp?utm_medium=rss",
+      "engelsk_kilde": false
     },
     {
-      "tittel": "Amerikanske aksje futures glir etter hvert som sjansene for renteøkning stiger etter Warshs Jackson Hole-kommentarer",
-      "kilde": "MarketWatch",
-      "tid": "03:03",
-      "lenke": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-chances-of-rate-hike-rise-after-warshs-jackson-hole-comments-1f5287f2?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Jackson Hole analytiker roundup: Warshs tale sender fottur sjansene høyere, kan sette Fed `på kant' med Treasury",
+      "tittel": "Frankrike er i ferd med å bli \"plakatbarnet\" av statsgjeldsproblemer da statlige lånekostnader rammet nær 2008-høyder",
       "kilde": "CNBC Top News",
-      "tid": "03:47",
-      "lenke": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html",
+      "tid": "05:08",
+      "lenke": "https://www.cnbc.com/2026/08/31/france-debt-bond-yields-budget.html",
       "engelsk_kilde": true
     },
     {
       "tittel": "Trump truer med å sprenge Irans oljeknutepunkt på Kharg-øya etter hvert som fiendtlighetene eskalerer igjen",
       "kilde": "CNBC Top News",
-      "tid": "02:48",
+      "tid": "05:49",
       "lenke": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Kinas fabrikkaktivitet krymper for andre måned på rad, og krymper mindre enn forventet",
+      "tittel": "USA-Iran-eskalering viser Washingtons frustrasjon over saktegående sanksjoner",
       "kilde": "CNBC Top News",
-      "tid": "03:15",
-      "lenke": "https://www.cnbc.com/2026/08/31/china-pmi-august-economy-slowdown.html",
+      "tid": "06:59",
+      "lenke": "https://www.cnbc.com/2026/08/31/us-trump-hormuz-iran-kharg-larak-oil-analysts-sanctions-.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Kinas Xi bygger diplomatisk slagkraft med flere statsbesøk i forkant av Trump-toppmøtet",
+      "kilde": "CNBC Top News",
+      "tid": "04:57",
+      "lenke": "https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi-india.html",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
+    "NORGE": [
+      {
+        "tittel": "Oslo Børs stiger etter oljeprishopp",
+        "kilde": "E24",
+        "tid": "07:01",
+        "lenke": "https://e24.no/boers-og-finans/i/L4qJvQ/oslo-boers-stiger-etter-oljeprishopp?utm_medium=rss",
+        "engelsk_kilde": false
+      }
+    ],
     "MAKRO": [
+      {
+        "tittel": "Frankrike er i ferd med å bli \"plakatbarnet\" av statsgjeldsproblemer da statlige lånekostnader rammet nær 2008-høyder",
+        "kilde": "CNBC Top News",
+        "tid": "05:08",
+        "lenke": "https://www.cnbc.com/2026/08/31/france-debt-bond-yields-budget.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Jackson Hole analytiker roundup: Warshs tale sender fottur sjansene høyere, kan sette Fed `på kant' med Treasury",
         "kilde": "CNBC Top News",
@@ -78,46 +94,42 @@
         "tid": "14:00",
         "lenke": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
         "engelsk_kilde": true
-      }
-    ],
-    "ENERGI_RAAVARER": [
-      {
-        "tittel": "Oljen stiger over 1% etter at amerikanske styrker har truffet to iranske rakettkastere på Larak Island",
-        "kilde": "CNBC Top News",
-        "tid": "00:46",
-        "lenke": "https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html",
-        "engelsk_kilde": true
-      }
-    ],
-    "TEKNOLOGI": [
-      {
-        "tittel": "Meta- og Google-støttet indisk teleoperatør Jio Platforms får regulatorisk nikk for børsnotering",
-        "kilde": "CNBC Top News",
-        "tid": "02:35",
-        "lenke": "https://www.cnbc.com/2026/08/31/jio-ipo-nse-india-shares-meta-google.html",
-        "engelsk_kilde": true
       },
       {
-        "tittel": "Forstå ChatGPT-arbeid",
-        "kilde": "Hacker News",
-        "tid": "01:28",
-        "lenke": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+        "tittel": "Utkonkurrerer Coca-Cola-aksjen Nasdaq?",
+        "kilde": "Yahoo Finance",
+        "tid": "08:37",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-stock-outperforming-nasdaq-083719227.html",
         "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Kinas fabrikkaktivitet krymper for andre måned på rad, og krymper mindre enn forventet",
+        "tittel": "Russland forbereder «massive angrep» på Ukrainas energisteder etter årets dødeligste angrep",
         "kilde": "CNBC Top News",
-        "tid": "03:15",
-        "lenke": "https://www.cnbc.com/2026/08/31/china-pmi-august-economy-slowdown.html",
+        "tid": "07:29",
+        "lenke": "https://www.cnbc.com/2026/08/31/russia-massive-strikes-ukraine-energy-infrastructure.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "USA-Iran-eskalering viser Washingtons frustrasjon over saktegående sanksjoner",
+        "kilde": "CNBC Top News",
+        "tid": "06:59",
+        "lenke": "https://www.cnbc.com/2026/08/31/us-trump-hormuz-iran-kharg-larak-oil-analysts-sanctions-.html",
         "engelsk_kilde": true
       },
       {
         "tittel": "Trump truer med å sprenge Irans oljeknutepunkt på Kharg-øya etter hvert som fiendtlighetene eskalerer igjen",
         "kilde": "CNBC Top News",
-        "tid": "02:48",
+        "tid": "05:49",
         "lenke": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kinas Xi bygger diplomatisk slagkraft med flere statsbesøk i forkant av Trump-toppmøtet",
+        "kilde": "CNBC Top News",
+        "tid": "04:57",
+        "lenke": "https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi-india.html",
         "engelsk_kilde": true
       },
       {
@@ -130,59 +142,115 @@
       {
         "tittel": "Iran: – Har angrepet amerikanske militærbaser i Jordan",
         "kilde": "NRK Nyheter",
-        "tid": "23:42",
-        "lenke": "https://www.nrk.no/urix/iran_-_-har-angrepet-amerikanske-militaere-mal-i-jordan-1.18008533",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Iran: – Har angrepet amerikanske militærbaser i Jordan",
-        "kilde": "NRK Nyheter",
         "tid": "23:09",
         "lenke": "https://www.nrk.no/nyheter/iran_-_-har-angrepet-amerikanske-militaerbaser-i-jordan-1.18008531",
         "engelsk_kilde": false
       },
       {
-        "tittel": "Trump kritiserer NBC over valgkommentar som finansdepartementet nekter noen nyt, WSJ og Bloomberg journalister G20 legitimasjon",
+        "tittel": "Islendinger avviser å gjenoppta forhandlinger om å bli med i EU til tross for Trumps Grønlandstrusler",
         "kilde": "CNBC Top News",
-        "tid": "19:40",
-        "lenke": "https://www.cnbc.com/2026/08/30/trump-nbc-election-comment-treasury-g20-reporter-access.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trump-promoterte Freedom Fuel-stasjoner solgte gass som en distributør sier gikk ubetalt for",
-        "kilde": "CNBC Top News",
-        "tid": "18:06",
-        "lenke": "https://www.cnbc.com/2026/08/30/trump-freedom-fuel-mansfield-lawsuit.html",
+        "tid": "12:32",
+        "lenke": "https://www.cnbc.com/2026/08/30/iceland-eu-accession-referendum-result.html",
         "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
       {
-        "tittel": "SolarWindow lanserer 0,85 mm tykk, selvklebende solfilm",
+        "tittel": "Metasikkerhetsforskerens AI-agent slettet ved et uhell e-postene hennes",
         "kilde": "Hacker News",
-        "tid": "02:50",
-        "lenke": "https://www.pv-magazine.com/2026/08/27/https-www-pv-magazine-com-2026-08-27-solarwindow-launches-flexible-self-adhesive-solar-film/",
+        "tid": "07:23",
+        "lenke": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Flock Sikkerhets kontroversielle administrerende direktør fikk nettopp smake på sin egen medisin",
+        "tittel": "Et siste oppdrag for kong Harald",
+        "kilde": "NRK Nyheter",
+        "tid": "07:23",
+        "lenke": "https://www.nrk.no/stor-oslo/kong-haralds-dod_-40-kadetter-fra-landets-krigsskoler-kalt-inn-for-spesielt-oppdrag-1.18008437",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vraker Frontline-«kjøp» etter skipsgrep",
+        "kilde": "E24",
+        "tid": "06:22",
+        "lenke": "https://e24.no/boers-og-finans/i/m0pXrp/vraker-frontline-kjoep-etter-skipsgrep?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Rettssaken etter drapet på Marita (35): Jørn Andersen erkjenner ikke straffskyld",
+        "kilde": "NRK Nyheter",
+        "tid": "06:20",
+        "lenke": "https://www.nrk.no/trondelag/rettssaken-etter-drapet-pa-marita-lofshus-haugen-_-uvisst-om-jorn-andersen-vil-forklare-seg-1.18004154",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "En 12 TB Steam \"teraleak\" søl mer enn et tiår med tapt PC-spillhistorikk",
         "kilde": "Hacker News",
-        "tid": "02:44",
-        "lenke": "https://www.neowin.net/news/the-ceo-of-americas-biggest-surveillance-network-just-got-a-taste-of-his-own-medicine/",
+        "tid": "06:10",
+        "lenke": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hvorfor mister jeg lidenskapen min og vil ikke gjøre noe?",
+        "tittel": "Svakere enn ventet fra Bakkafrost",
+        "kilde": "E24",
+        "tid": "04:34",
+        "lenke": "https://e24.no/boers-og-finans/i/zObvow/bakkafrost-tapte-241-millioner-danske-kroner-foer-skatt?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Fagfolk slår alarm om nasjonal skrivekrise",
+        "kilde": "NRK Nyheter",
+        "tid": "04:15",
+        "lenke": "https://www.nrk.no/rogaland/fagfolk-slar-alarm-om-ei-nasjonal-skrivekrise-blant-norske-elevar-1.17956434",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Spent på tank-fasit: – Rykter om supergode slutninger",
+        "kilde": "E24",
+        "tid": "04:11",
+        "lenke": "https://e24.no/boers-og-finans/i/V6e0d4/spent-paa-tank-fasit-rykter-om-supergode-slutninger?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kraftig prispress i Tromsø: – Hører til sjeldenhetene",
+        "kilde": "E24",
+        "tid": "04:09",
+        "lenke": "https://e24.no/naeringsliv/i/6qKbBQ/kraftig-prispress-paa-boliger-i-tromsoe-hoerer-til-sjeldenhetene?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "OpenClaw 2.0, tilfeldigvis",
         "kilde": "Hacker News",
-        "tid": "02:40",
-        "lenke": "https://news.ycombinator.com/item?id=49505014",
+        "tid": "03:38",
+        "lenke": "https://openclaw.ai/blog/openclaw-2-accidentally",
         "engelsk_kilde": true
       },
       {
-        "tittel": "CobaltC – Etterfølgeren til C?",
+        "tittel": "P99 0 ms* autofullfør for 240 millioner domenenavn",
         "kilde": "Hacker News",
-        "tid": "02:26",
-        "lenke": "https://strawberry9.github.io/the-wrong-memory/Appendix_06.html",
+        "tid": "03:20",
+        "lenke": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Overfør filer over en Ethernet-oppdateringskabel",
+        "kilde": "Hacker News",
+        "tid": "03:19",
+        "lenke": "https://maurycyz.com/misc/etherfiles/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "– Har angrepet amerikanske militærbaser i Jordan",
+        "kilde": "NRK Nyheter",
+        "tid": "23:42",
+        "lenke": "https://www.nrk.no/urix/iran_-_-har-angrepet-amerikanske-militaere-mal-i-jordan-1.18008533",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Singapore takler økonomi og kultur for å avverge en demografisk krise",
+        "kilde": "CNBC Top News",
+        "tid": "23:31",
+        "lenke": "https://www.cnbc.com/2026/08/31/singapore-ndr-childcare-incentives-demographic-crisis-.html",
         "engelsk_kilde": true
       },
       {
@@ -214,13 +282,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Aon nærmer seg en avtale på $ 17 milliarder for å kjøpe forsikringsmegler Usi fra KKR, rapporterer WSJ",
-        "kilde": "CNBC Top News",
-        "tid": "22:05",
-        "lenke": "https://www.cnbc.com/2026/08/30/aon-usi-17-billion-deal-talks.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Flere er savnet etter styrtflom i Grand Canyon",
         "kilde": "NRK Nyheter",
         "tid": "21:25",
@@ -228,31 +289,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Flere iranere drept og såret i et amerikansk angrep",
-        "kilde": "NRK Nyheter",
-        "tid": "20:19",
-        "lenke": "https://www.nrk.no/nyheter/flere-iranere-drept-og-saret-i-et-amerikansk-angrep--1.18008496",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "For første gang er Sápmi en del av statssorgen",
         "kilde": "NRK Nyheter",
         "tid": "19:53",
         "lenke": "https://www.nrk.no/sapmi/for-forste-gang-inkluderes-sametinget-formelt-i-et-tronskifte-1.18008229",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Mot alle odds",
-        "kilde": "NRK Nyheter",
-        "tid": "19:49",
-        "lenke": "https://www.nrk.no/norge/xl/dronning-mette-marit-_-mot-alle-odds-1.17926380",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "– Det skjer noe spesielt mellom nordmenn her",
-        "kilde": "NRK Nyheter",
-        "tid": "19:38",
-        "lenke": "https://www.nrk.no/norge/store-pa-slottsplassen_-_-det-skjer-noe-spesielt-mellom-nordmenn-her-1.18008472",
         "engelsk_kilde": false
       },
       {
@@ -319,32 +359,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Kjenner du egentlig din kollega Lise?",
-        "kilde": "E24",
-        "tid": "11:40",
-        "lenke": "https://e24.no/karriere-og-ledelse/i/2pXE3G/kjenner-du-egentlig-din-kollega-lise?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Tegn til panikk i det amerikanske finansdepartementet",
-        "kilde": "E24",
-        "tid": "10:45",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/M7qoMR/tegn-til-panikk-i-det-amerikanske-finansdepartementet?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Europabevegelsen er skuffet på islendingenes vegne etter EU-nei",
-        "kilde": "E24",
-        "tid": "10:44",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/RjqkGO/europabevegelsen-er-skuffet-paa-islendingenes-vegne-etter-eu-nei?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Frp advarer mot «britiske tilstander» på sokkelen",
-        "kilde": "E24",
-        "tid": "10:43",
-        "lenke": "https://e24.no/energi-og-klima/i/oE8yla/frp-advarer-mot-britiske-tilstander-paa-sokkelen?utm_medium=rss",
-        "engelsk_kilde": false
+        "tittel": "Boliglåns- og refinansieringsrenten i dag, søndag 30. august 2026: Kjøpsrenten høyere enn forrige uke",
+        "kilde": "Yahoo Finance",
+        "tid": "10:00",
+        "lenke": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-august-30-2026-purchase-rates-higher-than-last-week-100000187.html",
+        "engelsk_kilde": true
       },
       {
         "tittel": "De beste CD-prisene i dag, søndag 30. august 2026: Lås inn opptil 4,30% APY",
@@ -354,11 +373,18 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Ingen oppkjøpskandidat",
-        "kilde": "E24",
-        "tid": "07:54",
-        "lenke": "https://e24.no/boers-og-finans/i/2pJ56R/grieg-seafood-er-ikke-lenger-en-oppkjoepskandidat?utm_medium=rss",
-        "engelsk_kilde": false
+        "tittel": "Etter 35 års ekteskap frykter dette paret å trekke seg tilbake sammen — en pensjonisttrener forklarer hvorfor det er så vanlig",
+        "kilde": "Yahoo Finance",
+        "tid": "09:30",
+        "lenke": "https://finance.yahoo.com/small-business/articles/35-years-marriage-couple-dreads-093000588.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Millioner av amerikanere har en tikkende bombe i sine skatteutsatte kontoer — 3 enkle måter å begynne å desarmere den nå",
+        "kilde": "Yahoo Finance",
+        "tid": "09:00",
+        "lenke": "https://finance.yahoo.com/markets/articles/millions-americans-ticking-time-bomb-090000486.html",
+        "engelsk_kilde": true
       }
     ]
   }
