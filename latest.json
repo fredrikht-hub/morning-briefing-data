@@ -1,67 +1,83 @@
 {
   "dato": "2026-09-01",
   "dato_norsk": "Tirsdag 1. september 2026",
-  "generert_kl": "04:14",
+  "generert_kl": "08:05",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Indias statsminister Modi bønnfaller Putin om å avslutte Ukraina-krigen samtidig med USAs tolltrussel på russisk olje",
+      "tittel": "Indias statsminister Modi ber Putin avslutte Ukraina-krigen samtidig med USAs tolltrussel på russisk olje",
       "kilde": "CNBC Top News",
-      "tid": "01:51",
+      "tid": "06:23",
       "lenke": "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Tankskipet slo til i Hormuz, og skapte bekymring over opptrappingen, mens Trump sverget på å ramme Iran «hardt»",
+      "tittel": "Oslo Børs faller svakt",
+      "kilde": "E24",
+      "tid": "07:01",
+      "lenke": "https://e24.no/boers-og-finans/i/43vjXG/oslo-boers-stiger-svakt?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Japanske lånekostnader nådde 30 års høyde da Bessent sier at Tokyo kan gripe inn for å øke yenen",
       "kilde": "CNBC Top News",
-      "tid": "02:05",
+      "tid": "07:53",
+      "lenke": "https://www.cnbc.com/2026/09/01/japan-bonds-yen-intervention-bessent.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Teheran oppfordrer til å gå tilbake til juniavtalen, oljeprisene stiger som Trump lover å treffe Iran 'hardt'",
+      "kilde": "CNBC Top News",
+      "tid": "06:50",
       "lenke": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Bessent forteller angivelig Russland ingen økonomisk lettelse før Ukraina-krigen slutter som Europa snubs Moskva på G20",
+      "tittel": "Høyesterett lar Trump bygge balsal i Det hvite hus mens søksmålet fortsetter",
       "kilde": "CNBC Top News",
-      "tid": "03:22",
-      "lenke": "https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Shein aksjer glir i etterlengtet børsdebut",
-      "kilde": "BBC Business",
-      "tid": "03:11",
-      "lenke": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Venezuela gir det USA-støttede oljeselskapet NABEP 100-årige konsesjoner for 17 oljefelt, sier Det hvite hus",
-      "kilde": "CNBC Top News",
-      "tid": "01:56",
-      "lenke": "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
+      "tid": "05:58",
+      "lenke": "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "Norsk ambassadør reddet av Elon Musks satellitt­sverm",
+        "tittel": "Oslo Børs faller svakt",
         "kilde": "E24",
-        "tid": "09:15",
-        "lenke": "https://e24.no/teknologi/i/WvaE9j/norsk-ambassadoer-reddet-av-elon-musks-satellittsverm?utm_medium=rss",
+        "tid": "07:01",
+        "lenke": "https://e24.no/boers-og-finans/i/43vjXG/oslo-boers-stiger-svakt?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
-        "tittel": "Norges Bank skal selge kroner i september",
-        "kilde": "E24",
-        "tid": "08:07",
-        "lenke": "https://e24.no/norsk-oekonomi/i/JOqV24/norges-bank-skal-selge-kroner-for-176-millioner-kroner-i-september?utm_medium=rss",
+        "tittel": "Derfor må kong Haakon avlegge ed i Stortinget",
+        "kilde": "NRK Nyheter",
+        "tid": "06:41",
+        "lenke": "https://www.nrk.no/norge/derfor-ma-kong-haakon-avlegge-ed-i-stortinget-1.18009805",
         "engelsk_kilde": false
+      },
+      {
+        "tittel": "Paal Eikeseth er ny toppsjef i Aker Solutions",
+        "kilde": "E24",
+        "tid": "06:34",
+        "lenke": "https://e24.no/boers-og-finans/i/7pLnQ8/paal-eikeseth-er-ny-toppsjef-i-aker-solutions-kjetel-digre-gaar-av-etter-seks-aar?utm_medium=rss",
+        "engelsk_kilde": false
+      }
+    ],
+    "MAKRO": [
+      {
+        "tittel": "Japanske lånekostnader nådde 30 års høyde da Bessent sier at Tokyo kan gripe inn for å øke yenen",
+        "kilde": "CNBC Top News",
+        "tid": "07:53",
+        "lenke": "https://www.cnbc.com/2026/09/01/japan-bonds-yen-intervention-bessent.html",
+        "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "Shein aksjer glir i etterlengtet børsdebut",
+        "tittel": "Shein aksjer faller i etterlengtet børsdebut",
         "kilde": "BBC Business",
-        "tid": "03:11",
+        "tid": "04:15",
         "lenke": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
@@ -99,13 +115,6 @@
         "tid": "17:28",
         "lenke": "https://www.bbc.co.uk/news/articles/cj645yl6d6do?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Bred nedgang på Wall Street",
-        "kilde": "E24",
-        "tid": "13:31",
-        "lenke": "https://e24.no/boers-og-finans/i/e7X2BR/wall-street-aapner-ned?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ],
     "ENERGI_RAAVARER": [
@@ -122,21 +131,21 @@
         "tid": "00:49",
         "lenke": "https://www.cnbc.com/2026/09/01/oil-market-is-getting-more-accessible-what-it-means-for-wti-brent.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Boliglånsrenten stiger til det høyeste siden juni 2025, ettersom nye angrep i Midtøsten presser oljeprisene opp",
-        "kilde": "CNBC Top News",
-        "tid": "18:53",
-        "lenke": "https://www.cnbc.com/2026/08/31/mortgage-rates-surge-middle-east-attacks-oil.html",
-        "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Google Antigravity introduserer dypere begrunnelse for Boost (/boost)",
-        "kilde": "Hacker News",
-        "tid": "03:05",
-        "lenke": "https://antigravity.google/docs/boost/",
+        "tittel": "Qualcomms rival MediaTek hopper 10% etter en Nvidia AI-chip-avtale verdt 3,5 milliarder $",
+        "kilde": "CNBC Top News",
+        "tid": "08:00",
+        "lenke": "https://www.cnbc.com/2026/09/01/nvidia-deal-mediatek-shares.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hugging Faces nye androbot selger raskt. En kinesisk chip driver den",
+        "kilde": "CNBC Top News",
+        "tid": "07:30",
+        "lenke": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
         "engelsk_kilde": true
       },
       {
@@ -147,7 +156,7 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Amazon rigget milliarder i annonsepriser, søksmål fra stater og amerikanske vaktbikkjer",
+        "tittel": "Amazon rigget annonsepriser til en verdi av $ 20 milliarder, hevder amerikanske søksmål",
         "kilde": "BBC Business",
         "tid": "21:28",
         "lenke": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
@@ -161,13 +170,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Tim Cook går av som toppsjef i Apple",
-        "kilde": "E24",
-        "tid": "18:28",
-        "lenke": "https://e24.no/boers-og-finans/i/Exqdmj/apple-sjefen-gaar-av-i-dag?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Trump presser Apple til å endre «Lake Ontario» til «Lake America» på kartene sine",
         "kilde": "BBC Business",
         "tid": "15:00",
@@ -177,6 +179,27 @@
     ],
     "GEOPOLITIKK": [
       {
+        "tittel": "Teheran oppfordrer til å gå tilbake til juniavtalen, oljeprisene stiger som Trump lover å treffe Iran 'hardt'",
+        "kilde": "CNBC Top News",
+        "tid": "06:50",
+        "lenke": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Indias statsminister Modi ber Putin avslutte Ukraina-krigen samtidig med USAs tolltrussel på russisk olje",
+        "kilde": "CNBC Top News",
+        "tid": "06:23",
+        "lenke": "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Høyesterett lar Trump bygge balsal i Det hvite hus mens søksmålet fortsetter",
+        "kilde": "CNBC Top News",
+        "tid": "05:58",
+        "lenke": "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Bessent forteller angivelig Russland ingen økonomisk lettelse før Ukraina-krigen slutter som Europa snubs Moskva på G20",
         "kilde": "CNBC Top News",
         "tid": "03:22",
@@ -184,31 +207,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Tankskipet slo til i Hormuz, og skapte bekymring over opptrappingen, mens Trump sverget på å ramme Iran «hardt»",
-        "kilde": "CNBC Top News",
-        "tid": "02:05",
-        "lenke": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Indias statsminister Modi bønnfaller Putin om å avslutte Ukraina-krigen samtidig med USAs tolltrussel på russisk olje",
-        "kilde": "CNBC Top News",
-        "tid": "01:51",
-        "lenke": "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Japan Inc satser stort på India etter hvert som Kina risikerer å bli dypere",
         "kilde": "BBC Business",
         "tid": "22:07",
         "lenke": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Høyesterett lar Trump bygge balsal i Det hvite hus mens søksmålet fortsetter",
-        "kilde": "CNBC Top News",
-        "tid": "21:23",
-        "lenke": "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html",
         "engelsk_kilde": true
       },
       {
@@ -221,74 +223,158 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "Hurtigmote-giganten Sheins aksjer faller 9% i Hongkongs markedsdebut",
+        "tittel": "Er hjemmekontoret historie?",
+        "kilde": "E24",
+        "tid": "07:47",
+        "lenke": "https://e24.no/naeringsliv/i/M7Wwlm/er-hjemmekontoret-historie?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Pågreip drapstiltalte Jørn Andersen: – Da sa han noko sånt som at «eg erkjenner alt»",
+        "kilde": "NRK Nyheter",
+        "tid": "07:41",
+        "lenke": "https://www.nrk.no/trondelag/pagreip-drapstiltalte-jorn-andersen_-_-da-sa-han-noko-sant-som-at-_eg-erkjenner-alt_-1.18009954",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Den historiske kronprinsessen",
+        "kilde": "NRK Nyheter",
+        "tid": "07:21",
+        "lenke": "https://www.nrk.no/norge/xl/kronprinsesse-ingrid-alexandra-_-den-historiske-kronprinsessen-1.16274066",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "CollectWise (YC F24) ansetter",
+        "kilde": "Hacker News",
+        "tid": "07:01",
+        "lenke": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nedgraderer shippingvinner: – På tide å ta litt gevinst",
+        "kilde": "E24",
+        "tid": "06:53",
+        "lenke": "https://e24.no/boers-og-finans/i/6qKm9r/nedgraderer-shippingvinner-paa-tide-aa-ta-litt-gevinst?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Danske kong Frederik: – Harald var et elskelig menneske",
+        "kilde": "NRK Nyheter",
+        "tid": "06:46",
+        "lenke": "https://www.nrk.no/nyheter/danske-kong-frederik_-_-harald-var-et-elskelig-menneske-1.18009976",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Sverige: Kuttet i matmomsen har fullt ut kommet kundene til gode",
+        "kilde": "E24",
+        "tid": "06:39",
+        "lenke": "https://e24.no/naeringsliv/i/j0X9pL/sverige-kuttet-i-matmomsen-har-fullt-ut-kommet-kundene-til-gode?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "DNO vil kjøpe oljeselskapet Capricorn",
+        "kilde": "E24",
+        "tid": "06:10",
+        "lenke": "https://e24.no/boers-og-finans/i/BxdVzl/dno-vil-kjoepe-oljeselskapet-capricorn-for-3-7-milliarder-kroner?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kraftig hopp for drivstoffprisane: – Avgiftene tar knekken på oss",
+        "kilde": "NRK Nyheter",
+        "tid": "06:03",
+        "lenke": "https://www.nrk.no/rogaland/kraftig-hopp-for-drivstoffprisane_-_-avgiftene-tar-knekken-pa-oss-1.18009950",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Hopp i drivstoff­prisene",
+        "kilde": "E24",
+        "tid": "05:59",
+        "lenke": "https://e24.no/norsk-oekonomi/i/3pQkR0/hopp-i-drivstoffprisene?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Drivstoffprisene hoppet i natt",
+        "kilde": "NRK Nyheter",
+        "tid": "05:37",
+        "lenke": "https://www.nrk.no/nyheter/drivstoffprisene-hoppet-i-natt-1.18009924",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Myndighetene: Over 1000 døde etter flommen i Nepal",
+        "kilde": "NRK Nyheter",
+        "tid": "05:34",
+        "lenke": "https://www.nrk.no/nyheter/myndighetene_-over-1000-dode-etter-flommen-i-nepal-1.18009875",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "AI kan også få deg til å suge raskere",
+        "kilde": "Hacker News",
+        "tid": "05:32",
+        "lenke": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Capital Tankers tjente 93 millioner dollar",
+        "kilde": "E24",
+        "tid": "05:31",
+        "lenke": "https://e24.no/boers-og-finans/i/Rj8b5x/capital-tankers-tjente-93-millioner-dollar?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Disse fremvoksende markedene foretrekkes for å få \"en vegg av penger\" fra bærehandler",
         "kilde": "CNBC Top News",
-        "tid": "03:44",
-        "lenke": "https://www.cnbc.com/2026/09/01/shein-ipo-market-debut-hong-kong.html",
+        "tid": "05:12",
+        "lenke": "https://www.cnbc.com/2026/09/01/emerging-markets-dollar-carry-trade.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Haaland ble frontfigur for «millionhårstrikk» – så forsvant håret",
-        "kilde": "NRK Nyheter",
-        "tid": "03:39",
-        "lenke": "https://www.nrk.no/sport/haaland-ble-frontfigur-for-harstrikk-_-sa-forsvant-haret-1.17999574",
+        "tittel": "Vermell – Minimalt, avhengighetsfritt C++ -nettrammeverk med epoll",
+        "kilde": "Hacker News",
+        "tid": "04:56",
+        "lenke": "https://github.com/vermellcc/vermell",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Også deres konge",
+        "kilde": "E24",
+        "tid": "04:31",
+        "lenke": "https://e24.no/norsk-oekonomi/i/6qKm3r/ogsaa-deres-konge?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
-        "tittel": "Fastpotify",
-        "kilde": "Hacker News",
-        "tid": "02:52",
-        "lenke": "https://fastpotify.rocks/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Tailcat: Tailscale uten Tailscale, etter Tailscale",
-        "kilde": "Hacker News",
-        "tid": "02:47",
-        "lenke": "https://tailscale.com/blog/tailcat",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Eks-Crips-leder funnet skyldig i drapet på rapperen Tupac Shakur i 1996",
-        "kilde": "Hacker News",
-        "tid": "02:40",
-        "lenke": "https://www.bbc.com/news/articles/c24j5192j7jo",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "RotaryCell: Gjør at en umodifisert roterende telefon fungerer over LTE med en ESP32-S3",
-        "kilde": "Hacker News",
-        "tid": "02:29",
-        "lenke": "https://github.com/fregacmols/RotaryCell",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Tidligere gjengleder kjent skyldig i drapet på Tupac Shakur",
-        "kilde": "NRK Nyheter",
-        "tid": "00:20",
-        "lenke": "https://www.nrk.no/nyheter/tidligere-gjengleder-kjent-skyldig-i-drapet-pa-tupac-shakur-1.18009811",
+        "tittel": "Forsker ser 87 prosent avkastning med egenutviklet bitcoin-modell",
+        "kilde": "E24",
+        "tid": "04:27",
+        "lenke": "https://e24.no/boers-og-finans/i/43REXo/forsker-ser-87-prosent-avkastning-med-egenutviklet-bitcoin-modell?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
-        "tittel": "August var måneden for comeback-ungene. Cramer vurderer hva som drev de største vinnerne",
-        "kilde": "CNBC Top News",
-        "tid": "23:23",
-        "lenke": "https://www.cnbc.com/2026/08/31/august-was-the-month-of-the-comeback-kids-cramer-reviews-what-drove-the-biggest-winners.html",
+        "tittel": "Ny meningsmåling: Sju av ti vil beholde monarkiet",
+        "kilde": "NRK Nyheter",
+        "tid": "04:21",
+        "lenke": "https://www.nrk.no/norge/ny-meningsmaling_-sju-av-ti-vil-beholde-monarkiet-1.18009458",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Toalettarkiv",
+        "kilde": "Hacker News",
+        "tid": "03:23",
+        "lenke": "https://restroomarchive.com",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Fire til sykehus etter brann på hotell i Øksfjord",
-        "kilde": "NRK Nyheter",
-        "tid": "22:57",
-        "lenke": "https://www.nrk.no/nyheter/fire-til-sykehus-etter-brann-pa-hotell-i-oksfjord-1.18009809",
-        "engelsk_kilde": false
+        "tittel": "GPU World",
+        "kilde": "Hacker News",
+        "tid": "03:16",
+        "lenke": "https://www.gpuworld.org/",
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Brann i bygning i Tvedestrand",
-        "kilde": "NRK Nyheter",
-        "tid": "22:40",
-        "lenke": "https://www.nrk.no/nyheter/brann-i-bygning-i-tvedestrand-1.18009806",
-        "engelsk_kilde": false
+        "tittel": "Føler du deg nostalgisk for sommeren? Hvordan slå back-to-work blues",
+        "kilde": "BBC Business",
+        "tid": "23:37",
+        "lenke": "https://www.bbc.co.uk/news/articles/cx2d1vy0827o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
       },
       {
         "tittel": "\"Jeg legger igjen penger på bordet\": Jeg er 64 og mannen min er 70. Skal jeg ta ektefellefordeler eller vente på mine egne?",
@@ -312,45 +398,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Kong Haralds gravferd: Sverige bistår med bombesøkshunder",
-        "kilde": "NRK Nyheter",
-        "tid": "20:43",
-        "lenke": "https://www.nrk.no/stor-oslo/kong-haralds-gravferd_-norsk-politi-far-bistands-fra-sveriges-bombesokshunder-1.18009631",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Fotballfesten på Ullevål: Bestilte 150.000 skjerf fra Kina",
-        "kilde": "NRK Nyheter",
-        "tid": "19:41",
-        "lenke": "https://www.nrk.no/kultur/fotballfesten-as-bestilte-150.000-skjerf-fra-kina_-_-tenk-litt-mer-sirkulaert_-oppfordrer-faebrik-1.17991487",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Etterlyser mer satsing på overdosedødsfall",
-        "kilde": "NRK Nyheter",
-        "tid": "19:39",
-        "lenke": "https://www.nrk.no/ostfold/etterlyser-mer-satsing-pa-overdosedodsfall-1.18001187",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Et blomsterhav til dronning Sonja",
-        "kilde": "NRK Nyheter",
-        "tid": "18:23",
-        "lenke": "https://www.nrk.no/norge/et-blomsterhav-til-dronning-sonja-1.18009372",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "161 år gammel barneklærgigant stenger 29 butikker til",
         "kilde": "Yahoo Finance",
         "tid": "17:17",
         "lenke": "https://finance.yahoo.com/small-business/articles/161-old-kids-clothing-giant-171700918.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Venter du på at boligkjøp skal bli rimeligere? Her er hva du kan forvente i 2027",
-        "kilde": "CNBC Top News",
-        "tid": "17:16",
-        "lenke": "https://www.cnbc.com/2026/08/31/what-homebuyers-can-expect-in-2027.html",
         "engelsk_kilde": true
       },
       {
@@ -361,46 +412,32 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Equinors melkeku i USA: – Veldig strategisk viktig",
-        "kilde": "E24",
-        "tid": "15:24",
-        "lenke": "https://e24.no/energi-og-klima/i/k0yrjj/equinors-melkeku-i-usa-veldig-strategisk-viktig?utm_medium=rss",
-        "engelsk_kilde": false
+        "tittel": "De beste sparerentene med høy avkastning i dag, mandag 31. august 2026: Tjen opptil 4,15% APY",
+        "kilde": "Yahoo Finance",
+        "tid": "10:00",
+        "lenke": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-31-2026-earn-up-to-415-apy-100000500.html",
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Tirsdag stiger drivstoff­avgiftene: – Forferdelig",
-        "kilde": "E24",
-        "tid": "15:24",
-        "lenke": "https://e24.no/norsk-oekonomi/i/wrbM84/tirsdag-stiger-drivstoffavgiftene-forferdelig?utm_medium=rss",
-        "engelsk_kilde": false
+        "tittel": "De beste CD-prisene i dag, mandag 31. august 2026: Lås inn opptil 4,30% APY",
+        "kilde": "Yahoo Finance",
+        "tid": "10:00",
+        "lenke": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-31-2026-lock-in-up-to-430-apy-100000028.html",
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Slik kan du ta farvel med kong Harald",
-        "kilde": "E24",
-        "tid": "15:24",
-        "lenke": "https://e24.no/norsk-oekonomi/i/0pkwno/defilering-ta-farvel-med-kong-harald?utm_medium=rss",
-        "engelsk_kilde": false
+        "tittel": "Boliglåns- og refinansieringsrenten i dag, mandag 31. august 2026: Kjøpsrenten er for tiden høyere enn refinansieringsrenten",
+        "kilde": "Yahoo Finance",
+        "tid": "10:00",
+        "lenke": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-august-31-2026-purchase-rates-currently-higher-than-refinance-rates-100000904.html",
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Eksklusive hoteller fullbooket under kongens gravferd",
-        "kilde": "E24",
-        "tid": "12:01",
-        "lenke": "https://e24.no/naeringsliv/i/m0pXw0/eksklusive-hoteller-fullbooket-under-kongens-gravferd?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Fare for togstreik",
-        "kilde": "E24",
-        "tid": "10:59",
-        "lenke": "https://e24.no/naeringsliv/i/Pdqk15/kan-bli-togstreik-fra-onsdag?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Aksjemarkedet: – Kan faktisk påstå at det er rekordbillig",
-        "kilde": "E24",
-        "tid": "08:45",
-        "lenke": "https://e24.no/boers-og-finans/i/lnb1de/aksjemarkedet-kan-faktisk-paastaa-at-det-er-rekordbillig?utm_medium=rss",
-        "engelsk_kilde": false
+        "tittel": "HELOC og egenkapitalrentene i dag, mandag 31. august 2026: En differensial på 19 basispunkter",
+        "kilde": "Yahoo Finance",
+        "tid": "10:00",
+        "lenke": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-august-31-2026-a-19-basis-point-differential-100000999.html",
+        "engelsk_kilde": true
       }
     ]
   }
