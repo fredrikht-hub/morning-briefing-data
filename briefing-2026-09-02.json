@@ -1,63 +1,70 @@
 {
   "dato": "2026-09-02",
   "dato_norsk": "Onsdag 2. september 2026",
-  "generert_kl": "04:17",
+  "generert_kl": "08:05",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Storbritannias langsiktige lånekostnader høyest siden 1998 i forkant av oktoberbudsjettet",
-      "kilde": "BBC Business",
-      "tid": "01:23",
-      "lenke": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
+      "tittel": "Kinas Xi holder Irans president på armlengdes avstand uker i forkant av Trump-toppmøtet",
+      "kilde": "CNBC Top News",
+      "tid": "07:26",
+      "lenke": "https://www.cnbc.com/2026/09/02/china-trump-iran-summit-nuclear-trade-tariffs-sanctions-.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Ekte arbeidsledighet",
-      "kilde": "Hacker News",
-      "tid": "02:21",
-      "lenke": "https://www.lisep.org/tru",
-      "engelsk_kilde": true
+      "tittel": "BW LPG faller på Oslo Børs",
+      "kilde": "E24",
+      "tid": "07:01",
+      "lenke": "https://e24.no/boers-og-finans/i/7pL5jo/oljeaksjer-trekker-oslo-boers-opp?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Nordea Markets: Ingen rentekutt før 2028",
+      "kilde": "E24",
+      "tid": "06:00",
+      "lenke": "https://e24.no/norsk-oekonomi/i/16wBnJ/nordea-markets-ingen-rentekutt-foer-2028?utm_medium=rss",
+      "engelsk_kilde": false
     },
     {
       "tittel": "Trump sier at USA ikke tvinger Iran til å forhandle etter en ny runde med angrep",
       "kilde": "CNBC Top News",
-      "tid": "01:34",
+      "tid": "05:47",
       "lenke": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Apple Maps omdøper Lake Ontario til Lake America etter Trump-bestillingen",
-      "kilde": "BBC Business",
-      "tid": "01:32",
-      "lenke": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Den japanske grønn te-giganten Ito En øker med 8%, og trosser et bredt markedssalg",
-      "kilde": "CNBC Top News",
-      "tid": "02:24",
-      "lenke": "https://www.cnbc.com/2026/09/02/japan-green-tea-ito-en-surges-earnings.html",
-      "engelsk_kilde": true
+      "tittel": "Stortinget tok farvel med kong Harald",
+      "kilde": "NRK Nyheter",
+      "tid": "05:49",
+      "lenke": "https://www.nrk.no/norge/stortinget-tok-farvel-med-kong-harald-1.18011227",
+      "engelsk_kilde": false
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "Direktør gir seg i Oljefondet",
+        "tittel": "BW LPG faller på Oslo Børs",
         "kilde": "E24",
-        "tid": "13:59",
-        "lenke": "https://e24.no/norsk-oekonomi/i/wrXP4P/direktoer-gir-seg-i-oljefondet?utm_medium=rss",
+        "tid": "07:01",
+        "lenke": "https://e24.no/boers-og-finans/i/7pL5jo/oljeaksjer-trekker-oslo-boers-opp?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
-        "tittel": "Obos-prisene i Oslo steg 0,8 prosent",
-        "kilde": "E24",
-        "tid": "09:59",
-        "lenke": "https://e24.no/norsk-oekonomi/i/9pnmxp/obos-prisene-paa-brukte-boliger-i-oslo-steg-0-8-prosent-i-august?utm_medium=rss",
+        "tittel": "Stortinget tok farvel med kong Harald",
+        "kilde": "NRK Nyheter",
+        "tid": "05:49",
+        "lenke": "https://www.nrk.no/norge/stortinget-tok-farvel-med-kong-harald-1.18011227",
         "engelsk_kilde": false
       }
     ],
     "MAKRO": [
+      {
+        "tittel": "Nordea Markets: Ingen rentekutt før 2028",
+        "kilde": "E24",
+        "tid": "06:00",
+        "lenke": "https://e24.no/norsk-oekonomi/i/16wBnJ/nordea-markets-ingen-rentekutt-foer-2028?utm_medium=rss",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Ekte arbeidsledighet",
         "kilde": "Hacker News",
@@ -82,6 +89,13 @@
     ],
     "MARKEDER": [
       {
+        "tittel": "AI kapitalutgifter forventes å overstige kostnadene ved å bygge jernbaner i både USA og Storbritannia — med internett lagt på toppen",
+        "kilde": "MarketWatch",
+        "tid": "06:36",
+        "lenke": "https://www.marketwatch.com/story/ai-capital-expenditure-forecasted-to-exceed-the-cost-of-building-railways-in-both-the-u-s-and-the-u-k-with-the-internet-added-on-top-765b927f?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Den japanske grønn te-giganten Ito En øker med 8%, og trosser et bredt markedssalg",
         "kilde": "CNBC Top News",
         "tid": "02:24",
@@ -103,13 +117,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Bredt fall på Wall Street etter oljebyks",
-        "kilde": "E24",
-        "tid": "13:31",
-        "lenke": "https://e24.no/boers-og-finans/i/j0XdLz/wall-street-aapner-ned?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Shein verdsatt til $ 26 milliarder etter etterlengtet børsdebut",
         "kilde": "BBC Business",
         "tid": "10:01",
@@ -119,18 +126,11 @@
     ],
     "ENERGI_RAAVARER": [
       {
-        "tittel": "Den globale oljeprisen økte til 6 ukers høyde etter at USA angrep Iran i Hormuz",
-        "kilde": "MarketWatch",
-        "tid": "20:13",
-        "lenke": "https://www.marketwatch.com/story/global-oil-prices-extend-move-over-90-after-report-of-two-tankers-struck-in-hormuz-0effd708?mod=mw_rss_topstories",
+        "tittel": "Olje større BP fullfører søk etter stol etter styreromsomveltning",
+        "kilde": "CNBC Top News",
+        "tid": "07:13",
+        "lenke": "https://www.cnbc.com/2026/09/02/bp-chair-ian-tyler-appointment.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Leverer mindre strøm enn ventet",
-        "kilde": "E24",
-        "tid": "13:19",
-        "lenke": "https://e24.no/energi-og-klima/i/2pK1y4/leverer-mindre-stroem-enn-ventet?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ],
     "TEKNOLOGI": [
@@ -149,13 +149,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hugging Faces nye androbot selger raskt. En kinesisk chip driver den",
-        "kilde": "CNBC Top News",
-        "tid": "00:11",
-        "lenke": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Den effektive grensen for LLM-inferens",
         "kilde": "Hacker News",
         "tid": "23:48",
@@ -163,18 +156,32 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Apple går inn i John Ternus-æraen mens AI-utfordringer og minneknase intensiveres",
+        "tittel": "Palo Altos administrerende direktør sier at $ 1 billion av cybersikkerhetsinfrastrukturen ikke er klar for kunstig intelligens",
         "kilde": "CNBC Top News",
-        "tid": "16:27",
-        "lenke": "https://www.cnbc.com/2026/09/01/apple-enters-ternus-era-as-ai-challenges-and-memory-crunch-intensify.html",
+        "tid": "23:20",
+        "lenke": "https://www.cnbc.com/2026/09/01/palo-alto-ceo-says-1-trillion-of-cybersecurity-infrastructure-isnt-ready-for-ai.html",
         "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
+        "tittel": "Kinas Xi holder Irans president på armlengdes avstand uker i forkant av Trump-toppmøtet",
+        "kilde": "CNBC Top News",
+        "tid": "07:26",
+        "lenke": "https://www.cnbc.com/2026/09/02/china-trump-iran-summit-nuclear-trade-tariffs-sanctions-.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Gasshopp: – Eskaleringen i Iran er hovedgrunnen",
+        "kilde": "E24",
+        "tid": "07:26",
+        "lenke": "https://e24.no/energi-og-klima/i/wrX84G/gasshopp-eskaleringen-i-iran-er-hovedgrunnen?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
         "tittel": "Trump sier at USA ikke tvinger Iran til å forhandle etter en ny runde med angrep",
         "kilde": "CNBC Top News",
-        "tid": "01:34",
+        "tid": "05:47",
         "lenke": "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
         "engelsk_kilde": true
       },
@@ -194,6 +201,62 @@
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "Rundt 4000 tok farvel ved kong Haralds båre i går",
+        "kilde": "NRK Nyheter",
+        "tid": "07:02",
+        "lenke": "https://www.nrk.no/nyheter/rundt-4000-tok-farvel-ved-kong-haralds-bare-i-gar-1.18011258",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Hele Sveriges kongefamilie deltar i kong Haralds gravferd",
+        "kilde": "NRK Nyheter",
+        "tid": "06:13",
+        "lenke": "https://www.nrk.no/nyheter/hele-sveriges-kongefamilie-deltar-i-kong-haralds-gravferd-1.18011274",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Lot rusmidler og våpenkopi ligge igjen i død datters leilighet",
+        "kilde": "NRK Nyheter",
+        "tid": "05:31",
+        "lenke": "https://www.nrk.no/stor-oslo/politiet-lot-rusmidler-og-vapenkopi-ligge-igjen-i-dod-datters-leilighet-1.17338080",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Nytt fond: – Et stort marked",
+        "kilde": "E24",
+        "tid": "05:00",
+        "lenke": "https://e24.no/boers-og-finans/i/ArJE93/jakter-avkastning-i-kvinnehelse-et-stort-marked?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Norse-kunde Lene har ventet i tre år på erstatning",
+        "kilde": "E24",
+        "tid": "04:17",
+        "lenke": "https://e24.no/naeringsliv/i/bOo3nl/norse-kunde-lene-har-ventet-i-tre-aar-paa-erstatning?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Unngår togstreik i dag: Setter meklingen på pause",
+        "kilde": "E24",
+        "tid": "04:17",
+        "lenke": "https://e24.no/norsk-oekonomi/i/K81pzy/unngaar-togstreik-i-dag-setter-meklingen-paa-pause?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Ingen togstreik på Østlandet",
+        "kilde": "NRK Nyheter",
+        "tid": "04:16",
+        "lenke": "https://www.nrk.no/stor-oslo/ingen-togstreik-pa-ostlandet-1.18011165",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Den fremvoksende symbolske strukturen til kunstige nevrale nettverk",
+        "kilde": "Hacker News",
+        "tid": "04:15",
+        "lenke": "https://arxiv.org/abs/2608.29530",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Ingen togstreik onsdag",
         "kilde": "NRK Nyheter",
@@ -216,24 +279,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Australia legger opp til en vekst i andre kvartal på 2,1%, og slår forventningene",
-        "kilde": "CNBC Top News",
-        "tid": "03:05",
-        "lenke": "https://www.cnbc.com/2026/09/02/australia-gdp-q2-middle-east-rba.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Falsk 10 Downing Street-utleiested avslører 'uegnet' Booking.com, sier forbrukergruppe",
         "kilde": "BBC Business",
         "tid": "01:27",
         "lenke": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Antropisk utestengte meg på grunn av \"mistenkelige signaler\"",
-        "kilde": "Hacker News",
-        "tid": "00:38",
-        "lenke": "https://kix.codes/anthropic-banned-me-for-suspicious-signals/",
         "engelsk_kilde": true
       },
       {
@@ -258,7 +307,7 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Myke lanseringer og sene sittinger - seks måter å få billigere måltider ut på",
+        "tittel": "Barn spiser gratis og lojalitetspoeng - seks måter å spise ute på, men ikke bryte banken",
         "kilde": "BBC Business",
         "tid": "23:26",
         "lenke": "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss",
@@ -277,13 +326,6 @@
         "tid": "23:15",
         "lenke": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Fare for togstreik onsdag morgen –mekler på overtid",
-        "kilde": "NRK Nyheter",
-        "tid": "22:06",
-        "lenke": "https://www.nrk.no/nyheter/fare-for-togstreik-onsdag-morgen-_mekler-pa-overtid-1.18011118",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Dow faller under et nøkkeldiagramnivå, advarsel om flere problemer fremover",
@@ -307,31 +349,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nye bilete frå Nepal: Dette veit vi om det som skjedde",
-        "kilde": "NRK Nyheter",
-        "tid": "20:29",
-        "lenke": "https://www.nrk.no/urix/dette-veit-vi-om-det-som-skjedde-under-flaumen-i-nepal-1.18008824",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Solgt etter priskutt på 25 mill.",
         "kilde": "E24",
         "tid": "20:12",
         "lenke": "https://e24.no/naeringsliv/i/aJLwE7/solgt-etter-priskutt-paa-25-mill?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "VG: Kongeparet har dratt fra Rikshospitalet",
-        "kilde": "NRK Nyheter",
-        "tid": "19:31",
-        "lenke": "https://www.nrk.no/nyheter/vg_-kongeparet-har-dratt-fra-rikshospitalet-1.18011070",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kong Haakon er tilbake på Rikshospitalet",
-        "kilde": "NRK Nyheter",
-        "tid": "19:10",
-        "lenke": "https://www.nrk.no/nyheter/kong-haakon-er-tilbake-pa-rikshospitalet-1.18011046",
         "engelsk_kilde": false
       },
       {
@@ -353,13 +374,6 @@
         "kilde": "E24",
         "tid": "16:58",
         "lenke": "https://e24.no/energi-og-klima/i/WvdbLk/stroemprisen-skjoet-i-vaeret?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Store kontraster",
-        "kilde": "E24",
-        "tid": "16:57",
-        "lenke": "https://e24.no/boers-og-finans/i/rrXpaw/store-kontraster?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
@@ -389,20 +403,6 @@
         "tid": "15:15",
         "lenke": "https://www.bbc.co.uk/news/articles/cm2792pendro?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Da kongen «reddet» OL-stemningen",
-        "kilde": "NRK Nyheter",
-        "tid": "13:36",
-        "lenke": "https://www.nrk.no/innlandet/xl/da-kongen-_reddet_-ol-1.18008993",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Sa nei til cash - vant jackpot",
-        "kilde": "E24",
-        "tid": "10:05",
-        "lenke": "https://e24.no/boers-og-finans/i/9pGQbE/skulle-ikke-tatt-penga?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ]
   }
