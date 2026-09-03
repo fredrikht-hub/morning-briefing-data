@@ -1,132 +1,90 @@
 {
   "dato": "2026-09-03",
   "dato_norsk": "Torsdag 3. september 2026",
-  "generert_kl": "16:04",
+  "generert_kl": "20:10",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Trump $ 1 mynt gjør ham til den første levende presidenten på amerikansk valuta på et århundre",
-      "kilde": "BBC Business",
-      "tid": "15:35",
-      "lenke": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Hugging Face henvendte seg til Nvidias Huang-uker i forkant av oppkjøpet på $ 12,9 milliarder, sier administrerende direktør til CNBC",
-      "kilde": "CNBC Top News",
-      "tid": "14:38",
-      "lenke": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Nvidia inngår en avtale på $ 12,9 milliarder om å kjøpe AI-plattformen «Hugging Face»",
-      "kilde": "BBC Business",
-      "tid": "16:01",
-      "lenke": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Hurra, de blir i Norge! Eller?",
+      "tittel": "Nå avgjøres hvem som blir Oslo MDGs nye frontfigur",
       "kilde": "NRK Nyheter",
-      "tid": "15:22",
-      "lenke": "https://www.nrk.no/ytring/hurra_-de-blir-i-norge_-eller_-1.18013320",
+      "tid": "17:11",
+      "lenke": "https://www.nrk.no/stor-oslo/margit-bye-mot-eivind-traedal-pa-oslo-mdgs-nominasjonsmote-1.18013274",
       "engelsk_kilde": false
     },
     {
-      "tittel": "ChargePoints administrerende direktør sier at en aksjeøkning på 50% «er begynnelsen på momentumet»",
+      "tittel": "Zscaler-aksjen øker i inntjeningstakt, optimistisk veiledning",
       "kilde": "CNBC Top News",
-      "tid": "16:00",
-      "lenke": "https://www.cnbc.com/2026/09/03/chargepoint-ceo-50percent-stock-surge-is-the-beginning-of-the-momentum.html",
+      "tid": "20:07",
+      "lenke": "https://www.cnbc.com/2026/09/03/zscaler-zs-q4-earnings-2026.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Et gammelt ordtak i aksjemarkedet gjelder denne måneden — hvordan du bør spille det i 2026",
+      "kilde": "MarketWatch",
+      "tid": "19:55",
+      "lenke": "https://www.marketwatch.com/story/an-old-stock-market-adage-applies-this-month-how-you-should-play-it-in-2026-ec4b9386?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Wall Street satser på Fed Chair Kevin Warsh for å holde et manisk obligasjonsmarked fra å rakne",
+      "kilde": "MarketWatch",
+      "tid": "19:09",
+      "lenke": "https://www.marketwatch.com/story/wall-street-is-betting-on-fed-chair-kevin-warsh-to-keep-a-manic-bond-market-from-unraveling-03bbd093?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Er aksjemarkedet åpent på Labor Day? Leverer postkontoret post?",
+      "kilde": "MarketWatch",
+      "tid": "18:30",
+      "lenke": "https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-6d58fd77?mod=mw_rss_topstories",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "Hurra, de blir i Norge! Eller?",
+        "tittel": "Nå avgjøres hvem som blir Oslo MDGs nye frontfigur",
         "kilde": "NRK Nyheter",
-        "tid": "15:22",
-        "lenke": "https://www.nrk.no/ytring/hurra_-de-blir-i-norge_-eller_-1.18013320",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "VM på ski skal arrangeres hvert år: – Stikker i et nostalgisk norsk hjerte",
-        "kilde": "NRK Nyheter",
-        "tid": "12:47",
-        "lenke": "https://www.nrk.no/sport/vm-beskjed_-skal-arrangere-mesterskap-hvert-eneste-ar-1.18013272",
+        "tid": "17:11",
+        "lenke": "https://www.nrk.no/stor-oslo/margit-bye-mot-eivind-traedal-pa-oslo-mdgs-nominasjonsmote-1.18013274",
         "engelsk_kilde": false
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "ChargePoints administrerende direktør sier at en aksjeøkning på 50% «er begynnelsen på momentumet»",
+        "tittel": "Zscaler-aksjen øker i inntjeningstakt, optimistisk veiledning",
         "kilde": "CNBC Top News",
-        "tid": "16:00",
-        "lenke": "https://www.cnbc.com/2026/09/03/chargepoint-ceo-50percent-stock-surge-is-the-beginning-of-the-momentum.html",
+        "tid": "20:07",
+        "lenke": "https://www.cnbc.com/2026/09/03/zscaler-zs-q4-earnings-2026.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hvorfor Snowflake Stock Rocketed Higher i dag",
-        "kilde": "Yahoo Finance",
-        "tid": "15:57",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/why-snowflake-stock-rocketed-higher-155738166.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Broadcom prognoser bratt rampe i AI inntekter",
-        "kilde": "Yahoo Finance",
-        "tid": "15:55",
-        "lenke": "https://www.investors.com/news/technology/broadcom-stock-steep-ai-revenue-ramp-forecast/?src=A00220&yptr=yahoo",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Her er mine topp 5 aksjer for september",
-        "kilde": "Yahoo Finance",
-        "tid": "15:50",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/top-5-stocks-september-155000685.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Snøfnugg har et hemmelig våpen som driver aksjene sine mot en stor gevinst",
+        "tittel": "Et gammelt ordtak i aksjemarkedet gjelder denne måneden — hvordan du bør spille det i 2026",
         "kilde": "MarketWatch",
-        "tid": "15:20",
-        "lenke": "https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
+        "tid": "19:55",
+        "lenke": "https://www.marketwatch.com/story/an-old-stock-market-adage-applies-this-month-how-you-should-play-it-in-2026-ec4b9386?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hvordan investere i et blomstrende aksjemarked som er mye billigere enn S&P 500",
+        "tittel": "Wall Street satser på Fed Chair Kevin Warsh for å holde et manisk obligasjonsmarked fra å rakne",
         "kilde": "MarketWatch",
-        "tid": "14:57",
-        "lenke": "https://www.marketwatch.com/story/how-to-invest-in-a-booming-stock-market-thats-way-cheaper-than-the-s-p-500-b2f5ef5d?mod=mw_rss_topstories",
+        "tid": "19:09",
+        "lenke": "https://www.marketwatch.com/story/wall-street-is-betting-on-fed-chair-kevin-warsh-to-keep-a-manic-bond-market-from-unraveling-03bbd093?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Etter hvert som Broadcoms aksjer faller, fokuserer Wall Street på selskapets prognose",
+        "tittel": "Er aksjemarkedet åpent på Labor Day? Leverer postkontoret post?",
         "kilde": "MarketWatch",
-        "tid": "13:46",
-        "lenke": "https://www.marketwatch.com/story/broadcom-stock-fall-as-investors-weigh-guidance-heres-what-wall-street-analysts-are-saying-9048c0e6?mod=mw_rss_topstories",
+        "tid": "18:30",
+        "lenke": "https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-6d58fd77?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Oppgang på Wall Street – «tiåringen» faller",
+        "tittel": "Oppgang på Wall Street etter Fed-signaler",
         "kilde": "E24",
         "tid": "13:32",
         "lenke": "https://e24.no/boers-og-finans/i/lnXbl7/wall-street-aapner-med-oppgang-tiaaringen-faller?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Aksjemarkedet i dag: Dow, S&P 500, Nasdaq surge as traders pare rate-hike bets, bond yields ease",
-        "kilde": "Yahoo Finance",
-        "tid": "08:15",
-        "lenke": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-3-dow-sp-500-nasdaq-futures-081525933.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Broadcom-aksjen faller da chipmakerens sterke resultater \"ikke nok til å holde investorene fornøyde\"",
-        "kilde": "Yahoo Finance",
-        "tid": "20:59",
-        "lenke": "https://finance.yahoo.com/markets/article/broadcom-stock-falls-as-chipmakers-strong-results-not-enough-to-keep-investors-happy-205929042.html",
-        "engelsk_kilde": true
       }
     ],
     "ENERGI_RAAVARER": [
@@ -140,61 +98,47 @@
     ],
     "TEKNOLOGI": [
       {
+        "tittel": "Opsjonsvolumet bryter ut i detaljhandelsfavoritter som Robinhood, Tesla-stigning",
+        "kilde": "CNBC Top News",
+        "tid": "19:25",
+        "lenke": "https://www.cnbc.com/2026/09/03/options-volume-erupts-in-retail-trading-favorites-as-robinhood-tesla-surge.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "SpaceX er tilbake i $ 2 billioner-klubben etter nesten to måneder",
+        "kilde": "MarketWatch",
+        "tid": "19:05",
+        "lenke": "https://www.marketwatch.com/story/spacex-is-back-in-the-2-trillion-club-after-nearly-two-months-25632255?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Microsoft innfører tidsbegrensninger for Xbox-skybaserte spillabonnenter etter hvert som kostnadene fortsetter å stige",
+        "kilde": "CNBC Top News",
+        "tid": "19:03",
+        "lenke": "https://www.cnbc.com/2026/09/03/microsoft-xbox-game-pass-cloud-limits.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "OpenAI begynner å rulle ut Astra-modellen etter å ha advart om sine avanserte nettfunksjoner",
+        "kilde": "CNBC Top News",
+        "tid": "18:00",
+        "lenke": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Nvidia inngår en avtale på $ 12,9 milliarder om å kjøpe AI-plattformen «Hugging Face»",
         "kilde": "BBC Business",
-        "tid": "16:01",
+        "tid": "16:32",
         "lenke": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Google ble funnet å ha et ulovlig monopol og beholdt det uansett. Er antitrustmarerittet endelig over?",
-        "kilde": "Yahoo Finance",
-        "tid": "15:50",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/google-found-hold-illegal-monopoly-155036913.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "ChatGPT, Claude og Grok er nede",
-        "kilde": "Hacker News",
-        "tid": "15:30",
-        "lenke": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "'Ingen ratt, ingen pedaler': Tesla erter fans i forkant av etterlengtet Cybercab-oppdatering",
-        "kilde": "CNBC Top News",
-        "tid": "15:23",
-        "lenke": "https://www.cnbc.com/2026/09/03/tesla-teases-no-steering-wheel-no-pedals-ahead-of-cybercab-update.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Spør HN: Hvorfor er OpenAI, Claude og Grok samtidig nede? Tilfeldigheter?",
-        "kilde": "Hacker News",
-        "tid": "15:07",
-        "lenke": "https://news.ycombinator.com/item?id=49551096",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hugging Face henvendte seg til Nvidias Huang-uker i forkant av oppkjøpet på $ 12,9 milliarder, sier administrerende direktør til CNBC",
-        "kilde": "CNBC Top News",
-        "tid": "14:38",
-        "lenke": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nvidia kjøper Hugging Face for nær 13 milliarder dollar",
-        "kilde": "E24",
-        "tid": "12:07",
-        "lenke": "https://e24.no/boers-og-finans/i/ArQm0A/nvidia-kjoeper-hugging-face-naer-13-milliarder-dollar?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Elon Musk begynner å bruke sine millioner på midtveisvalg, og avslører sine viktigste senatmål",
+        "tittel": "Bilprodusenter oppfordrer Kongressen til å permanent forby kinesisk tilkoblede kjøretøy i USA",
         "kilde": "CNBC Top News",
-        "tid": "15:46",
-        "lenke": "https://www.cnbc.com/2026/09/03/elon-musk-america-pac-election-senate-races.html",
+        "tid": "16:51",
+        "lenke": "https://www.cnbc.com/2026/09/03/chinese-vehicles-congress.html",
         "engelsk_kilde": true
       },
       {
@@ -203,16 +147,163 @@
         "tid": "15:35",
         "lenke": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Antropikkens destillasjonskamp blir til det mørke nettet når Kina bekymrer seg for svulmer",
-        "kilde": "CNBC Top News",
-        "tid": "11:45",
-        "lenke": "https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html",
-        "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "Vance sier at Fed bør senke renten: 'Hadde vært fint med litt hjelp'",
+        "kilde": "CNBC Top News",
+        "tid": "19:18",
+        "lenke": "https://www.cnbc.com/2026/09/03/vance-fed-interest-rates-trump-bond-yields.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Prim mellomrom på det meste 186",
+        "kilde": "Hacker News",
+        "tid": "19:18",
+        "lenke": "https://github.com/openai/PrimeGaps186",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Asteroiden som for øyeblikket treffer frontend webutvikling",
+        "kilde": "Hacker News",
+        "tid": "19:17",
+        "lenke": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Storebrand ber statsråden om møte: – Overrasket",
+        "kilde": "E24",
+        "tid": "19:17",
+        "lenke": "https://e24.no/boers-og-finans/i/wrbAOL/storebrand-ber-statsraaden-om-moete-overrasket?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Volkswagen kutter 50.000 jobber",
+        "kilde": "E24",
+        "tid": "19:16",
+        "lenke": "https://e24.no/naeringsliv/i/M7W0gE/volkswagen-kutter-50-000-jobber?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Carney klapper tilbake på Lutnick, sier Canada vil gjenoppta handelssamtaler 'når amerikanerne er klare'",
+        "kilde": "CNBC Top News",
+        "tid": "19:16",
+        "lenke": "https://www.cnbc.com/2026/09/03/carney-lutnick-trump-trade-canada.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "FpU-varsler i Debatten: – Jeg ble kvalm av det",
+        "kilde": "NRK Nyheter",
+        "tid": "19:05",
+        "lenke": "https://www.nrk.no/norge/fpu-varsler-i-debatten_-_-jeg-ble-kvalm-av-det-1.18011943",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Gav kongen eit løfte",
+        "kilde": "NRK Nyheter",
+        "tid": "19:03",
+        "lenke": "https://www.nrk.no/nordland/spectrum-2_-lova-kong-haakon-rakettoppskyting-ved-andoya-space-1.18008984",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Piper Sandler forventer at Robinhood vil kickstarte fotballsesongen med en seier",
+        "kilde": "CNBC Top News",
+        "tid": "19:01",
+        "lenke": "https://www.cnbc.com/2026/09/03/piper-sandler-expects-robinhood-to-start-football-season-with-a-win.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "\"Jeg legger igjen penger på bordet\": Jeg er 64 og mannen min er 70. Skal jeg ta ektefellefordeler eller vente på mine egne?",
+        "kilde": "MarketWatch",
+        "tid": "19:01",
+        "lenke": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Gullfiskkjeks får en makeover etter hvert som nye helsetrender omformer snackgangen",
+        "kilde": "MarketWatch",
+        "tid": "18:48",
+        "lenke": "https://www.marketwatch.com/story/goldfish-crackers-are-getting-a-makeover-as-new-health-trends-reshape-the-snack-aisle-32e89644?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "GPT-6 Astra",
+        "kilde": "Hacker News",
+        "tid": "18:41",
+        "lenke": "https://openai.com/index/gpt-6-astra/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Qwen 3.8 27B tilgjengelig på Cerebras med 1500 tokens/s",
+        "kilde": "Hacker News",
+        "tid": "18:32",
+        "lenke": "https://inference-docs.cerebras.ai/models/overview",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Ingen av oss gikk på college’: Hvordan har vi råd til å sende barnebarnet vårt gjennom college når vi er 62?",
+        "kilde": "MarketWatch",
+        "tid": "18:30",
+        "lenke": "https://www.marketwatch.com/story/her-life-was-very-challenging-before-we-got-custody-at-62-how-can-we-afford-to-put-our-granddaughter-through-college-b9d550bb?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Min kone og jeg er i 70-årene. Skal vi flytte til California og ta et større boliglån for å være i nærheten av barna våre?",
+        "kilde": "MarketWatch",
+        "tid": "18:30",
+        "lenke": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "MC-fører omkom",
+        "kilde": "NRK Nyheter",
+        "tid": "18:27",
+        "lenke": "https://www.nrk.no/buskerud/mc-forer-omkom-1.18013616",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Nederland flytter gull ut av Trumps bakgård",
+        "kilde": "E24",
+        "tid": "17:51",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/3pQxpv/nederland-flytter-gull-ut-av-trumps-bakgaard?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "MC-ulykke i Ringerike: E16 stengt i begge retninger",
+        "kilde": "NRK Nyheter",
+        "tid": "17:22",
+        "lenke": "https://www.nrk.no/buskerud/mc-ulykke-i-ringerike_-e16-stengt-i-begge-retninger-1.18013570",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Investeringsboble i KI?",
+        "kilde": "E24",
+        "tid": "17:18",
+        "lenke": "https://e24.no/boers-og-finans/i/9pnrOd/analysesjef-petter-kongslie-investeringsboble-i-kunstig-intelligens?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Hvor bekymret bør vi være for Astras tilbakevendende arkitektur?",
+        "kilde": "Hacker News",
+        "tid": "17:10",
+        "lenke": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Uefa-topp i stort NRK-intervju: – Absurde og potensielt katastrofale avgjørelser",
+        "kilde": "NRK Nyheter",
+        "tid": "16:50",
+        "lenke": "https://www.nrk.no/sport/europeisk-fotball-med-nytt-fifa-krav_-_-nesten-ikke-verdt-papiret-den-er-skrevet-pa-1.18004719",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kongens gravferd: – Politiet vil ta i bruk hele verktøykassen",
+        "kilde": "NRK Nyheter",
+        "tid": "16:49",
+        "lenke": "https://www.nrk.no/norge/kongens-gravferd_-__politiet-vil-ta-i-bruk-hele-verktoykassen-1.18011469",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Konkurs: – Helt stopp",
         "kilde": "E24",
@@ -221,122 +312,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "WaterBridges (WBI) tilnærming til forvaltning av vannressurser",
-        "kilde": "Yahoo Finance",
-        "tid": "15:50",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/waterbridge-wbi-approach-managing-water-155026934.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Sony kommer med dristige påstander om speleierskap",
-        "kilde": "Hacker News",
-        "tid": "15:44",
-        "lenke": "https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Diamond Hill forblir bullish på amerikansk kalk og mineraler (USLM) til tross for marginalt motvind",
-        "kilde": "Yahoo Finance",
-        "tid": "15:40",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/diamond-hill-remains-bullish-united-154013765.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg tilbød å kjøpe en bursdagsdrink til vennen min. Hun bestilte mat for $ 180 og forventer at jeg betaler. Skal jeg Venmo henne for halvparten?",
-        "kilde": "MarketWatch",
-        "tid": "15:39",
-        "lenke": "https://www.marketwatch.com/story/i-offered-to-buy-my-friend-a-birthday-drink-she-ordered-180-worth-of-food-and-expects-me-to-pay-should-i-venmo-her-for-half-0efc941c?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "NFL klar for første kamp noensinne i Melbourne, Australia, i internasjonal ekspansjon",
         "kilde": "CNBC Top News",
         "tid": "15:38",
         "lenke": "https://www.cnbc.com/2026/09/03/nfl-rams-49ers-australia-international-expansion.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Ryman Hospitality (RHP) -gevinster fra motstandsdyktig kontantstrømgenerering",
-        "kilde": "Yahoo Finance",
-        "tid": "15:35",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/ryman-hospitality-rhp-gains-resilient-153503455.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Grok strømbrudd",
-        "kilde": "Hacker News",
-        "tid": "15:26",
-        "lenke": "https://status.x.ai/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Slutt for YouTube-suksessen «Chicken Shop Date»",
-        "kilde": "NRK Nyheter",
-        "tid": "15:16",
-        "lenke": "https://www.nrk.no/nyheter/slutt-for-youtube-suksessen-_chicken-shop-date_-1.18013456",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "En nettlesers anatomi",
-        "kilde": "Hacker News",
-        "tid": "15:14",
-        "lenke": "https://medium.com/@Koukyosyumei/anatomy-of-a-browser-95014ab378f8",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Leon Black saksøker House Oversight over Epstein sonde stevninger, vil ikke vises torsdag",
-        "kilde": "CNBC Top News",
-        "tid": "15:12",
-        "lenke": "https://www.cnbc.com/2026/09/03/leon-black-sues-house-oversight-epstein-probe-subpoenas.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Fann 385 mill. år gamalt plantefossil: – Eg sa nokre ukristelege ord",
-        "kilde": "NRK Nyheter",
-        "tid": "15:02",
-        "lenke": "https://www.nrk.no/vestland/fann-385-millionar-ar-gamalt-plantefossil-i-sunnfjord-_-fra-for-dinosaurane-si-tid-1.18002606",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Min kone og jeg er i 70-årene. Skal vi flytte til California og ta et større boliglån for å være i nærheten av barna våre?",
-        "kilde": "MarketWatch",
-        "tid": "15:00",
-        "lenke": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Den amerikanske økonomien øker i takt med at sommeren går nedover, men den er ikke fri for snubletråder",
-        "kilde": "MarketWatch",
-        "tid": "14:44",
-        "lenke": "https://www.marketwatch.com/story/the-u-s-economy-powers-up-as-summer-winds-down-but-its-not-free-of-tripwires-2208ae5a?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Se hvordan togene knuses – snart kommer de nye",
-        "kilde": "NRK Nyheter",
-        "tid": "14:41",
-        "lenke": "https://www.nrk.no/buskerud/knuser-gamle-togsett-_-snart-kommer-de-nye-1.18010202",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Mister en kvart milliard – mener bydelsreformen kan være ulovlig",
-        "kilde": "NRK Nyheter",
-        "tid": "14:40",
-        "lenke": "https://www.nrk.no/stor-oslo/inndrar-255-millioner-kroner-i-bydelsreformen---rodt-krever-kontroll-av-lovligheten-1.18011790",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Victoria's Secret ser sterke ‘bh-er og rosa’ salg, men ikke nok til å tilfredsstille investorer",
-        "kilde": "MarketWatch",
-        "tid": "14:32",
-        "lenke": "https://www.marketwatch.com/story/victorias-secret-sees-strong-bras-and-pink-sales-but-not-enough-to-satisfy-investors-48bfe36c?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Tror du at du har maksimert din 401(k)? Den virkelige grensen er faktisk nesten $ 50 000 høyere.",
-        "kilde": "MarketWatch",
-        "tid": "14:30",
-        "lenke": "https://www.marketwatch.com/story/think-you-maxed-out-your-401-k-the-real-limit-is-actually-almost-50-000-higher-217a89ee?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -347,17 +326,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Klikkfabrikker i Vietnam deler falske bilder av syk kong Harald",
+        "tittel": "Dette seier publikum om teaterstykket om Høiby: – Ei sterkare betydning",
         "kilde": "NRK Nyheter",
-        "tid": "13:56",
-        "lenke": "https://www.nrk.no/norge/xl/facebook-sider-i-vietnam-spredte-falske-bilder-av-syk-kong-harald-1.18011392",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Utvider siktelsen mot overgrepssiktet lærer i Nordre Follo",
-        "kilde": "NRK Nyheter",
-        "tid": "13:51",
-        "lenke": "https://www.nrk.no/stor-oslo/siktelsen-mot-overgrepssiktet-laerer-i-nordre-follo-utvidet-1.18013381",
+        "tid": "13:24",
+        "lenke": "https://www.nrk.no/vestland/kritikarar-er-ueinige-om-premieren-pa-_sonnen_-var-darleg-timing-1.17996030",
         "engelsk_kilde": false
       },
       {
@@ -389,41 +361,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hvordan Meta vil gjennomføre massive endringer i sine sosiale medier-apper",
-        "kilde": "CNBC Top News",
-        "tid": "12:00",
-        "lenke": "https://www.cnbc.com/2026/09/03/meta-teen-app-changes.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Småsparerne snur: – Får litt høydeskrekk",
-        "kilde": "E24",
-        "tid": "10:08",
-        "lenke": "https://e24.no/boers-og-finans/i/xrXRgn/smaasparerne-snur-faar-litt-hoeydeskrekk?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Stortap for Andresen-familiens sportsgigant",
-        "kilde": "E24",
-        "tid": "10:03",
-        "lenke": "https://e24.no/naeringsliv/i/16wq5e/stortap-for-andresen-familiens-sportsgigant?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Boliglånsrenten nådde det høyeste nivået på over et år: Boliglåns- og refinansieringsrenten i dag, torsdag 3. september 2026",
-        "kilde": "Yahoo Finance",
-        "tid": "10:00",
-        "lenke": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-hit-highest-level-in-over-a-year-mortgage-and-refinance-interest-rates-today-thursday-september-3-2026-100000627.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vurderer mulig nordisk «superbørs»: Positiv til initiativ",
-        "kilde": "E24",
-        "tid": "09:40",
-        "lenke": "https://e24.no/boers-og-finans/i/pBXrmj/oslo-boers-sjefen-positiv-til-tettere-nordisk-boerssamarbeid?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Nesten halvparten av husholdningene ser ikke fordelene med økonomisk vekst, sier rapport",
         "kilde": "BBC Business",
         "tid": "05:47",
@@ -435,13 +372,6 @@
         "kilde": "CNBC Top News",
         "tid": "04:52",
         "lenke": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Verden ser ut til å gå inn i en høyere æra. Her er hvem som skal betale prisen",
-        "kilde": "CNBC Top News",
-        "tid": "04:20",
-        "lenke": "https://www.cnbc.com/2026/09/03/global-bond-yields-rising-treasuries-jgb-bunds.html",
         "engelsk_kilde": true
       },
       {
@@ -463,6 +393,13 @@
         "kilde": "BBC Business",
         "tid": "23:13",
         "lenke": "https://www.bbc.co.uk/news/articles/czxqpqrzq01o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Derfor finner du ikke McDonald's $ 3-valuta-menyen",
+        "kilde": "Yahoo Finance",
+        "tid": "23:10",
+        "lenke": "https://finance.yahoo.com/small-business/articles/mcdonalds-3-menu-problem-hits-231000768.html",
         "engelsk_kilde": true
       }
     ]
