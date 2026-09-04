@@ -1,52 +1,59 @@
 {
   "dato": "2026-09-04",
   "dato_norsk": "Fredag 4. september 2026",
-  "generert_kl": "04:15",
+  "generert_kl": "08:05",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "EU slutter seg til USAs sanksjoner mot Iran mens Sør-Korea veier Hormuz-utplasseringen",
+      "tittel": "Inflasjonsånden kan være ute av flasken — og obligasjonsmarkedene slår alarm",
       "kilde": "CNBC Top News",
-      "tid": "04:02",
+      "tid": "07:05",
+      "lenke": "https://www.cnbc.com/2026/09/04/global-bond-selloff-inflation-risk.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Biotekaksje faller kraftig på Oslo Børs",
+      "kilde": "E24",
+      "tid": "07:01",
+      "lenke": "https://e24.no/boers-og-finans/i/L4do14/nedgang-paa-oslo-boers?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Verdens største statlige formuesfond planlegger å kutte amerikanske statskassebeholdninger",
+      "kilde": "CNBC Top News",
+      "tid": "06:46",
+      "lenke": "https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "USAs «Economic Outcast» -operasjon tar fart etter hvert som EU slutter seg til sanksjonene; Sør-Korea veier militær støtte",
+      "kilde": "CNBC Top News",
+      "tid": "06:17",
       "lenke": "https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Argentina sanksjonerer oljeselskaper ettersom Falklandsøyene krangler med Storbritannia",
-      "kilde": "BBC Business",
-      "tid": "04:04",
-      "lenke": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Den store rapporten om augustjobber kommer på fredag. Her er hva du kan forvente for det som har vært en arbeidsløs sommer",
+      "tittel": "Argentinas Milei eskalerer Falklandstvisten mens Trump stiller spørsmål ved USAs støtte til Storbritannia",
       "kilde": "CNBC Top News",
-      "tid": "19:38",
-      "lenke": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Hugging Face henvendte seg til Nvidias Huang-uker i forkant av oppkjøpet på $ 12,9 milliarder, sier administrerende direktør til CNBC",
-      "kilde": "CNBC Top News",
-      "tid": "16:43",
-      "lenke": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Nvidia inngår en avtale på $ 12,9 milliarder om å kjøpe AI-plattformen «Hugging Face»",
-      "kilde": "BBC Business",
-      "tid": "16:32",
-      "lenke": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+      "tid": "07:50",
+      "lenke": "https://www.cnbc.com/2026/09/04/argentina-milei-falklands-oil-uk-trump.html",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "Meklingen på Stortinget fortsetter på overtid",
+        "tittel": "Minst 40 ansatte i Norge mister jobben i Norsk Folkehjelp etter USA-nei",
         "kilde": "NRK Nyheter",
-        "tid": "23:23",
-        "lenke": "https://www.nrk.no/nyheter/meklingen-pa-stortinget-fortsetter-pa-overtid-1.18013716",
+        "tid": "07:26",
+        "lenke": "https://www.nrk.no/nyheter/minst-40-ansatte-i-norge-mister-jobben-i-norsk-folkehjelp-etter-usa-nei-1.18013921",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Biotekaksje faller kraftig på Oslo Børs",
+        "kilde": "E24",
+        "tid": "07:01",
+        "lenke": "https://e24.no/boers-og-finans/i/L4do14/nedgang-paa-oslo-boers?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
@@ -59,14 +66,35 @@
     ],
     "MAKRO": [
       {
-        "tittel": "Den store rapporten om augustjobber kommer på fredag. Her er hva du kan forvente for det som har vært en arbeidsløs sommer",
+        "tittel": "Inflasjonsånden kan være ute av flasken — og obligasjonsmarkedene slår alarm",
         "kilde": "CNBC Top News",
-        "tid": "19:38",
-        "lenke": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html",
+        "tid": "07:05",
+        "lenke": "https://www.cnbc.com/2026/09/04/global-bond-selloff-inflation-risk.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Verdens største statlige formuesfond planlegger å kutte amerikanske statskassebeholdninger",
+        "kilde": "CNBC Top News",
+        "tid": "06:46",
+        "lenke": "https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html",
         "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
+      {
+        "tittel": "Salget av globale obligasjoner er sannsynligvis ikke over ennå, sier Mohamed El-Erian til CNBC",
+        "kilde": "CNBC Top News",
+        "tid": "07:41",
+        "lenke": "https://www.cnbc.com/2026/09/04/el-erian-government-bond-selloff.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Shein har gjort en rystende aksjemarkedsinngang. Kan den få sin mojo tilbake?",
+        "kilde": "CNBC Top News",
+        "tid": "04:49",
+        "lenke": "https://www.cnbc.com/2026/09/04/shein-ipo-fast-fashion-temu-competition.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Snøfnugg har et hemmelig våpen som driver aksjene sine mot en stor gevinst",
         "kilde": "MarketWatch",
@@ -87,28 +115,14 @@
         "tid": "20:52",
         "lenke": "https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Oppgang på Wall Street etter Fed-signaler",
-        "kilde": "E24",
-        "tid": "13:32",
-        "lenke": "https://e24.no/boers-og-finans/i/lnXbl7/wall-street-aapner-med-oppgang-tiaaringen-faller?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ],
     "ENERGI_RAAVARER": [
       {
-        "tittel": "Argentina sanksjonerer oljeselskaper ettersom Falklandsøyene krangler med Storbritannia",
+        "tittel": "Argentinas leder truer med å sanksjonere oljeselskaper og gjentar påstanden fra Falklandsøyene",
         "kilde": "BBC Business",
-        "tid": "04:04",
+        "tid": "06:52",
         "lenke": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Husholdninger advarte om at gassprisstigning kunne legge nytt press på energiregningene",
-        "kilde": "BBC Business",
-        "tid": "13:26",
-        "lenke": "https://www.bbc.co.uk/news/articles/cm274mwxy1vo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ],
@@ -121,13 +135,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hugging Face henvendte seg til Nvidias Huang-uker i forkant av oppkjøpet på $ 12,9 milliarder, sier administrerende direktør til CNBC",
-        "kilde": "CNBC Top News",
-        "tid": "16:43",
-        "lenke": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Nvidia inngår en avtale på $ 12,9 milliarder om å kjøpe AI-plattformen «Hugging Face»",
         "kilde": "BBC Business",
         "tid": "16:32",
@@ -137,40 +144,131 @@
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "EU slutter seg til USAs sanksjoner mot Iran mens Sør-Korea veier Hormuz-utplasseringen",
+        "tittel": "Argentinas Milei eskalerer Falklandstvisten mens Trump stiller spørsmål ved USAs støtte til Storbritannia",
         "kilde": "CNBC Top News",
-        "tid": "04:02",
+        "tid": "07:50",
+        "lenke": "https://www.cnbc.com/2026/09/04/argentina-milei-falklands-oil-uk-trump.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "USAs «Economic Outcast» -operasjon tar fart etter hvert som EU slutter seg til sanksjonene; Sør-Korea veier militær støtte",
+        "kilde": "CNBC Top News",
+        "tid": "06:17",
         "lenke": "https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kongens gravferd: – Trump kan sende Melania",
+        "kilde": "E24",
+        "tid": "04:44",
+        "lenke": "https://e24.no/boers-og-finans/i/xrymEQ/kongens-gravferd-trump-kan-sende-melania?utm_medium=rss",
+        "engelsk_kilde": false
       }
     ],
     "VILLKORT": [
       {
-        "tittel": "Advarer om tomme hyller hos Rema 1000",
+        "tittel": "Ukrainsk selskap krever tvangssalg av russisk skip arrestert på Svalbard",
+        "kilde": "NRK Nyheter",
+        "tid": "07:56",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/ukrainsk-selskap-krever-tvangssalg-av-_professor-moltsjanov_-arrestert-pa-svalbard-1.18013827",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kutter 50.000 jobber – aksjemarkedet jubler",
+        "kilde": "E24",
+        "tid": "07:46",
+        "lenke": "https://e24.no/boers-og-finans/i/bOdXBq/kutter-50-000-jobber-aksjemarkedet-jubler?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Menn møter veggen mykje oftare enn kvinner",
+        "kilde": "NRK Nyheter",
+        "tid": "07:44",
+        "lenke": "https://www.nrk.no/trondelag/menn-moter-veggen-mykje-oftare-enn-kvinner-i-lange-lop-som-maraton-1.17993489",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Uttrykket som ødelegger alle e-handelsprosjekter: \"Bare koble det til ERP-en vår.\"",
+        "kilde": "Hacker News",
+        "tid": "07:36",
+        "lenke": "https://shiftmag.dev/the-phrase-that-ruins-every-ecommerce-project-just-connect-it-to-our-erp-11689/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Greggs, H&M og Space NK - hvordan få bursdagsgratiser og hvorfor det er en hake",
+        "kilde": "BBC Business",
+        "tid": "07:19",
+        "lenke": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Volkswagens styre godkjenner plan om å kutte ytterligere 50 000 arbeidsplasser",
+        "kilde": "BBC Business",
+        "tid": "07:00",
+        "lenke": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hackere hadde en direktemelding fra hvert ID-verifiseringsselskap som ble skannet i over et år",
+        "kilde": "Hacker News",
+        "tid": "06:47",
+        "lenke": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Stenger trafikken, men tillater skjenking under kong Haralds gravferd",
+        "kilde": "NRK Nyheter",
+        "tid": "06:08",
+        "lenke": "https://www.nrk.no/stor-oslo/stenger-butikker-i-oslo-sentrum-under-kong-haralds-gravferd-1.18012598",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kontroversielt Jackdaw gassfelt satt til å bli godkjent i løpet av uker, sier kilder",
+        "kilde": "BBC Business",
+        "tid": "05:59",
+        "lenke": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fra \"hundefrukt\" til elskling: Indias avokadobom",
+        "kilde": "BBC Business",
+        "tid": "05:09",
+        "lenke": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nepal: To personer reddet etter ni dager",
+        "kilde": "NRK Nyheter",
+        "tid": "04:43",
+        "lenke": "https://www.nrk.no/nyheter/nepal_-to-personer-reddet-etter-ni-dager-1.18013773",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Færre vil studere IT: – Draumen er å gjere verda til ein betre stad",
+        "kilde": "NRK Nyheter",
+        "tid": "04:39",
+        "lenke": "https://www.nrk.no/trondelag/faerre-vil-studere-it_-_-draumen-er-a-gjere-verda-til-ein-betre-stad-1.17992050",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Dette kan bli avgjørende fremover",
+        "kilde": "E24",
+        "tid": "04:14",
+        "lenke": "https://e24.no/boers-og-finans/i/43XMp9/bitcoins-nye-bestevenn-statsgjeld?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Advarer om tomme hyller",
         "kilde": "E24",
         "tid": "04:13",
         "lenke": "https://e24.no/norsk-oekonomi/i/16wnOl/advarer-om-tomme-hyller-hos-rema-1000?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
-        "tittel": "Grep slår LSP? Hvorfor ignorerer kodingsagenter dine mer avanserte verktøy",
-        "kilde": "Hacker News",
-        "tid": "03:40",
-        "lenke": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Spilling avslører: Denne retten lagar ho til Ødegaard før kvar kamp",
         "kilde": "NRK Nyheter",
         "tid": "03:24",
         "lenke": "https://www.nrk.no/sport/mesternes-mester-team_-helene-spilling-lagar-alltid-denne-retten-til-martin-odegaard-for-kamp-1.17989063",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Milei: – Vi må vinne tilbake Falklandsøyene",
-        "kilde": "NRK Nyheter",
-        "tid": "03:01",
-        "lenke": "https://www.nrk.no/nyheter/milei_-_-vi-ma-vinne-tilbake-falklandsoyene-1.18013726",
         "engelsk_kilde": false
       },
       {
@@ -188,31 +286,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Prosjekt Xanadu: Enda mer etterpåklokskap",
+        "tittel": "Prosjekt Xanadu: Enda mer etterpåklokskap (2025)",
         "kilde": "Hacker News",
         "tid": "01:45",
         "lenke": "https://gwern.net/xanadu",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Volkswagens styre godkjenner plan om å kutte ytterligere 50 000 arbeidsplasser",
-        "kilde": "BBC Business",
-        "tid": "01:20",
-        "lenke": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Sør-Koreas AI-rally omformer romantikk, realityshow og akademiske preferanser",
-        "kilde": "CNBC Top News",
-        "tid": "00:55",
-        "lenke": "https://www.cnbc.com/2026/09/04/south-korea-ai-rally-society-impact.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "En \"shakeout\" i tidlig stadium AI kan komme som VC penger blir pickier på verdsettelser",
-        "kilde": "CNBC Top News",
-        "tid": "00:44",
-        "lenke": "https://www.cnbc.com/2026/09/04/ai-bubble-valuations-venture-capital.html",
         "engelsk_kilde": true
       },
       {
@@ -258,27 +335,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Fra kake til pizza: Slik får du de beste bursdagsgratisspillene (og hvorfor det er en hake)",
-        "kilde": "BBC Business",
-        "tid": "23:25",
-        "lenke": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kontroversielt Jackdaw gassfelt satt til å bli godkjent i løpet av uker, sier kilder",
-        "kilde": "BBC Business",
-        "tid": "23:00",
-        "lenke": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "GLP-1 er knyttet til færre alvorlige infeksjoner, inkludert tuberkulose",
-        "kilde": "Hacker News",
-        "tid": "22:37",
-        "lenke": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "«Din favorittrappers favorittrapper»",
         "kilde": "NRK Nyheter",
         "tid": "22:01",
@@ -321,27 +377,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "FpU-varsler i Debatten: – Jeg ble kvalm av det",
-        "kilde": "NRK Nyheter",
-        "tid": "19:05",
-        "lenke": "https://www.nrk.no/norge/fpu-varsler-i-debatten_-_-jeg-ble-kvalm-av-det-1.18011943",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Gav kongen eit løfte",
-        "kilde": "NRK Nyheter",
-        "tid": "19:03",
-        "lenke": "https://www.nrk.no/nordland/spectrum-2_-lova-kong-haakon-rakettoppskyting-ved-andoya-space-1.18008984",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "MC-fører omkom",
-        "kilde": "NRK Nyheter",
-        "tid": "18:27",
-        "lenke": "https://www.nrk.no/buskerud/mc-forer-omkom-1.18013616",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Nederland flytter gull ut av Trumps bakgård",
         "kilde": "E24",
         "tid": "17:51",
@@ -356,45 +391,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Konkurs: – Helt stopp",
-        "kilde": "E24",
-        "tid": "16:03",
-        "lenke": "https://e24.no/naeringsliv/i/y5bLqJ/konkurs-helt-stopp?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "NFL klar for første kamp noensinne i Melbourne, Australia, i internasjonal ekspansjon",
         "kilde": "CNBC Top News",
         "tid": "15:38",
         "lenke": "https://www.cnbc.com/2026/09/03/nfl-rams-49ers-australia-international-expansion.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kampen om taximarkedet",
-        "kilde": "E24",
-        "tid": "14:11",
-        "lenke": "https://e24.no/naeringsliv/i/K81k24/kampen-om-taximarkedet?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Dette seier publikum om teaterstykket om Høiby: – Ei sterkare betydning",
-        "kilde": "NRK Nyheter",
-        "tid": "13:24",
-        "lenke": "https://www.nrk.no/vestland/kritikarar-er-ueinige-om-premieren-pa-_sonnen_-var-darleg-timing-1.17996030",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Ujevn boligprisvekst: Her kan det komme en «backlash»",
-        "kilde": "E24",
-        "tid": "13:22",
-        "lenke": "https://e24.no/naeringsliv/i/JOMpEX/ujevn-boligprisvekst-her-kan-det-komme-en-backlash?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "NBA suspenderer Clippers-eier Ballmer i ett år i Kawhi Leonard lønnstakssonde",
-        "kilde": "CNBC Top News",
-        "tid": "04:52",
-        "lenke": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
         "engelsk_kilde": true
       }
     ]
