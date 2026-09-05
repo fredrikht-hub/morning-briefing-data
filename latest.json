@@ -1,42 +1,42 @@
 {
   "dato": "2026-09-05",
   "dato_norsk": "Lørdag 5. september 2026",
-  "generert_kl": "16:04",
+  "generert_kl": "20:10",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Trumps statskapitalisme kommer til oljeindustrien med sin enestående Venezuela-avtale",
+      "tittel": "Trump skrur opp varmen på Warsh mens Feds renteøkning ruver",
       "kilde": "CNBC Top News",
-      "tid": "15:11",
-      "lenke": "https://www.cnbc.com/2026/09/05/trump-venezuela-oil-north-america-blue-energy-partners-nabep.html",
+      "tid": "19:12",
+      "lenke": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Forskere mener russiske uttalelser om Norge er ment for å skape frykt",
-      "kilde": "NRK Nyheter",
-      "tid": "15:15",
-      "lenke": "https://www.nrk.no/tromsogfinnmark/forsker-mener-russiske-reaksjoner-etter-skip-ble-tatt-i-arrest-pa-svalbard-er-ment-for-a-skape-frykt-1.18015201",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Hvorfor jeg fortsatt investerer i VTI akkurat nå, uansett hva aksjemarkedet gjør",
-      "kilde": "Yahoo Finance",
-      "tid": "15:50",
-      "lenke": "https://finance.yahoo.com/markets/stocks/articles/why-im-still-investing-vti-155000939.html",
+      "tittel": "Hvorfor jobbrapporten faktisk vil være bra for obligasjoner",
+      "kilde": "MarketWatch",
+      "tid": "18:26",
+      "lenke": "https://www.marketwatch.com/story/why-the-jobs-report-will-actually-be-good-for-bonds-eb062fda?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Broadcom (AVGO) AI-inntektene stiger, men Wall Street vil ha mer",
+      "tittel": "Nvidia knapt flyttet. Disse to AI-tilkoblingsaksjene økte med mer enn 7%",
       "kilde": "Yahoo Finance",
-      "tid": "14:58",
-      "lenke": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-ai-revenue-soars-145838390.html",
+      "tid": "18:56",
+      "lenke": "https://finance.yahoo.com/markets/stocks/articles/nvidia-barely-moved-2-ai-185658418.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "CrowdStrike (CRWD) lager står overfor høye forventninger etter sterke gevinster, DA Davidson forblir bullish",
+      "tittel": "Installerte bygningsprodukter (IBP) øker inntektene mens marginene sakte glir",
       "kilde": "Yahoo Finance",
-      "tid": "14:42",
-      "lenke": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-crwd-stock-faces-high-144223749.html",
+      "tid": "19:12",
+      "lenke": "https://finance.yahoo.com/markets/stocks/articles/installed-building-products-ibp-grows-191221244.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "S&P 500 falt, men disse 2 AI-minneaksjene eksploderte høyere",
+      "kilde": "Yahoo Finance",
+      "tid": "19:03",
+      "lenke": "https://finance.yahoo.com/markets/stocks/articles/p-500-fell-2-ai-190345284.html",
       "engelsk_kilde": true
     }
   ],
@@ -47,13 +47,6 @@
         "kilde": "NRK Nyheter",
         "tid": "15:15",
         "lenke": "https://www.nrk.no/tromsogfinnmark/forsker-mener-russiske-reaksjoner-etter-skip-ble-tatt-i-arrest-pa-svalbard-er-ment-for-a-skape-frykt-1.18015201",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Måtte ut av Oslo Plaza: – Irriterende",
-        "kilde": "NRK Nyheter",
-        "tid": "09:35",
-        "lenke": "https://www.nrk.no/stor-oslo/matte-ut-av-oslo-plaza_-_-irriterende-1.18015268",
         "engelsk_kilde": false
       },
       {
@@ -73,51 +66,58 @@
     ],
     "MAKRO": [
       {
-        "tittel": "Fra ‘mystiske ferier’ til herberger, budsjettreisende blir sparsommelige når prisene stiger",
+        "tittel": "Trump skrur opp varmen på Warsh mens Feds renteøkning ruver",
         "kilde": "CNBC Top News",
-        "tid": "12:14",
-        "lenke": "https://www.cnbc.com/2026/09/05/budget-travel-vacation-costs.html",
+        "tid": "19:12",
+        "lenke": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Trump ber om rentekutt etter at jobbtallene øker innsatsen",
-        "kilde": "BBC Business",
-        "tid": "17:23",
-        "lenke": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
+        "tittel": "Hvorfor jobbrapporten faktisk vil være bra for obligasjoner",
+        "kilde": "MarketWatch",
+        "tid": "18:26",
+        "lenke": "https://www.marketwatch.com/story/why-the-jobs-report-will-actually-be-good-for-bonds-eb062fda?mod=mw_rss_topstories",
         "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "Hvorfor jeg fortsatt investerer i VTI akkurat nå, uansett hva aksjemarkedet gjør",
+        "tittel": "Installerte bygningsprodukter (IBP) øker inntektene mens marginene sakte glir",
         "kilde": "Yahoo Finance",
-        "tid": "15:50",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/why-im-still-investing-vti-155000939.html",
+        "tid": "19:12",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/installed-building-products-ibp-grows-191221244.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Broadcom (AVGO) AI-inntektene stiger, men Wall Street vil ha mer",
+        "tittel": "S&P 500 falt, men disse 2 AI-minneaksjene eksploderte høyere",
         "kilde": "Yahoo Finance",
-        "tid": "14:58",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-ai-revenue-soars-145838390.html",
+        "tid": "19:03",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/p-500-fell-2-ai-190345284.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "CrowdStrike (CRWD) lager står overfor høye forventninger etter sterke gevinster, DA Davidson forblir bullish",
+        "tittel": "Disse to AI-lagringsbeholdningene økte kraftig da S&P 500 falt",
         "kilde": "Yahoo Finance",
-        "tid": "14:42",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-crwd-stock-faces-high-144223749.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Raytheon vinner milliarder i forsvarskontrakter — bør du kjøpe RTX-aksjer?",
-        "kilde": "Yahoo Finance",
-        "tid": "14:39",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/raytheon-winning-billions-defense-contracts-143907999.html",
+        "tid": "19:00",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/2-ai-storage-stocks-soared-190028471.html",
         "engelsk_kilde": true
       }
     ],
     "ENERGI_RAAVARER": [
+      {
+        "tittel": "Southwest Gas's (SWX) Pipeline Bet har akkurat blitt $ 600 MILLIONER STØRRE",
+        "kilde": "Yahoo Finance",
+        "tid": "19:28",
+        "lenke": "https://finance.yahoo.com/energy/articles/southwest-gas-swx-pipeline-bet-192801901.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Magnolia Oil & Gas (MGY) dobler fortjenesten mens du satser stort på vekst",
+        "kilde": "Yahoo Finance",
+        "tid": "19:20",
+        "lenke": "https://finance.yahoo.com/energy/articles/magnolia-oil-gas-mgy-doubles-192051152.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "USA angriper 3 iranske oljetankere etter raketter rettet mot marinens krigsskip",
         "kilde": "CNBC Top News",
@@ -135,6 +135,13 @@
     ],
     "TEKNOLOGI": [
       {
+        "tittel": "Nvidia knapt flyttet. Disse to AI-tilkoblingsaksjene økte med mer enn 7%",
+        "kilde": "Yahoo Finance",
+        "tid": "18:56",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/nvidia-barely-moved-2-ai-185658418.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Møt CISO: En ny frontlinjestjerne i AI-cybersikkerhetskrigen",
         "kilde": "CNBC Top News",
         "tid": "12:00",
@@ -144,33 +151,159 @@
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Trump dobler ned på trusselen om å stanse handelen med topppartnere med mindre Fed kutter satser",
-        "kilde": "CNBC Top News",
-        "tid": "19:48",
-        "lenke": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
+        "tittel": "Jobber og Iran legger til Trumps midterm hodepine. Hvorfor det er bra for obligasjoner og dårlig for energiaksjer.",
+        "kilde": "MarketWatch",
+        "tid": "16:34",
+        "lenke": "https://www.marketwatch.com/story/jobs-and-iran-add-to-trumps-midterm-headaches-why-thats-good-for-bonds-and-bad-for-energy-stocks-551cb765?mod=mw_rss_topstories",
         "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
       {
-        "tittel": "Vi er i 60-årene. Vi tjener $ 345 000 og har $ 1 million i 403(b)s. Er det for sent for Roth-konverteringer?",
-        "kilde": "MarketWatch",
-        "tid": "16:00",
-        "lenke": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvorfor ønsker nesten ingen å bli venn med eldre mennesker som meg — bortsett fra svindlere?",
-        "kilde": "MarketWatch",
-        "tid": "16:00",
-        "lenke": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Ameren SVP Finance Ryan Martin selger 971 aksjer for $ 107 000",
+        "tittel": "AppFolios administrerende direktør William Trigg selger 2 057 aksjer",
         "kilde": "Yahoo Finance",
-        "tid": "15:50",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/ameren-svp-finance-ryan-martin-155002374.html",
+        "tid": "20:00",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/appfolio-ceo-william-trigg-sells-200001737.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvor mye trenger du virkelig å investere for å erstatte en $ 95 000 lønn med utbytte?",
+        "kilde": "Yahoo Finance",
+        "tid": "19:56",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/much-really-invested-replace-95-195624982.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Everus (EKG) satser $ 295 millioner på modulkonstruksjonens fremtid",
+        "kilde": "Yahoo Finance",
+        "tid": "19:53",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/everus-ecg-bets-295m-modular-195345603.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "LeBron James erter partnerskapet med Polymarket",
+        "kilde": "CNBC Top News",
+        "tid": "19:40",
+        "lenke": "https://www.cnbc.com/2026/09/05/lebron-james-polymarket-partnership.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Alt klart på Andøya: I kveld kan det skrives romfartshistorie",
+        "kilde": "NRK Nyheter",
+        "tid": "19:17",
+        "lenke": "https://www.nrk.no/nordland/andoya-space-og-isar-aerospace-forsoker-for-sjette-gang-a-skyte-opp-_spectrum-2_-1.17982981",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Freedom Broker slår Bullish på Argan (AGX) etter rekordkvartal",
+        "kilde": "Yahoo Finance",
+        "tid": "19:09",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/freedom-broker-turns-bullish-argan-190902032.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Skjulte opptak ryster britisk politikk: – Bare pubprat",
+        "kilde": "E24",
+        "tid": "19:08",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/zOeBxK/skjulte-opptak-ryster-britisk-politikk-bare-pubprat?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Tror du at du har maksimert din 401(k)? Den virkelige grensen er faktisk nesten $ 50 000 høyere.",
+        "kilde": "MarketWatch",
+        "tid": "18:59",
+        "lenke": "https://www.marketwatch.com/story/think-you-maxed-out-your-401-k-the-real-limit-is-actually-almost-50-000-higher-217a89ee?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vil et datasenter skade boligens verdi? Forskning sier nei. Selgere er uenige.",
+        "kilde": "MarketWatch",
+        "tid": "18:42",
+        "lenke": "https://www.marketwatch.com/story/will-a-data-center-hurt-your-homes-value-research-says-no-sellers-disagree-7017ace4?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "For Regine er assistentene nøkkelen til et aktivt seksualliv",
+        "kilde": "NRK Nyheter",
+        "tid": "18:39",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/undersokelse_-to-av-tre-med-bpa-unngar-heller-seksuell-aktivitet-enn-a-sporre-om-hjelp-1.17999536",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "7% boliglånsrenter er allerede her, sier noen kjøpere og boliglånseksperter",
+        "kilde": "MarketWatch",
+        "tid": "18:09",
+        "lenke": "https://www.marketwatch.com/story/7-mortgage-rates-are-already-here-some-buyers-mortgage-experts-say-c51a7e04?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trumps menn og Putin i fredssamtaler",
+        "kilde": "E24",
+        "tid": "17:58",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/k0xbv9/trumps-menn-og-putin-i-fredssamtaler?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Livets luksus",
+        "kilde": "Hacker News",
+        "tid": "17:46",
+        "lenke": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Putin til Witkoff og Kushner: – Kontakt med USA er nyttig",
+        "kilde": "NRK Nyheter",
+        "tid": "17:43",
+        "lenke": "https://www.nrk.no/urix/putin-til-witkoff-og-kushner_-_-kontakt-med-usa-er-nyttig-1.18015547",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kanskje snøfuglene har rett? En stat dominerer denne listen over beste steder å pensjonere seg.",
+        "kilde": "MarketWatch",
+        "tid": "17:26",
+        "lenke": "https://www.marketwatch.com/story/maybe-the-snowbirds-are-right-one-state-dominates-this-list-of-best-places-to-retire-ab506160?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Det er et nytt rekordtall på 401(k) millionærer som pensjonssparing holder på all-time highs",
+        "kilde": "MarketWatch",
+        "tid": "17:01",
+        "lenke": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "\"Jeg gir ham for tiden $ 1000 i måneden\": Barnebarnet mitt har alvorlig psykisk sykdom. Hvordan beskytter jeg ham når jeg er borte?",
+        "kilde": "MarketWatch",
+        "tid": "17:00",
+        "lenke": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Lær programmering med OCaml",
+        "kilde": "Hacker News",
+        "tid": "16:45",
+        "lenke": "https://usr.lmf.cnrs.fr/lpo/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kjøpte for 64 mill. – ber om 105 mill.: – Går kanskje i null",
+        "kilde": "E24",
+        "tid": "16:25",
+        "lenke": "https://e24.no/naeringsliv/i/V6oa5J/kjoepte-for-64-mill-ber-om-105-mill-gaar-kanskje-i-null?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Fabrikken lovet mindre utslipp til Oslofjorden. Blir kraftig forsinket",
+        "kilde": "NRK Nyheter",
+        "tid": "16:21",
+        "lenke": "https://www.nrk.no/dokumentar/renseanlegget-blir-ikke-ferdig-i-tide.-na-vil-chemring-nobel-slippe-ut-mer-nitrogen-i-fjorden-1.18009350",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Wikimedia Foundation-medarbeidere stemte overveldende for å danne union med CWA",
+        "kilde": "Hacker News",
+        "tid": "16:13",
+        "lenke": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/",
         "engelsk_kilde": true
       },
       {
@@ -181,34 +314,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Hvorfor Gabellis globale fond for innhold og tilkobling liker T-Mobile US (TMUS)",
-        "kilde": "Yahoo Finance",
-        "tid": "15:42",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/why-gabelli-global-content-connectivity-154254300.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvorfor Anterix (ATEX) økte 169,6% i 2. kvartal, ifølge Gabelli",
-        "kilde": "Yahoo Finance",
-        "tid": "15:38",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/why-anterix-atex-surged-169-153832711.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg tilbød å kjøpe en bursdagsdrink til vennen min. Hun bestilte mat for $ 180 og forventer at jeg betaler. Skal jeg Venmo henne for halvparten?",
-        "kilde": "MarketWatch",
-        "tid": "15:37",
-        "lenke": "https://www.marketwatch.com/story/i-offered-to-buy-my-friend-a-birthday-drink-she-ordered-180-worth-of-food-and-expects-me-to-pay-should-i-venmo-her-for-half-0efc941c?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvorfor Gabellis globale innholds- og tilkoblingsfond liker alfabetet (GOOGL)",
-        "kilde": "Yahoo Finance",
-        "tid": "15:35",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/why-gabelli-global-content-connectivity-153522934.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "To piloter døde da kampfly styrtet under flyshow i Aten",
         "kilde": "NRK Nyheter",
         "tid": "15:34",
@@ -216,46 +321,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Gjenoppbygging av en 1995 GPS-tidsserver slik at jeg ikke får Telstra 'd",
-        "kilde": "Hacker News",
-        "tid": "15:22",
-        "lenke": "https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg er 68. Skal jeg bruke halvparten av 401(k) på å kjøpe et hjem med boliglån?",
-        "kilde": "MarketWatch",
-        "tid": "15:17",
-        "lenke": "https://www.marketwatch.com/story/im-68-should-i-spend-half-my-401-k-to-buy-a-home-with-a-mortgage-285e5ada?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Adobe Inc. (ADBE) kjøper Rilo for å akselerere agentbasert kunstig intelligens — hva det betyr for investorer",
-        "kilde": "Yahoo Finance",
-        "tid": "15:07",
-        "lenke": "https://finance.yahoo.com/technology/ai/articles/adobe-inc-adbe-acquires-rilo-150728839.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Poesibok som Anthropic prøvde å sensurere",
-        "kilde": "Hacker News",
-        "tid": "15:04",
-        "lenke": "https://kk.org/cooltools/the-1930-poetry-book-that-anthropic-tried-to-censor/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Nyresvikt, ADHD-diagnose og toppscorer: – Har aldri stoppa å tro på meg selv",
         "kilde": "NRK Nyheter",
         "tid": "14:54",
         "lenke": "https://www.nrk.no/mr/katarina-dybvik-sunde-har-blitt-en-av-aafks-viktigste-spillere---na-skal-de-spille-cupfinale-1.18012073",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Jim Cramer forklarer hvorfor Velo3D (VELO) bare er verdt en kvart posisjon akkurat nå",
-        "kilde": "Yahoo Finance",
-        "tid": "14:53",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-velo3d-145323852.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Naboene fikk ingenting – Olav (79) fikk alarm to mil unna",
@@ -272,38 +342,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hvordan den planet-endrende katastrofen \"Forever Chemicals\" ble holdt hemmelig",
+        "tittel": "Hvordan katastrofen med «Forever Chemicals» ble holdt hemmelig",
         "kilde": "Hacker News",
         "tid": "14:40",
         "lenke": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Her er hvor mye amerikanere er avhengige av trygd — på alle inntektsnivåer",
-        "kilde": "MarketWatch",
-        "tid": "14:33",
-        "lenke": "https://www.marketwatch.com/story/heres-how-much-americans-rely-on-social-security-at-all-income-levels-3a767119?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "\"Vennligst ikke la dette skje med deg\": Min beste venn døde uten vilje — hennes forsømmelige familie får alt",
-        "kilde": "MarketWatch",
-        "tid": "14:31",
-        "lenke": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Medicare Advantage-pasienter som får diagnosen Alzheimers eller andre alvorlige sykdommer, forlater planene sine — og det kan koste dem",
-        "kilde": "MarketWatch",
-        "tid": "14:15",
-        "lenke": "https://www.marketwatch.com/story/medicare-advantage-patients-who-get-diagnosed-with-alzheimers-or-other-serious-diseases-are-ditching-their-plans-and-it-can-cost-them-b5c42717?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Det er ingen grense for hvor dårlig kode kan bli",
-        "kilde": "Hacker News",
-        "tid": "14:13",
-        "lenke": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
         "engelsk_kilde": true
       },
       {
@@ -321,13 +363,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Min kone og jeg er i 70-årene. Skal vi flytte til California og ta et større boliglån for å være i nærheten av barna våre?",
-        "kilde": "MarketWatch",
-        "tid": "14:00",
-        "lenke": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Mange lastebilsjåfører føler seg ikke som resten av Amerika om AI-datasentre som forretningsboomer",
         "kilde": "CNBC Top News",
         "tid": "13:33",
@@ -342,32 +377,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Jagerfly styrtet under flyshow i Athen",
-        "kilde": "NRK Nyheter",
-        "tid": "12:32",
-        "lenke": "https://www.nrk.no/nyheter/jagerfly-styrtet-under-flyshow-i-athen-1.18015365",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Russisk nyhetsbyrå: Putin beordrer angrepsstans mot Kyiv",
-        "kilde": "NRK Nyheter",
-        "tid": "12:01",
-        "lenke": "https://www.nrk.no/nyheter/russisk-nyhetsbyra_-putin-beordrer-angrepsstans-mot-kyiv-1.18015198",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "GM vs. Ford: USAs forsvar, energisektorer bidrar til bilprodusentenes århundregamle rivalisering",
         "kilde": "CNBC Top News",
         "tid": "12:00",
         "lenke": "https://www.cnbc.com/2026/09/05/gm-ford-defense-energy.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Plutseleg blinka pulsklokka raudt – blei sendt rett til akutten",
-        "kilde": "NRK Nyheter",
-        "tid": "11:47",
-        "lenke": "https://www.nrk.no/sport/plutseleg-blinka-pulsklokka-til-ole-jonny-delerud-raudt-_-blei-sendt-rett-til-akutten-1.18009073",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Fire av ti sportsbutikker taper penger",
@@ -396,27 +410,6 @@
         "tid": "20:17",
         "lenke": "https://www.cnbc.com/2026/09/04/maria-bartiromo-fox-news-termination.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Haalands ukjente Luxembourg-hjelper",
-        "kilde": "E24",
-        "tid": "19:17",
-        "lenke": "https://e24.no/boers-og-finans/i/43XnE9/haalands-ukjente-luxembourg-hjelper?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Dieselprisen i USA når historisk topp",
-        "kilde": "E24",
-        "tid": "18:30",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/wr5zzo/dieselprisen-i-usa-naar-historisk-topp?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Lehman Brothers-kollapsen: Kreditorer venter fortsatt på penger",
-        "kilde": "E24",
-        "tid": "18:28",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/k0e39B/lehman-brothers-kollapsen-kreditorer-venter-fortsatt-paa-penger?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ]
   }
