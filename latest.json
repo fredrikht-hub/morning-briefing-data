@@ -1,9 +1,23 @@
 {
   "dato": "2026-09-05",
   "dato_norsk": "Lørdag 5. september 2026",
-  "generert_kl": "08:05",
+  "generert_kl": "12:15",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
+    {
+      "tittel": "Fra ‘mystiske ferier’ til herberger, budsjettreisende blir sparsommelige når prisene stiger",
+      "kilde": "CNBC Top News",
+      "tid": "12:14",
+      "lenke": "https://www.cnbc.com/2026/09/05/budget-travel-vacation-costs.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Møt CISO: En ny frontlinjestjerne i AI-cybersikkerhetskrigen",
+      "kilde": "CNBC Top News",
+      "tid": "12:00",
+      "lenke": "https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html",
+      "engelsk_kilde": true
+    },
     {
       "tittel": "Trump ber om rentekutt etter at jobbtallene øker innsatsen",
       "kilde": "BBC Business",
@@ -12,41 +26,27 @@
       "engelsk_kilde": true
     },
     {
-      "tittel": "Hvorfor flytter europeiske land gullet sitt ut av Nord-Amerika?",
+      "tittel": "Nederland trekker gull ut av USA av frykt for «geopolitisk uro»",
       "kilde": "Hacker News",
-      "tid": "05:52",
-      "lenke": "https://www.bbc.com/news/articles/cvgyn8q8gqxo",
+      "tid": "10:14",
+      "lenke": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Fra Trumps overtakelsestrusler til et ‘nordlig nabolag’, hvorfor EU-sjefen skal til Grønland",
-      "kilde": "CNBC Top News",
-      "tid": "05:00",
-      "lenke": "https://www.cnbc.com/2026/09/05/eu-greenland-von-der-leyen-trump-arctic.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Trump skal til Dallas samme dag som kong Haralds gravferd",
-      "kilde": "NRK Nyheter",
-      "tid": "02:53",
-      "lenke": "https://www.nrk.no/nyheter/trump-skal-til-dallas-samme-dag-som-kong-haralds-gravferd-1.18015092",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Jøran Kallmyr til kamp mot Oslo kommune: – Skal ha minst 50 millioner",
+      "tittel": "Norges Bank kan bryte tusen år gammel tradisjon: – Historieløst",
       "kilde": "E24",
-      "tid": "03:00",
-      "lenke": "https://e24.no/norsk-oekonomi/i/8pxeXQ/joeran-kallmyr-til-kamp-mot-oslo-kommune-skal-ha-minst-50-millioner?utm_medium=rss",
+      "tid": "08:03",
+      "lenke": "https://e24.no/norsk-oekonomi/i/ArqLlx/norges-bank-kan-bryte-tusen-aar-gammel-tradisjon-historieloest?utm_medium=rss",
       "engelsk_kilde": false
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "Streik avverget i grossistoppgjøret",
-        "kilde": "NRK Nyheter",
-        "tid": "03:28",
-        "lenke": "https://www.nrk.no/nyheter/streik-avverget-i-grossistoppgjoret-1.18015095",
+        "tittel": "Norges Bank kan bryte tusen år gammel tradisjon: – Historieløst",
+        "kilde": "E24",
+        "tid": "08:03",
+        "lenke": "https://e24.no/norsk-oekonomi/i/ArqLlx/norges-bank-kan-bryte-tusen-aar-gammel-tradisjon-historieloest?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
@@ -66,6 +66,13 @@
     ],
     "MAKRO": [
       {
+        "tittel": "Fra ‘mystiske ferier’ til herberger, budsjettreisende blir sparsommelige når prisene stiger",
+        "kilde": "CNBC Top News",
+        "tid": "12:14",
+        "lenke": "https://www.cnbc.com/2026/09/05/budget-travel-vacation-costs.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Trump ber om rentekutt etter at jobbtallene øker innsatsen",
         "kilde": "BBC Business",
         "tid": "17:23",
@@ -73,24 +80,17 @@
         "engelsk_kilde": true
       },
       {
+        "tittel": "Amerikanske lønninger steg 162 000 i august, mye mer enn forventet; arbeidsledigheten på 4,1%",
+        "kilde": "CNBC Top News",
+        "tid": "17:16",
+        "lenke": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Federal Reserve Board kunngjør opphør av tvangshandlinger med United Texas Bank, Quontic Bank Acquisition Corp. og Quontic Bank Holdings Corp.",
         "kilde": "Federal Reserve",
         "tid": "15:00",
         "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trump krever rentekutt – truer med handelskutt",
-        "kilde": "E24",
-        "tid": "14:03",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/Gx823B/trump-ber-usas-sentralbank-kutte-renten-truer-med-handelskutt-for-flere-land?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Verdens største statlige formuesfond planlegger å kutte amerikanske statskassebeholdninger",
-        "kilde": "CNBC Top News",
-        "tid": "12:22",
-        "lenke": "https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html",
         "engelsk_kilde": true
       }
     ],
@@ -115,25 +115,32 @@
         "tid": "19:59",
         "lenke": "https://www.marketwatch.com/story/why-oracles-stock-looks-like-a-compelling-buy-ahead-of-earnings-12a04d7b?mod=mw_rss_topstories",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Fyll opp med mat for å forberede deg på ekstremvær, sier ministeren",
-        "kilde": "BBC Business",
-        "tid": "10:40",
-        "lenke": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
       }
     ],
     "ENERGI_RAAVARER": [
       {
-        "tittel": "Hvorfor flytter europeiske land gullet sitt ut av Nord-Amerika?",
+        "tittel": "Nederland trekker gull ut av USA av frykt for «geopolitisk uro»",
         "kilde": "Hacker News",
-        "tid": "05:52",
-        "lenke": "https://www.bbc.com/news/articles/cvgyn8q8gqxo",
+        "tid": "10:14",
+        "lenke": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
         "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
+      {
+        "tittel": "Møt CISO: En ny frontlinjestjerne i AI-cybersikkerhetskrigen",
+        "kilde": "CNBC Top News",
+        "tid": "12:00",
+        "lenke": "https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Humanoide roboter kunne snudd opp ned på livet slik vi kjenner det — om de bare hadde hatt bedre hjerner",
+        "kilde": "MarketWatch",
+        "tid": "12:00",
+        "lenke": "https://www.marketwatch.com/story/humanoid-robots-could-upend-life-as-we-know-it-if-only-they-had-better-brains-4eee42eb?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Teslas aksjer faller etter hvert som Cybercab-lanseringen lander med et dunk",
         "kilde": "MarketWatch",
@@ -144,31 +151,17 @@
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Fra Trumps overtakelsestrusler til et ‘nordlig nabolag’, hvorfor EU-sjefen skal til Grønland",
-        "kilde": "CNBC Top News",
-        "tid": "05:00",
-        "lenke": "https://www.cnbc.com/2026/09/05/eu-greenland-von-der-leyen-trump-arctic.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trump skal til Dallas samme dag som kong Haralds gravferd",
-        "kilde": "NRK Nyheter",
-        "tid": "02:53",
-        "lenke": "https://www.nrk.no/nyheter/trump-skal-til-dallas-samme-dag-som-kong-haralds-gravferd-1.18015092",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Trump sier han vil bruke opp til $ 500 millioner av \"pengene mine\" for å hjelpe republikanerne i midterms",
-        "kilde": "CNBC Top News",
-        "tid": "19:57",
-        "lenke": "https://www.cnbc.com/2026/09/04/trump-maga-inc-500-million-republicans-midterm-elections.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Trump dobler ned på trusselen om å stanse handelen med topppartnere med mindre Fed kutter satser",
         "kilde": "CNBC Top News",
         "tid": "19:48",
         "lenke": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Det hvite hus har undersøkt kandidater for viktige CFTC-jobber, forteller kilder til CNBC. Det er uklart om de vil bli fylt",
+        "kilde": "CNBC Top News",
+        "tid": "17:53",
+        "lenke": "https://www.cnbc.com/2026/09/04/white-house-has-vetted-candidates-for-key-cftc-vacancies-sources-tell-cnbc.html",
         "engelsk_kilde": true
       },
       {
@@ -177,21 +170,112 @@
         "tid": "13:05",
         "lenke": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "THC-drikker kan snart bli vanskeligere å finne ettersom Kongressen utsetter hampforbudet igjen",
-        "kilde": "CNBC Top News",
-        "tid": "11:00",
-        "lenke": "https://www.cnbc.com/2026/09/04/thc-drinks-congress-hemp-ban.html",
-        "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
       {
-        "tittel": "Git-vertskap som aldri forlater Europa",
+        "tittel": "Russisk nyhetsbyrå: Putin beordrer angrepsstans mot Kyiv",
+        "kilde": "NRK Nyheter",
+        "tid": "12:01",
+        "lenke": "https://www.nrk.no/nyheter/russisk-nyhetsbyra_-putin-beordrer-angrepsstans-mot-kyiv-1.18015198",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "GM vs. Ford: USAs forsvar, energisektorer bidrar til bilprodusentenes århundregamle rivalisering",
+        "kilde": "CNBC Top News",
+        "tid": "12:00",
+        "lenke": "https://www.cnbc.com/2026/09/05/gm-ford-defense-energy.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Med HSA-er vender arbeidsgivere seg til 401(k) -spillboken",
+        "kilde": "CNBC Top News",
+        "tid": "12:00",
+        "lenke": "https://www.cnbc.com/2026/09/05/hsa-401k-plan-retirement-automatic-enrollment.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvorfor ønsker nesten ingen å bli venn med eldre mennesker som meg — bortsett fra svindlere?",
+        "kilde": "MarketWatch",
+        "tid": "12:00",
+        "lenke": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Qualys (QLYS) legger ut tosifret vekst og hever fortsatt listen",
+        "kilde": "Yahoo Finance",
+        "tid": "11:52",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/qualys-qlys-posts-double-digit-115235022.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Den 18-årige boligsyklusen sier at neste markedskrasj er nær",
+        "kilde": "Yahoo Finance",
+        "tid": "11:48",
+        "lenke": "https://finance.yahoo.com/real-estate/articles/18-housing-cycle-says-next-114834512.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Plutseleg blinka pulsklokka raudt – blei sendt rett til akutten",
+        "kilde": "NRK Nyheter",
+        "tid": "11:47",
+        "lenke": "https://www.nrk.no/sport/plutseleg-blinka-pulsklokka-til-ole-jonny-delerud-raudt-_-blei-sendt-rett-til-akutten-1.18009073",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Fire av ti sportsbutikker taper penger",
+        "kilde": "E24",
+        "tid": "11:30",
+        "lenke": "https://e24.no/naeringsliv/i/k0X3yk/fire-av-ti-sportsbutikker-taper-penger?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Aksjonen på Dyrøya over: Brukte tåregass for å få mannen ut",
+        "kilde": "NRK Nyheter",
+        "tid": "11:20",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/politiaksjonen-pa-dyroya-over_-mann-pagrepet-natt-til-lordag-1.18015302",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Over en kilometer kø utenfor slottet",
+        "kilde": "NRK Nyheter",
+        "tid": "09:35",
+        "lenke": "https://www.nrk.no/stor-oslo/over-en-kilometer-ko-utenfor-slottet-1.18015268",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Møtte idolet som 11-åring: - Nå er de lagkamerater",
+        "kilde": "NRK Nyheter",
+        "tid": "09:21",
+        "lenke": "https://www.nrk.no/trondelag/jonas-svensson-var-barndomshelten-til-mathias-kjolo--na-er-de-lagkamerater-pa-rbk-1.18014784",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Skal ta opp arven etter Tufte: – Han er alltid med meg",
+        "kilde": "NRK Nyheter",
+        "tid": "09:14",
+        "lenke": "https://www.nrk.no/vestfoldogtelemark/skal-fullfore-ol-drommen-for-olaf-tufte_-_-han-er-alltid-med-meg-1.18000523",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Nesten sju timers ventetid for å defilere kong Haralds båre",
+        "kilde": "NRK Nyheter",
+        "tid": "09:07",
+        "lenke": "https://www.nrk.no/nyheter/nesten-sju-timers-ventetid-for-a-defilere-kong-haralds-bare-1.18015232",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "650 journalister fra 19 land vil dekke kong Haralds gravferd",
+        "kilde": "NRK Nyheter",
+        "tid": "08:48",
+        "lenke": "https://www.nrk.no/nyheter/650-journalister-fra-19-land-vil-dekke-kong-haralds-gravferd-1.18015228",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "AI håndterer hendelser, ingeniører mister kontakten med systemene sine",
         "kilde": "Hacker News",
-        "tid": "06:31",
-        "lenke": "https://pushin.eu",
+        "tid": "07:52",
+        "lenke": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
         "engelsk_kilde": true
       },
       {
@@ -209,25 +293,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Kan vi ta med sydenvarmen hjem?",
-        "kilde": "NRK Nyheter",
-        "tid": "05:33",
-        "lenke": "https://www.nrk.no/ytring/kan-vi-ta-med-sydenvarmen-hjem_-1.17992297",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "GPT-6 Astra i kodegjennomgang: Gevinster, personvern og kostnader",
         "kilde": "Hacker News",
         "tid": "03:38",
         "lenke": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kjenner ikke årsak til båtbrann i Arendal",
-        "kilde": "NRK Nyheter",
-        "tid": "01:44",
-        "lenke": "https://www.nrk.no/nyheter/kjenner-ikke-arsak-til-batbrann-i-arendal-1.18015089",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Nitter har flere arbeidsforekomster enn før takedowns",
@@ -244,20 +314,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Dommer veier hvordan å avvise Reflecting Pool vandalism siktelse mot Olympian",
-        "kilde": "CNBC Top News",
-        "tid": "20:22",
-        "lenke": "https://www.cnbc.com/2026/09/04/reflecting-pool-hearn-doj-trump-pirro.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Mener VAR snøt FFK for scoring: – Det er irriterende",
-        "kilde": "NRK Nyheter",
-        "tid": "20:18",
-        "lenke": "https://www.nrk.no/ostfold/mener-var-snot-ffk-for-scoring_-_-det-er-irriterende-1.18014723",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Den langvarige Fox News verten Maria Bartiromo bestrider rapporter om oppsigelse",
         "kilde": "CNBC Top News",
         "tid": "20:17",
@@ -272,13 +328,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Ingebrigtsen nådelaus mot konkurrentane: – For ein gjeng taparar",
-        "kilde": "NRK Nyheter",
-        "tid": "20:06",
-        "lenke": "https://www.nrk.no/sport/ingebrigtsen-stupte-inn-til-4.--plass-i-diamond-league-finalen-1.18014879",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Vil et datasenter skade boligens verdi? Forskning sier nei. Selgere er uenige.",
         "kilde": "MarketWatch",
         "tid": "20:03",
@@ -290,27 +339,6 @@
         "kilde": "MarketWatch",
         "tid": "20:00",
         "lenke": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2026-on-netflix-hulu-hbo-max-and-more-a702e7dd?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Advokatar slår alarm: Får mindre tid med innsette",
-        "kilde": "NRK Nyheter",
-        "tid": "19:57",
-        "lenke": "https://www.nrk.no/ostfold/kuttar-i-advokattida-for-innsette_-fleire-advokatar-reagerer-1.17994167",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Det er et nytt rekordtall på 401(k) millionærer som pensjonssparing holder på all-time highs",
-        "kilde": "MarketWatch",
-        "tid": "19:52",
-        "lenke": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg er 68. Skal jeg bruke halvparten av 401(k) på å kjøpe et hjem med boliglån?",
-        "kilde": "MarketWatch",
-        "tid": "19:52",
-        "lenke": "https://www.marketwatch.com/story/im-68-should-i-spend-half-my-401-k-to-buy-a-home-with-a-mortgage-285e5ada?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -335,13 +363,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Kvinner sto for nesten alle jobbgevinster i august. Her er hvorfor",
-        "kilde": "CNBC Top News",
-        "tid": "18:27",
-        "lenke": "https://www.cnbc.com/2026/09/04/jobs-report-women-payrolls.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Er kursfallet en overreaksjon?",
         "kilde": "E24",
         "tid": "15:09",
@@ -354,34 +375,6 @@
         "tid": "14:15",
         "lenke": "https://www.cnbc.com/2026/09/04/private-security-spending-crime-allied-universal.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Lululemon-aksjen stupte etter sviktende tights-salg",
-        "kilde": "E24",
-        "tid": "13:32",
-        "lenke": "https://e24.no/boers-og-finans/i/vryGmp/blandet-paa-wall-street-etter-jobbtall?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Xbox begrenser nettskybasert spilling til 15 timer i måneden for Game Pass-abonnenter",
-        "kilde": "BBC Business",
-        "tid": "11:48",
-        "lenke": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Dieselprisene i USA nådde et rekordhøyt nivå",
-        "kilde": "BBC Business",
-        "tid": "10:52",
-        "lenke": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Mann pågrepet etter å ha forskanset seg i fire døgn",
-        "kilde": "NRK Nyheter",
-        "tid": "09:56",
-        "lenke": "https://www.nrk.no/tromsogfinnmark/mann-pagrepet-etter-a-ha-forskanset-seg-i-fire-dogn-1.18013821",
-        "engelsk_kilde": false
       }
     ]
   }
