@@ -1,7 +1,7 @@
 {
   "dato": "2026-09-06",
   "dato_norsk": "Søndag 6. september 2026",
-  "generert_kl": "04:15",
+  "generert_kl": "08:05",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
@@ -12,32 +12,32 @@
       "engelsk_kilde": true
     },
     {
-      "tittel": "GPT-6 Astra på robotarmer",
+      "tittel": "Nettstedet er stengt på søndager",
       "kilde": "Hacker News",
-      "tid": "01:52",
-      "lenke": "https://openai.robocurve.org/gpt-6-astra/",
+      "tid": "06:23",
+      "lenke": "https://v7.robweychert.com/",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Hvorfor jobbrapporten faktisk vil være bra for obligasjoner",
-      "kilde": "MarketWatch",
-      "tid": "18:26",
-      "lenke": "https://www.marketwatch.com/story/why-the-jobs-report-will-actually-be-good-for-bonds-eb062fda?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Støre om historisk oppskyting fra Andøya: – Et gjennombrudd for Norge",
-      "kilde": "NRK Nyheter",
-      "tid": "19:17",
-      "lenke": "https://www.nrk.no/nordland/andoya-space-og-isar-aerospace-har-nadd-verdensrommet-med-_spectrum-2_-1.17982981",
+      "tittel": "Forvalterne avslører: 14 aksjefavoritter",
+      "kilde": "E24",
+      "tid": "07:26",
+      "lenke": "https://e24.no/boers-og-finans/i/ExEyma/forvalterne-avsloerer-14-aksjefavoritter?utm_medium=rss",
       "engelsk_kilde": false
     },
     {
-      "tittel": "AI, verktøy og transformasjon",
-      "kilde": "Hacker News",
-      "tid": "02:12",
-      "lenke": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-      "engelsk_kilde": true
+      "tittel": "Vellykket rakettoppskytning fra Andøya Space: – Helt fantastisk",
+      "kilde": "E24",
+      "tid": "06:08",
+      "lenke": "https://e24.no/naeringsliv/i/xrdbnX/ny-rakettoppskyting-fra-andoeya-space?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Nå skal Das Auto krympe",
+      "kilde": "E24",
+      "tid": "05:11",
+      "lenke": "https://e24.no/internasjonal-oekonomi/i/43v7We/naa-skal-das-auto-krympe?utm_medium=rss",
+      "engelsk_kilde": false
     }
   ],
   "kategorier": {
@@ -54,13 +54,6 @@
         "kilde": "NRK Nyheter",
         "tid": "15:15",
         "lenke": "https://www.nrk.no/tromsogfinnmark/forsker-mener-russiske-reaksjoner-etter-skip-ble-tatt-i-arrest-pa-svalbard-er-ment-for-a-skape-frykt-1.18015201",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Norges Bank kan bryte tusen år gammel tradisjon: – Historieløst",
-        "kilde": "E24",
-        "tid": "08:03",
-        "lenke": "https://e24.no/norsk-oekonomi/i/ArqLlx/norges-bank-kan-bryte-tusen-aar-gammel-tradisjon-historieloest?utm_medium=rss",
         "engelsk_kilde": false
       }
     ],
@@ -98,17 +91,17 @@
     ],
     "TEKNOLOGI": [
       {
+        "tittel": "AMD-basert FreeBSD stasjonær PC lastet inn på nytt",
+        "kilde": "Hacker News",
+        "tid": "02:24",
+        "lenke": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "GPT-6 Astra på robotarmer",
         "kilde": "Hacker News",
         "tid": "01:52",
         "lenke": "https://openai.robocurve.org/gpt-6-astra/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Chrome fritar igjen Google fra innstillinger for brukernettstedsdata",
-        "kilde": "Hacker News",
-        "tid": "23:39",
-        "lenke": "https://lapcatsoftware.com/articles/2026/9/1.html",
         "engelsk_kilde": true
       },
       {
@@ -120,6 +113,41 @@
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "Forvalterne avslører: 14 aksjefavoritter",
+        "kilde": "E24",
+        "tid": "07:26",
+        "lenke": "https://e24.no/boers-og-finans/i/ExEyma/forvalterne-avsloerer-14-aksjefavoritter?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Nettstedet er stengt på søndager",
+        "kilde": "Hacker News",
+        "tid": "06:23",
+        "lenke": "https://v7.robweychert.com/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vellykket rakettoppskytning fra Andøya Space: – Helt fantastisk",
+        "kilde": "E24",
+        "tid": "06:08",
+        "lenke": "https://e24.no/naeringsliv/i/xrdbnX/ny-rakettoppskyting-fra-andoeya-space?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Bane Nor og Vy er min «toxic eks»",
+        "kilde": "NRK Nyheter",
+        "tid": "05:51",
+        "lenke": "https://www.nrk.no/ytring/bane-nor-og-vy-er-min-_toxic-eks_-1.18002586",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Nå skal Das Auto krympe",
+        "kilde": "E24",
+        "tid": "05:11",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/43v7We/naa-skal-das-auto-krympe?utm_medium=rss",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Ordfører krever åpenhet fra datasentre: – Et Klondike helt ute av kontroll",
         "kilde": "E24",
@@ -133,6 +161,13 @@
         "tid": "02:12",
         "lenke": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Brann i trehus i Arendal – to hus ubeboelige",
+        "kilde": "NRK Nyheter",
+        "tid": "01:43",
+        "lenke": "https://www.nrk.no/nyheter/brann-i-trehus-i-arendal-_-to-hus-ubeboelige-1.18015688",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Cloud in a Bottle: gjør selvvertskap tilgjengelig for alle",
@@ -160,13 +195,6 @@
         "kilde": "MarketWatch",
         "tid": "23:07",
         "lenke": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "OKF-agentminne – Git-nativt vedvarende minne for AI-kodingsagenter",
-        "kilde": "Hacker News",
-        "tid": "22:15",
-        "lenke": "https://github.com/okf-memory/okf-agent-memory",
         "engelsk_kilde": true
       },
       {
@@ -261,20 +289,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "To piloter døde da kampfly styrtet under flyshow i Aten",
-        "kilde": "NRK Nyheter",
-        "tid": "15:34",
-        "lenke": "https://www.nrk.no/nyheter/to-piloter-dode-da-kampfly-styrtet-under-flyshow-i-aten-1.18015443",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Nyresvikt, ADHD-diagnose og toppscorer: – Har aldri stoppa å tro på meg selv",
-        "kilde": "NRK Nyheter",
-        "tid": "14:54",
-        "lenke": "https://www.nrk.no/mr/katarina-dybvik-sunde-har-blitt-en-av-aafks-viktigste-spillere---na-skal-de-spille-cupfinale-1.18012073",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Derfor flytter Walmart inn på DoorDash, Uber Eats-leveringshandlinger, som starter med smultringer, kaffe og smørbrød",
         "kilde": "CNBC Top News",
         "tid": "14:46",
@@ -293,6 +307,13 @@
         "kilde": "CNBC Top News",
         "tid": "13:33",
         "lenke": "https://www.cnbc.com/2026/09/05/ai-data-centers-cost-economy.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jaguar Land Rover bekrefter planlagte jobbkutt",
+        "kilde": "BBC Business",
+        "tid": "13:22",
+        "lenke": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
@@ -321,20 +342,6 @@
         "kilde": "E24",
         "tid": "11:30",
         "lenke": "https://e24.no/naeringsliv/i/k0X3yk/fire-av-ti-sportsbutikker-taper-penger?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Fem fondstabber som kan koste deg dyrt",
-        "kilde": "E24",
-        "tid": "05:56",
-        "lenke": "https://e24.no/boers-og-finans/i/3pxa9d/fem-fondstabber-kan-koste-deg-hundretusener?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Følelsenes tid",
-        "kilde": "E24",
-        "tid": "05:55",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/WvWkXd/foelelsenes-tid?utm_medium=rss",
         "engelsk_kilde": false
       }
     ]
