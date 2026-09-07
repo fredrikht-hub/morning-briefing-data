@@ -1,47 +1,54 @@
 {
   "dato": "2026-09-07",
   "dato_norsk": "Mandag 7. september 2026",
-  "generert_kl": "04:16",
+  "generert_kl": "08:05",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Treasury yields face 4.8% test as fiscal risks threaten to spill into other assets",
+      "tittel": "Sport Outlet-eieren vil på Oslo Børs",
+      "kilde": "E24",
+      "tid": "06:13",
+      "lenke": "https://e24.no/boers-og-finans/i/zOzeoO/sport-outlet-eieren-outlet-group-vil-paa-oslo-boers?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Kina trekker inn Big Tobacco for å hjelpe til med kapitalinnsprøytninger i finansbransjen som er mindre enn forventet",
       "kilde": "CNBC Top News",
-      "tid": "02:01",
-      "lenke": "https://www.cnbc.com/2026/09/07/us-treasury-yields-markets-scott-bessent.html",
+      "tid": "06:27",
+      "lenke": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Kina pumper 54 milliarder $ inn i statlige banker og forsikringsselskaper for å øke økonomien",
+      "tittel": "Israel-Hizbollah-sammenstøt dreper 11 mens Libanons president ber om amerikansk støtte for å redde våpenhvilen",
+      "kilde": "CNBC Top News",
+      "tid": "07:14",
+      "lenke": "https://www.cnbc.com/2026/09/07/us-iran-war-trump-hormuz-israel-hezbollah-fighting-strikes-.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Fem døde etter at Amazons fraktfly krasjet på flyplassen i Miami",
       "kilde": "BBC Business",
-      "tid": "02:26",
-      "lenke": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
+      "tid": "06:59",
+      "lenke": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Kina eide aksjer for milliarder i Norges største selskaper",
-      "kilde": "E24",
-      "tid": "04:10",
-      "lenke": "https://e24.no/boers-og-finans/i/2pKbeB/kina-eide-aksjer-for-milliarder-i-norges-stoerste-selskaper?utm_medium=rss",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "SEC saksøker ISS etter hvert som Trump-administrasjonen øker granskingen av stedfortredende rådgivere",
-      "kilde": "CNBC Top News",
-      "tid": "17:53",
-      "lenke": "https://www.cnbc.com/2026/09/06/sec-iss-proxy-adviser-subpoena.html",
+      "tittel": "Sveitsiske myndigheter erstatter Microsoft på 3k-datamaskiner",
+      "kilde": "Hacker News",
+      "tid": "05:33",
+      "lenke": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
       "engelsk_kilde": true
-    },
-    {
-      "tittel": "Canadas «oljefond» bygger datasenter i Norge",
-      "kilde": "E24",
-      "tid": "17:58",
-      "lenke": "https://e24.no/boers-og-finans/i/L4aBEp/canadas-oljefond-bygger-datasenter-i-norge?utm_medium=rss",
-      "engelsk_kilde": false
     }
   ],
   "kategorier": {
     "NORGE": [
+      {
+        "tittel": "Sport Outlet-eieren vil på Oslo Børs",
+        "kilde": "E24",
+        "tid": "06:13",
+        "lenke": "https://e24.no/boers-og-finans/i/zOzeoO/sport-outlet-eieren-outlet-group-vil-paa-oslo-boers?utm_medium=rss",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Canadas «oljefond» bygger datasenter i Norge",
         "kilde": "E24",
@@ -68,6 +75,13 @@
         "engelsk_kilde": false
       },
       {
+        "tittel": "Scott Galloway utsteder en grusom SpaceX-aksjekursprognose",
+        "kilde": "Yahoo Finance",
+        "tid": "17:33",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/scott-galloway-issues-grim-spacex-173300856.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Sukker utkonkurrerer aksjemarkedet i år. Her er hva som driver det, og hvor det kan gå herfra",
         "kilde": "CNBC Top News",
         "tid": "13:19",
@@ -88,12 +102,33 @@
       {
         "tittel": "Fem døde etter at Amazons fraktfly krasjet på flyplassen i Miami",
         "kilde": "BBC Business",
-        "tid": "00:57",
+        "tid": "06:59",
         "lenke": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Sveitsiske myndigheter erstatter Microsoft på 3k-datamaskiner",
+        "kilde": "Hacker News",
+        "tid": "05:33",
+        "lenke": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
         "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
+      {
+        "tittel": "Israel-Hizbollah-sammenstøt dreper 11 mens Libanons president ber om amerikansk støtte for å redde våpenhvilen",
+        "kilde": "CNBC Top News",
+        "tid": "07:14",
+        "lenke": "https://www.cnbc.com/2026/09/07/us-iran-war-trump-hormuz-israel-hezbollah-fighting-strikes-.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kina trekker inn Big Tobacco for å hjelpe til med kapitalinnsprøytninger i finansbransjen som er mindre enn forventet",
+        "kilde": "CNBC Top News",
+        "tid": "06:27",
+        "lenke": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Kina pumper 54 milliarder $ inn i statlige banker og forsikringsselskaper for å øke økonomien",
         "kilde": "BBC Business",
@@ -109,13 +144,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "USAs energiminister Wright sier at atomavtalen med Iran kanskje aldri kommer til å skje",
-        "kilde": "CNBC Top News",
-        "tid": "19:41",
-        "lenke": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "SEC saksøker ISS etter hvert som Trump-administrasjonen øker granskingen av stedfortredende rådgivere",
         "kilde": "CNBC Top News",
         "tid": "17:53",
@@ -124,6 +152,90 @@
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "Jaguar Land Rover til å si opp tusenvis av jobber i $ 2,3 milliarder kostnadsbesparende overhaling",
+        "kilde": "CNBC Top News",
+        "tid": "08:00",
+        "lenke": "https://www.cnbc.com/2026/09/07/jaguar-land-rover-jlr-job-cuts-autos.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Japans valutareserver falt med rekordhøye $ 80 milliarder i august etter innblanding i yen",
+        "kilde": "CNBC Top News",
+        "tid": "07:38",
+        "lenke": "https://www.cnbc.com/2026/09/07/japan-foreign-reserves-yen-intervention.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ny fotballsupporter frikjent i retten – meiner politiet må vurdere eigen praksis",
+        "kilde": "NRK Nyheter",
+        "tid": "07:29",
+        "lenke": "https://www.nrk.no/trondelag/fotballsupporter-frikjent-i-retten-_-sjuande-gong-politiet-i-trondelag-tapar-i-retten-1.18006144",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Multiconsult stiger etter fusjonsavtale og sjefsbytte",
+        "kilde": "E24",
+        "tid": "07:01",
+        "lenke": "https://e24.no/boers-og-finans/i/Oke221/oslo-boers-aapner-opp?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kansleren sier at britisk økonomi «snur et hjørne» til tross for gjeldsproblemer",
+        "kilde": "BBC Business",
+        "tid": "06:25",
+        "lenke": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Datasentre i verdensrommet: Fire store hindringer og Elon Musks ambisiøse tidslinje",
+        "kilde": "CNBC Top News",
+        "tid": "05:56",
+        "lenke": "https://www.cnbc.com/2026/09/07/data-centers-space-elon-musk-obstacles.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Multiconsult vil slå seg sammen med svenske Rejlers",
+        "kilde": "E24",
+        "tid": "05:34",
+        "lenke": "https://e24.no/boers-og-finans/i/8p7111/multiconsult-vil-slaa-seg-sammen-med-svenske-rejlers?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Ytre høyre-seier i tysk delstat",
+        "kilde": "NRK Nyheter",
+        "tid": "05:25",
+        "lenke": "https://www.nrk.no/urix/afd-vinner-valg-i-tyskland-1.18013286",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Botgjenkjenning uten JavaScript: Hva bloggen min målte",
+        "kilde": "Hacker News",
+        "tid": "05:13",
+        "lenke": "https://gkoreli.com/how-i-separate-readers-from-bots-without-javascript",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Brikkeopptur i Japan og Sør-Korea",
+        "kilde": "E24",
+        "tid": "04:58",
+        "lenke": "https://e24.no/boers-og-finans/i/3pe7K0/brikkeopptur-i-japan-og-soer-korea?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vis HN: Engrim – En universell, lokal SQLite-minnemotor for AI CLI-er",
+        "kilde": "Hacker News",
+        "tid": "04:49",
+        "lenke": "https://github.com/timgordontg/engrim",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "TiVo for å kreve penger for å hoppe over reklame i dine egne opptak",
+        "kilde": "Hacker News",
+        "tid": "04:41",
+        "lenke": "https://cordcuttersnews.com/tivo-plans-to-end-free-automatic-commercial-skipping-in-november-tests-paid-premium-replacement-service/",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Hva er det egentlig som skjer når toget ditt blir forsinket?",
         "kilde": "NRK Nyheter",
@@ -146,17 +258,17 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Hold serverne våre i gang: Din tilbakevendende donasjon går tre ganger i september",
-        "kilde": "Hacker News",
-        "tid": "03:29",
-        "lenke": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+        "tittel": "Australiere vil kunne slå av algoritmer for sosiale medier under planlagt lovgivning",
+        "kilde": "BBC Business",
+        "tid": "03:40",
+        "lenke": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Show HN: GET Together – Et sosialt nettverk der du ikke trenger å POSTE for å POSTE",
+        "tittel": "Hold serverne våre i gang",
         "kilde": "Hacker News",
-        "tid": "01:41",
-        "lenke": "https://gettogether.dev",
+        "tid": "03:29",
+        "lenke": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
         "engelsk_kilde": true
       },
       {
@@ -167,45 +279,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "MathKernel: En bevisbevisst flermotors matematikkjerne og MCP-server",
-        "kilde": "Hacker News",
-        "tid": "00:21",
-        "lenke": "https://github.com/Staatsgeheim/MathKernel",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Datasentre i verdensrommet: Fire store hindringer og Elon Musks ambisiøse tidslinje",
-        "kilde": "CNBC Top News",
-        "tid": "00:06",
-        "lenke": "https://www.cnbc.com/2026/09/07/data-centers-space-elon-musk-obstacles.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kansleren sier at britisk økonomi «snur et hjørne» til tross for gjeldsproblemer",
-        "kilde": "BBC Business",
-        "tid": "23:34",
-        "lenke": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Refusjonsbrevet på £ 70 som ikke er en svindel",
         "kilde": "BBC Business",
         "tid": "23:16",
         "lenke": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Lage en Python-tolk på 1024 byte",
-        "kilde": "Hacker News",
-        "tid": "23:14",
-        "lenke": "https://austinhenley.com/blog/python1024.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hackere har trukket ~ 4 000 BTC (~$ 320 millioner) fra Liquid Federation-lommeboken",
-        "kilde": "Hacker News",
-        "tid": "22:43",
-        "lenke": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
         "engelsk_kilde": true
       },
       {
@@ -286,45 +363,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Appene du bør se opp for: – Det er nærmest umulig å beskytte de unge",
-        "kilde": "NRK Nyheter",
-        "tid": "17:17",
-        "lenke": "https://www.nrk.no/nordland/overgrep_-narkosalg-og-utpressing.-advarer-foreldre-mot-snapchat_-tiktok_-roblox-og-ki-1.17963312",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "15-åring redda poeng for Vålerenga",
-        "kilde": "NRK Nyheter",
-        "tid": "16:55",
-        "lenke": "https://www.nrk.no/sport/15-aring-redda-poeng-for-valerenga_-1.18016082",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Minister for å møte Jaguar Land Rover-sjefen ettersom tusenvis av arbeidsplasser forventes å bli kuttet",
+        "tittel": "Jaguar Land Rover-sjef for å møte ministeren ettersom tusenvis av arbeidsplasser forventes å bli kuttet",
         "kilde": "BBC Business",
         "tid": "16:32",
         "lenke": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "AI-angrepet på Hugging Face: – Et varselskudd",
-        "kilde": "E24",
-        "tid": "15:20",
-        "lenke": "https://e24.no/boers-og-finans/i/QJORQq/ai-angrepet-paa-hugging-face-et-varselskudd?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Økning i tvangssalg av boliger: – Renten er en kvern",
-        "kilde": "E24",
-        "tid": "14:00",
-        "lenke": "https://e24.no/norsk-oekonomi/i/n1XrBx/oekning-i-tvangssalg-av-boliger-renten-er-en-kvern?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "'Alle har en AI-hemmelighet': Denne kunstneren har brukt et år på å samle og dele hundrevis av anonyme AI-tilståelser",
-        "kilde": "CNBC Top News",
-        "tid": "14:00",
-        "lenke": "https://www.cnbc.com/2026/09/06/artists-ai-secrets-project-collects-hundreds-of-anonymous-confessions.html",
         "engelsk_kilde": true
       },
       {
@@ -342,39 +384,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "\"Modelltretthet\" setter inn mens AI-laboratorier kjemper for å rulle ut nye versjoner i et hektisk tempo",
-        "kilde": "CNBC Top News",
-        "tid": "12:13",
-        "lenke": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Mange lastebilsjåfører føler seg ikke som resten av Amerika om AI-datasentre som forretningsboomer",
-        "kilde": "CNBC Top News",
-        "tid": "12:05",
-        "lenke": "https://www.cnbc.com/2026/09/05/ai-data-centers-cost-economy.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "AI-datasentre forvandler landlige landmarkeder — og gir næring til et tilbakeslag",
         "kilde": "CNBC Top News",
         "tid": "12:00",
         "lenke": "https://www.cnbc.com/2026/09/06/ai-data-centers-are-transforming-rural-land-markets-fueling-backlash.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Anmeldte fem svindelforsøk – henlagt hver gang",
-        "kilde": "E24",
-        "tid": "11:25",
-        "lenke": "https://e24.no/naeringsliv/i/Pde755/anmeldte-fem-svindelforsoek-henlagt-hver-gang?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Sist inn, først ut?",
-        "kilde": "E24",
-        "tid": "11:06",
-        "lenke": "https://e24.no/karriere-og-ledelse/i/j0MpyA/sist-inn-foerst-ut?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ]
   }
