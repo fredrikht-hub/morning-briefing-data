@@ -1,59 +1,59 @@
 {
   "dato": "2026-09-08",
   "dato_norsk": "Tirsdag 8. september 2026",
-  "generert_kl": "16:04",
+  "generert_kl": "20:10",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Kroger Co. (KR) aksjer veid av inflasjonstrykk og avtagende salg",
-      "kilde": "Yahoo Finance",
-      "tid": "15:39",
-      "lenke": "https://finance.yahoo.com/markets/stocks/articles/kroger-co-kr-shares-weighed-153940365.html",
-      "engelsk_kilde": true
-    },
-    {
       "tittel": "Amerikanske sanksjoner mot iranske flyselskaper med sikte på å stramme inn den økonomiske pressingen etter hvert som krigen sprer seg, oljen stiger",
       "kilde": "CNBC Top News",
-      "tid": "15:58",
+      "tid": "17:37",
       "lenke": "https://www.cnbc.com/2026/09/08/us-sanctions-iran-airlines-oil-economy-war.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "'Pasienter betaler tariffen': Sveitsisk farmasøytisk administrerende direktør advarer om Trumps generiske medikamenttolltrussel",
-      "kilde": "CNBC Top News",
-      "tid": "14:04",
-      "lenke": "https://www.cnbc.com/2026/09/08/pharma-tariffs-trump-generic-drugs-sandoz-cmd-stock.html",
       "engelsk_kilde": true
     },
     {
       "tittel": "Bombardiers aksjer faller etter hvert som handelskrigen mellom USA og Canada intensiveres. Her er hva Trump kan sikte mot neste gang.",
       "kilde": "MarketWatch",
-      "tid": "15:44",
+      "tid": "18:16",
       "lenke": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Høyere rente: – Kommet for å bli",
-      "kilde": "E24",
-      "tid": "16:00",
-      "lenke": "https://e24.no/norsk-oekonomi/i/16ee9q/hoeyere-rente-kommet-for-aa-bli?utm_medium=rss",
+      "tittel": "Zelenskyj har kommet til Norge",
+      "kilde": "NRK Nyheter",
+      "tid": "17:45",
+      "lenke": "https://www.nrk.no/nyheter/zelenskyj-har-kommet-til-norge-1.18018344",
       "engelsk_kilde": false
+    },
+    {
+      "tittel": "Stuttgart-trenaren hyllar norsk fotball: – Viking ville klart seg i Bundesliga",
+      "kilde": "NRK Nyheter",
+      "tid": "17:17",
+      "lenke": "https://www.nrk.no/rogaland/stuttgart-trenaren-hyllar-norsk-fotball_-_-viking-ville-klart-seg-i-bundesliga-1.18018242",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Disse utbytteaksjene kan få medvind fra tilbakeslag fra datasenteret",
+      "kilde": "CNBC Top News",
+      "tid": "19:29",
+      "lenke": "https://www.cnbc.com/2026/09/08/these-dividend-stocks-could-catch-a-tailwind-from-data-center-pushback.html",
+      "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "Kongefamilien besøkte Oslo Domkirke",
+        "tittel": "Zelenskyj har kommet til Norge",
         "kilde": "NRK Nyheter",
-        "tid": "14:31",
-        "lenke": "https://www.nrk.no/norge/kongefamilien-besokte-oslo-domkirke-1.18018181",
+        "tid": "17:45",
+        "lenke": "https://www.nrk.no/nyheter/zelenskyj-har-kommet-til-norge-1.18018344",
         "engelsk_kilde": false
       },
       {
-        "tittel": "Kongefamilien besøkte Oslo Domkirke",
+        "tittel": "Stuttgart-trenaren hyllar norsk fotball: – Viking ville klart seg i Bundesliga",
         "kilde": "NRK Nyheter",
-        "tid": "13:14",
-        "lenke": "https://www.nrk.no/nyheter/kongefamilien-besokte-oslo-domkirke-1.18018060",
+        "tid": "17:17",
+        "lenke": "https://www.nrk.no/rogaland/stuttgart-trenaren-hyllar-norsk-fotball_-_-viking-ville-klart-seg-i-bundesliga-1.18018242",
         "engelsk_kilde": false
       }
     ],
@@ -64,43 +64,43 @@
         "tid": "16:00",
         "lenke": "https://e24.no/norsk-oekonomi/i/16ee9q/hoeyere-rente-kommet-for-aa-bli?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kroger Co. (KR) aksjer veid av inflasjonstrykk og avtagende salg",
-        "kilde": "Yahoo Finance",
-        "tid": "15:39",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/kroger-co-kr-shares-weighed-153940365.html",
-        "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "Uber Stock faller etter hvert som Wall Street utvider Teslas Cybercab-utrulling",
-        "kilde": "Yahoo Finance",
-        "tid": "15:38",
-        "lenke": "https://www.investors.com/news/technology/uber-stock-tesla-cybercab-austin-rollout/?src=A00220&yptr=yahoo",
+        "tittel": "Disse utbytteaksjene kan få medvind fra tilbakeslag fra datasenteret",
+        "kilde": "CNBC Top News",
+        "tid": "19:29",
+        "lenke": "https://www.cnbc.com/2026/09/08/these-dividend-stocks-could-catch-a-tailwind-from-data-center-pushback.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Novartis 'mislykkede studie for kolesterolmedisin fører til et bredt salg av biofarma-aksjer",
+        "tittel": "Aksjene snubler etter Labor Day. Årets enkle gevinster kan være over.",
         "kilde": "MarketWatch",
-        "tid": "14:37",
-        "lenke": "https://www.marketwatch.com/story/novartiss-failed-trial-for-cholesterol-drug-leads-to-broad-biopharma-selloff-2d487746?mod=mw_rss_topstories",
+        "tid": "18:58",
+        "lenke": "https://www.marketwatch.com/story/stocks-are-stumbling-after-labor-day-why-the-easy-gains-of-2026-may-be-over-1d31fa69?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Wall Street tynges etter langhelg",
+        "tittel": "Hvorfor en sterkere japansk valuta kan skape problemer for kunstig intelligens og teknologiaksjer",
+        "kilde": "MarketWatch",
+        "tid": "18:33",
+        "lenke": "https://www.marketwatch.com/story/why-a-stronger-japanese-currency-could-spell-trouble-for-ai-and-technology-stocks-6441f782?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Denne datasenterbeholdningen har økt med over 1000% de siste fem årene. Trader Mike Khouw ser flere gevinster",
+        "kilde": "CNBC Top News",
+        "tid": "17:06",
+        "lenke": "https://www.cnbc.com/2026/09/08/this-data-center-stock-is-up-over-1000percent-in-the-last-five-years-trader-mike-khouw-sees-more-gains.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Rød ukestart på Wall Street",
         "kilde": "E24",
         "tid": "13:33",
         "lenke": "https://e24.no/boers-og-finans/i/7poGQK/wall-street-tynges-etter-langhelg-brikkegigant-bykser-etter-amazon-avtale?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Aksjemarkedet i dag: Dow, S&P 500, Nasdaq faller etter hvert som oljeprisene stiger, handelskrigen mellom USA og Canada eskalerer",
-        "kilde": "Yahoo Finance",
-        "tid": "08:04",
-        "lenke": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-8-dow-sp-500-nasdaq-080440338.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "EUs reguleringsmyndigheter sender tidlig advarsel til Oracle i forkant av inntjeningen",
@@ -112,11 +112,11 @@
     ],
     "ENERGI_RAAVARER": [
       {
-        "tittel": "Brent-råolje når $ 98 etter at Irans Houthi-allierte angriper flere saudiarabiske energianlegg",
-        "kilde": "CNBC Top News",
-        "tid": "15:30",
-        "lenke": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
-        "engelsk_kilde": true
+        "tittel": "Sparta kan gå konkurs: Skylder penger for hotell, strøm og pizza",
+        "kilde": "NRK Nyheter",
+        "tid": "15:52",
+        "lenke": "https://www.nrk.no/ostfold/sparta-sarpsborg-kan-ga-konkurs_-inkassokrav-fra-spa-hotell-og-pizzarestaurant-1.18017658",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Argentina anlegger straffesak mot oljeselskap som opererer på Falklandsøyene",
@@ -128,31 +128,24 @@
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Qualcomm utsteder Amazon-garantier for å kjøpe $ 4 milliarder av chipmakerens aksjer som en del av AI-infrastrukturavtalen",
+        "tittel": "ChatGPT-bilder 2.5",
+        "kilde": "Hacker News",
+        "tid": "18:37",
+        "lenke": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Qualcomm utsteder garantier til Amazon om å kjøpe $ 4 milliarder av chipmakerens aksjer som en del av AI-infrastrukturavtalen",
         "kilde": "CNBC Top News",
-        "tid": "15:56",
+        "tid": "17:54",
         "lenke": "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Intels aksjer øker etter hvert som selskapet ser ut til å øke prisene enda mer",
+        "tittel": "Qualcomms aksjer stiger etter hvert som Amazon-brikkeavtalen tilbyr investorer sårt tiltrengte gode nyheter",
         "kilde": "MarketWatch",
-        "tid": "15:20",
-        "lenke": "https://www.marketwatch.com/story/intels-stock-is-rising-as-the-company-looks-primed-to-boost-prices-even-more-8b8dfc99?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Google DeepMind lanserer AlphaGenome Atlas",
-        "kilde": "Hacker News",
-        "tid": "14:55",
-        "lenke": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Oracles aksjer får et løft etter hvert som OpenAI-økosystemet kommer tilbake i favør",
-        "kilde": "MarketWatch",
-        "tid": "14:53",
-        "lenke": "https://www.marketwatch.com/story/oracles-stock-gets-a-boost-as-the-openai-ecosystem-comes-back-into-favor-f53c8024?mod=mw_rss_topstories",
+        "tid": "17:39",
+        "lenke": "https://www.marketwatch.com/story/qualcomms-stock-climbs-as-amazon-chip-deal-offers-investors-some-much-needed-good-news-5b6a95ca?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -165,17 +158,31 @@
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Amerikanske sanksjoner mot iranske flyselskaper med sikte på å stramme inn den økonomiske pressingen etter hvert som krigen sprer seg, oljen stiger",
+        "tittel": "USA nedtoner Irans beslagleggelse av ubemannet ubåt i Hormuzstredet",
         "kilde": "CNBC Top News",
-        "tid": "15:58",
-        "lenke": "https://www.cnbc.com/2026/09/08/us-sanctions-iran-airlines-oil-economy-war.html",
+        "tid": "19:56",
+        "lenke": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
         "engelsk_kilde": true
       },
       {
         "tittel": "Bombardiers aksjer faller etter hvert som handelskrigen mellom USA og Canada intensiveres. Her er hva Trump kan sikte mot neste gang.",
         "kilde": "MarketWatch",
-        "tid": "15:44",
+        "tid": "18:16",
         "lenke": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Amerikanske sanksjoner mot iranske flyselskaper med sikte på å stramme inn den økonomiske pressingen etter hvert som krigen sprer seg, oljen stiger",
+        "kilde": "CNBC Top News",
+        "tid": "17:37",
+        "lenke": "https://www.cnbc.com/2026/09/08/us-sanctions-iran-airlines-oil-economy-war.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bombardier peker på USAs fotavtrykk etter at Trump sier at romfartsgiganten må bygge i Amerika",
+        "kilde": "CNBC Top News",
+        "tid": "17:08",
+        "lenke": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
         "engelsk_kilde": true
       },
       {
@@ -186,41 +193,132 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Kreml: Trump og Putin snakket en time på telefon",
-        "kilde": "NRK Nyheter",
-        "tid": "14:24",
-        "lenke": "https://www.nrk.no/nyheter/kreml_-trump-og-putin-snakket-en-time-pa-telefon-1.18018178",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "'Pasienter betaler tariffen': Sveitsisk farmasøytisk administrerende direktør advarer om Trumps generiske medikamenttolltrussel",
         "kilde": "CNBC Top News",
         "tid": "14:04",
         "lenke": "https://www.cnbc.com/2026/09/08/pharma-tariffs-trump-generic-drugs-sandoz-cmd-stock.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "USA prøver å redusere sin avhengighet av Kina for batterier. Her er hva det er opp mot",
-        "kilde": "CNBC Top News",
-        "tid": "11:00",
-        "lenke": "https://www.cnbc.com/2026/09/08/heres-where-the-us-is-behind-china-on-battery-technology.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Bombardier peker på USAs fotavtrykk etter at Trump sier at romfartsgiganten må bygge i Amerika",
-        "kilde": "CNBC Top News",
-        "tid": "02:05",
-        "lenke": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
-        "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
       {
-        "tittel": "Heathrow og Gatwick blant flyplasser rammet av flykontrollproblemer",
+        "tittel": "Slik kan du følgje kong Harald si gravferd der du er",
+        "kilde": "NRK Nyheter",
+        "tid": "20:02",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/slik-kan-du-folgje-kong-harald-si-gravferd-der-du-er-1.18016438",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Betongentreprenør konkurs: 11 ansatte rammes",
+        "kilde": "E24",
+        "tid": "19:49",
+        "lenke": "https://e24.no/naeringsliv/i/V6XMW6/betongentreprenoer-konkurs-11-ansatte-rammes?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Iransk nyhetsbyrå: Iransk tankskip skal være angrepet",
+        "kilde": "NRK Nyheter",
+        "tid": "19:40",
+        "lenke": "https://www.nrk.no/nyheter/iransk-nyhetsbyra_-iransk-tankskip-skal-vaere-angrepet-1.18018501",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Fekk sjokk etter sommarferien – måtte stoppe sesongkortsalet",
+        "kilde": "NRK Nyheter",
+        "tid": "19:26",
+        "lenke": "https://www.nrk.no/sport/frisk-asker-har-ein-eventyrleg-auke-i-sal-av-sesongkort-_-na-har-dei-stoppa-salet-1.18010507",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "New Hampshire går til valgurnene i primærvalget for nøkkelåpent senatsete",
+        "kilde": "CNBC Top News",
+        "tid": "19:25",
+        "lenke": "https://www.cnbc.com/2026/09/08/new-hampshire-primary-senate-scott-brown-john-sununu-chris-pappas-karishma-manzur.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Muse: Metas personlige AI-agent, funksjoner og muligheter",
+        "kilde": "Hacker News",
+        "tid": "19:25",
+        "lenke": "https://ai.meta.com/muse/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Meta skyver inn i personlige AI-agenter når selskapet står overfor offentlig oppgjør over personvern og sikkerhet",
+        "kilde": "CNBC Top News",
+        "tid": "19:09",
+        "lenke": "https://www.cnbc.com/2026/09/08/meta-personal-ai-agents-public-reckoning-privacy-safety.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Funksjonsargumenter er ikke funksjonsfarger",
+        "kilde": "Hacker News",
+        "tid": "19:04",
+        "lenke": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvordan disse Gen Z-arbeiderne klarte å kjøpe boliger tidlig i 20-årene",
+        "kilde": "MarketWatch",
+        "tid": "18:52",
+        "lenke": "https://www.marketwatch.com/story/how-these-homeowners-pulled-off-buying-a-house-in-their-early-20s-7b2baf84?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Fattigdom trenger ikke å være min virkelighet’: Jeg trodde jeg måtte stole på trygd. Så lærte jeg meg selv å investere.",
+        "kilde": "MarketWatch",
+        "tid": "18:30",
+        "lenke": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hundrevis av flyvninger kansellert på britiske flyplasser på grunn av ATC-problem",
+        "kilde": "Hacker News",
+        "tid": "18:26",
+        "lenke": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvorfor du ikke bør satse hele pensjonsplanen på å få en arv",
+        "kilde": "MarketWatch",
+        "tid": "18:17",
+        "lenke": "https://www.marketwatch.com/story/why-you-shouldnt-stake-your-entire-retirement-plan-on-getting-an-inheritance-f35dbf96?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Store flyplasser i Storbritannia rammet av flykontrollproblemer",
         "kilde": "BBC Business",
-        "tid": "16:02",
+        "tid": "17:56",
         "lenke": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Sapporo flytter litt ølproduksjon fra Canada til USA etter toll",
+        "kilde": "BBC Business",
+        "tid": "17:41",
+        "lenke": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvorfor ønsker nesten ingen å bli venn med eldre mennesker som meg — bortsett fra svindlere?",
+        "kilde": "MarketWatch",
+        "tid": "17:30",
+        "lenke": "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Om Navier–Stokes Millennium Prize-problemet",
+        "kilde": "Hacker News",
+        "tid": "17:13",
+        "lenke": "https://openai.com/index/navier-stokes-solution/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ruffen-tegner Thore Hansen er død",
+        "kilde": "NRK Nyheter",
+        "tid": "16:10",
+        "lenke": "https://www.nrk.no/ostfold/ruffen-tegner-thore-hansen-er-dod-1.18018162",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Handelsbanken: Renta økes i september",
@@ -237,101 +335,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "‘Jeg er eksekutor’: Mine to søsken og jeg arvet en Ira. Kan vi bare ta det ut?",
-        "kilde": "MarketWatch",
-        "tid": "15:30",
-        "lenke": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Robinhood Lands Crypto.com avtale, tegningsjobb for Oura. Goldman turmål.",
-        "kilde": "Yahoo Finance",
-        "tid": "15:27",
-        "lenke": "https://www.investors.com/news/robinhood-crypto-com-minority-stake-prediction-markets-oura-underwriter-reports-hood-stock-price-target/?src=A00220&yptr=yahoo",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "GE Aerospace kjøper nøkkelbransjens støpegodsleverandør CPP for nesten $ 12 milliarder",
-        "kilde": "Yahoo Finance",
-        "tid": "15:25",
-        "lenke": "https://www.investors.com/news/ge-aerospace-acquisition-precision-products-castings-capacity-deal-ge-stock/?src=A00220&yptr=yahoo",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Her er utleieetterspørselen på vei og hva det betyr for fremtidig boligsalg",
-        "kilde": "CNBC Top News",
-        "tid": "15:19",
-        "lenke": "https://www.cnbc.com/2026/09/08/rental-demand-home-sales-zillow-report.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Låntakere som forventer at boliglånsrenten vil falle, har stiplede forhåpninger",
         "kilde": "BBC Business",
         "tid": "15:19",
         "lenke": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Bitmine kjøper $ 69 millioner i eter, nærmer seg 5% av Ethereum-forsyningen",
-        "kilde": "Yahoo Finance",
-        "tid": "15:19",
-        "lenke": "https://finance.yahoo.com/markets/crypto/articles/bitmine-buys-69m-ether-closes-151900594.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Robinhood samarbeider med Crypto.com for å utvide prediksjonsmarkedene",
-        "kilde": "Yahoo Finance",
-        "tid": "15:16",
-        "lenke": "https://finance.yahoo.com/markets/crypto/articles/robinhood-partners-crypto-com-expand-151600729.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Dieselprisene knuste nettopp en rekord i 2022, men det er ikke bare lastebiler som får en hit. Hva det betyr for lommeboken din",
-        "kilde": "Yahoo Finance",
-        "tid": "15:15",
-        "lenke": "https://finance.yahoo.com/energy/articles/diesel-prices-just-smashed-2022-151500785.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Skuffede optimister",
-        "kilde": "Hacker News",
-        "tid": "15:13",
-        "lenke": "https://cwodtke.com/disappointed-optimists/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "AstraZenecas KOLS-medisin scorer to seine forsøksgevinster ettersom fullstendige data øker håpet om blockbuster",
-        "kilde": "CNBC Top News",
-        "tid": "15:09",
-        "lenke": "https://www.cnbc.com/2026/09/08/astrazeneca-copd-drug-tozorakimab-shows-positive-late-stage-trial-results.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Omvendt utvikling av 2008 LogiCola, et logisk boreprogram",
-        "kilde": "Hacker News",
-        "tid": "15:00",
-        "lenke": "https://logicola.org/blog/the-new-logicola",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg har to sønner. Skal jeg la en sønn bygge et hus til $ 400 000 på eiendommen min? Jeg har ikke lov til å dele opp landet.",
-        "kilde": "MarketWatch",
-        "tid": "15:00",
-        "lenke": "https://www.marketwatch.com/story/i-have-two-sons-should-i-allow-one-son-to-build-a-400-000-house-on-my-property-im-not-permitted-to-subdivide-the-land-5ec23b62?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "ZX Spectrum: Eksperimenter med 1-biters lyd",
-        "kilde": "Hacker News",
-        "tid": "14:54",
-        "lenke": "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvor klimarobuste er de største byene?",
-        "kilde": "Hacker News",
-        "tid": "14:49",
-        "lenke": "https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/",
         "engelsk_kilde": true
       },
       {
@@ -342,38 +349,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Falske jobbrekrutterere blir smartere når det gjelder å svindle jobbsøkere. AI gjør det enda verre.",
-        "kilde": "MarketWatch",
-        "tid": "14:29",
-        "lenke": "https://www.marketwatch.com/story/fake-job-recruiters-are-getting-smarter-about-scamming-job-seekers-ai-is-making-it-even-worse-7cbc4cac?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Prenups er ikke bare for de rike. Her er hva de kan dekke.",
-        "kilde": "MarketWatch",
-        "tid": "14:11",
-        "lenke": "https://www.marketwatch.com/story/prenups-arent-just-for-the-rich-heres-what-they-can-cover-ac59f5f4?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hyller Solbakkens Maresca-ønske: – Helt avgjørende",
-        "kilde": "NRK Nyheter",
-        "tid": "14:06",
-        "lenke": "https://www.nrk.no/sport/stale-solbakken-onsker-enzo-maresca-mote-_-stottes-av-ekspert-1.18016883",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "– Vi er tjent med å irritere folk minst mulig",
         "kilde": "E24",
         "tid": "13:18",
         "lenke": "https://e24.no/naeringsliv/i/oEV7Qa/vi-er-tjent-med-aa-irritere-folk-minst-mulig?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Slik ankommer de royale gjestene hovedstaden",
-        "kilde": "NRK Nyheter",
-        "tid": "13:01",
-        "lenke": "https://www.nrk.no/norge/gjestene-til-gravferden-begynner-a-ankomme-1.18017874",
         "engelsk_kilde": false
       },
       {
@@ -382,27 +361,6 @@
         "tid": "12:54",
         "lenke": "https://e24.no/boers-og-finans/i/q6xr6o/overpriset-eller-fusjonsmistro?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Bekrefter at personer fra det russiske skipet «Professor Moltsjanov» har kommet seg hjem",
-        "kilde": "NRK Nyheter",
-        "tid": "12:54",
-        "lenke": "https://www.nrk.no/tromsogfinnmark/69-personer-tilbake-i-russland-etter-arrest-av-russisk-skip-pa-svalbard-1.18018029",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Generalens hemmelighet: Slo kong Harald til ridder",
-        "kilde": "NRK Nyheter",
-        "tid": "12:50",
-        "lenke": "https://www.nrk.no/sorlandet/et-liv-tett-pa-kongerekka_-generalen-har-mott-de-fire-siste-kongene-1.18017124",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Visa forteller CNBC at det utvider datatilbudet for blockchain långivere ettersom etterspørselen etter stablecoin-koblede kort øker",
-        "kilde": "CNBC Top News",
-        "tid": "11:30",
-        "lenke": "https://www.cnbc.com/2026/09/08/visa-blockchain-lender-stablecoin-cards.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Advarer om kollaps i verdenshandelen: Truer den globale økonomien",
@@ -438,20 +396,6 @@
         "tid": "08:30",
         "lenke": "https://e24.no/boers-og-finans/i/m0apO0/pwc-selger-raadgivingsvirksomhet-med-220-ansatte-40-stillinger-sentralt-beroeres?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Er vi på vei mot en global gjeldskrise?",
-        "kilde": "E24",
-        "tid": "07:54",
-        "lenke": "https://e24.no/boers-og-finans/i/ArBmXE/er-vi-paa-vei-mot-en-global-gjeldskrise?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Firmaene gjør rekruttering til X Factor-lignende konkurranser",
-        "kilde": "BBC Business",
-        "tid": "07:43",
-        "lenke": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Tilbakeslag for kolesterol legemiddel sår tvil om multimilliard-dollar rase",
