@@ -1,47 +1,61 @@
 {
   "dato": "2026-09-08",
   "dato_norsk": "Tirsdag 8. september 2026",
-  "generert_kl": "04:16",
+  "generert_kl": "08:05",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
+    {
+      "tittel": "Oslo Børs stiger fra start",
+      "kilde": "E24",
+      "tid": "07:00",
+      "lenke": "https://e24.no/boers-og-finans/i/d4a8wq/oslo-boers-stiger-fra-start?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Mistral poser $ 24 milliarder verdivurdering som Samsung leder finansiering for Europas AI-mester",
+      "kilde": "CNBC Top News",
+      "tid": "07:27",
+      "lenke": "https://www.cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Irans utenriksdepartement tar sikte på Canada for å støtte amerikanske aksjoner i Hormuzstredet",
+      "kilde": "CNBC Top News",
+      "tid": "05:29",
+      "lenke": "https://www.cnbc.com/2026/09/08/us-iran-war-trump-hormuz-canada-trade-talks-greenland.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Kinas milliarder på Oslo Børs: – Viktig å følge med på",
+      "kilde": "E24",
+      "tid": "04:15",
+      "lenke": "https://e24.no/naeringsliv/i/K8X1v6/kinas-milliarder-paa-oslo-boers-viktig-aa-foelge-med-paa?utm_medium=rss",
+      "engelsk_kilde": false
+    },
     {
       "tittel": "Bombardier peker på USAs fotavtrykk etter at Trump sier at romfartsgiganten må bygge i Amerika",
       "kilde": "CNBC Top News",
       "tid": "02:05",
       "lenke": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
       "engelsk_kilde": true
-    },
-    {
-      "tittel": "Kinas import i august bommer på anslagene etter hvert som eksporten øker i takt med oppfordringer om å rebalansere handelen",
-      "kilde": "CNBC Top News",
-      "tid": "03:10",
-      "lenke": "https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-rebalance-demand-surplus-.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Nvidia-leverandøren Wistrons aksjer faller etter at selskapet kunngjør et globalt aksjesalg på $ 1,5 milliarder",
-      "kilde": "CNBC Top News",
-      "tid": "03:54",
-      "lenke": "https://www.cnbc.com/2026/09/08/nvidia-supplier-wistron-share-sale.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Olje øker gevinsten etter hvert som de fornyede fiendtlighetene i Midtøsten skaper bekymring for langvarige konflikter",
-      "kilde": "CNBC Top News",
-      "tid": "01:42",
-      "lenke": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Oljeprisene stiger etter rapporter om at Saudi Aramco raffineri ble rammet av Houthi-opprørere",
-      "kilde": "MarketWatch",
-      "tid": "03:09",
-      "lenke": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
-      "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
+      {
+        "tittel": "Oslo Børs stiger fra start",
+        "kilde": "E24",
+        "tid": "07:00",
+        "lenke": "https://e24.no/boers-og-finans/i/d4a8wq/oslo-boers-stiger-fra-start?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kinas milliarder på Oslo Børs: – Viktig å følge med på",
+        "kilde": "E24",
+        "tid": "04:15",
+        "lenke": "https://e24.no/naeringsliv/i/K8X1v6/kinas-milliarder-paa-oslo-boers-viktig-aa-foelge-med-paa?utm_medium=rss",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Svensk kjernekraftselskap: Hentet «norsk kapital» og ansatte norgessjef",
         "kilde": "E24",
@@ -61,10 +75,10 @@
     ],
     "MARKEDER": [
       {
-        "tittel": "Trump sier at han har tjent «hundrevis av milliarder dollar på aksjer» for USA, i en strøm av AI-innlegg",
+        "tittel": "Mistral poser $ 24 milliarder verdivurdering som Samsung leder finansiering for Europas AI-mester",
         "kilde": "CNBC Top News",
-        "tid": "12:09",
-        "lenke": "https://www.cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html",
+        "tid": "07:27",
+        "lenke": "https://www.cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html",
         "engelsk_kilde": true
       }
     ],
@@ -74,13 +88,6 @@
         "kilde": "MarketWatch",
         "tid": "03:09",
         "lenke": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Olje øker gevinsten etter hvert som de fornyede fiendtlighetene i Midtøsten skaper bekymring for langvarige konflikter",
-        "kilde": "CNBC Top News",
-        "tid": "01:42",
-        "lenke": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
         "engelsk_kilde": true
       }
     ],
@@ -93,17 +100,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "AI-kreft kurerer bremset av brikkemangel, sier Storbritannias største teknologisjef",
+        "tittel": "AI vil kurere kreft i vår levetid, hevder sjefen for den britiske chip-giganten",
         "kilde": "BBC Business",
         "tid": "23:05",
         "lenke": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Krasjet Amazon-laststråle traff to kjøretøy, endte opp 1300 fot forbi rullebanen, sier NTSB",
-        "kilde": "CNBC Top News",
-        "tid": "21:36",
-        "lenke": "https://www.cnbc.com/2026/09/07/crashed-amazon-cargo-jet-struck-two-vehicles-ended-up-1300-feet-past-runway-ntsb-says.html",
         "engelsk_kilde": true
       },
       {
@@ -116,10 +116,17 @@
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Kinas import i august bommer på anslagene etter hvert som eksporten øker i takt med oppfordringer om å rebalansere handelen",
+        "tittel": "Irans utenriksdepartement tar sikte på Canada for å støtte amerikanske aksjoner i Hormuzstredet",
         "kilde": "CNBC Top News",
-        "tid": "03:10",
-        "lenke": "https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-rebalance-demand-surplus-.html",
+        "tid": "05:29",
+        "lenke": "https://www.cnbc.com/2026/09/08/us-iran-war-trump-hormuz-canada-trade-talks-greenland.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Canada forbereder seg på langvarig handelskrig etter hvert som mottariffer mot USA trer i kraft",
+        "kilde": "BBC Business",
+        "tid": "04:39",
+        "lenke": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
@@ -127,13 +134,6 @@
         "kilde": "CNBC Top News",
         "tid": "02:05",
         "lenke": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Irans utenriksdepartement tar sikte på Canada for å støtte amerikanske aksjoner i Hormuzstredet",
-        "kilde": "CNBC Top News",
-        "tid": "01:50",
-        "lenke": "https://www.cnbc.com/2026/09/08/us-iran-war-trump-hormuz-canada-trade-talks-greenland.html",
         "engelsk_kilde": true
       },
       {
@@ -153,6 +153,104 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "Er vi på vei mot en global gjeldskrise?",
+        "kilde": "E24",
+        "tid": "07:54",
+        "lenke": "https://e24.no/boers-og-finans/i/ArBmXE/er-vi-paa-vei-mot-en-global-gjeldskrise?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Pharma major stuper over 10% etter tredje prøve skuffelse i en uke",
+        "kilde": "CNBC Top News",
+        "tid": "07:51",
+        "lenke": "https://www.cnbc.com/2026/09/08/novartis-novn-del-desiran-drug-trial.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Firmaene gjør rekruttering til X Factor-lignende konkurranser",
+        "kilde": "BBC Business",
+        "tid": "07:43",
+        "lenke": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Globale skipsfartsmyndigheter advarer om sammenbrudd i maritim handel midt i geopolitisk uro",
+        "kilde": "CNBC Top News",
+        "tid": "07:28",
+        "lenke": "https://www.cnbc.com/2026/09/08/global-shipping-iran-war-hormuz-rules.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Canadas gjengjeldelsestoll verdt 27,6 milliarder $ trer i kraft etter hvert som handelskløften med USA blir dypere",
+        "kilde": "CNBC Top News",
+        "tid": "07:00",
+        "lenke": "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kartla ansatte på sykehus: Svært mange går på jobb med smerter",
+        "kilde": "NRK Nyheter",
+        "tid": "06:00",
+        "lenke": "https://www.nrk.no/trondelag/syv-av-ti-ansatte-ved-st.-olavs-hospital-gar-pa-jobb-med-smerter-i-muskler-og-ledd-1.17994182",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Bidens sønn lanserer kryptovaluta med beryktet laptop",
+        "kilde": "E24",
+        "tid": "05:57",
+        "lenke": "https://e24.no/boers-og-finans/i/8pVodw/bidens-soenn-lanserer-kryptovaluta-med-beryktet-laptop?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kongeskip i Oslofjorden",
+        "kilde": "NRK Nyheter",
+        "tid": "05:53",
+        "lenke": "https://www.nrk.no/vestfoldogtelemark/kongeskip-i-oslofjorden-1.18017466",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Slik husker vi kong Harald",
+        "kilde": "NRK Nyheter",
+        "tid": "05:42",
+        "lenke": "https://www.nrk.no/stor-oslo/xl/slik-husker-vi-kong-harald-1.18011984",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Siste mulighet for å se kong Haralds båre i dag",
+        "kilde": "NRK Nyheter",
+        "tid": "05:39",
+        "lenke": "https://www.nrk.no/nyheter/siste-mulighet-for-a-se-kong-haralds-bare-i-dag-1.18017446",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vil stoppe nye sykehus – 10 milliarder er brukt til nå",
+        "kilde": "NRK Nyheter",
+        "tid": "05:01",
+        "lenke": "https://www.nrk.no/stor-oslo/redd-ulleval-sykehus-saksoker-staten-for-a-stoppe-nye-sykehus-pa-rikshospitalet-og-aker-1.18016821",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Tilbakeslag for kolesterol legemiddel sår tvil om multimilliard-dollar rase",
+        "kilde": "CNBC Top News",
+        "tid": "05:00",
+        "lenke": "https://www.cnbc.com/2026/09/08/novartis-cholesterol-setback-drug-race-eli-lilly-amgen.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "'JLR-jobben kutter en grunn til usikkerhet og bekymring'",
+        "kilde": "BBC Business",
+        "tid": "04:57",
+        "lenke": "https://www.bbc.co.uk/news/articles/cq5x30003zdo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Reiser 30 mil for å hjelpe til i gravferda til kong Harald: – Det er stort",
+        "kilde": "NRK Nyheter",
+        "tid": "04:21",
+        "lenke": "https://www.nrk.no/mr/politimannen-joakim-jaabaek-reiser-til-oslo-for-a-vere-med-pa-gravferda-til-kongen-1.18015371",
+        "engelsk_kilde": false
+      },
+      {
         "tittel": "Pantesmell: Dette ville analytikerne gjort nå",
         "kilde": "E24",
         "tid": "04:13",
@@ -167,11 +265,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "En skjermsparer for LGs Spying Smart TV-er",
-        "kilde": "Hacker News",
-        "tid": "03:20",
-        "lenke": "https://weowntheglass.com",
-        "engelsk_kilde": true
+        "tittel": "Vogntog kjørte av veien og traff hus",
+        "kilde": "NRK Nyheter",
+        "tid": "03:45",
+        "lenke": "https://www.nrk.no/buskerud/vogntog-kjorte-av-veien_-omfattende-skader-pa-hus-i-mjondalen-1.18017410",
+        "engelsk_kilde": false
       },
       {
         "tittel": "To drept i nye rakett- og missilangrep i Kyiv",
@@ -179,48 +277,6 @@
         "tid": "03:09",
         "lenke": "https://www.nrk.no/urix/to-drept-i-nye-rakett--og-missilangrep-i-kyiv-1.18017368",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Spørringen er død om 6 måneder. Andrew Ng, Stanford [video]",
-        "kilde": "Hacker News",
-        "tid": "02:53",
-        "lenke": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vis HN: NYC MapTap – Lær NYC-nabolag (med t-baneruter når du bommer)",
-        "kilde": "Hacker News",
-        "tid": "02:36",
-        "lenke": "https://albertjoseph0.github.io/nyc-maptap/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jellyfin 12,0",
-        "kilde": "Hacker News",
-        "tid": "01:56",
-        "lenke": "https://jellyfin.org/posts/jellyfin-release-12.0/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg har innregnet RSA-nøklene til en sertifikatmyndighet fra 90-tallet",
-        "kilde": "Hacker News",
-        "tid": "01:16",
-        "lenke": "https://mcpherrin.ca/2026/09/07/rsa.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nye russiske angrep mot Ukraina",
-        "kilde": "NRK Nyheter",
-        "tid": "00:11",
-        "lenke": "https://www.nrk.no/nyheter/nye-russiske-angrep-mot-ukraina-1.18017362",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "\"Jeg opptrådte på scenen for å få min første jobb\" - firmaene gjør rekruttering til konkurranser",
-        "kilde": "BBC Business",
-        "tid": "23:06",
-        "lenke": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Hvorfor ønsker nesten ingen å bli venn med eldre mennesker som meg — bortsett fra svindlere?",
@@ -237,31 +293,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Russisk kritikk mot amerikansk missilsystem i Trøndelag",
-        "kilde": "NRK Nyheter",
-        "tid": "20:45",
-        "lenke": "https://www.nrk.no/norge/russisk-kritikk-mot-amerikansk-missilsystem-i-trondelag-1.18017095",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Glemte å registrere eiere – bøter for 413 millioner",
         "kilde": "E24",
         "tid": "20:22",
         "lenke": "https://e24.no/naeringsliv/i/43vmOo/glemte-aa-registrere-eiere-boeter-for-413-millioner?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Ber turistar komme til Nepal etter flaumkatastrofen",
-        "kilde": "NRK Nyheter",
-        "tid": "20:15",
-        "lenke": "https://www.nrk.no/urix/ber-turistar-komme-til-nepal-1.18016894",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Siktet for bildrap i Gjøvik løslates",
-        "kilde": "NRK Nyheter",
-        "tid": "20:06",
-        "lenke": "https://www.nrk.no/innlandet/siktet-for-bildrap-i-gjovik-loslates-1.18017090",
         "engelsk_kilde": false
       },
       {
@@ -270,27 +305,6 @@
         "tid": "19:30",
         "lenke": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hotell sier nei til influensere under gravferden",
-        "kilde": "NRK Nyheter",
-        "tid": "19:29",
-        "lenke": "https://www.nrk.no/norge/hotell-sier-nei-til-influensere-under-gravferden-1.18011411",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Sparkar trenaren i Sogndal Fotball etter bekymringsmeldingar",
-        "kilde": "NRK Nyheter",
-        "tid": "19:27",
-        "lenke": "https://www.nrk.no/vestland/sogndal-fotball-sparkar-trenar-luis-pimenta-etter-bekymringsmeldingar-1.18017272",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Politiet stenger deler av luftrommet over Østlandet tirsdag til torsdag",
-        "kilde": "NRK Nyheter",
-        "tid": "19:17",
-        "lenke": "https://www.nrk.no/nyheter/politiet-stenger-deler-av-luftrommet-over-ostlandet-tirsdag-til-torsdag-1.18017256",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Kronen styrkes: Billigste svenskekrone på tre år",
@@ -328,20 +342,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "\"Ah! Avvist, nok en gang\": Hvordan denne 45-åringen forvandlet sitt \"demoraliserende\" jobbsøk til et enmanns-show",
-        "kilde": "CNBC Top News",
-        "tid": "15:55",
-        "lenke": "https://www.cnbc.com/2026/09/07/45-year-old-turns-job-search-into-a-one-man-show.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Faisal Islam: Kanslerens forsøk på å øke stemningen kan begrense skatteøkninger",
-        "kilde": "BBC Business",
-        "tid": "15:41",
-        "lenke": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Tap av Costco-avtale bidrar til å presse drikkevaremerket inn i kapittel 11",
         "kilde": "Yahoo Finance",
         "tid": "15:07",
@@ -363,45 +363,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Ferd-eid byggmontør konkurs: – Hard kamp om jobbene",
-        "kilde": "E24",
-        "tid": "14:09",
-        "lenke": "https://e24.no/naeringsliv/i/k0x17A/ferd-eid-byggmontoer-konkurs-hard-kamp-om-jobbene?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "\"Vennligst ikke la dette skje med deg\": Min beste venn døde uten vilje — hennes forsømmelige familie får alt",
         "kilde": "MarketWatch",
         "tid": "13:00",
         "lenke": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Bitcoin-tyveri på tre milliarder kroner",
-        "kilde": "E24",
-        "tid": "11:40",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/pBxxLV/bitcoin-tyveri-paa-tre-milliarder-kroner?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "XXL-gründer spår at Sport Outlet vil gå forbi XXL",
-        "kilde": "E24",
-        "tid": "11:12",
-        "lenke": "https://e24.no/naeringsliv/i/16e03M/xxl-grunder-spaar-at-sport-outlet-vil-gaa-forbi-xxl?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Nordic Mining: Har penger til midten av oktober",
-        "kilde": "E24",
-        "tid": "10:59",
-        "lenke": "https://e24.no/boers-og-finans/i/rrO408/nordic-mining-har-penger-til-midten-av-oktober?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Refusjonsbrevet på £ 70 som ikke er en svindel",
-        "kilde": "BBC Business",
-        "tid": "08:50",
-        "lenke": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ]
