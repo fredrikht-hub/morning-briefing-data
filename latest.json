@@ -1,112 +1,105 @@
 {
   "dato": "2026-09-09",
   "dato_norsk": "Onsdag 9. september 2026",
-  "generert_kl": "16:03",
+  "generert_kl": "20:11",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Oljens bølge tilbake over $ 100 gir ny inflasjonsfrykt på et avgjørende tidspunkt for renten",
-      "kilde": "MarketWatch",
-      "tid": "15:14",
-      "lenke": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
+      "tittel": "Prisveksten: – Norges Bank har skiftet fot",
+      "kilde": "E24",
+      "tid": "19:48",
+      "lenke": "https://e24.no/norsk-oekonomi/i/WvXM7a/prisveksten-norges-bank-har-skiftet-fot?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Republikanere å tout kongressens aksjehandel forbud på midterm convention som Trump handler",
+      "kilde": "CNBC Top News",
+      "tid": "20:02",
+      "lenke": "https://www.cnbc.com/2026/09/09/trump-republicans-congress-stock-trading-ban-midterm-convention.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Finansdepartementet for å kjøpe tilbake opp til $ 6 milliarder i langsiktig gjeld, tredoble det normale nivået",
+      "tittel": "FED-renteøkning avhenger av to viktige inflasjonsrapporter i løpet av de neste to dagene",
+      "kilde": "MarketWatch",
+      "tid": "16:18",
+      "lenke": "https://www.marketwatch.com/story/fed-rate-hike-hinges-on-two-key-inflation-reports-in-the-next-two-days-09d63bd9?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Bessents politiske sving i GOP-tale tester hans troverdighet i obligasjonsmarkedet",
       "kilde": "CNBC Top News",
-      "tid": "15:57",
-      "lenke": "https://www.cnbc.com/2026/09/09/treasury-department-to-buy-back-6-billion-in-longer-term-debt-triple-the-normal-level.html",
+      "tid": "20:05",
+      "lenke": "https://www.cnbc.com/2026/09/09/bessent-treasury-yields-buybacks-republican-convention.html",
       "engelsk_kilde": true
     },
     {
       "tittel": "Finansdepartementet vil kjøpe flere statsobligasjoner enn tidligere annonsert. Markedet er fortsatt «underveldet».",
       "kilde": "MarketWatch",
-      "tid": "15:53",
+      "tid": "19:27",
       "lenke": "https://www.marketwatch.com/story/treasury-to-buy-back-more-government-bonds-than-previously-announced-940363ee?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Bessent sier: \"Jeg er huset nå.\" Hva det betyr for yen — og amerikanske aksjer.",
-      "kilde": "MarketWatch",
-      "tid": "13:24",
-      "lenke": "https://www.marketwatch.com/story/bessent-says-i-am-the-house-now-what-it-means-for-the-yen-and-u-s-stocks-9ef63bc3?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Tilbakekjøp på $ 6 milliarder mislykkes i å roe ned «feber» etter hvert som oljeprisene stiger",
-      "kilde": "Yahoo Finance",
-      "tid": "15:17",
-      "lenke": "https://www.investors.com/news/treasury-yields-bessent-buyback-sp-500-gold-oil-prices/?src=A00220&yptr=yahoo",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
+        "tittel": "Prisveksten: – Norges Bank har skiftet fot",
+        "kilde": "E24",
+        "tid": "19:48",
+        "lenke": "https://e24.no/norsk-oekonomi/i/WvXM7a/prisveksten-norges-bank-har-skiftet-fot?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Mener USAs gjeldskjøp er for puslete: – Ikke nok til å stagge flodbølgen",
+        "kilde": "E24",
+        "tid": "17:49",
+        "lenke": "https://e24.no/boers-og-finans/i/zOwVo9/mener-usas-gjeldskjoep-er-for-puslete-ikke-nok-til-aa-stagge-flodboelgen?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
         "tittel": "Bayern München-sjefen måper av norsk suksess: – Imponerende",
         "kilde": "NRK Nyheter",
         "tid": "09:52",
         "lenke": "https://www.nrk.no/nordland/pressekonferansen-med-bayern-munchen-for-motet-med-bodo_glimt-1.18019019",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kongens fiskevenner er invitert til gravferden i Oslo domkirke",
-        "kilde": "NRK Nyheter",
-        "tid": "08:02",
-        "lenke": "https://www.nrk.no/tromsogfinnmark/kongens-fiskevenn-hans-kristian-kjeldsberg-skal-folge-gravferden-til-kong-harald-fra-oslo-domkirke-1.18018831",
-        "engelsk_kilde": false
       }
     ],
     "MAKRO": [
       {
-        "tittel": "Finansdepartementet for å kjøpe tilbake opp til $ 6 milliarder i langsiktig gjeld, tredoble det normale nivået",
+        "tittel": "Bessents politiske sving i GOP-tale tester hans troverdighet i obligasjonsmarkedet",
         "kilde": "CNBC Top News",
-        "tid": "15:57",
-        "lenke": "https://www.cnbc.com/2026/09/09/treasury-department-to-buy-back-6-billion-in-longer-term-debt-triple-the-normal-level.html",
+        "tid": "20:05",
+        "lenke": "https://www.cnbc.com/2026/09/09/bessent-treasury-yields-buybacks-republican-convention.html",
         "engelsk_kilde": true
       },
       {
         "tittel": "Finansdepartementet vil kjøpe flere statsobligasjoner enn tidligere annonsert. Markedet er fortsatt «underveldet».",
         "kilde": "MarketWatch",
-        "tid": "15:53",
+        "tid": "19:27",
         "lenke": "https://www.marketwatch.com/story/treasury-to-buy-back-more-government-bonds-than-previously-announced-940363ee?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Tilbakekjøp på $ 6 milliarder mislykkes i å roe ned «feber» etter hvert som oljeprisene stiger",
-        "kilde": "Yahoo Finance",
-        "tid": "15:17",
-        "lenke": "https://www.investors.com/news/treasury-yields-bessent-buyback-sp-500-gold-oil-prices/?src=A00220&yptr=yahoo",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Oljens bølge tilbake over $ 100 gir ny inflasjonsfrykt på et avgjørende tidspunkt for renten",
+        "tittel": "FED-renteøkning avhenger av to viktige inflasjonsrapporter i løpet av de neste to dagene",
         "kilde": "MarketWatch",
-        "tid": "15:14",
-        "lenke": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Bessent sier: \"Jeg er huset nå.\" Hva det betyr for yen — og amerikanske aksjer.",
-        "kilde": "MarketWatch",
-        "tid": "13:24",
-        "lenke": "https://www.marketwatch.com/story/bessent-says-i-am-the-house-now-what-it-means-for-the-yen-and-u-s-stocks-9ef63bc3?mod=mw_rss_topstories",
+        "tid": "16:18",
+        "lenke": "https://www.marketwatch.com/story/fed-rate-hike-hinges-on-two-key-inflation-reports-in-the-next-two-days-09d63bd9?mod=mw_rss_topstories",
         "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "Aksjemarkedet i dag: Dow slumps 400 poeng som oljebølger; Shell hopper forbi oppføring (Live dekning)",
-        "kilde": "Yahoo Finance",
-        "tid": "15:32",
-        "lenke": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-stock-aapl-iphone-event/?src=A00220&yptr=yahoo",
+        "tittel": "Republikanere å tout kongressens aksjehandel forbud på midterm convention som Trump handler",
+        "kilde": "CNBC Top News",
+        "tid": "20:02",
+        "lenke": "https://www.cnbc.com/2026/09/09/trump-republicans-congress-stock-trading-ban-midterm-convention.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Chewy Stock slumps som in-line inntjening ikke nok til å unnslippe Wall Street's Doghouse",
-        "kilde": "Yahoo Finance",
-        "tid": "15:07",
-        "lenke": "https://www.investors.com/news/technology/chewy-stock-q2-2026-earnings-chwy-news/?src=A00220&yptr=yahoo",
+        "tittel": "Obligasjonssalg, aksjeboom: Hvorfor rebalansering er en god strategi akkurat nå",
+        "kilde": "CNBC Top News",
+        "tid": "18:55",
+        "lenke": "https://www.cnbc.com/2026/09/09/bond-selloff-stock-boom-rebalancing.html",
         "engelsk_kilde": true
       },
       {
@@ -117,64 +110,64 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Wall Street faller etter oljehopp",
+        "tittel": "Wall Street falt etter oljehopp",
         "kilde": "E24",
         "tid": "13:30",
         "lenke": "https://e24.no/boers-og-finans/i/7p16gK/wall-street-faller-fra-start?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Aksjemarkedet i dag: Dow, S&P 500, Nasdaq synker da oljeprisen overstiger $ 100",
-        "kilde": "Yahoo Finance",
-        "tid": "08:04",
-        "lenke": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-9-dow-sp-500-nasdaq-futures-080411279.html",
-        "engelsk_kilde": true
       }
     ],
     "ENERGI_RAAVARER": [
       {
-        "tittel": "Brent-råolje topper $ 101 for første gang siden juli da kampene eskalerer i Persiabukta",
-        "kilde": "CNBC Top News",
-        "tid": "15:45",
-        "lenke": "https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Brent-råolje stiger over $ 100 per fat etter hvert som Midtøsten-konflikten intensiveres",
-        "kilde": "Yahoo Finance",
-        "tid": "15:21",
-        "lenke": "https://finance.yahoo.com/news/brent-crude-rises-above-100-073722479.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Raffineringsflaskehalser dukker opp som det neste store oljeproblemet når trefninger i Midtøsten blusser opp",
+        "tittel": "Olje til $ 100? Derfor bør du alltid ha energilager i 401(k).",
         "kilde": "MarketWatch",
-        "tid": "13:46",
-        "lenke": "https://www.marketwatch.com/story/refining-bottlenecks-are-emerging-as-the-next-big-oil-problem-as-middle-east-skirmishes-flare-up-24528e22?mod=mw_rss_topstories",
+        "tid": "16:19",
+        "lenke": "https://www.marketwatch.com/story/oil-at-100-why-you-should-always-have-energy-stocks-in-your-401-k-b82798f1?mod=mw_rss_topstories",
         "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Amazon og Oracle er svært engstelige for det kommende Fed-møtet",
-        "kilde": "Yahoo Finance",
-        "tid": "15:37",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/amazon-oracle-extremely-anxious-upcoming-153726832.html",
+        "tittel": "Apples nye sjef starter med stor satsing på kostbar første sammenleggbar iPhone",
+        "kilde": "BBC Business",
+        "tid": "20:00",
+        "lenke": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Guidance Upside Drives Advanced Micro Devices (AMD) høyere, skader ikke-eiere",
-        "kilde": "Yahoo Finance",
-        "tid": "15:36",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/guidance-upside-drives-advanced-micro-153647914.html",
+        "tittel": "Apple Watch Ultra 4",
+        "kilde": "Hacker News",
+        "tid": "17:56",
+        "lenke": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Apple Watch Series 12",
+        "kilde": "Hacker News",
+        "tid": "17:56",
+        "lenke": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
         "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
+        "tittel": "Trump sier olje- og gassprisene ikke vil falle før \"rett etter\" midtveisvalget",
+        "kilde": "CNBC Top News",
+        "tid": "19:52",
+        "lenke": "https://www.cnbc.com/2026/09/09/trump-oil-gas-prices-midterm-elections.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kanadisk whisky med is? Crown Royal er klar til å unngå Trumps nye utestengelse.",
+        "kilde": "MarketWatch",
+        "tid": "19:40",
+        "lenke": "https://www.marketwatch.com/story/canadian-whisky-on-the-rocks-crown-royal-is-set-to-avoid-trumps-new-ban-2953bea3?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "LA Rams-president Kevin Demoff gir Australia et forsprang på historisk NFL-kamp",
         "kilde": "CNBC Top News",
-        "tid": "15:41",
+        "tid": "16:47",
         "lenke": "https://www.cnbc.com/2026/09/09/la-rams-kevin-demoff-australia.html",
         "engelsk_kilde": true
       },
@@ -184,27 +177,6 @@
         "tid": "15:32",
         "lenke": "https://e24.no/energi-og-klima/i/gkxnm5/nye-angrep-i-iran-gassprisen-til-vaers?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "USA avslører importforbud mot massevis av kanadiske varer etter hvert som handelskrigen eskalerer",
-        "kilde": "CNBC Top News",
-        "tid": "15:24",
-        "lenke": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trump presser Fed for lavere priser, men forbrukerne kan være bedre med en tur, sier eksperter",
-        "kilde": "CNBC Top News",
-        "tid": "14:58",
-        "lenke": "https://www.cnbc.com/2026/09/09/fed-interest-rates-consumers-benefit-rates-stay-higher.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "USA avviser påstander om at Iran traff to amerikanske fartøy som gjengjeldelse for tidligere angrep",
-        "kilde": "CNBC Top News",
-        "tid": "13:46",
-        "lenke": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Bensinprisene stiger med 5p over en uke ettersom Iran-krigen sender olje høyere",
@@ -223,45 +195,115 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "Hva et historisk sommerkassakontor avslører om massive endringer i teaterbransjen",
+        "kilde": "CNBC Top News",
+        "tid": "19:21",
+        "lenke": "https://www.cnbc.com/2026/09/09/summer-box-theatrical-shifts.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hva sjefer snakker om på Goldman Sachs 'Communacopia: AI, datasentre, forstyrrelser",
+        "kilde": "CNBC Top News",
+        "tid": "19:14",
+        "lenke": "https://www.cnbc.com/2026/09/09/goldman-sachs-communcacopia-technology-conference-ai.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Magdi: – Alt har forandra seg. Alt, bortsett frå Kongen",
+        "kilde": "NRK Nyheter",
+        "tid": "18:49",
+        "lenke": "https://www.nrk.no/kultur/karpe-magdi-i-personleg-hyllest_-_-alt-har-forandra-seg.-alt_-bortsett-fra-kongen-1.18019811",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Forklarer bildene: – Et av de flotteste menneskene vi har hatt",
+        "kilde": "NRK Nyheter",
+        "tid": "18:38",
+        "lenke": "https://www.nrk.no/sport/brutalt-mote-med-mesterligaen-for-viking-_-tapte-mot-stuttgart-1.18019790",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Elleville bevegelser i Hunter Bidens krytovaluta",
+        "kilde": "E24",
+        "tid": "18:32",
+        "lenke": "https://e24.no/boers-og-finans/i/L4QjJ1/elleville-bevegelser-i-hunter-bidens-krytovaluta?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Flytrafikksvikt kunne vært unngått, sier transportsekretær",
+        "kilde": "BBC Business",
+        "tid": "18:21",
+        "lenke": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "iPhone Duo",
+        "kilde": "Hacker News",
+        "tid": "18:15",
+        "lenke": "https://www.apple.com/iphone-duo/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vis HN: Selveide bedriftsoperativsystem, Claude Code og Codex-agenter i avdelinger",
+        "kilde": "Hacker News",
+        "tid": "17:57",
+        "lenke": "https://github.com/OtoDock/oto-dock",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Eksperter veier inn som forsker sier AI har mer enn 10% sjanse for å \"drepe alle mennesker\"",
         "kilde": "CNBC Top News",
-        "tid": "16:03",
+        "tid": "17:43",
         "lenke": "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Jeg er en enslig 58 år gammel veteran i California med $ 1,5 millioner og en VA-pensjon. Kan jeg pensjonere meg?",
-        "kilde": "MarketWatch",
-        "tid": "16:00",
-        "lenke": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Vi frykter økonomisk utnyttelse’: Hvem vil forvalte vår økonomi hvis min kone og jeg blir uføre?",
-        "kilde": "MarketWatch",
-        "tid": "15:46",
-        "lenke": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Bedre AI-kode kommentardetektor",
+        "tittel": "AirPods 5",
         "kilde": "Hacker News",
-        "tid": "15:45",
-        "lenke": "https://entropicthoughts.com/better-ai-comment-classifier",
+        "tid": "17:39",
+        "lenke": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Planet Labs 'åpne satellittmating",
-        "kilde": "Hacker News",
-        "tid": "15:44",
-        "lenke": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
+        "tittel": "De tradisjonelle veiene til å bygge rikdom blir mindre tilgjengelige for unge amerikanere. Her er hva som skjedde.",
+        "kilde": "MarketWatch",
+        "tid": "17:30",
+        "lenke": "https://www.marketwatch.com/story/the-traditional-paths-to-building-wealth-are-becoming-less-accessible-for-young-americans-80112c08?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "CoreWeave CEO chalks up public AI pushback to the speed of change: 'Og det er skremmende'",
-        "kilde": "CNBC Top News",
-        "tid": "15:37",
-        "lenke": "https://www.cnbc.com/2026/09/09/goldman-sachs-communcacopia-technology-conference-ai.html",
+        "tittel": "Jeg har to sønner. Skal jeg la en sønn bygge et hus til $ 400 000 på tomten min?",
+        "kilde": "MarketWatch",
+        "tid": "17:30",
+        "lenke": "https://www.marketwatch.com/story/i-have-two-sons-should-i-allow-one-son-to-build-a-400-000-house-on-my-property-im-not-permitted-to-subdivide-the-land-5ec23b62?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nordmenn fortviler over «AI-skvip»",
+        "kilde": "E24",
+        "tid": "17:22",
+        "lenke": "https://e24.no/naeringsliv/i/aJexe2/nordmenn-fortviler-over-ki-skvip?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Over 30 soldater fikk tilsyn under kong Haralds gravferd",
+        "kilde": "NRK Nyheter",
+        "tid": "16:45",
+        "lenke": "https://www.nrk.no/nyheter/over-30-soldater-fikk-tilsyn-under-kong-haralds-gravferd-1.18019749",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Dette er de 10 største pensjonsfryktene — og hva du kan gjøre med dem",
+        "kilde": "MarketWatch",
+        "tid": "16:38",
+        "lenke": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Investorer som er bekymret for økende obligasjonsrenter, følger nøye med på dette hjørnet av markedet",
+        "kilde": "MarketWatch",
+        "tid": "16:09",
+        "lenke": "https://www.marketwatch.com/story/investors-worried-about-rising-bond-yields-are-keeping-a-close-eye-on-this-corner-of-the-market-aa4096c8?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -272,53 +314,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hvor lenge bør du vente mellom kredittkortapplikasjoner?",
-        "kilde": "Yahoo Finance",
-        "tid": "15:20",
-        "lenke": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-long-should-you-wait-between-credit-card-applications-152057924.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Victrex finner sitt høytytende spor igjen",
-        "kilde": "Yahoo Finance",
-        "tid": "15:12",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/victrex-finds-high-performance-groove-151203545.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Må du være millionær for å pensjonere deg? Eksperter veier inn på 15% -regelen.",
-        "kilde": "Yahoo Finance",
-        "tid": "15:03",
-        "lenke": "https://finance.yahoo.com/personal-finance/investing/article/do-you-need-to-be-a-millionaire-to-retire-experts-weigh-in-on-the-15-rule-150323141.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Kongefamilien rørt til tårer",
         "kilde": "E24",
         "tid": "15:00",
         "lenke": "https://e24.no/norsk-oekonomi/i/aJ0jj5/folket-flokker-mot-slottet?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Investere i mødre? Den langvarige effekten av en universell barneomsorg",
-        "kilde": "Hacker News",
-        "tid": "14:55",
-        "lenke": "https://www.nber.org/papers/w35514",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vis HN: Geiger – Se hver AI-agent på maskinen din og hva den kan berøre",
-        "kilde": "Hacker News",
-        "tid": "14:54",
-        "lenke": "https://github.com/Atomburstofficial/geiger",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvordan lage en \"evig lønnsslipp\" uten å betale for en livrente",
-        "kilde": "MarketWatch",
-        "tid": "14:27",
-        "lenke": "https://www.marketwatch.com/story/how-to-create-a-forever-paycheck-without-paying-for-an-annuity-e5d171d3?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Slik var gravferdsdagen – fra Slottet til kong Haralds siste hvilested",
@@ -328,25 +328,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Forventer du en arv? Ikke stol på det.",
-        "kilde": "MarketWatch",
-        "tid": "14:05",
-        "lenke": "https://www.marketwatch.com/story/why-you-shouldnt-stake-your-entire-retirement-plan-on-getting-an-inheritance-f35dbf96?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Storhet og fiasko: Hva forteller kong Haakons navnevalg om Norges historie?",
         "kilde": "E24",
         "tid": "13:54",
         "lenke": "https://e24.no/norsk-oekonomi/i/pBOQMw/storhet-og-fiasko-hva-forteller-kong-haakons-navnevalg-om-norges-historie?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Den gamle greske vannklokken som holdt den mest nøyaktige tiden i 1800 år",
-        "kilde": "Hacker News",
-        "tid": "13:54",
-        "lenke": "https://www.openculture.com/2026/09/the-ancient-greek-water-clock-that-kept-the-most-accurate-time-for-1800-years.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Apples nye toppsjef klar for storlansering",
@@ -356,7 +342,7 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Jernverket på Ulefoss kan bli lagt ned: – Krise for Nome",
+        "tittel": "Jernverket på Ulefoss kan bli lagt ned: – Stor krise for Nome",
         "kilde": "NRK Nyheter",
         "tid": "13:20",
         "lenke": "https://www.nrk.no/vestfoldogtelemark/jernverket-pa-ulefoss-kan-bli-lagt-ned-1.18019334",
@@ -377,13 +363,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Kong Harald V er på sitt siste hvilested",
-        "kilde": "E24",
-        "tid": "11:24",
-        "lenke": "https://e24.no/naeringsliv/i/0pqwxg/bisettelsen-av-kong-harald-v-i-oslo-domkirke?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Sang «Jørgen hattemaker» i kong Haralds gravferd: – En ære",
         "kilde": "NRK Nyheter",
         "tid": "10:45",
@@ -391,45 +370,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Julia og Seth har førebudd seg til gravferda med dikt og samtalar om døden",
-        "kilde": "NRK Nyheter",
-        "tid": "10:28",
-        "lenke": "https://www.nrk.no/nordland/slik-blir-kong-harald-sin-gravferd-markert-pa-skulane-i-noreg-1.18018860",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kongens båre gjennom Oslos gater",
-        "kilde": "E24",
-        "tid": "10:08",
-        "lenke": "https://e24.no/naeringsliv/i/lna6d7/kong-haralds-gravferd-i-dag-prosesjonen-gaar-mot-oslo-domkirke?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Marthes farvel: – En stor, stor ære",
-        "kilde": "NRK Nyheter",
-        "tid": "09:41",
-        "lenke": "https://www.nrk.no/vestfoldogtelemark/kong-haralds-ord-reddet-marthe-kristine-paulsen-_-na-er-hun-klar-for-a-ta-farvel-1.18018963",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Kong Harald begraves: – Betydde mye at han hørte på oss",
         "kilde": "NRK Nyheter",
         "tid": "09:17",
-        "lenke": "https://www.nrk.no/sapmi/slik-tar-sapmi-farvel-med-kong-harald-1.18018842",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Nordnet får kritikk for markedsføring og bruk av influencere",
-        "kilde": "E24",
-        "tid": "09:03",
-        "lenke": "https://e24.no/boers-og-finans/i/n1l2ga/nordnet-faar-kritikk-for-markedsfoering-og-bruk-av-influencere?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Investtech-analyse: Tre sterke kjøp",
-        "kilde": "E24",
-        "tid": "09:01",
-        "lenke": "https://e24.no/boers-og-finans/i/PdXQq0/investtech-analyse-tre-sterke-kjoep?utm_medium=rss",
+        "lenke": "https://www.nrk.no/sapmi/slik-tok-sapmi-farvel-med-kong-harald-1.18018842",
         "engelsk_kilde": false
       },
       {
@@ -437,20 +381,6 @@
         "kilde": "BBC Business",
         "tid": "08:04",
         "lenke": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Singaporsk mann erklærer seg skyldig i USA for massivt kryptokupp",
-        "kilde": "BBC Business",
-        "tid": "05:49",
-        "lenke": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Cowboybygger rev hjemmet mitt fra hverandre og forsvant fra jordens overflate med £ 14 000",
-        "kilde": "BBC Business",
-        "tid": "05:00",
-        "lenke": "https://www.bbc.co.uk/news/articles/clykjmjm6m0o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
