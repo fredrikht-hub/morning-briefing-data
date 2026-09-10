@@ -1,148 +1,141 @@
 {
   "dato": "2026-09-10",
   "dato_norsk": "Torsdag 10. september 2026",
-  "generert_kl": "16:04",
+  "generert_kl": "20:10",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Sannsynligheten for en Fed-renteøkning neste uke har nettopp blitt mye høyere",
+      "tittel": "Fredagens KPI-inflasjonsrapport er enda viktigere enn vanlig. Her er hva du kan forvente",
       "kilde": "CNBC Top News",
-      "tid": "14:51",
-      "lenke": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Treasury yields surge towards the danger zone for stocks, as inflation pressures heat up",
-      "kilde": "MarketWatch",
-      "tid": "15:48",
-      "lenke": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
+      "tid": "19:18",
+      "lenke": "https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html",
       "engelsk_kilde": true
     },
     {
       "tittel": "Trumps $ 1 billion-pluss 'utbytte' plan møter umiddelbar bipartisan pushback",
       "kilde": "CNBC Top News",
-      "tid": "15:53",
+      "tid": "18:52",
       "lenke": "https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "USAs råolje topper $ 100 igjen – sist sett i mai – som markedsstøtte for langvarig Iran-krig",
+      "tittel": "Sannsynligheten for en Fed-renteøkning neste uke har nettopp blitt mye høyere",
       "kilde": "CNBC Top News",
-      "tid": "14:52",
-      "lenke": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
+      "tid": "16:55",
+      "lenke": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Nå har du sjansen til å tjene penger under det beste obligasjonsmarkedet for avkastning på flere tiår — hvis du kommer over treasury jitters",
+      "tittel": "Treasury yields surge after poor 30-year auction and new buyback operation fail to calm market",
       "kilde": "MarketWatch",
-      "tid": "15:25",
-      "lenke": "https://www.marketwatch.com/story/nows-your-chance-to-make-money-during-the-best-bond-market-for-yields-in-decades-if-you-get-over-treasury-jitters-4209f805?mod=mw_rss_topstories",
+      "tid": "18:37",
+      "lenke": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Olje-, gass- og lånekostnadene øker i takt med at frykten for Midtøsten eskalerer",
+      "kilde": "BBC Business",
+      "tid": "17:38",
+      "lenke": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
+        "tittel": "Oljefondet-forslag vekker oppsikt: – Mic drop fra nordmennene",
+        "kilde": "E24",
+        "tid": "16:42",
+        "lenke": "https://e24.no/boers-og-finans/i/d4aEWO/oljefondet-forslag-vekker-oppsikt-mic-drop-fra-nordmennene?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
         "tittel": "Drivstoffprisene varierer mye: – Fyller nok bare for 500",
         "kilde": "E24",
         "tid": "11:13",
         "lenke": "https://e24.no/energi-og-klima/i/Ar9Jaz/drivstoffprisene-varierer-mye-fyller-nok-bare-for-500?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Klokken tikker: Norge kan få ekstratoll om få uker",
-        "kilde": "E24",
-        "tid": "09:35",
-        "lenke": "https://e24.no/norsk-oekonomi/i/6qM5ez/klokken-tikker-norge-kan-faa-ekstratoll-om-faa-uker?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ],
     "MAKRO": [
       {
-        "tittel": "Olje-, gass- og lånekostnadene øker i takt med at frykten for Midtøsten eskalerer",
-        "kilde": "BBC Business",
-        "tid": "15:56",
-        "lenke": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+        "tittel": "Fredagens KPI-inflasjonsrapport er enda viktigere enn vanlig. Her er hva du kan forvente",
+        "kilde": "CNBC Top News",
+        "tid": "19:18",
+        "lenke": "https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Treasury yields surge towards the danger zone for stocks, as inflation pressures heat up",
+        "tittel": "Treasury yields surge after poor 30-year auction and new buyback operation fail to calm market",
         "kilde": "MarketWatch",
-        "tid": "15:48",
+        "tid": "18:37",
         "lenke": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nå har du sjansen til å tjene penger under det beste obligasjonsmarkedet for avkastning på flere tiår — hvis du kommer over treasury jitters",
-        "kilde": "MarketWatch",
-        "tid": "15:25",
-        "lenke": "https://www.marketwatch.com/story/nows-your-chance-to-make-money-during-the-best-bond-market-for-yields-in-decades-if-you-get-over-treasury-jitters-4209f805?mod=mw_rss_topstories",
+        "tittel": "Olje-, gass- og lånekostnadene øker i takt med at frykten for Midtøsten eskalerer",
+        "kilde": "BBC Business",
+        "tid": "17:38",
+        "lenke": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
         "tittel": "Sannsynligheten for en Fed-renteøkning neste uke har nettopp blitt mye høyere",
         "kilde": "CNBC Top News",
-        "tid": "14:51",
+        "tid": "16:55",
         "lenke": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
         "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
+        "tittel": "Aksjer glir ettersom denne \"negative risikotreenigheten\" skremmer investorer",
+        "kilde": "MarketWatch",
+        "tid": "20:06",
+        "lenke": "https://www.marketwatch.com/story/stocks-are-sliding-as-this-negative-risk-trinity-spooks-investors-4dd1927e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Jeg føler meg lurt’: Entreprenøren min leverte min $ 42 000 bassengoppgradering til en underleverandør jeg allerede hadde avvist. Hva kan jeg gjøre?",
+        "kilde": "MarketWatch",
+        "tid": "20:00",
+        "lenke": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ville du kjøpt aksjer i et selskap hvis egne forskere tror at produktet kan drepe deg?",
+        "kilde": "MarketWatch",
+        "tid": "19:07",
+        "lenke": "https://www.marketwatch.com/story/would-you-buy-stock-in-a-company-whose-own-scientists-think-the-product-might-kill-you-f8bc04c3?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Trumps $ 1 billion-pluss 'utbytte' plan møter umiddelbar bipartisan pushback",
         "kilde": "CNBC Top News",
-        "tid": "15:53",
+        "tid": "18:52",
         "lenke": "https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Drone Maker AeroVironment svever med analytikermål etter inntjeningsslag",
-        "kilde": "Yahoo Finance",
-        "tid": "15:46",
-        "lenke": "https://www.investors.com/news/aerovironment-earnings-q1-2027-analyst-targets-drone-demand-avav-stock/?src=A00220&yptr=yahoo",
+        "tittel": "Elon Musks Boring Co. vender seg til Midtøsten for ekspansjon i å nå $ 23 milliarder verdsettelse",
+        "kilde": "CNBC Top News",
+        "tid": "18:15",
+        "lenke": "https://www.cnbc.com/2026/09/10/elon-musk-boring-co-uae-valuation.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Mandater for fornybar energi er faktisk dårlige for forbrukerne. De er heller ikke gode for solcellebeholdninger.",
-        "kilde": "MarketWatch",
-        "tid": "15:34",
-        "lenke": "https://www.marketwatch.com/story/renewable-energy-mandates-are-actually-bad-for-consumers-theyre-not-great-for-solar-stocks-either-bdfa13bb?mod=mw_rss_topstories",
+        "tittel": "AI er i ferd med å miste sitt kvelertak på det amerikanske aksjemarkedet. Her er hvorfor",
+        "kilde": "CNBC Top News",
+        "tid": "17:42",
+        "lenke": "https://www.cnbc.com/2026/09/10/ai-is-losing-its-stranglehold-on-the-us-stock-market-heres-why.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nasdaq øser millioner inn i kryptoplattformpartnerskap for tokenisert handel",
-        "kilde": "Yahoo Finance",
-        "tid": "15:33",
-        "lenke": "https://www.investors.com/news/nasdaq-pours-millions-into-crypto-platform-partnership-for-tokenized-trading/?src=A00220&yptr=yahoo",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Meta vinner over Wall Street med sin nye Muse AI-agent",
-        "kilde": "MarketWatch",
-        "tid": "15:23",
-        "lenke": "https://www.marketwatch.com/story/meta-is-winning-over-wall-street-with-its-new-muse-ai-agent-0700ca87?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "De overraskende Pockmarks på Coopers inntjening som forårsaket aksjen til å dykke",
-        "kilde": "Yahoo Finance",
-        "tid": "15:22",
-        "lenke": "https://www.investors.com/news/technology/cooper-companies-stock-fiscal-q3-2026-earnings/?src=A00220&yptr=yahoo",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Bred nedgang på Wall Street",
+        "tittel": "Nedgang på Wall Street for fjerde dag på rad",
         "kilde": "E24",
         "tid": "13:31",
         "lenke": "https://e24.no/boers-og-finans/i/zO3m8w/bred-nedgang-paa-wall-street?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Aksjemarkedet i dag: Dow, S&P 500, Nasdaq forlenger tap når obligasjonsrenter hopper, olje holder over $ 100",
-        "kilde": "Yahoo Finance",
-        "tid": "08:37",
-        "lenke": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-10-dow-sp-500-nasdaq-083717303.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Obligasjonssalg, aksjeboom: Hvorfor rebalansering er en god strategi akkurat nå",
@@ -152,42 +145,19 @@
         "engelsk_kilde": true
       }
     ],
-    "ENERGI_RAAVARER": [
-      {
-        "tittel": "USAs råolje topper $ 100 igjen – sist sett i mai – som markedsstøtte for langvarig Iran-krig",
-        "kilde": "CNBC Top News",
-        "tid": "14:52",
-        "lenke": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kalshi lanserer ‘perps’ for gull og sølv etter CFTC-godkjenning, og utvider futures-tilbud",
-        "kilde": "CNBC Top News",
-        "tid": "14:00",
-        "lenke": "https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html",
-        "engelsk_kilde": true
-      }
-    ],
     "TEKNOLOGI": [
       {
-        "tittel": "SpaceX aksjer høyere som datasenter overhaling, spirende britisk forsvar avtale i fokus",
-        "kilde": "Yahoo Finance",
-        "tid": "16:00",
-        "lenke": "https://finance.yahoo.com/markets/stocks/article/spacex-shares-higher-as-data-center-overhaul-budding-uk-defense-deal-in-focus-160039841.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Apple gjør den største endringen i iPhone-utgivelsesfrekvensen på 7 år i Ternus 'første utstillingsvindu som administrerende direktør",
+        "tittel": "OpenAI retter seg mot Wall Streets juniorbankfolk med ny ChatGPT for finansielle tjenester",
         "kilde": "CNBC Top News",
-        "tid": "14:45",
-        "lenke": "https://www.cnbc.com/2026/09/10/apple-makes-biggest-change-to-iphone-release-cadence-in-7-years.html",
+        "tid": "19:02",
+        "lenke": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Amazon piloterer annonsetjenester i ChatGPT",
+        "tittel": "Jeg har en teori om at programvare driver folk til vanvidd",
         "kilde": "Hacker News",
-        "tid": "14:13",
-        "lenke": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/",
+        "tid": "16:13",
+        "lenke": "https://graybeard.ing/software-drives-people-insane/",
         "engelsk_kilde": true
       },
       {
@@ -207,34 +177,146 @@
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Trump-administrasjonen foreslår å gi avkall på henstandsperioden for H-1B-innehavere etter tap av arbeids",
-        "kilde": "Yahoo Finance",
-        "tid": "15:48",
-        "lenke": "https://finance.yahoo.com/news/trump-administration-proposes-waiving-grace-152322715.html",
+        "tittel": "Det er ikke bare Hormuz. En annen krig gir ferske prissjokk til drivstoff og mat.",
+        "kilde": "MarketWatch",
+        "tid": "19:38",
+        "lenke": "https://www.marketwatch.com/story/its-not-just-hormuz-another-war-is-providing-fresh-price-shocks-to-fuel-and-food-663f294d?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump kunngjør $ 500 Obamacare-refusjoner for nesten 1 million mennesker — her er hvem som kvalifiserer",
+        "kilde": "CNBC Top News",
+        "tid": "19:08",
+        "lenke": "https://www.cnbc.com/2026/09/10/trump-obamacare-refunds-aca.html",
         "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
       {
-        "tittel": "Expedia CEO: Til tross for rekordhøye bensinpriser, 'reiser folk fortsatt'",
-        "kilde": "Yahoo Finance",
-        "tid": "15:56",
-        "lenke": "https://finance.yahoo.com/markets/article/expedia-ceo-despite-record-high-gas-prices-people-are-still-traveling-155635399.html",
+        "tittel": "Byråer reduserer reguleringsbyrden for fellesskapsbanker, øker kvalifiseringen for 18-måneders eksamenssy",
+        "kilde": "Federal Reserve",
+        "tid": "20:00",
+        "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Næringsdrivende betaler mer for å satse på Oracle enn å beskytte seg mot det. Her er hvorfor det er baklengs",
-        "kilde": "Yahoo Finance",
-        "tid": "15:50",
-        "lenke": "https://finance.yahoo.com/markets/options/articles/traders-paying-more-bet-oracle-155036836.html",
+        "tittel": "Lade-gigant utsatt for dataangrep: Svindler gikk selv i svindel-felle",
+        "kilde": "NRK Nyheter",
+        "tid": "19:51",
+        "lenke": "https://www.nrk.no/rogaland/easee-topp-hacket-_-ansattes-personopplysninger-pa-avveie-1.18017716",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Israelske angrep i Libanon ble registrert som jordskjelv",
+        "kilde": "NRK Nyheter",
+        "tid": "19:39",
+        "lenke": "https://www.nrk.no/nyheter/israelske-angrep-i-libanon-ble-registrert-som-jordskjelv-1.18021153",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Faren er ikke over",
+        "kilde": "E24",
+        "tid": "19:38",
+        "lenke": "https://e24.no/norsk-oekonomi/i/Pd2La7/faren-er-ikke-over?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Denne enkle feilen kan gi pengene dine til feil person når du dør. Slik beskytter du eiendommen din.",
+        "kilde": "MarketWatch",
+        "tid": "19:21",
+        "lenke": "https://www.marketwatch.com/story/this-simple-mistake-can-cost-your-loved-ones-their-share-of-your-estate-heres-how-to-protect-your-money-99374a95?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Bitcoin selger trykkfall til historiske nedturer midt i rebound",
-        "kilde": "Yahoo Finance",
-        "tid": "15:49",
-        "lenke": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-selling-pressure-drops-historic-154900460.html",
+        "tittel": "Ekte kreativitet er din nye vollgrav (2026)",
+        "kilde": "Hacker News",
+        "tid": "19:03",
+        "lenke": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Fattigdom trenger ikke å være min virkelighet’: Jeg trodde jeg måtte stole på trygd. Så lærte jeg meg selv å investere.",
+        "kilde": "MarketWatch",
+        "tid": "19:00",
+        "lenke": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Maxbo legger ned fire varehus",
+        "kilde": "E24",
+        "tid": "18:44",
+        "lenke": "https://e24.no/naeringsliv/i/3pwlvv/maxbo-legger-ned-fire-varehus?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Den 30-årige boliglånsrenten passerte akkurat 7% for første gang på over et år",
+        "kilde": "MarketWatch",
+        "tid": "18:18",
+        "lenke": "https://www.marketwatch.com/story/the-30-year-mortgage-rate-just-crossed-7-for-the-first-time-in-over-a-year-a3fba38f?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Landslagsprofil tar pause: – Det er overraskende",
+        "kilde": "NRK Nyheter",
+        "tid": "18:15",
+        "lenke": "https://www.nrk.no/sport/fredrik-bjorkan-gir-seg-pa-landslaget-1.18021011",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Arbeidstilsynet om laksemilliardær: – Har avdekt alvorlege brot",
+        "kilde": "NRK Nyheter",
+        "tid": "18:12",
+        "lenke": "https://www.nrk.no/mr/tre-hofseth-selskap-har-fatt-gebyr-pa-til-saman-5_3-millionar-kroner-fra-arbeidstilsynet-1.18017681",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Medier: Støre gjør endringer i regjeringen fredag",
+        "kilde": "E24",
+        "tid": "18:08",
+        "lenke": "https://e24.no/naeringsliv/i/7pg7KW/medier-stoere-gjoer-endringer-i-regjeringen-fredag?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Jep 544: Kompilering av forhåndskode",
+        "kilde": "Hacker News",
+        "tid": "17:30",
+        "lenke": "https://openjdk.org/jeps/544",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Musikkteori for klasserommet i det 21. århundre",
+        "kilde": "Hacker News",
+        "tid": "17:14",
+        "lenke": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Labour-ordførere i England lover å begrense turistskatten til 5%",
+        "kilde": "BBC Business",
+        "tid": "16:59",
+        "lenke": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Cognitions SWE-2 oppnår 92,8 på Terminal-Bench 2.1",
+        "kilde": "Hacker News",
+        "tid": "16:52",
+        "lenke": "https://tokenstead.ai/models/swe-2",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vil redde 60-tallshuset fra å bli et nybygg",
+        "kilde": "NRK Nyheter",
+        "tid": "16:10",
+        "lenke": "https://www.nrk.no/mr/restaurering-og-oppussing_-siri-og-brigt-kjopte-ubeboelig-bolig-i-spjelkavika-i-alesund-1.18000530",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vurderer å sende ut farevarsel for årets første hauststorm i vest og nord",
+        "kilde": "NRK Nyheter",
+        "tid": "15:48",
+        "lenke": "https://www.nrk.no/nordland/nordland-kan-fa-den-forste-hauststormen-i-helga-_-resten-av-landet-far-godver-1.18020925",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Mener mann ruset seg på propan før huset gikk i lufta",
@@ -258,118 +340,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Ikke la noen ta fra deg den store esken med kabler",
-        "kilde": "Hacker News",
-        "tid": "15:27",
-        "lenke": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "18 WTW-agenter sluttet på 44 minutter, gikk ved siden av konkurrenten Lockton — og tok angivelig $ 5 millioner i kunder",
-        "kilde": "Yahoo Finance",
-        "tid": "15:25",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/18-wtw-agents-quit-44-152500609.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Å avspore AI-toget vil være overraskende vanskelig, ifølge Bank of America",
-        "kilde": "MarketWatch",
-        "tid": "15:13",
-        "lenke": "https://www.marketwatch.com/story/history-shows-the-bar-to-disrupt-ai-is-surprisingly-high-says-bank-of-america-ddf543d4?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Stenger T-banen i til sammen fire uker: – Blir vondt",
-        "kilde": "NRK Nyheter",
-        "tid": "14:50",
-        "lenke": "https://www.nrk.no/stor-oslo/stenger-hele-t-banen-i-fire-uker-til-sammen-1.18019059",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Stjernefravær skaper hodebry: – Han blir et stort savn",
-        "kilde": "NRK Nyheter",
-        "tid": "14:47",
-        "lenke": "https://www.nrk.no/sport/bodo_glimt-trener-kjetil-knutsen-svarer-pa-kritikken-etter-overgangsvinduet-1.18020069",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Englands borgermestere for å få makt til å pålegge turistskatt",
-        "kilde": "BBC Business",
-        "tid": "14:46",
-        "lenke": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg er en enslig 58 år gammel veteran i California med $ 1,5 millioner og en VA-pensjon. Kan jeg pensjonere meg?",
-        "kilde": "MarketWatch",
-        "tid": "14:30",
-        "lenke": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Bilen som trakk båren",
-        "kilde": "NRK Nyheter",
-        "tid": "14:28",
-        "lenke": "https://www.nrk.no/urix/forsvaret_-_ville-gi-kongen-et-pent-og-rundt-skiltnummer_-1.18020111",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Jeg dekker alltid for en lat ansatt. Hvordan kan jeg takle ham uten å bli gal?",
-        "kilde": "MarketWatch",
-        "tid": "14:27",
-        "lenke": "https://www.marketwatch.com/story/im-always-covering-for-a-lazy-employee-how-can-i-deal-with-him-without-going-crazy-5070a6f9?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Vi frykter økonomisk utnyttelse’: Hvem vil forvalte vår økonomi hvis min kone og jeg blir uføre?",
-        "kilde": "MarketWatch",
-        "tid": "14:15",
-        "lenke": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vis HN: Jeg hadde ikke råd til intervjuforberedelser, så jeg bygde et gratis alternativ",
-        "kilde": "Hacker News",
-        "tid": "14:10",
-        "lenke": "https://learningto.co/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Shopify flytter tilbake til Native fra React Native",
-        "kilde": "Hacker News",
-        "tid": "14:09",
-        "lenke": "https://shopify.engineering/back-to-native",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kostråd gjennom 100 år – slik har de endra seg",
-        "kilde": "NRK Nyheter",
-        "tid": "14:08",
-        "lenke": "https://www.nrk.no/trondelag/norske-kostrad-gjennom-100-ar_-sann-har-radene-for-egg_-smor_-kjott-og-potet-blitt-endra.-1.17995742",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Boligsalget faller i august til tross for det høyeste tilbudet på over et tiår",
-        "kilde": "CNBC Top News",
-        "tid": "14:07",
-        "lenke": "https://www.cnbc.com/2026/09/10/home-sales-august-supply.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvem gjødsler den? (Turdle.fun)",
-        "kilde": "Hacker News",
-        "tid": "14:01",
-        "lenke": "https://turdle.fun/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "3D-printer hundre iskremvogner: – Gir enorme muligheter",
-        "kilde": "NRK Nyheter",
-        "tid": "13:56",
-        "lenke": "https://www.nrk.no/sorlandet/bygger-nye-isvogner-med-gigantisk-3d-printer_-_-gir-enorme-muligheter-1.18013994",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Riverty dømt til å tilbakebetale fakturagebyr",
         "kilde": "E24",
         "tid": "13:38",
@@ -384,24 +354,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Engrosprisene steg 0,4% i august, som forventet",
-        "kilde": "CNBC Top News",
-        "tid": "13:23",
-        "lenke": "https://www.cnbc.com/2026/09/10/ppi-inflation-report-august-2026.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Høgsterett slår fast: Forvaringsdømd blir sleppt ut på prøve etter 30 år",
+        "tittel": "Hvert femte lokallag krever at Høyre snur om drivstoff: – Ønsker at de legger øret til bakken",
         "kilde": "NRK Nyheter",
-        "tid": "12:38",
-        "lenke": "https://www.nrk.no/mr/hogsterett_-forvaringsdomd-blir-sleppt-ut-pa-prove-etter-30-ar-1.18013098",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Dømt til fengsel i historisk ulvesak i Eidskog",
-        "kilde": "NRK Nyheter",
-        "tid": "12:32",
-        "lenke": "https://www.nrk.no/innlandet/dom-i-ulverettssaken-i-eidskog-1.17927647",
+        "tid": "12:28",
+        "lenke": "https://www.nrk.no/nordland/hvert-femte-lokallag-krever-at-hoyre-snur-om-drivstoff-_-blant-disse-hjemkommunen-til-nestleder-1.18014293",
         "engelsk_kilde": false
       },
       {
@@ -419,13 +375,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Økt sparing for atomvinteren?",
-        "kilde": "E24",
-        "tid": "10:47",
-        "lenke": "https://e24.no/norsk-oekonomi/i/q68pGz/oekt-sparing-for-atomvinteren?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Primark er endelig klar til å lansere hjemmeleveranser",
         "kilde": "BBC Business",
         "tid": "10:02",
@@ -433,18 +382,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Oljeprisen stiger kraftig",
-        "kilde": "E24",
-        "tid": "09:15",
-        "lenke": "https://e24.no/energi-og-klima/i/gkQxo0/oljeprisen-bikker-102-dollar?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Islands nei – hva nå?",
-        "kilde": "E24",
-        "tid": "09:08",
-        "lenke": "https://e24.no/naeringsliv/i/JO22vX/islands-nei-hva-naa?utm_medium=rss",
-        "engelsk_kilde": false
+        "tittel": "Skattebanker for å kutte energiregninger, sier fagforeninger til Burnham",
+        "kilde": "BBC Business",
+        "tid": "00:06",
+        "lenke": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
       },
       {
         "tittel": "Hvorfor noen eksperter i økende grad frykter at AI vil ta over",
@@ -458,13 +400,6 @@
         "kilde": "BBC Business",
         "tid": "23:02",
         "lenke": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Flytrafikksvikt kunne vært unngått, sier transportsekretær",
-        "kilde": "BBC Business",
-        "tid": "18:21",
-        "lenke": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ]
