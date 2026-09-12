@@ -1,46 +1,55 @@
 {
   "dato": "2026-09-12",
   "dato_norsk": "Lørdag 12. september 2026",
-  "generert_kl": "08:04",
+  "generert_kl": "12:15",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Trumps Amerika-første verden presser andre makter til å sikre sine innsatser",
+      "tittel": "Trump: Ville elsket å se et forent Irland",
+      "kilde": "NRK Nyheter",
+      "tid": "10:06",
+      "lenke": "https://www.nrk.no/nyheter/trump_-ville-elsket-a-se-et-forent-irland-1.18022694",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Oslo Maraton: Magnus ble raskest i konsulentbransjen",
+      "kilde": "E24",
+      "tid": "12:07",
+      "lenke": "https://e24.no/naeringsliv/i/zOj9zr/oslo-maraton-magnus-ble-raskest-i-konsulentbransjen?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Caleres (Cal) Stock Lags Behind Its Brand Portfolio's Surge",
+      "kilde": "Yahoo Finance",
+      "tid": "11:51",
+      "lenke": "https://finance.yahoo.com/markets/stocks/articles/caleres-cal-stock-lags-behind-115147339.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Teheran vil ikke overgi seg til USA, sier Irans president Pezeshkian, som Indias Modi oppfordrer dialog og fred",
       "kilde": "CNBC Top News",
-      "tid": "06:25",
-      "lenke": "https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html",
+      "tid": "11:35",
+      "lenke": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Retrospektiv omvendt utvikling av Apples nevrale motor",
-      "kilde": "Hacker News",
-      "tid": "07:54",
-      "lenke": "https://eiln.github.io/posts/ane.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Denne investeringen er trygg fra både Trump og demokratene — og det betaler 4,7%",
-      "kilde": "MarketWatch",
-      "tid": "22:06",
-      "lenke": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Dell lager hopper på RBC-initiering, nå opp nesten 350% i 2026",
-      "kilde": "CNBC Top News",
-      "tid": "20:48",
-      "lenke": "https://www.cnbc.com/2026/09/11/dell-stock-rbc-initiation.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Oracle ristet av seg frykten for AI-utgifter, men aksjene taper fortsatt terreng",
-      "kilde": "MarketWatch",
-      "tid": "20:45",
-      "lenke": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories",
+      "tittel": "Spådom: Å eie 100 aksjer i Amazon Stock vil gjøre $ 25 000 til $ 50 000 innen 2030",
+      "kilde": "Yahoo Finance",
+      "tid": "11:52",
+      "lenke": "https://finance.yahoo.com/markets/stocks/articles/prediction-owning-100-shares-amazon-115200934.html",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
+    "NORGE": [
+      {
+        "tittel": "Oslo Maraton: Magnus ble raskest i konsulentbransjen",
+        "kilde": "E24",
+        "tid": "12:07",
+        "lenke": "https://e24.no/naeringsliv/i/zOj9zr/oslo-maraton-magnus-ble-raskest-i-konsulentbransjen?utm_medium=rss",
+        "engelsk_kilde": false
+      }
+    ],
     "MAKRO": [
       {
         "tittel": "Her er inflasjonsfordelingen for august 2026 — i ett diagram",
@@ -48,16 +57,16 @@
         "tid": "17:14",
         "lenke": "https://www.cnbc.com/2026/09/11/cpi-inflation-breakdown-august-2026.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Verdens viktigste rente kryper opp mot «psykologisk grense»",
-        "kilde": "E24",
-        "tid": "11:44",
-        "lenke": "https://e24.no/boers-og-finans/i/Arm3mr/verdens-viktigste-rente-kryper-opp-mot-psykologisk-grense?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ],
     "MARKEDER": [
+      {
+        "tittel": "Caleres (Cal) Stock Lags Behind Its Brand Portfolio's Surge",
+        "kilde": "Yahoo Finance",
+        "tid": "11:51",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/caleres-cal-stock-lags-behind-115147339.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Dell lager hopper på RBC-initiering, nå opp nesten 350% i 2026",
         "kilde": "CNBC Top News",
@@ -89,6 +98,13 @@
     ],
     "ENERGI_RAAVARER": [
       {
+        "tittel": "Cramers uke fremover: Fallende olje kan hjelpe aksjer, men Fed er den neste store testen",
+        "kilde": "CNBC Top News",
+        "tid": "22:35",
+        "lenke": "https://www.cnbc.com/2026/09/11/cramers-week-ahead-falling-oil-fed.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Saudi-Arabia stengte ned øst-vest-råoljeledningen etter flere angrep fra droner fra Irak",
         "kilde": "CNBC Top News",
         "tid": "21:35",
@@ -105,18 +121,25 @@
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Retrospektiv omvendt utvikling av Apples nevrale motor",
-        "kilde": "Hacker News",
-        "tid": "07:54",
-        "lenke": "https://eiln.github.io/posts/ane.html",
+        "tittel": "Spådom: Å eie 100 aksjer i Amazon Stock vil gjøre $ 25 000 til $ 50 000 innen 2030",
+        "kilde": "Yahoo Finance",
+        "tid": "11:52",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/prediction-owning-100-shares-amazon-115200934.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "google.com/goto: Googles oppdatering mot skraping",
+        "tittel": "Altman forteller ansatte at OpenAI er åpen for å bremse AI-utviklingen",
         "kilde": "Hacker News",
-        "tid": "03:14",
-        "lenke": "https://www.autom.dev/blog/google-search-goto-links",
+        "tid": "11:33",
+        "lenke": "https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11/",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Google har auka klimagassutsleppa med 81 prosent sidan 2019",
+        "kilde": "NRK Nyheter",
+        "tid": "08:15",
+        "lenke": "https://www.nrk.no/nyheter/google-har-auka-klimagassutsleppa-med-81-prosent-sidan-2019-1.18022648",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Tesla kan forvandle lastebilbransjen — og kapitalisere på høye dieselpriser",
@@ -135,6 +158,20 @@
     ],
     "GEOPOLITIKK": [
       {
+        "tittel": "Teheran vil ikke overgi seg til USA, sier Irans president Pezeshkian, som Indias Modi oppfordrer dialog og fred",
+        "kilde": "CNBC Top News",
+        "tid": "11:35",
+        "lenke": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump: Ville elsket å se et forent Irland",
+        "kilde": "NRK Nyheter",
+        "tid": "10:06",
+        "lenke": "https://www.nrk.no/nyheter/trump_-ville-elsket-a-se-et-forent-irland-1.18022694",
+        "engelsk_kilde": false
+      },
+      {
         "tittel": "Trumps Amerika-første verden presser andre makter til å sikre sine innsatser",
         "kilde": "CNBC Top News",
         "tid": "06:25",
@@ -142,24 +179,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Stenger grenseovergang mot Iran etter angrep på saudisk oljerørledning",
-        "kilde": "NRK Nyheter",
-        "tid": "23:28",
-        "lenke": "https://www.nrk.no/nyheter/stenger-grenseovergang-mot-iran-etter-angrep-pa-saudisk-oljerorledning-1.18022547",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Denne investeringen er trygg fra både Trump og demokratene — og det betaler 4,7%",
         "kilde": "MarketWatch",
         "tid": "22:06",
         "lenke": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Valgfunksjonærer forbyr visse offentlige arbeidstakere å handle på prediksjonsmarkeder i forkant av midtveisvalg",
-        "kilde": "CNBC Top News",
-        "tid": "17:00",
-        "lenke": "https://www.cnbc.com/2026/09/11/election-officials-ban-employees-from-prediction-markets.html",
         "engelsk_kilde": true
       },
       {
@@ -178,6 +201,76 @@
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "‘Jeg har fortsatt ikke MR’: Helseforsikringsselskapet mitt kansellerte planen min uten forvarsel. Er det lovlig?",
+        "kilde": "MarketWatch",
+        "tid": "12:00",
+        "lenke": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Drit i det, gjør det uansett",
+        "kilde": "Hacker News",
+        "tid": "11:42",
+        "lenke": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kryptofarm i meksikanske fjell setter søkelyset på kartellfinansiering",
+        "kilde": "Hacker News",
+        "tid": "11:37",
+        "lenke": "https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "De verste spam-e-postene: Inside iLands 'AI Agent Hustle",
+        "kilde": "Hacker News",
+        "tid": "11:13",
+        "lenke": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Naomi Klein: Ekstrem rikdom har en forstyrrende effekt. Gjør deg til en supremacist",
+        "kilde": "Hacker News",
+        "tid": "11:08",
+        "lenke": "https://www.theguardian.com/books/2026/sep/12/naomi-klein-extreme-wealth-has-a-deranging-effect-it-turns-you-into-a-supremacist",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Diesel til 200 dollar fatet: – Gjør ekstra vondt",
+        "kilde": "E24",
+        "tid": "11:06",
+        "lenke": "https://e24.no/energi-og-klima/i/zOykgq/diesel-til-200-dollar-fatet-gjoer-ekstra-vondt?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "‘Jeg er eksekutor’: Mine to søsken og jeg arvet en Ira. Kan vi bare ta det ut?",
+        "kilde": "MarketWatch",
+        "tid": "11:00",
+        "lenke": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Konkurrent hyller Ingebrigtsens kritikk: – «I love it»",
+        "kilde": "NRK Nyheter",
+        "tid": "08:55",
+        "lenke": "https://www.nrk.no/sport/ultimate-championship_-hyller-ingebrigtsens-konkurrent-slakt-1.18022511",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Nervepirrende rentethriller: – Kan vippe det",
+        "kilde": "E24",
+        "tid": "08:41",
+        "lenke": "https://e24.no/norsk-oekonomi/i/zO3z54/nervepirrende-rentethriller-kan-vippe-det?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Spøkelsestog stopper Gjøvikbanen",
+        "kilde": "NRK Nyheter",
+        "tid": "08:21",
+        "lenke": "https://www.nrk.no/stor-oslo/spokelsestog-stopper-trafikken-pa-gjovikbanen-1.18022679",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Kongsbergs skjulte USA-perle",
         "kilde": "E24",
@@ -214,20 +307,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "WeWorm: Nullklikk WeChat Worm",
-        "kilde": "Hacker News",
-        "tid": "05:49",
-        "lenke": "https://calif.io/research/weworm",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Ut mot politiet foran storkampen: – Framstår helt hårreisende",
-        "kilde": "NRK Nyheter",
-        "tid": "05:37",
-        "lenke": "https://www.nrk.no/sport/lillestrom-valerenga_-politiet-iverksetter-strenge-tiltak-foran-storkampen-pa-arasen-1.18020274",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "– Men stuerene blir dere aldri!",
         "kilde": "E24",
         "tid": "05:23",
@@ -235,38 +314,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Usenet tilbakespoling arkiv søkemotor",
-        "kilde": "Hacker News",
-        "tid": "04:19",
-        "lenke": "https://www.usenet-rewind.com/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Tenåring kritisk skadd etter ATV-ulukke i Trondheim",
-        "kilde": "NRK Nyheter",
-        "tid": "04:17",
-        "lenke": "https://www.nrk.no/trondelag/person-kritisk-skadd-etter-atv-ulykke-i-trondelag-1.18022583",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Navier-Stokes kunngjøring",
-        "kilde": "Hacker News",
-        "tid": "04:09",
-        "lenke": "https://www.claymath.org/news/navier-stokes-announcement/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Norges eldste bedrift kan bli lagt ned: – River hjertene ut av oss",
         "kilde": "E24",
         "tid": "04:00",
         "lenke": "https://e24.no/naeringsliv/i/zOyryv/norges-eldste-bedrift-kan-bli-lagt-ned-river-hjertene-ut-av-oss?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Tenåring til sykehus etter ATV-ulykke i Trondheim",
-        "kilde": "NRK Nyheter",
-        "tid": "02:48",
-        "lenke": "https://www.nrk.no/nyheter/tenaring-til-sykehus-etter-atv-ulykke-i-trondheim-1.18022570",
         "engelsk_kilde": false
       },
       {
@@ -288,20 +339,6 @@
         "kilde": "MarketWatch",
         "tid": "21:16",
         "lenke": "https://www.marketwatch.com/story/marvell-is-sitting-on-an-incredibly-sticky-business-that-could-help-it-unlock-a-30-billion-opportunity-caa6c83f?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Jeg er eksekutor’: Mine to søsken og jeg arvet en Ira. Kan vi bare ta det ut?",
-        "kilde": "MarketWatch",
-        "tid": "21:00",
-        "lenke": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg er en enslig 58 år gammel veteran i California med $ 1,5 millioner og en VA-pensjon. Kan jeg pensjonere meg?",
-        "kilde": "MarketWatch",
-        "tid": "20:30",
-        "lenke": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -358,34 +395,6 @@
         "kilde": "BBC Business",
         "tid": "13:35",
         "lenke": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Prinsesse Astrid er død: «Den beste mammaen»",
-        "kilde": "E24",
-        "tid": "12:52",
-        "lenke": "https://e24.no/naeringsliv/i/9pQLvl/prinsesse-astrid-er-doed?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Prisvekst på 3,4 prosent i USA",
-        "kilde": "E24",
-        "tid": "12:30",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/k0z3GL/prisveksten-i-usa-holdt-seg-paa-3-4-prosent-i-august?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "25 år etter 11. september begynner USA å rulle tilbake reiserestriksjoner, fra væsker til porttilgang",
-        "kilde": "CNBC Top News",
-        "tid": "11:00",
-        "lenke": "https://www.cnbc.com/2026/09/11/9/11-anniversary-air-travel.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "AI-boom bidrar til overraskende vekst i Storbritannia i juli",
-        "kilde": "BBC Business",
-        "tid": "10:17",
-        "lenke": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ]
