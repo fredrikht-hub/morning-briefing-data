@@ -1,9 +1,30 @@
 {
   "dato": "2026-09-12",
   "dato_norsk": "Lørdag 12. september 2026",
-  "generert_kl": "16:04",
+  "generert_kl": "20:10",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
+    {
+      "tittel": "Larry Ellison nixes planlegger å laste av Oracle-aksjer for opptil $ 7,5 milliarder",
+      "kilde": "CNBC Top News",
+      "tid": "17:14",
+      "lenke": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Er Toast Stock et kjøp etter et rekordhøyt 9 500-restaurantkvartal?",
+      "kilde": "Yahoo Finance",
+      "tid": "19:50",
+      "lenke": "https://finance.yahoo.com/markets/stocks/articles/toast-stock-buy-record-9-195000742.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Inflasjonen overstiger lønnsveksten igjen, og klemmer amerikanernes lønnsslipp",
+      "kilde": "CNBC Top News",
+      "tid": "12:49",
+      "lenke": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
+      "engelsk_kilde": true
+    },
     {
       "tittel": "Nvidia er sentralbanken for kunstig intelligens",
       "kilde": "Hacker News",
@@ -12,41 +33,20 @@
       "engelsk_kilde": true
     },
     {
-      "tittel": "Trumps Amerika-første verden presser andre makter til å sikre sine innsatser",
-      "kilde": "CNBC Top News",
-      "tid": "13:24",
-      "lenke": "https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Trump: – Ville elska å sjå eit sameint Irland",
-      "kilde": "NRK Nyheter",
-      "tid": "14:21",
-      "lenke": "https://www.nrk.no/urix/trump_-_-ville-elsket-a-se-et-forent-irland-1.18022779",
+      "tittel": "Skal pumpe olje i Venezuela: – Så snart som mulig",
+      "kilde": "E24",
+      "tid": "19:06",
+      "lenke": "https://e24.no/boers-og-finans/i/j0XQpw/skal-pumpe-olje-i-venezuela-saa-snart-som-mulig?utm_medium=rss",
       "engelsk_kilde": false
-    },
-    {
-      "tittel": "– Kong Harald har betydd mykje for norsk seglsport",
-      "kilde": "NRK Nyheter",
-      "tid": "13:51",
-      "lenke": "https://www.nrk.no/mr/arrangerte-nasjonal-minneseglas-for-a-heidre-avdode-kong-harald-1.18022824",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Buffetts tillit til et urolig tiår gammelt oppkjøp lønner seg endelig",
-      "kilde": "CNBC Top News",
-      "tid": "13:20",
-      "lenke": "https://www.cnbc.com/2026/09/12/buffetts-confidence-in-troubled-decade-old-acquisition-finally-pays-off.html",
-      "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "– Kong Harald har betydd mykje for norsk seglsport",
+        "tittel": "25.000 ukrainere i Norge aner ikke om de må dra",
         "kilde": "NRK Nyheter",
-        "tid": "13:51",
-        "lenke": "https://www.nrk.no/mr/arrangerte-nasjonal-minneseglas-for-a-heidre-avdode-kong-harald-1.18022824",
+        "tid": "17:08",
+        "lenke": "https://www.nrk.no/norge/25.000-ukrainere-i-norge-aner-ikke-om-de-ma-dra-1.18014541",
         "engelsk_kilde": false
       },
       {
@@ -66,40 +66,33 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Her er inflasjonsfordelingen for august 2026 — i ett diagram",
+        "tittel": "Inflasjonen overstiger lønnsveksten igjen, og klemmer amerikanernes lønnsslipp",
         "kilde": "CNBC Top News",
-        "tid": "17:14",
-        "lenke": "https://www.cnbc.com/2026/09/11/cpi-inflation-breakdown-august-2026.html",
+        "tid": "12:49",
+        "lenke": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
         "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "Toppøkonom sier at Fed bør øke prisene med 50 basispoeng neste uke. Obligasjonsmarkedet er allerede nær hans faresone.",
+        "tittel": "Er Toast Stock et kjøp etter et rekordhøyt 9 500-restaurantkvartal?",
         "kilde": "Yahoo Finance",
-        "tid": "15:48",
-        "lenke": "https://finance.yahoo.com/economy/policy/articles/top-economist-says-fed-hike-154815533.html",
+        "tid": "19:50",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/toast-stock-buy-record-9-195000742.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Her er hvem som kan tjene penger på den antropiske børsnoteringen",
-        "kilde": "Yahoo Finance",
-        "tid": "15:16",
-        "lenke": "https://finance.yahoo.com/markets/article/heres-who-stands-to-make-money-from-the-anthropic-ipo-151619986.html",
+        "tittel": "Larry Ellison nixes planlegger å laste av Oracle-aksjer for opptil $ 7,5 milliarder",
+        "kilde": "CNBC Top News",
+        "tid": "17:14",
+        "lenke": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Smith & Wesson's (SWBI) Profit Turnaround kommer med en fangst",
+        "tittel": "Jim Cramer forklarer hvorfor Merck (mrk) er hans Fantasy Defense Stock",
         "kilde": "Yahoo Finance",
-        "tid": "14:24",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/smith-wesson-swbi-profit-turnaround-142440248.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Frekvenselektronikk (FEIM) svever etter rekordomsetning",
-        "kilde": "Yahoo Finance",
-        "tid": "13:34",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/frequency-electronics-feim-soars-record-133402974.html",
+        "tid": "16:49",
+        "lenke": "https://finance.yahoo.com/healthcare/articles/jim-cramer-explains-why-merck-164911925.html",
         "engelsk_kilde": true
       },
       {
@@ -112,35 +105,42 @@
     ],
     "ENERGI_RAAVARER": [
       {
+        "tittel": "Skal pumpe olje i Venezuela: – Så snart som mulig",
+        "kilde": "E24",
+        "tid": "19:06",
+        "lenke": "https://e24.no/boers-og-finans/i/j0XQpw/skal-pumpe-olje-i-venezuela-saa-snart-som-mulig?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
         "tittel": "Oljens tur/retur tilbake til $ 100. Hvorfor Kina kan avgjøre hva som skjer videre",
         "kilde": "CNBC Top News",
         "tid": "12:40",
         "lenke": "https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Saudi-Arabia stengte ned øst-vest-råoljeledningen etter flere angrep fra droner fra Irak",
-        "kilde": "CNBC Top News",
-        "tid": "21:35",
-        "lenke": "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html",
-        "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Tesla kan forvandle lastebilbransjen — og kapitalisere på høye dieselpriser",
-        "kilde": "MarketWatch",
-        "tid": "20:49",
-        "lenke": "https://www.marketwatch.com/story/tesla-could-transform-the-trucking-business-and-capitalize-on-high-diesel-prices-e4c48d79?mod=mw_rss_topstories",
+        "tittel": "OpenAI vil ikke på børs i 2026",
+        "kilde": "E24",
+        "tid": "19:55",
+        "lenke": "https://e24.no/boers-og-finans/i/k0rrwj/openai-vil-ikke-paa-boers-i-2026?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Mikrokode i Intels 8087 flyttallsbrikke: skaleringsinstruksjonen",
+        "kilde": "Hacker News",
+        "tid": "15:49",
+        "lenke": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
         "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Trump: – Ville elska å sjå eit sameint Irland",
+        "tittel": "Israel reagerer kraftig på ny britisk politikk",
         "kilde": "NRK Nyheter",
-        "tid": "14:21",
-        "lenke": "https://www.nrk.no/urix/trump_-_-ville-elsket-a-se-et-forent-irland-1.18022779",
+        "tid": "19:10",
+        "lenke": "https://www.nrk.no/urix/israel-reagerer-kraftig-pa-ny-britisk-politikk-1.18020692",
         "engelsk_kilde": false
       },
       {
@@ -158,25 +158,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Trump ser Iran-krigen avsluttes kort tid etter midtveisvalget, spår at oljeprisene da vil falle kraftig",
-        "kilde": "CNBC Top News",
-        "tid": "13:02",
-        "lenke": "https://www.cnbc.com/2026/09/12/trump-sees-iran-war-ending-very-soon-oil-prices-then-falling.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "GM planlegger amerikansk batteriutvikling når Trumps PRIKK angriper Ford for Kina-bånd",
         "kilde": "CNBC Top News",
         "tid": "12:00",
         "lenke": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trump: Ville elsket å se et forent Irland",
-        "kilde": "NRK Nyheter",
-        "tid": "10:06",
-        "lenke": "https://www.nrk.no/nyheter/trump_-ville-elsket-a-se-et-forent-irland-1.18022694",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Denne investeringen er trygg fra både Trump og demokratene — og det betaler 4,7%",
@@ -188,6 +174,139 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "Anthropics Amodei-aksjer planlegger å \"bremse tempoet\" for voksende AI-funksjoner; Musk og Altman uttrykker støtte",
+        "kilde": "CNBC Top News",
+        "tid": "19:59",
+        "lenke": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvorfor faller XRP i dag?",
+        "kilde": "Yahoo Finance",
+        "tid": "19:45",
+        "lenke": "https://finance.yahoo.com/markets/crypto/articles/why-xrp-dropping-today-194553834.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Céline Dion med comeback",
+        "kilde": "NRK Nyheter",
+        "tid": "19:34",
+        "lenke": "https://www.nrk.no/nyheter/celine-dion-med-comeback-1.18023071",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Et åpent brev til Dario: hvis du mener det, åpne vektene",
+        "kilde": "Hacker News",
+        "tid": "19:15",
+        "lenke": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "'Skimpflasjon' advarsel som hermetisert makrell alternativ treffer flere supermarked hyller",
+        "kilde": "BBC Business",
+        "tid": "18:31",
+        "lenke": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Uværet nærmer seg: Varsler vindkast mot 33 sekundmeter, lyn og høye bølger",
+        "kilde": "NRK Nyheter",
+        "tid": "17:48",
+        "lenke": "https://www.nrk.no/nordland/gult-farevarsel-i-nord_-venter-kraftig-storm_-hoye-bolger-og-mulig-tordenvaer-1.18023009",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Elon Musk støtter Anthropics oppfordring til å bremse utviklingen av kunstig intelligens før falske roboter tar over hele Internett",
+        "kilde": "MarketWatch",
+        "tid": "17:20",
+        "lenke": "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Novo Nordisk (NVO)'s Pediatric Obesity Opportunity Faces a Bigger Test",
+        "kilde": "Yahoo Finance",
+        "tid": "17:19",
+        "lenke": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-pediatric-obesity-171917899.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "En fortelling om to dollar: Hvorfor Dollar General utkonkurrerte Dollar Tree dette kvartalet",
+        "kilde": "Yahoo Finance",
+        "tid": "17:09",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/tale-two-dollars-why-dollar-170915358.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kjøpte elektriske lastebiler: – Vises på regningene våre",
+        "kilde": "E24",
+        "tid": "17:06",
+        "lenke": "https://e24.no/energi-og-klima/i/M7kJe0/kjoepte-elektriske-lastebiler-vises-paa-regningene-vaare?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Blir det en 7G?",
+        "kilde": "Hacker News",
+        "tid": "17:05",
+        "lenke": "https://arxiv.org/abs/2609.01877",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "BioMarin aksjer hopper 5% etter globalt patentoppgjør med Ascendis",
+        "kilde": "Yahoo Finance",
+        "tid": "17:02",
+        "lenke": "https://finance.yahoo.com/healthcare/articles/biomarin-shares-jump-5-global-170253036.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tevas (TEVA) $ 125 millioner BioXcel-bud tilbyr på oppsiden, men FDA og auksjonsrisikoer forblir",
+        "kilde": "Yahoo Finance",
+        "tid": "16:57",
+        "lenke": "https://finance.yahoo.com/healthcare/articles/teva-teva-125-million-bioxcel-165735518.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Køkaos på E18: Fanget i parkeringskjeller i over tre timer",
+        "kilde": "NRK Nyheter",
+        "tid": "16:55",
+        "lenke": "https://www.nrk.no/stor-oslo/kokaos-pa-e18_-fanget-i-p-kjeller-i-over-tre-timer-1.18022932",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Cienas (CIEN) etterslep nådde akkurat $ 8,5 milliarder og fortsetter å klatre",
+        "kilde": "Yahoo Finance",
+        "tid": "16:46",
+        "lenke": "https://finance.yahoo.com/technology/ai/articles/ciena-cien-backlog-just-hit-164644198.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "eGains (EGAN) dristige AI-pivot vant nettopp en stor tro",
+        "kilde": "Yahoo Finance",
+        "tid": "16:37",
+        "lenke": "https://finance.yahoo.com/technology/ai/articles/egain-egan-bold-ai-pivot-163723656.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "BRP (DOO) legger inn et kvartalsvis tap og øker utsiktene uansett",
+        "kilde": "Yahoo Finance",
+        "tid": "16:32",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/brp-doo-posts-quarterly-loss-163212953.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Gjør din første redigering til OpenStreetMap",
+        "kilde": "Hacker News",
+        "tid": "16:25",
+        "lenke": "https://high5apps.github.io/josm-plugin-website-wizard/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jæger vant 700.000 kroner: – Går rett på sparekonto",
+        "kilde": "NRK Nyheter",
+        "tid": "16:09",
+        "lenke": "https://www.nrk.no/sport/jaeger-ble-nummer-to-i-ultimate-championship-finalen-pa-400-meter-1.18022933",
+        "engelsk_kilde": false
+      },
+      {
         "tittel": "‘Jeg har fortsatt ikke MR’: Helseforsikringsselskapet mitt kansellerte planen min uten forvarsel. Er det lovlig?",
         "kilde": "MarketWatch",
         "tid": "16:01",
@@ -195,25 +314,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Kapteinen avgjorde rivaloppgjøret for Lillestrøm",
+        "tittel": "«Betydelige skader» etter rivaloppgjøret: - Vil ta kontakt med Vålerenga",
         "kilde": "NRK Nyheter",
         "tid": "15:56",
-        "lenke": "https://www.nrk.no/sport/kapteinen-avgjorde-rivaloppgjoret-for-lillestrom-1.18022905",
+        "lenke": "https://www.nrk.no/sport/valerenga-fansen-kastet-gjerder_-bluss-og-glass---kapteinen-forsvarer-supporterne-1.18022905",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "LG reagerer på påstander om TV-spionasje",
-        "kilde": "Hacker News",
-        "tid": "15:33",
-        "lenke": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Genesco (GCO) beviser at mindre salg fortsatt kan bety større fortjeneste",
-        "kilde": "Yahoo Finance",
-        "tid": "15:05",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/genesco-gco-proves-smaller-sales-150521690.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "‘Jeg er eksekutor’: Mine to søsken og jeg arvet en Ira. Kan vi bare ta det ut?",
@@ -230,59 +335,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Victoria's Secret's (VSXY) BH Boom har nettopp omskrevet sin veksthistorie",
-        "kilde": "Yahoo Finance",
-        "tid": "14:41",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/victoria-secret-vsxy-bra-boom-144101942.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Europas \"mindre\" gjør mer enn noen gir det kreditt for",
-        "kilde": "Hacker News",
-        "tid": "14:17",
-        "lenke": "https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vi må sette fart på grensen",
-        "kilde": "Hacker News",
-        "tid": "14:10",
-        "lenke": "https://darioamodei.com/post/we-must-pace-the-frontier",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Wileys (WLY) AI-innsats begynner å betale seg",
-        "kilde": "Yahoo Finance",
-        "tid": "14:10",
-        "lenke": "https://finance.yahoo.com/technology/ai/articles/wiley-wly-ai-bet-starting-141033390.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kompilatoren kan angre sikkerhetskontrollene dine",
-        "kilde": "Hacker News",
-        "tid": "14:07",
-        "lenke": "https://davidbombal.com/your-compiler-can-undo-your-security-checks/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Min 87 år gamle mor vil betale for min brors barns utdannelse. Jeg har ikke barn. Hvordan er det rettferdig?",
         "kilde": "MarketWatch",
         "tid": "14:01",
         "lenke": "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Descartes (DSGX) poster resultater for 2. kvartal, analytikere ser 30% oppside",
-        "kilde": "Yahoo Finance",
-        "tid": "13:51",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/descartes-dsgx-posts-record-q2-135154400.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Alibaba (BABA)AI-innsats står overfor en test verdt $ 10,2 milliarder",
-        "kilde": "Yahoo Finance",
-        "tid": "13:30",
-        "lenke": "https://finance.yahoo.com/technology/ai/articles/alibaba-baba-ai-bet-faces-133035025.html",
         "engelsk_kilde": true
       },
       {
@@ -300,31 +356,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Verste sommaren for ukrainske barn så langt",
-        "kilde": "NRK Nyheter",
-        "tid": "12:46",
-        "lenke": "https://www.nrk.no/urix/verste-sommaren-for-ukrainske-barn-sa-langt-1.18022675",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Tomme ordrebøker og økonomiske nedgangstider i Aust-Finnmark",
-        "kilde": "NRK Nyheter",
-        "tid": "12:17",
-        "lenke": "https://www.nrk.no/tromsogfinnmark/sanksjonane-rammar-sor-varanger-og-aust-finnmark-hardt-1.18008703",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Diesel til 200 dollar fatet: – Gjør ekstra vondt",
         "kilde": "E24",
         "tid": "11:06",
         "lenke": "https://e24.no/energi-og-klima/i/zOykgq/diesel-til-200-dollar-fatet-gjoer-ekstra-vondt?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Konkurrent hyller Ingebrigtsens kritikk: – «I love it»",
-        "kilde": "NRK Nyheter",
-        "tid": "08:55",
-        "lenke": "https://www.nrk.no/sport/ultimate-championship_-hyller-ingebrigtsens-konkurrent-slakt-1.18022511",
         "engelsk_kilde": false
       },
       {
@@ -381,20 +416,6 @@
         "kilde": "CNBC Top News",
         "tid": "20:21",
         "lenke": "https://www.cnbc.com/2026/09/11/dan-chung-rebuilt-a-decimated-alger-management-after-9/11-hes-still-finding-the-markets-winners.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Saudi-Arabia stenger oljerørledning etter angrep",
-        "kilde": "E24",
-        "tid": "19:19",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/16bk0B/saudi-arabia-stenger-oljeroerledning?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "172 år gammel bank ser 400% oppside for «føderal bank» -token",
-        "kilde": "Yahoo Finance",
-        "tid": "17:33",
-        "lenke": "https://finance.yahoo.com/markets/crypto/articles/172-old-bank-sees-400-173349444.html",
         "engelsk_kilde": true
       }
     ]
