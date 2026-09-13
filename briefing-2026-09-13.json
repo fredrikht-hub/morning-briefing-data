@@ -1,43 +1,43 @@
 {
   "dato": "2026-09-13",
   "dato_norsk": "Søndag 13. september 2026",
-  "generert_kl": "12:15",
+  "generert_kl": "16:03",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "USA i kategorien med høyest risiko for borgerkrig, kupp eller kollaps i CIA-modellen",
-      "kilde": "Hacker News",
-      "tid": "11:26",
-      "lenke": "https://cmarmitage.substack.com/p/scored-on-the-cias-instability-model",
+      "tittel": "Trump oppfordrer Federal Reserve til å kutte prisene når markedet satser på krigshøyde",
+      "kilde": "Yahoo Finance",
+      "tid": "15:32",
+      "lenke": "https://www.investors.com/news/trump-urges-federal-reserve-to-cut-rates-market-bets-warsh-hike/?src=A00220&yptr=yahoo",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Kinas Xi oppfordrer BRICS-landene til å arbeide for fred i Midtøsten",
+      "tittel": "Anthropics Amodei sier Kina presenterer 'tøffeste dilemma' for sin foreslåtte AI-nedgang",
       "kilde": "CNBC Top News",
-      "tid": "09:41",
-      "lenke": "https://www.cnbc.com/2026/09/13/chinas-xi-urges-brics-peace-middle-east.html",
+      "tid": "15:46",
+      "lenke": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Xi sier at Kina vil ta ledelsen for å fremme AI, teknisk samarbeid mellom BRICS-landene",
+      "tittel": "Opp 3,600%, dette fraktfondet har lagt den største gevinsten av alle på Iran-krigens oljesjokk",
       "kilde": "CNBC Top News",
-      "tid": "11:17",
-      "lenke": "https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html",
+      "tid": "13:50",
+      "lenke": "https://www.cnbc.com/2026/09/13/iran-war-oil-prices-freight-tankers-shipping.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Nvidia avviser \"sirkulær finansiering\", sier at hver $ 1 det investerer bringer tilbake $ 100",
-      "kilde": "Hacker News",
-      "tid": "10:29",
-      "lenke": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
+      "tittel": "NVIDIAs eldre GPU-er tjener fortsatt penger. Hva det beviser og ikke beviser for CoreWeave",
+      "kilde": "Yahoo Finance",
+      "tid": "14:02",
+      "lenke": "https://finance.yahoo.com/markets/stocks/articles/nvidia-older-gpus-still-earn-140210350.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Sør-Norge kan få med seg sjeldent månefenomen",
-      "kilde": "NRK Nyheter",
-      "tid": "11:23",
-      "lenke": "https://www.nrk.no/sorlandet/sor-norge-kan-fa-med-seg-sjeldent-manefenomen-1.18023209",
-      "engelsk_kilde": false
+      "tittel": "Prognoser for bedriftsoverskudd topper forventningene i uvanlig grad. AI er en stor grunn til hvorfor.",
+      "kilde": "MarketWatch",
+      "tid": "14:00",
+      "lenke": "https://www.marketwatch.com/story/corporate-profit-forecasts-are-topping-expectations-to-an-unusual-degree-ai-is-a-big-reason-why-50245409?mod=mw_rss_topstories",
+      "engelsk_kilde": true
     }
   ],
   "kategorier": {
@@ -52,14 +52,42 @@
     ],
     "MAKRO": [
       {
-        "tittel": "Inflasjonen overstiger lønnsveksten igjen, og klemmer amerikanernes lønnsslipp",
-        "kilde": "CNBC Top News",
-        "tid": "12:49",
-        "lenke": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
+        "tittel": "Trump oppfordrer Federal Reserve til å kutte prisene når markedet satser på krigshøyde",
+        "kilde": "Yahoo Finance",
+        "tid": "15:32",
+        "lenke": "https://www.investors.com/news/trump-urges-federal-reserve-to-cut-rates-market-bets-warsh-hike/?src=A00220&yptr=yahoo",
         "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
+      {
+        "tittel": "Antropisk låser ned $ 517 milliarder i databehandling i forkant av børsnotering — og det er fortsatt ikke nok",
+        "kilde": "Yahoo Finance",
+        "tid": "15:36",
+        "lenke": "https://finance.yahoo.com/technology/ai/articles/anthropic-locks-down-517-billion-153609285.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Rivian vs. Lucid: Denne aksjen er helt klart det bedre kjøpet",
+        "kilde": "Yahoo Finance",
+        "tid": "15:35",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/rivian-vs-lucid-stock-clearly-153500179.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Prognoser for bedriftsoverskudd topper forventningene i uvanlig grad. AI er en stor grunn til hvorfor.",
+        "kilde": "MarketWatch",
+        "tid": "14:00",
+        "lenke": "https://www.marketwatch.com/story/corporate-profit-forecasts-are-topping-expectations-to-an-unusual-degree-ai-is-a-big-reason-why-50245409?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Prisen på nesten alt på middagsbordet stiger på en gang — og Wall Street legger merke til det",
+        "kilde": "MarketWatch",
+        "tid": "13:00",
+        "lenke": "https://www.marketwatch.com/story/the-price-of-almost-everything-on-your-dinner-table-is-climbing-at-once-and-wall-street-is-taking-notice-9623d1fc?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Topp Wall Street-analytikere anbefaler disse 3 utbytteaksjene for høyere avkastning",
         "kilde": "CNBC Top News",
@@ -75,28 +103,47 @@
         "engelsk_kilde": true
       }
     ],
-    "ENERGI_RAAVARER": [
-      {
-        "tittel": "Oljens tur/retur tilbake til $ 100. Hvorfor Kina kan avgjøre hva som skjer videre",
-        "kilde": "CNBC Top News",
-        "tid": "12:40",
-        "lenke": "https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html",
-        "engelsk_kilde": true
-      }
-    ],
     "TEKNOLOGI": [
       {
-        "tittel": "Nvidia avviser \"sirkulær finansiering\", sier at hver $ 1 det investerer bringer tilbake $ 100",
-        "kilde": "Hacker News",
-        "tid": "10:29",
-        "lenke": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
+        "tittel": "Tesla-nettverket er dødt: JPMorgans Bombshell Note avslører nesten all Robotaxi-milliardflyt til TSLA, ikke deg",
+        "kilde": "Yahoo Finance",
+        "tid": "15:41",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/tesla-network-dead-jpmorgan-bombshell-154133041.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Revolut bekrefter brudd på kundedata gjennom falske forespørsler fra myndighetene",
+        "tittel": "Dow Jones Futures: Fed Meeting Ahead; Anthropics Amodei, OpenAIs Altman, SpaceXs Musk Call For AI Slowdown",
+        "kilde": "Yahoo Finance",
+        "tid": "14:52",
+        "lenke": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Cuda for AMD på Windows",
         "kilde": "Hacker News",
-        "tid": "09:59",
-        "lenke": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+        "tid": "14:25",
+        "lenke": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Houthis brukte Claude-kode til å utvikle rakettveiledningsprogramvare: Anthropic",
+        "kilde": "Hacker News",
+        "tid": "14:15",
+        "lenke": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Alibaba og Amazon står overfor det samme AI-utgiftsspørsmålet: Hvor raskt blir kapasitet til kontanter?",
+        "kilde": "Yahoo Finance",
+        "tid": "14:08",
+        "lenke": "https://finance.yahoo.com/technology/ai/articles/alibaba-amazon-face-same-ai-140837189.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "NVIDIAs eldre GPU-er tjener fortsatt penger. Hva det beviser og ikke beviser for CoreWeave",
+        "kilde": "Yahoo Finance",
+        "tid": "14:02",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/nvidia-older-gpus-still-earn-140210350.html",
         "engelsk_kilde": true
       },
       {
@@ -104,13 +151,6 @@
         "kilde": "BBC Business",
         "tid": "09:05",
         "lenke": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "OpenAI utelukker børsnotering i år ettersom Altman, Musk og Amodei advarer om at AI beveger seg for fort",
-        "kilde": "CNBC Top News",
-        "tid": "23:20",
-        "lenke": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
         "engelsk_kilde": true
       },
       {
@@ -123,10 +163,24 @@
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "USA i kategorien med høyest risiko for borgerkrig, kupp eller kollaps i CIA-modellen",
-        "kilde": "Hacker News",
-        "tid": "11:26",
-        "lenke": "https://cmarmitage.substack.com/p/scored-on-the-cias-instability-model",
+        "tittel": "Anthropics Amodei sier Kina presenterer 'tøffeste dilemma' for sin foreslåtte AI-nedgang",
+        "kilde": "CNBC Top News",
+        "tid": "15:46",
+        "lenke": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Opp 3,600%, dette fraktfondet har lagt den største gevinsten av alle på Iran-krigens oljesjokk",
+        "kilde": "CNBC Top News",
+        "tid": "13:50",
+        "lenke": "https://www.cnbc.com/2026/09/13/iran-war-oil-prices-freight-tankers-shipping.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fartøy truffet i Hormuzstredet, sier UKMTO, da utsiktene for amerikansk-iransk diplomati virker unnvikende",
+        "kilde": "CNBC Top News",
+        "tid": "13:38",
+        "lenke": "https://www.cnbc.com/2026/09/13/vessel-struck-strait-of-hormuz-ukmto.html",
         "engelsk_kilde": true
       },
       {
@@ -142,23 +196,163 @@
         "tid": "09:41",
         "lenke": "https://www.cnbc.com/2026/09/13/chinas-xi-urges-brics-peace-middle-east.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Indias statsminister Modi sier at grensefred er nøkkelen til båndene mellom India og Kina",
-        "kilde": "CNBC Top News",
-        "tid": "15:12",
-        "lenke": "https://www.cnbc.com/2026/09/12/india-china-modi-xi-brics-border.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Teheran vil ikke overgi seg til USA, sier Irans president Pezeshkian, som Indias Modi oppfordrer dialog og fred",
-        "kilde": "CNBC Top News",
-        "tid": "13:15",
-        "lenke": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
-        "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "Lønnen øker igjen for jobbbyttere, selv i arbeidsmarkedet med lav ansettelse",
+        "kilde": "Yahoo Finance",
+        "tid": "15:45",
+        "lenke": "https://finance.yahoo.com/economy/article/pay-is-back-on-the-rise-for-job-switchers-even-in-low-hire-job-market-154504463.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "49 år gammel kleskjede stenger butikker etter hvert som kundene krymper",
+        "kilde": "Yahoo Finance",
+        "tid": "15:33",
+        "lenke": "https://finance.yahoo.com/small-business/articles/49-old-clothing-chain-closing-153300913.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Biblioteker kjører Rust Inside Python (med PyO3)",
+        "kilde": "Hacker News",
+        "tid": "15:24",
+        "lenke": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Warholm tar spesialgrep før ellevilt program",
+        "kilde": "NRK Nyheter",
+        "tid": "15:16",
+        "lenke": "https://www.nrk.no/sport/karsten-warholm-loper-to-finaler-under-ultimate-championship-1.18023439",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Barth Eide vil ha opptil tre års fengsel for handel med bosettere på Vestbredden",
+        "kilde": "NRK Nyheter",
+        "tid": "15:11",
+        "lenke": "https://www.nrk.no/urix/barth-eide-vil-ha-opptil-tre-ars-fengsel-for-handel-med-bosettere-pa-vestbredden-1.18022712",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Prediktiv intelligens for å forutse hva som helst.",
+        "kilde": "Hacker News",
+        "tid": "15:11",
+        "lenke": "https://prior.chat/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg er en psykolog som studerer par: Følelsesmessig intelligente partnere stiller ett spørsmål hver morgen - som de fleste forsømmer",
+        "kilde": "CNBC Top News",
+        "tid": "15:09",
+        "lenke": "https://www.cnbc.com/2026/09/13/emotionally-intelligent-couples-ask-question-every-morning-psychologist.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg er en enslig 58 år gammel veteran i California med $ 1,5 millioner og en VA-pensjon. Kan jeg pensjonere meg?",
+        "kilde": "MarketWatch",
+        "tid": "15:00",
+        "lenke": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "AI-ansatte 'oppriktig skremt' for menneskehetens fremtid, forteller tidligere antropolog til BBC",
+        "kilde": "BBC Business",
+        "tid": "14:53",
+        "lenke": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Vi frykter økonomisk utnyttelse’: Hvem vil forvalte vår økonomi hvis min kone og jeg blir uføre?",
+        "kilde": "MarketWatch",
+        "tid": "14:30",
+        "lenke": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Amgen (AMGN) falt 5% på et stoff som ikke engang er sitt eget. Her er Lp(a) -spillet det er snakk om.",
+        "kilde": "Yahoo Finance",
+        "tid": "14:29",
+        "lenke": "https://finance.yahoo.com/healthcare/articles/amgen-amgn-fell-5-drug-142916899.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Astra og Fable hakker fortsatt på enkle varianter av justerings-evaler fra 2025",
+        "kilde": "Hacker News",
+        "tid": "14:28",
+        "lenke": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Frykter Ap vil åpne Nordland 6: – Holder døren på gløtt",
+        "kilde": "E24",
+        "tid": "14:25",
+        "lenke": "https://e24.no/energi-og-klima/i/Wve4oG/frykter-ap-vil-aapne-nordland-6-statsraaden-holder-doera-paa-gloett?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Min 87 år gamle mor vil betale for min brors barns utdannelse. Jeg har ikke barn. Hvordan er det rettferdig?",
+        "kilde": "MarketWatch",
+        "tid": "14:00",
+        "lenke": "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hetebølger kan gi sterkere champagne",
+        "kilde": "E24",
+        "tid": "13:36",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/7pvLlv/heteboelger-kan-gi-sterkere-champagne?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Beskatning av høytlønnede for å bidra til å finansiere trygdeordninger får tverrpolitisk oppmerksomhet — hva det kan bety for fordeler",
+        "kilde": "CNBC Top News",
+        "tid": "13:30",
+        "lenke": "https://www.cnbc.com/2026/09/13/social-security-payroll-tax-cap.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fikk temposjokk i spinnvill målfest: – Noe helt annet enn det jeg er vant med",
+        "kilde": "NRK Nyheter",
+        "tid": "13:26",
+        "lenke": "https://www.nrk.no/sport/spinnvill-malfest-for-viking-mot-kristiansund_-_-det-er-ydmykende-1.18023383",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Jeg vil betale for hver kunde på min avdøde manns favorittrestaurant på bursdagen hans. Kan dette slå tilbake?",
+        "kilde": "MarketWatch",
+        "tid": "13:15",
+        "lenke": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Må betale 140.000 i måneden for medisin: –Man føler seg liten og ubetydelig",
+        "kilde": "NRK Nyheter",
+        "tid": "12:42",
+        "lenke": "https://www.nrk.no/nordland/xl/heidi-olafsen-berntsen-her-en-sjelden-type-kreft.-medisinen-hennes-er-dyr_-men-hun-far-ikke-stotte-1.18011618",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "‘Jeg har fortsatt ikke MR’: Helseforsikringsselskapet mitt kansellerte planen min uten forvarsel. Er det lovlig?",
+        "kilde": "MarketWatch",
+        "tid": "12:40",
+        "lenke": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Knivstukket i masseslagsmål – undersøker mulig gjengkriminalitet",
+        "kilde": "NRK Nyheter",
+        "tid": "12:39",
+        "lenke": "https://www.nrk.no/stor-oslo/masseslagsmal-i-lorenskog-1.18023377",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Masseslagsmål i Lørenskog - Én person knivstukket",
+        "kilde": "NRK Nyheter",
+        "tid": "12:36",
+        "lenke": "https://www.nrk.no/stor-oslo/masseslagsmal-i-lorenskog---en-person-knivstukket-1.18023372",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Betaler 600.000 for å reise hit",
         "kilde": "NRK Nyheter",
@@ -171,13 +365,6 @@
         "kilde": "CNBC Top News",
         "tid": "11:52",
         "lenke": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Spør HN: Karriereveier å vurdere om jeg er bedre til å støtte enn å skape?",
-        "kilde": "Hacker News",
-        "tid": "11:47",
-        "lenke": "https://news.ycombinator.com/item?id=49682920",
         "engelsk_kilde": true
       },
       {
@@ -202,52 +389,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "AI-ansatte 'oppriktig skremt' for menneskehetens fremtid, forteller tidligere antropolog til BBC",
-        "kilde": "BBC Business",
-        "tid": "11:13",
-        "lenke": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Stengte flyplassen i Vilnius etter dronealarm – var fugler",
-        "kilde": "NRK Nyheter",
-        "tid": "10:52",
-        "lenke": "https://www.nrk.no/norge/stenger-flyplassen-i-vilnius-etter-mulig-droneobservasjon-1.18023331",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Fugler utløste dronealarm i Litauen",
-        "kilde": "NRK Nyheter",
-        "tid": "10:30",
-        "lenke": "https://www.nrk.no/nyheter/fugler-utloste-dronealarm-i-litauen-1.18023319",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Taxisjåfør anmeldt etter krav på 22.000 kroner",
         "kilde": "E24",
         "tid": "10:29",
         "lenke": "https://e24.no/boers-og-finans/i/2pzJry/taxisjaafoer-krevde-22-000-kroner-for-tur-fra-gardermoen-til-oslo?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Bygger enorme «pyramider» for å stanse snøskred",
-        "kilde": "NRK Nyheter",
-        "tid": "10:25",
-        "lenke": "https://www.nrk.no/nordland/disse-_pyramidene_-skal-stanse-snoskredene-1.18021484",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Tradisjonsrikt utvær legg ned: – Ei varsla krise for ærfuglen",
-        "kilde": "NRK Nyheter",
-        "tid": "09:40",
-        "lenke": "https://www.nrk.no/nordland/det-tradisjonsrike-utvaeret-lanan-legg-ned_-_-ei-varsla-krise-for-aerfuglen-1.18022886",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "– Noen må innse at fisken i elva er den samme som i fjorden",
-        "kilde": "NRK Nyheter",
-        "tid": "09:26",
-        "lenke": "https://www.nrk.no/tromsogfinnmark/miljodirektoratet-usikker-pa-hvor-mye-villaks-som-fiskes-i-sjoen-1.18017656",
         "engelsk_kilde": false
       },
       {
@@ -272,31 +417,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Homebrew 7.0.0",
-        "kilde": "Hacker News",
-        "tid": "08:41",
-        "lenke": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Sjelden enighet om AI-brems",
         "kilde": "E24",
         "tid": "07:27",
         "lenke": "https://e24.no/teknologi/i/y52bn2/ai-topper-i-sjelden-enighet-vil-bremse-utviklingen?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Gjelden tar all makt",
-        "kilde": "E24",
-        "tid": "04:59",
-        "lenke": "https://e24.no/boers-og-finans/i/7poOX4/gjelden-tar-all-makt?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Nerver i høyspenn på NHH: – Betydelig høyere stressnivå",
-        "kilde": "E24",
-        "tid": "04:00",
-        "lenke": "https://e24.no/norsk-oekonomi/i/d48kJw/nerver-i-hoeyspenn-paa-nhh-betydelig-hoeyere-stressnivaa?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
@@ -311,41 +435,6 @@
         "kilde": "BBC Business",
         "tid": "20:37",
         "lenke": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Elon Musk støtter Anthropics oppfordring til å bremse utviklingen av kunstig intelligens før falske roboter tar over hele Internett",
-        "kilde": "MarketWatch",
-        "tid": "17:20",
-        "lenke": "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Jeg har fortsatt ikke MR’: Helseforsikringsselskapet mitt kansellerte planen min uten forvarsel. Er det lovlig?",
-        "kilde": "MarketWatch",
-        "tid": "16:01",
-        "lenke": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Jeg er eksekutor’: Mine to søsken og jeg arvet en Ira. Kan vi bare ta det ut?",
-        "kilde": "MarketWatch",
-        "tid": "15:00",
-        "lenke": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Min 87 år gamle mor vil betale for min brors barns utdannelse. Jeg har ikke barn. Hvordan er det rettferdig?",
-        "kilde": "MarketWatch",
-        "tid": "14:01",
-        "lenke": "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg vil betale for hver kunde på min avdøde manns favorittrestaurant på bursdagen hans. Kan dette slå tilbake?",
-        "kilde": "MarketWatch",
-        "tid": "13:00",
-        "lenke": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
         "engelsk_kilde": true
       }
     ]
