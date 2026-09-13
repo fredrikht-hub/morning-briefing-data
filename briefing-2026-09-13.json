@@ -1,77 +1,73 @@
 {
   "dato": "2026-09-13",
   "dato_norsk": "Søndag 13. september 2026",
-  "generert_kl": "16:03",
+  "generert_kl": "20:11",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Trump oppfordrer Federal Reserve til å kutte prisene når markedet satser på krigshøyde",
-      "kilde": "Yahoo Finance",
-      "tid": "15:32",
-      "lenke": "https://www.investors.com/news/trump-urges-federal-reserve-to-cut-rates-market-bets-warsh-hike/?src=A00220&yptr=yahoo",
-      "engelsk_kilde": true
+      "tittel": "Trump fjerner toll på irsk whiskey",
+      "kilde": "E24",
+      "tid": "18:36",
+      "lenke": "https://e24.no/internasjonal-oekonomi/i/8pMW4W/trump-fjerner-toll-paa-irsk-whiskey?utm_medium=rss",
+      "engelsk_kilde": false
     },
     {
-      "tittel": "Anthropics Amodei sier Kina presenterer 'tøffeste dilemma' for sin foreslåtte AI-nedgang",
-      "kilde": "CNBC Top News",
-      "tid": "15:46",
-      "lenke": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Opp 3,600%, dette fraktfondet har lagt den største gevinsten av alle på Iran-krigens oljesjokk",
-      "kilde": "CNBC Top News",
-      "tid": "13:50",
-      "lenke": "https://www.cnbc.com/2026/09/13/iran-war-oil-prices-freight-tankers-shipping.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "NVIDIAs eldre GPU-er tjener fortsatt penger. Hva det beviser og ikke beviser for CoreWeave",
-      "kilde": "Yahoo Finance",
-      "tid": "14:02",
-      "lenke": "https://finance.yahoo.com/markets/stocks/articles/nvidia-older-gpus-still-earn-140210350.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Prognoser for bedriftsoverskudd topper forventningene i uvanlig grad. AI er en stor grunn til hvorfor.",
+      "tittel": "Denne investeringen er trygg fra både Trump og demokratene — og det betaler 4,7%",
       "kilde": "MarketWatch",
-      "tid": "14:00",
-      "lenke": "https://www.marketwatch.com/story/corporate-profit-forecasts-are-topping-expectations-to-an-unusual-degree-ai-is-a-big-reason-why-50245409?mod=mw_rss_topstories",
+      "tid": "19:55",
+      "lenke": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Nvidia (NVDA) ser billig ut på Pipers prognoser, men inntjeningsforutsetningene er den virkelige testen",
+      "kilde": "Yahoo Finance",
+      "tid": "19:13",
+      "lenke": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-looks-cheap-piper-191328167.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "FED-prisøkninger vil ikke få ned gassprisene. Hvorfor obligasjonsmarkedet presser på for dem uansett.",
+      "kilde": "MarketWatch",
+      "tid": "19:00",
+      "lenke": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Dow Jones Futures: AI-aksjer i fokus som Anthropics Amodei, OpenAIs Altman, SpaceXs Musk Call for AI Slowdown",
+      "kilde": "Yahoo Finance",
+      "tid": "19:39",
+      "lenke": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
-    "NORGE": [
-      {
-        "tittel": "Sør-Norge kan få med seg sjeldent månefenomen",
-        "kilde": "NRK Nyheter",
-        "tid": "11:23",
-        "lenke": "https://www.nrk.no/sorlandet/sor-norge-kan-fa-med-seg-sjeldent-manefenomen-1.18023209",
-        "engelsk_kilde": false
-      }
-    ],
-    "MAKRO": [
-      {
-        "tittel": "Trump oppfordrer Federal Reserve til å kutte prisene når markedet satser på krigshøyde",
-        "kilde": "Yahoo Finance",
-        "tid": "15:32",
-        "lenke": "https://www.investors.com/news/trump-urges-federal-reserve-to-cut-rates-market-bets-warsh-hike/?src=A00220&yptr=yahoo",
-        "engelsk_kilde": true
-      }
-    ],
     "MARKEDER": [
       {
-        "tittel": "Antropisk låser ned $ 517 milliarder i databehandling i forkant av børsnotering — og det er fortsatt ikke nok",
+        "tittel": "Dow Jones Futures: AI-aksjer i fokus som Anthropics Amodei, OpenAIs Altman, SpaceXs Musk Call for AI Slowdown",
         "kilde": "Yahoo Finance",
-        "tid": "15:36",
-        "lenke": "https://finance.yahoo.com/technology/ai/articles/anthropic-locks-down-517-billion-153609285.html",
+        "tid": "19:39",
+        "lenke": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Rivian vs. Lucid: Denne aksjen er helt klart det bedre kjøpet",
+        "tittel": "FED-prisøkninger vil ikke få ned gassprisene. Hvorfor obligasjonsmarkedet presser på for dem uansett.",
+        "kilde": "MarketWatch",
+        "tid": "19:00",
+        "lenke": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Korn Ferry (KFY) utvider sin globale posisjon med oppkjøp av AMS",
         "kilde": "Yahoo Finance",
-        "tid": "15:35",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/rivian-vs-lucid-stock-clearly-153500179.html",
+        "tid": "17:06",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/korn-ferry-kfy-expands-global-170618310.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Her er de to store tingene vi ser på denne ukens aksjemarked",
+        "kilde": "CNBC Top News",
+        "tid": "16:57",
+        "lenke": "https://www.cnbc.com/2026/09/13/here-are-the-2-big-things-were-watching-in-this-weeks-stock-market.html",
         "engelsk_kilde": true
       },
       {
@@ -82,68 +78,49 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Prisen på nesten alt på middagsbordet stiger på en gang — og Wall Street legger merke til det",
-        "kilde": "MarketWatch",
-        "tid": "13:00",
-        "lenke": "https://www.marketwatch.com/story/the-price-of-almost-everything-on-your-dinner-table-is-climbing-at-once-and-wall-street-is-taking-notice-9623d1fc?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Topp Wall Street-analytikere anbefaler disse 3 utbytteaksjene for høyere avkastning",
         "kilde": "CNBC Top News",
         "tid": "11:53",
         "lenke": "https://www.cnbc.com/2026/09/13/top-wall-street-analysts-recommend-these-3-dividend-stocks-for-higher-returns.html",
         "engelsk_kilde": true
-      },
+      }
+    ],
+    "ENERGI_RAAVARER": [
       {
-        "tittel": "Larry Ellison nixes planlegger å laste av Oracle-aksjer for opptil $ 7,5 milliarder",
-        "kilde": "CNBC Top News",
-        "tid": "17:14",
-        "lenke": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
+        "tittel": "Global mangel har ført til motoroljerasjonering hos Costco",
+        "kilde": "Hacker News",
+        "tid": "17:57",
+        "lenke": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
         "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Tesla-nettverket er dødt: JPMorgans Bombshell Note avslører nesten all Robotaxi-milliardflyt til TSLA, ikke deg",
+        "tittel": "Nvidia (NVDA) ser billig ut på Pipers prognoser, men inntjeningsforutsetningene er den virkelige testen",
         "kilde": "Yahoo Finance",
-        "tid": "15:41",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/tesla-network-dead-jpmorgan-bombshell-154133041.html",
+        "tid": "19:13",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-looks-cheap-piper-191328167.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Dow Jones Futures: Fed Meeting Ahead; Anthropics Amodei, OpenAIs Altman, SpaceXs Musk Call For AI Slowdown",
+        "tittel": "Intel (INTC) vinner på CPU-mangelen, men verdivurderingen av støperiet trenger mer bevis",
         "kilde": "Yahoo Finance",
-        "tid": "14:52",
-        "lenke": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+        "tid": "19:10",
+        "lenke": "https://finance.yahoo.com/technology/ai/articles/intel-intc-winning-cpu-shortage-191052125.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Cuda for AMD på Windows",
+        "tittel": "Jeg blir cyberangrepet av Tesla, Inc",
         "kilde": "Hacker News",
-        "tid": "14:25",
-        "lenke": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+        "tid": "18:03",
+        "lenke": "https://dreamstation.systems/personal/tesla.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Houthis brukte Claude-kode til å utvikle rakettveiledningsprogramvare: Anthropic",
-        "kilde": "Hacker News",
-        "tid": "14:15",
-        "lenke": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Alibaba og Amazon står overfor det samme AI-utgiftsspørsmålet: Hvor raskt blir kapasitet til kontanter?",
+        "tittel": "AMD og Intels delte AI-instruksjoner når GCC. Kan programvaresamarbeid styrke begge aksjene?",
         "kilde": "Yahoo Finance",
-        "tid": "14:08",
-        "lenke": "https://finance.yahoo.com/technology/ai/articles/alibaba-amazon-face-same-ai-140837189.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "NVIDIAs eldre GPU-er tjener fortsatt penger. Hva det beviser og ikke beviser for CoreWeave",
-        "kilde": "Yahoo Finance",
-        "tid": "14:02",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/nvidia-older-gpus-still-earn-140210350.html",
+        "tid": "16:59",
+        "lenke": "https://finance.yahoo.com/technology/ai/articles/amd-intel-shared-ai-instructions-165917161.html",
         "engelsk_kilde": true
       },
       {
@@ -152,21 +129,35 @@
         "tid": "09:05",
         "lenke": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvorfor OpenAIs Sam Altman sier at en børsnotering ikke er i kortene i år",
-        "kilde": "MarketWatch",
-        "tid": "21:50",
-        "lenke": "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
+        "tittel": "Denne investeringen er trygg fra både Trump og demokratene — og det betaler 4,7%",
+        "kilde": "MarketWatch",
+        "tid": "19:55",
+        "lenke": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump fjerner toll på irsk whiskey",
+        "kilde": "E24",
+        "tid": "18:36",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/8pMW4W/trump-fjerner-toll-paa-irsk-whiskey?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
         "tittel": "Anthropics Amodei sier Kina presenterer 'tøffeste dilemma' for sin foreslåtte AI-nedgang",
         "kilde": "CNBC Top News",
-        "tid": "15:46",
+        "tid": "16:39",
         "lenke": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Xi sier at Kina vil ta ledelsen for å fremme AI, teknisk samarbeid mellom BRICS-landene",
+        "kilde": "CNBC Top News",
+        "tid": "16:38",
+        "lenke": "https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html",
         "engelsk_kilde": true
       },
       {
@@ -184,13 +175,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Xi sier at Kina vil ta ledelsen for å fremme AI, teknisk samarbeid mellom BRICS-landene",
-        "kilde": "CNBC Top News",
-        "tid": "11:17",
-        "lenke": "https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Kinas Xi oppfordrer BRICS-landene til å arbeide for fred i Midtøsten",
         "kilde": "CNBC Top News",
         "tid": "09:41",
@@ -200,28 +184,126 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "Lønnen øker igjen for jobbbyttere, selv i arbeidsmarkedet med lav ansettelse",
-        "kilde": "Yahoo Finance",
-        "tid": "15:45",
-        "lenke": "https://finance.yahoo.com/economy/article/pay-is-back-on-the-rise-for-job-switchers-even-in-low-hire-job-market-154504463.html",
+        "tittel": "Fremtidens pensjonisttilværelse? Arbeid til du dør.",
+        "kilde": "MarketWatch",
+        "tid": "19:56",
+        "lenke": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "49 år gammel kleskjede stenger butikker etter hvert som kundene krymper",
+        "tittel": "DraftKings og Flutter Jump After Court Rules Prediction Markets Are Gambling, Not Federally Regulated Trading",
         "kilde": "Yahoo Finance",
-        "tid": "15:33",
-        "lenke": "https://finance.yahoo.com/small-business/articles/49-old-clothing-chain-closing-153300913.html",
+        "tid": "19:46",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/draftkings-flutter-jump-court-rules-194622553.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Biblioteker kjører Rust Inside Python (med PyO3)",
+        "tittel": "Nytt russisk angrep: Tidligere statsministre fra Sverige og Storbritannia kan ha vært mål",
+        "kilde": "NRK Nyheter",
+        "tid": "19:41",
+        "lenke": "https://www.nrk.no/norge/russisk-angrep-mot-tog-naer-grensen-til-polen-_-svensk-eksminister-var-minutter-unna-1.18023641",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Ap-statssekretær på tog som ble evakuert i Ukraina: – Kom fram i rute",
+        "kilde": "NRK Nyheter",
+        "tid": "19:40",
+        "lenke": "https://www.nrk.no/nyheter/ap-statssekretaer-pa-tog-som-ble-evakuert-i-ukraina_-_-kom-fram-i-rute-1.18023619",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Boston Scientific (BSX) gikk ikke glipp av på forespørsel eller enheter. Et cyberangrep brøt bare veiledningen.",
+        "kilde": "Yahoo Finance",
+        "tid": "19:31",
+        "lenke": "https://finance.yahoo.com/healthcare/articles/boston-scientific-bsx-didn-t-193111827.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Starbucks ’innsats på $ 1 milliard på koselige butikker står overfor en margintest",
+        "kilde": "Yahoo Finance",
+        "tid": "19:00",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/starbucks-1-billion-bet-cozy-190035733.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Rekursiv selvforbedring av kunstig intelligens kommer kanskje ikke så raskt likevel (august 2026)",
         "kilde": "Hacker News",
-        "tid": "15:24",
-        "lenke": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
+        "tid": "18:49",
+        "lenke": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Warholm tar spesialgrep før ellevilt program",
+        "tittel": "Flokk kameraer som brukes til å arrestere et barn for å leke på en huske",
+        "kilde": "Hacker News",
+        "tid": "18:47",
+        "lenke": "https://www.youtube.com/watch?v=koclOnlde0E",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Venter rentethriller i USA",
+        "kilde": "E24",
+        "tid": "18:45",
+        "lenke": "https://e24.no/norsk-oekonomi/i/XMQRex/venter-rentethriller-i-usa?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Washington vrir seg for å møte anrop for AI-rekkverk mens vinduet for å handle lukkes",
+        "kilde": "CNBC Top News",
+        "tid": "17:48",
+        "lenke": "https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Laboratorieøvelse for enhetsdrivere - COSC562",
+        "kilde": "Hacker News",
+        "tid": "17:41",
+        "lenke": "https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Omstridt Haaland-avgjørelse: – Maresca ga meg tommel opp",
+        "kilde": "NRK Nyheter",
+        "tid": "17:23",
+        "lenke": "https://www.nrk.no/sport/manchester-derbyet_-haaland-avgjorde-og-sikret-seg-ny-malrekord-1.18023487",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Navan (NAVN) kjører Enterprise Momentum inn i arrangementer og møter gjennom BoomPop-avtalen",
+        "kilde": "Yahoo Finance",
+        "tid": "17:10",
+        "lenke": "https://finance.yahoo.com/technology/ai/articles/navan-navn-rides-enterprise-momentum-171047781.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Jeg har fortsatt ikke MR’: Helseforsikringsselskapet mitt kansellerte planen min uten forvarsel. Er det lovlig?",
+        "kilde": "MarketWatch",
+        "tid": "16:30",
+        "lenke": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Panamakanalen strammer inn: – En inflasjonsdriver",
+        "kilde": "E24",
+        "tid": "16:14",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/pBOWno/panamakanalen-strammer-inn-en-inflasjonsdriver?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Slått med slegge",
+        "kilde": "NRK Nyheter",
+        "tid": "16:13",
+        "lenke": "https://www.nrk.no/stor-oslo/slatt-med-slegge-1.18023509",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Ny uke med buss for tog: «Spøkelses­tog» lammer Gjøvik­banen",
+        "kilde": "NRK Nyheter",
+        "tid": "16:10",
+        "lenke": "https://www.nrk.no/innlandet/spokelsestog-stopper-trafikken-pa-gjovikbanen-i-ei-uke-1.18023425",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Warholm kjente ekstremkjøret: – Jeg skal ta deler av skylda",
         "kilde": "NRK Nyheter",
         "tid": "15:16",
         "lenke": "https://www.nrk.no/sport/karsten-warholm-loper-to-finaler-under-ultimate-championship-1.18023439",
@@ -233,20 +315,6 @@
         "tid": "15:11",
         "lenke": "https://www.nrk.no/urix/barth-eide-vil-ha-opptil-tre-ars-fengsel-for-handel-med-bosettere-pa-vestbredden-1.18022712",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Prediktiv intelligens for å forutse hva som helst.",
-        "kilde": "Hacker News",
-        "tid": "15:11",
-        "lenke": "https://prior.chat/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg er en psykolog som studerer par: Følelsesmessig intelligente partnere stiller ett spørsmål hver morgen - som de fleste forsømmer",
-        "kilde": "CNBC Top News",
-        "tid": "15:09",
-        "lenke": "https://www.cnbc.com/2026/09/13/emotionally-intelligent-couples-ask-question-every-morning-psychologist.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Jeg er en enslig 58 år gammel veteran i California med $ 1,5 millioner og en VA-pensjon. Kan jeg pensjonere meg?",
@@ -267,20 +335,6 @@
         "kilde": "MarketWatch",
         "tid": "14:30",
         "lenke": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Amgen (AMGN) falt 5% på et stoff som ikke engang er sitt eget. Her er Lp(a) -spillet det er snakk om.",
-        "kilde": "Yahoo Finance",
-        "tid": "14:29",
-        "lenke": "https://finance.yahoo.com/healthcare/articles/amgen-amgn-fell-5-drug-142916899.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Astra og Fable hakker fortsatt på enkle varianter av justerings-evaler fra 2025",
-        "kilde": "Hacker News",
-        "tid": "14:28",
-        "lenke": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
         "engelsk_kilde": true
       },
       {
@@ -316,48 +370,6 @@
         "kilde": "NRK Nyheter",
         "tid": "13:26",
         "lenke": "https://www.nrk.no/sport/spinnvill-malfest-for-viking-mot-kristiansund_-_-det-er-ydmykende-1.18023383",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Jeg vil betale for hver kunde på min avdøde manns favorittrestaurant på bursdagen hans. Kan dette slå tilbake?",
-        "kilde": "MarketWatch",
-        "tid": "13:15",
-        "lenke": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Må betale 140.000 i måneden for medisin: –Man føler seg liten og ubetydelig",
-        "kilde": "NRK Nyheter",
-        "tid": "12:42",
-        "lenke": "https://www.nrk.no/nordland/xl/heidi-olafsen-berntsen-her-en-sjelden-type-kreft.-medisinen-hennes-er-dyr_-men-hun-far-ikke-stotte-1.18011618",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "‘Jeg har fortsatt ikke MR’: Helseforsikringsselskapet mitt kansellerte planen min uten forvarsel. Er det lovlig?",
-        "kilde": "MarketWatch",
-        "tid": "12:40",
-        "lenke": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Knivstukket i masseslagsmål – undersøker mulig gjengkriminalitet",
-        "kilde": "NRK Nyheter",
-        "tid": "12:39",
-        "lenke": "https://www.nrk.no/stor-oslo/masseslagsmal-i-lorenskog-1.18023377",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Masseslagsmål i Lørenskog - Én person knivstukket",
-        "kilde": "NRK Nyheter",
-        "tid": "12:36",
-        "lenke": "https://www.nrk.no/stor-oslo/masseslagsmal-i-lorenskog---en-person-knivstukket-1.18023372",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Betaler 600.000 for å reise hit",
-        "kilde": "NRK Nyheter",
-        "tid": "11:57",
-        "lenke": "https://www.nrk.no/nordland/betaler-600.000-for-a-reise-hit-1.18013844",
         "engelsk_kilde": false
       },
       {
@@ -403,25 +415,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Kraftig matprisfall etter momskutt: – Synes ikke det er så ille",
-        "kilde": "E24",
-        "tid": "08:42",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/bO6vEv/kraftig-matprisfall-etter-momskutt-synes-ikke-det-er-saa-ille?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Binær utmattelseskrig",
-        "kilde": "E24",
-        "tid": "08:42",
-        "lenke": "https://e24.no/boers-og-finans/i/lnWkd7/john-fredriksen-i-binaer-utmattelseskrig?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Sjelden enighet om AI-brems",
-        "kilde": "E24",
-        "tid": "07:27",
-        "lenke": "https://e24.no/teknologi/i/y52bn2/ai-topper-i-sjelden-enighet-vil-bremse-utviklingen?utm_medium=rss",
-        "engelsk_kilde": false
+        "tittel": "Smykkekjeden stenger 53 butikker etter at 2 merker er stengt",
+        "kilde": "Yahoo Finance",
+        "tid": "21:37",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/jewelry-chain-closes-53-stores-213700154.html",
+        "engelsk_kilde": true
       },
       {
         "tittel": "Antropisk sjef Dario Amodei ber om at AI-utviklingen skal avta",
