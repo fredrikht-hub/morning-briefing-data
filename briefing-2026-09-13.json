@@ -1,43 +1,43 @@
 {
   "dato": "2026-09-13",
   "dato_norsk": "Søndag 13. september 2026",
-  "generert_kl": "04:21",
+  "generert_kl": "08:04",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Arvefølgekrisen som skilte Tore England fra hverandre",
+      "tittel": "When Anyone Can Build Software, Who Decides What Not to Build?",
       "kilde": "Hacker News",
-      "tid": "03:18",
-      "lenke": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
+      "tid": "05:59",
+      "lenke": "https://architectureintel.com/when-anyone-can-build-software-who-decides-what-not-to-build-ae07fdb370e4",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Larry Ellison nixes planlegger å laste av Oracle-aksjer for opptil $ 7,5 milliarder",
-      "kilde": "CNBC Top News",
-      "tid": "17:14",
-      "lenke": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
+      "tittel": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "kilde": "BBC Business",
+      "tid": "07:06",
+      "lenke": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Interim Computer Museum",
+      "tittel": "American Medical Association Backs Classification of Nearsightedness as Disease",
       "kilde": "Hacker News",
-      "tid": "02:43",
-      "lenke": "https://icm.museum/",
+      "tid": "07:35",
+      "lenke": "https://www.aao.org/newsroom/news-releases/detail/ama-backs-formal-classification-nearsightedness",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Ikke kall deg selv en håndverksprogrammerer",
+      "tittel": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
       "kilde": "Hacker News",
-      "tid": "02:29",
-      "lenke": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/",
+      "tid": "07:02",
+      "lenke": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Hvorfor lyver, jukser og koordinerer AI-agenter?",
-      "kilde": "Hacker News",
-      "tid": "01:22",
-      "lenke": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "engelsk_kilde": true
+      "tittel": "Sjelden enighet om AI-brems",
+      "kilde": "E24",
+      "tid": "07:27",
+      "lenke": "https://e24.no/teknologi/i/y52bn2/ai-topper-i-sjelden-enighet-vil-bremse-utviklingen?utm_medium=rss",
+      "engelsk_kilde": false
     }
   ],
   "kategorier": {
@@ -52,7 +52,7 @@
     ],
     "MAKRO": [
       {
-        "tittel": "Inflasjonen overstiger lønnsveksten igjen, og klemmer amerikanernes lønnsslipp",
+        "tittel": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
         "kilde": "CNBC Top News",
         "tid": "12:49",
         "lenke": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
@@ -61,14 +61,14 @@
     ],
     "MARKEDER": [
       {
-        "tittel": "Larry Ellison nixes planlegger å laste av Oracle-aksjer for opptil $ 7,5 milliarder",
+        "tittel": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
         "kilde": "CNBC Top News",
         "tid": "17:14",
         "lenke": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Buffetts tillit til et urolig tiår gammelt oppkjøp lønner seg endelig",
+        "tittel": "Buffett's confidence in troubled decade-old acquisition finally pays off",
         "kilde": "CNBC Top News",
         "tid": "13:20",
         "lenke": "https://www.cnbc.com/2026/09/12/buffetts-confidence-in-troubled-decade-old-acquisition-finally-pays-off.html",
@@ -84,7 +84,7 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Oljens tur/retur tilbake til $ 100. Hvorfor Kina kan avgjøre hva som skjer videre",
+        "tittel": "Oil's roundtrip back to $100. Why China could determine what happens next",
         "kilde": "CNBC Top News",
         "tid": "12:40",
         "lenke": "https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html",
@@ -93,14 +93,21 @@
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "OpenAI utelukker børsnotering i år ettersom Altman, Musk og Amodei advarer om at AI beveger seg for fort",
+        "tittel": "When Anyone Can Build Software, Who Decides What Not to Build?",
+        "kilde": "Hacker News",
+        "tid": "05:59",
+        "lenke": "https://architectureintel.com/when-anyone-can-build-software-who-decides-what-not-to-build-ae07fdb370e4",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
         "kilde": "CNBC Top News",
         "tid": "23:20",
         "lenke": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hvorfor OpenAIs Sam Altman sier at en børsnotering ikke er i kortene i år",
+        "tittel": "Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year",
         "kilde": "MarketWatch",
         "tid": "21:50",
         "lenke": "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c?mod=mw_rss_topstories",
@@ -112,6 +119,13 @@
         "tid": "19:55",
         "lenke": "https://e24.no/boers-og-finans/i/k0rrwj/openai-vil-ikke-paa-boers-i-2026?utm_medium=rss",
         "engelsk_kilde": false
+      },
+      {
+        "tittel": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+        "kilde": "BBC Business",
+        "tid": "17:28",
+        "lenke": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
@@ -123,21 +137,28 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Trumps Amerika-første verden presser andre makter til å sikre sine innsatser",
+        "tittel": "Indian Prime Minister Modi says border peace is key to India-China ties",
+        "kilde": "CNBC Top News",
+        "tid": "15:12",
+        "lenke": "https://www.cnbc.com/2026/09/12/india-china-modi-xi-brics-border.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump's America-first world is pushing other powers to hedge their bets",
         "kilde": "CNBC Top News",
         "tid": "13:24",
         "lenke": "https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Teheran vil ikke overgi seg til USA, sier Irans president Pezeshkian, som Indias Modi oppfordrer dialog og fred",
+        "tittel": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
         "kilde": "CNBC Top News",
         "tid": "13:15",
         "lenke": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "GM planlegger amerikansk batteriutvikling når Trumps PRIKK angriper Ford for Kina-bånd",
+        "tittel": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
         "kilde": "CNBC Top News",
         "tid": "12:00",
         "lenke": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
@@ -146,6 +167,48 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "American Medical Association Backs Classification of Nearsightedness as Disease",
+        "kilde": "Hacker News",
+        "tid": "07:35",
+        "lenke": "https://www.aao.org/newsroom/news-releases/detail/ama-backs-formal-classification-nearsightedness",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Sjelden enighet om AI-brems",
+        "kilde": "E24",
+        "tid": "07:27",
+        "lenke": "https://e24.no/teknologi/i/y52bn2/ai-topper-i-sjelden-enighet-vil-bremse-utviklingen?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+        "kilde": "BBC Business",
+        "tid": "07:06",
+        "lenke": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+        "kilde": "Hacker News",
+        "tid": "07:02",
+        "lenke": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Frierferd i fremmed landskap",
+        "kilde": "NRK Nyheter",
+        "tid": "06:26",
+        "lenke": "https://www.nrk.no/urix/xl/sverigedemokraterna-kaprer-flere-og-flere-innvandrerstemmer-1.18020988",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Gjelden tar all makt",
+        "kilde": "E24",
+        "tid": "04:59",
+        "lenke": "https://e24.no/boers-og-finans/i/7poOX4/gjelden-tar-all-makt?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
         "tittel": "Nerver i høyspenn på NHH: – Betydelig høyere stressnivå",
         "kilde": "E24",
         "tid": "04:00",
@@ -153,38 +216,24 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Arvefølgekrisen som skilte Tore England fra hverandre",
+        "tittel": "A wandering black hole caught feeding on the run",
+        "kilde": "Hacker News",
+        "tid": "03:34",
+        "lenke": "https://phys.org/news/2026-08-black-hole-caught.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "A succession crisis that tore England apart (2023)",
         "kilde": "Hacker News",
         "tid": "03:18",
         "lenke": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Interim Computer Museum",
-        "kilde": "Hacker News",
-        "tid": "02:43",
-        "lenke": "https://icm.museum/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Ikke kall deg selv en håndverksprogrammerer",
-        "kilde": "Hacker News",
-        "tid": "02:29",
-        "lenke": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvorfor lyver, jukser og koordinerer AI-agenter?",
-        "kilde": "Hacker News",
-        "tid": "01:22",
-        "lenke": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Tilpass AI og matematikk til noe annet",
-        "kilde": "Hacker News",
-        "tid": "00:47",
-        "lenke": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+        "tittel": "Anthropic boss Dario Amodei calls for AI development to slow down",
+        "kilde": "BBC Business",
+        "tid": "21:16",
+        "lenke": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
@@ -202,7 +251,7 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "'Skimpflasjon' advarsel som hermetisert makrell alternativ treffer flere supermarked hyller",
+        "tittel": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
         "kilde": "BBC Business",
         "tid": "20:37",
         "lenke": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
@@ -230,21 +279,14 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Uværet nærmer seg: Varsler vindkast mot 33 sekundmeter, lyn og høye bølger",
-        "kilde": "NRK Nyheter",
-        "tid": "17:48",
-        "lenke": "https://www.nrk.no/nordland/gult-farevarsel-i-nord_-venter-kraftig-storm_-hoye-bolger-og-mulig-tordenvaer-1.18023009",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Samtaler som AI-er har på kontoret som kan påvirke resultatgjennomgangen og betalingen din",
+        "tittel": "Conversations that AIs are having in the office that may influence your performance review and pay",
         "kilde": "CNBC Top News",
         "tid": "17:39",
         "lenke": "https://www.cnbc.com/2026/09/12/ai-manager-coaching-employee-feedback-performanc-review.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Elon Musk støtter Anthropics oppfordring til å bremse utviklingen av kunstig intelligens før falske roboter tar over hele Internett",
+        "tittel": "Elon Musk backs Anthropic’s call to slow down AI progress before rogue bots take over the entire internet",
         "kilde": "MarketWatch",
         "tid": "17:20",
         "lenke": "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories",
@@ -265,31 +307,24 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "‘Jeg har fortsatt ikke MR’: Helseforsikringsselskapet mitt kansellerte planen min uten forvarsel. Er det lovlig?",
+        "tittel": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
         "kilde": "MarketWatch",
         "tid": "16:01",
         "lenke": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "‘Jeg er eksekutor’: Mine to søsken og jeg arvet en Ira. Kan vi bare ta det ut?",
+        "tittel": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
         "kilde": "MarketWatch",
         "tid": "15:00",
         "lenke": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Min 87 år gamle mor vil betale for min brors barns utdannelse. Jeg har ikke barn. Hvordan er det rettferdig?",
+        "tittel": "My 87-year-old mother wants to pay for my brother’s kids’ education. I don’t have children. How is that fair?",
         "kilde": "MarketWatch",
         "tid": "14:01",
         "lenke": "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Klistremerkeprisene på college fortsetter å stige. Hvorfor mange skoler fortsatt er under økonomisk press",
-        "kilde": "CNBC Top News",
-        "tid": "13:30",
-        "lenke": "https://www.cnbc.com/2026/09/12/college-costs-top-100000-as-tuition-discounts-strain-schools.html",
         "engelsk_kilde": true
       },
       {
@@ -300,7 +335,7 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Jeg vil betale for hver kunde på min avdøde manns favorittrestaurant på bursdagen hans. Kan dette slå tilbake?",
+        "tittel": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Could this backfire?",
         "kilde": "MarketWatch",
         "tid": "13:00",
         "lenke": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
@@ -318,20 +353,6 @@
         "kilde": "E24",
         "tid": "08:41",
         "lenke": "https://e24.no/norsk-oekonomi/i/zO3z54/nervepirrende-rentethriller-kan-vippe-det?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kongsbergs skjulte USA-perle",
-        "kilde": "E24",
-        "tid": "07:30",
-        "lenke": "https://e24.no/boers-og-finans/i/k0LGGa/kongsbergs-skjulte-usa-perle?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "– Men stuerene blir dere aldri!",
-        "kilde": "E24",
-        "tid": "05:23",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/pBvpmj/men-stuerene-blir-dere-aldri?utm_medium=rss",
         "engelsk_kilde": false
       }
     ]
