@@ -1,56 +1,79 @@
 {
   "dato": "2026-09-14",
   "dato_norsk": "Mandag 14. september 2026",
-  "generert_kl": "04:16",
+  "generert_kl": "08:05",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Den tiårige statskassen nærmer seg 5%. Hvordan det kommer dit betyr mer",
+      "tittel": "Oslo Børs løftes av økt oljepris",
+      "kilde": "E24",
+      "tid": "07:00",
+      "lenke": "https://e24.no/boers-og-finans/i/k0V17Q/oslo-boers-loeftes-av-oekt-oljepris?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "US Treasury avkastning er stabil som 10-års stenger inn på 5% i forkant av Fed priser beslutning",
       "kilde": "CNBC Top News",
-      "tid": "01:39",
+      "tid": "08:02",
       "lenke": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Trump sier USA kan beholde iransk olje \"som Venezuela\" som Gulf-Iran Hormuz samtaler stall",
+      "tittel": "Trump oppfordrer Ukraina til å slutte å \"slå ut\" russiske oljeraffinerier som amerikansk diesel treffer rekord",
       "kilde": "CNBC Top News",
-      "tid": "03:01",
+      "tid": "07:22",
+      "lenke": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-diesel-prices-oil.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Shein-aksjer faller 10% på grunn av akutt tilbakekalling av kontaktlinserens fra Australia, New Zealand",
+      "kilde": "CNBC Top News",
+      "tid": "05:21",
+      "lenke": "https://www.cnbc.com/2026/09/14/shein-shares-fall-10percent-amid-australia-nz-contact-lens-cleaner-recall.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Iran sier de ødelegger USAs avanserte drone over Hormuz etter hvert som Midtøsten-konflikten intensiveres",
+      "kilde": "CNBC Top News",
+      "tid": "07:24",
       "lenke": "https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Amazon pauser arbeidet med fraktfirmaet etter dødelig krasj",
-      "kilde": "BBC Business",
-      "tid": "02:40",
-      "lenke": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Antropisk går på stram line til Nasdaq, og presser på for en nedgang mens du forfølger $ 2 billioner verdsettelse",
-      "kilde": "CNBC Top News",
-      "tid": "04:01",
-      "lenke": "https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Baker Hughes ser ingen nedgang i energiprosjekter til tross for høyere priser ettersom AI-utbygginger øker LNG-etterspørselen",
-      "kilde": "CNBC Top News",
-      "tid": "03:27",
-      "lenke": "https://www.cnbc.com/2026/09/14/baker-hughes-ceo-no-slowdown-in-energy-projects-despite-higher-rates-.html",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
+    "NORGE": [
+      {
+        "tittel": "Oslo Børs løftes av økt oljepris",
+        "kilde": "E24",
+        "tid": "07:00",
+        "lenke": "https://e24.no/boers-og-finans/i/k0V17Q/oslo-boers-loeftes-av-oekt-oljepris?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Tøffere jobbmarked: – Nå må man nok strekke seg litt ekstra",
+        "kilde": "E24",
+        "tid": "04:25",
+        "lenke": "https://e24.no/karriere-og-ledelse/i/6qvGzr/toeffere-jobbmarked-naa-maa-man-nok-strekke-seg-litt-ekstra?utm_medium=rss",
+        "engelsk_kilde": false
+      }
+    ],
     "MAKRO": [
       {
-        "tittel": "Den tiårige statskassen nærmer seg 5%. Hvordan det kommer dit betyr mer",
+        "tittel": "US Treasury avkastning er stabil som 10-års stenger inn på 5% i forkant av Fed priser beslutning",
         "kilde": "CNBC Top News",
-        "tid": "01:39",
+        "tid": "08:02",
         "lenke": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
         "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
+      {
+        "tittel": "Shein-aksjer faller 10% på grunn av akutt tilbakekalling av kontaktlinserens fra Australia, New Zealand",
+        "kilde": "CNBC Top News",
+        "tid": "05:21",
+        "lenke": "https://www.cnbc.com/2026/09/14/shein-shares-fall-10percent-amid-australia-nz-contact-lens-cleaner-recall.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Antropisk går på stram line til Nasdaq, og presser på for en nedgang mens du forfølger $ 2 billioner verdsettelse",
         "kilde": "CNBC Top News",
@@ -59,7 +82,7 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Dyster prognose for leietakere etter hvert som leien stiger satt til å øke hastigheten",
+        "tittel": "Leieøkninger satt til å øke hastigheten i dystre værmeldinger for leietakere",
         "kilde": "BBC Business",
         "tid": "23:05",
         "lenke": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
@@ -91,20 +114,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Skadelig bruk av kunstig intelligens",
-        "kilde": "Hacker News",
-        "tid": "01:22",
-        "lenke": "https://arxiv.org/abs/1802.07228",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "OpenAI utelukker børsnotering i år ettersom Altman, Musk og Amodei advarer om at AI beveger seg for fort",
-        "kilde": "CNBC Top News",
-        "tid": "22:21",
-        "lenke": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Dramatiske innsideadvarsler om AI faller sammen med noen i Silicon Valley",
         "kilde": "BBC Business",
         "tid": "09:05",
@@ -114,10 +123,24 @@
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Trump sier USA kan beholde iransk olje \"som Venezuela\" som Gulf-Iran Hormuz samtaler stall",
+        "tittel": "Iran sier de ødelegger USAs avanserte drone over Hormuz etter hvert som Midtøsten-konflikten intensiveres",
         "kilde": "CNBC Top News",
-        "tid": "03:01",
+        "tid": "07:24",
         "lenke": "https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump oppfordrer Ukraina til å slutte å \"slå ut\" russiske oljeraffinerier som amerikansk diesel treffer rekord",
+        "kilde": "CNBC Top News",
+        "tid": "07:22",
+        "lenke": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-diesel-prices-oil.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "LA Clippers-eier Steve Ballmer ber om unnskyldning for lagsanksjoner",
+        "kilde": "CNBC Top News",
+        "tid": "04:58",
+        "lenke": "https://www.cnbc.com/2026/09/14/la-clippers-steve-ballmer-apologizes-kawhi-leonard.html",
         "engelsk_kilde": true
       },
       {
@@ -133,35 +156,105 @@
         "tid": "18:36",
         "lenke": "https://e24.no/internasjonal-oekonomi/i/8pMW4W/trump-fjerner-toll-paa-irsk-whiskey?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Anthropics Amodei sier Kina presenterer 'tøffeste dilemma' for sin foreslåtte AI-nedgang",
-        "kilde": "CNBC Top News",
-        "tid": "16:39",
-        "lenke": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Fartøy truffet i Hormuzstredet, sier UKMTO, da utsiktene for amerikansk-iransk diplomati virker unnvikende",
-        "kilde": "CNBC Top News",
-        "tid": "13:38",
-        "lenke": "https://www.cnbc.com/2026/09/13/vessel-struck-strait-of-hormuz-ukmto.html",
-        "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
       {
-        "tittel": "Leteaksjon etter fisker ved Snåsavatnet",
+        "tittel": "\"Kulturskifte\" er nødvendig for hvordan Storbritannia gjør forretninger, oppfordrer statsministeren",
+        "kilde": "BBC Business",
+        "tid": "07:39",
+        "lenke": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trener vi å bygge så høyt?",
+        "kilde": "NRK Nyheter",
+        "tid": "07:12",
+        "lenke": "https://www.nrk.no/norge/xl/hoyhusmyten---professor-mener-vi-ikke-trenger-a-bygge-sa-hoyt-1.18000735",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Yen verdsettelse har carry-trade søkere ser på disse to valutaene",
+        "kilde": "CNBC Top News",
+        "tid": "07:10",
+        "lenke": "https://www.cnbc.com/2026/09/14/yen-strength-carry-trade-cad-yuan.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Novo Nordisk rebrander til 'Novo,' avslører selskapsendringer som det kjemper for fedme markedsandel",
+        "kilde": "CNBC Top News",
+        "tid": "07:00",
+        "lenke": "https://www.cnbc.com/2026/09/14/novo-nordisk-rebrands-to-novo-ceo-mike-doustdar.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Om guder og språk: På \"Da Gud talte gresk\" (2013)",
+        "kilde": "Hacker News",
+        "tid": "06:34",
+        "lenke": "https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Færre nye boliger",
+        "kilde": "E24",
+        "tid": "06:19",
+        "lenke": "https://e24.no/naeringsliv/i/oE2PgB/faerre-nye-boliger?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Fem biler i trafikkulykke på E18 – veien åpnet",
+        "kilde": "NRK Nyheter",
+        "tid": "05:59",
+        "lenke": "https://www.nrk.no/stor-oslo/fem-biler-i-trafikkulykke-pa-e18-_-veien-apnet-1.18023775",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Parlamentsmedlemmer og herrer krever ny lov for å håndtere AI-trusselen mot menneskerettighetene",
+        "kilde": "BBC Business",
+        "tid": "05:49",
+        "lenke": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Anbefaler «utbyttemaskin»: – Vil vokse til svært attraktive nivåer",
+        "kilde": "E24",
+        "tid": "05:14",
+        "lenke": "https://e24.no/boers-og-finans/i/Gx29W9/anbefaler-utbyttemaskin-vil-vokse-til-svaert-attraktive-nivaaer?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Oljeprishopp etter angrep mot Saudi-Arabia",
+        "kilde": "E24",
+        "tid": "04:57",
+        "lenke": "https://e24.no/boers-og-finans/i/pB2mkw/oljeprishopp-etter-angrep-mot-saudi-arabia?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Hvem får definere reglene for AI?",
+        "kilde": "Hacker News",
+        "tid": "04:49",
+        "lenke": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Cadbury kuttet to måneder av leveringskjedens ledetid for en nøkkelingrediens i sjokoladebaren i ett trekk",
+        "kilde": "CNBC Top News",
+        "tid": "04:25",
+        "lenke": "https://www.cnbc.com/2026/09/14/cadbury-supply-chain-lead-time-key-ingredient-chocolate-crumble-malaysia.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fisker funnet etter leteaksjon ved Snåsavatnet",
         "kilde": "NRK Nyheter",
         "tid": "03:44",
         "lenke": "https://www.nrk.no/trondelag/leteaksjon-etter-fisker-ved-snasavatnet-1.18023745",
         "engelsk_kilde": false
       },
       {
-        "tittel": "Komiteen ber om lovforslag for å adressere AI-trussel mot menneskerettigheter",
-        "kilde": "BBC Business",
-        "tid": "03:23",
-        "lenke": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+        "tittel": "Chess.com lekkasje eksponerer 7,3 millioner brukere, bevis peker mot skraping",
+        "kilde": "Hacker News",
+        "tid": "03:26",
+        "lenke": "https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html",
         "engelsk_kilde": true
       },
       {
@@ -179,13 +272,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Z.ai-aksjer faller over 10% etter innsamling av $ 5 milliarder, den andre store innsamlingen på to måneder",
-        "kilde": "CNBC Top News",
-        "tid": "03:03",
-        "lenke": "https://www.cnbc.com/2026/09/14/zai-shares-tumble-second-major-raise-two-months-.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Nike forlater S&P 100 etter 18 år og en wipeout på $ 200B",
         "kilde": "Hacker News",
         "tid": "02:50",
@@ -193,17 +279,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Vis HN: Er det Greg?",
+        "tittel": "OEMpocalypse: Uprivilegert Android-app for å rote på Samsung, Xiaomi, andre",
         "kilde": "Hacker News",
-        "tid": "01:58",
-        "lenke": "https://github.com/antoineleclair/is-it-greg",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Forutsigelsesmarkeder blir mer profesjonaliserte, men også vanskeligere å slå",
-        "kilde": "CNBC Top News",
-        "tid": "01:37",
-        "lenke": "https://www.cnbc.com/2026/09/14/prediction-markets-efficient-win-lose-beat.html",
+        "tid": "02:25",
+        "lenke": "https://calif.io/research/oempocalypse",
         "engelsk_kilde": true
       },
       {
@@ -214,13 +293,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Vis HN: Utforske skjæringspunktet mellom prediksjonsmarkeder og sosiale medier",
-        "kilde": "Hacker News",
-        "tid": "01:14",
-        "lenke": "https://www.thevidmarket.com/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "‘Jeg har fortsatt ikke MR’: Helseforsikringsselskapet mitt kansellerte planen min uten forvarsel. Er det lovlig?",
         "kilde": "MarketWatch",
         "tid": "01:00",
@@ -228,24 +300,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "AI-roboter - Når vil de være i hjemmene våre",
-        "kilde": "Hacker News",
-        "tid": "00:44",
-        "lenke": "https://spectrum.ieee.org/ai-robots",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Slik beskytter du den bærbare PC-en, telefonen og sykkelen mot tyver på universitetet",
         "kilde": "BBC Business",
         "tid": "23:39",
         "lenke": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "\"Kulturskifte\" er nødvendig for hvordan Storbritannia gjør forretninger, oppfordrer statsministeren",
-        "kilde": "BBC Business",
-        "tid": "21:30",
-        "lenke": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
@@ -294,7 +352,7 @@
         "tittel": "Nytt russisk angrep: Tidligere statsministre fra Sverige og Storbritannia kan ha vært mål",
         "kilde": "NRK Nyheter",
         "tid": "19:41",
-        "lenke": "https://www.nrk.no/norge/russisk-angrep-mot-tog-naer-grensen-til-polen-_-svensk-eksminister-var-minutter-unna-1.18023641",
+        "lenke": "https://www.nrk.no/urix/russisk-angrep-mot-tog-naer-grensen-til-polen-_-svensk-eksminister-var-minutter-unna-1.18023641",
         "engelsk_kilde": false
       },
       {
@@ -312,13 +370,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Washington vrir seg for å møte anrop for AI-rekkverk mens vinduet for å handle lukkes",
-        "kilde": "CNBC Top News",
-        "tid": "17:48",
-        "lenke": "https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Innrømmer VAR-feil på Haalands rekordmål",
         "kilde": "NRK Nyheter",
         "tid": "17:23",
@@ -333,20 +384,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Slått med slegge",
-        "kilde": "NRK Nyheter",
-        "tid": "16:13",
-        "lenke": "https://www.nrk.no/stor-oslo/slatt-med-slegge-1.18023509",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Ny uke med buss for tog: «Spøkelses­tog» lammer Gjøvik­banen",
-        "kilde": "NRK Nyheter",
-        "tid": "16:10",
-        "lenke": "https://www.nrk.no/innlandet/spokelsestog-stopper-trafikken-pa-gjovikbanen-i-ei-uke-1.18023425",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "AI-ansatte 'oppriktig skremt' for menneskehetens fremtid, forteller tidligere antropolog til BBC",
         "kilde": "BBC Business",
         "tid": "14:53",
@@ -358,41 +395,6 @@
         "kilde": "E24",
         "tid": "14:25",
         "lenke": "https://e24.no/energi-og-klima/i/Wve4oG/frykter-ap-vil-aapne-nordland-6-statsraaden-holder-doera-paa-gloett?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Hetebølger kan gi sterkere champagne",
-        "kilde": "E24",
-        "tid": "13:36",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/7pvLlv/heteboelger-kan-gi-sterkere-champagne?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "– AI-startups er en boble",
-        "kilde": "E24",
-        "tid": "11:44",
-        "lenke": "https://e24.no/naeringsliv/i/pBxm7E/adrian-20-driver-ki-selskap-fra-stockholm?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Sendt 357 brev: Ber kommunene om datasenter-tomt",
-        "kilde": "E24",
-        "tid": "11:24",
-        "lenke": "https://e24.no/naeringsliv/i/GxKBE9/sendt-357-brev-ber-kommunene-om-datasenter-tomt?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Dette er det beste Kevin Warsh kan gjøre",
-        "kilde": "E24",
-        "tid": "11:22",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/ExeqP5/dette-er-det-beste-kevin-warsh-kan-gjoere?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Taxisjåfør anmeldt etter krav på 22.000 kroner",
-        "kilde": "E24",
-        "tid": "10:29",
-        "lenke": "https://e24.no/boers-og-finans/i/2pzJry/taxisjaafoer-krevde-22-000-kroner-for-tur-fra-gardermoen-til-oslo?utm_medium=rss",
         "engelsk_kilde": false
       }
     ]
