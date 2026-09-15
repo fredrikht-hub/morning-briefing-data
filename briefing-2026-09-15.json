@@ -1,69 +1,90 @@
 {
   "dato": "2026-09-15",
   "dato_norsk": "Tirsdag 15. september 2026",
-  "generert_kl": "04:16",
+  "generert_kl": "08:06",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
+      "tittel": "Nedgang på Oslo Børs – biotek-aksje stuper",
+      "kilde": "E24",
+      "tid": "07:00",
+      "lenke": "https://e24.no/boers-og-finans/i/2pzl8v/nedgang-paa-oslo-boers?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
       "tittel": "Kinas august-salg bommer på prognosen mens investeringsnedgangen blir dypere, og legger press på Beijing",
       "kilde": "CNBC Top News",
-      "tid": "04:06",
+      "tid": "05:41",
       "lenke": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Telle stemmene: Warsh står overfor en tøff kamp når Fed omgir seg med forventet renteøkning",
+      "tittel": "10-års statsrente stiger til det høyeste siden 2007, ettersom Fed-renteøkningsforventningene stiger",
       "kilde": "CNBC Top News",
-      "tid": "19:47",
-      "lenke": "https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html",
+      "tid": "07:07",
+      "lenke": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
       "engelsk_kilde": true
     },
     {
       "tittel": "Olje- og statsrenter har ikke beveget seg så tett på sju år. Det er dårlige nyheter for markedene",
       "kilde": "CNBC Top News",
-      "tid": "03:30",
+      "tid": "05:22",
       "lenke": "https://www.cnbc.com/2026/09/15/oil-us-treasurys-stocks-pressure.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Våpenmangel, \"hundrevis\" av bygninger og fly skadet, $ 33,4 milliarder brukt: den amerikanske regjeringen sammenligner kostnadene ved Iran-krigen",
-      "kilde": "CNBC Top News",
-      "tid": "03:45",
-      "lenke": "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Trump sier at AI-sikkerhet frykter en \"bløff\" når han avviser krav om større sikkerhetstiltak",
-      "kilde": "BBC Business",
-      "tid": "03:47",
-      "lenke": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-      "engelsk_kilde": true
+      "tittel": "Verdens viktigste rente: Høyeste siden finanskrisen",
+      "kilde": "E24",
+      "tid": "05:11",
+      "lenke": "https://e24.no/boers-og-finans/i/XMeXmW/verdens-viktigste-rente-hoeyeste-siden-finanskrisen?utm_medium=rss",
+      "engelsk_kilde": false
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "Mann funnet med stikkskader i Oslo – én pågrepet",
+        "tittel": "Norske studenter trives mer og mer: – En utvikling fra 0–100",
         "kilde": "NRK Nyheter",
-        "tid": "21:16",
-        "lenke": "https://www.nrk.no/norge/person-funnet-med-stikkskader-i-oslo-1.18024891",
+        "tid": "08:00",
+        "lenke": "https://www.nrk.no/trondelag/studentene-har-ikke-hatt-det-bedre-pa-16-ar_-viser-ny-undersokelse-1.18021570",
         "engelsk_kilde": false
       },
       {
-        "tittel": "Person funnet med stikkskader i Oslo",
+        "tittel": "Nedgang på Oslo Børs – biotek-aksje stuper",
+        "kilde": "E24",
+        "tid": "07:00",
+        "lenke": "https://e24.no/boers-og-finans/i/2pzl8v/nedgang-paa-oslo-boers?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Ny norsk landslagstropp – hvem er ute?",
         "kilde": "NRK Nyheter",
-        "tid": "20:59",
-        "lenke": "https://www.nrk.no/nyheter/person-funnet-med-stikkskader-i-oslo-1.18024880",
+        "tid": "04:47",
+        "lenke": "https://www.nrk.no/sport/stale-solbakken-skal-ta-ut-ny-landslagstropp-_-ekspert-spar-nye-fjes-1.18024837",
         "engelsk_kilde": false
       }
     ],
     "MAKRO": [
       {
+        "tittel": "10-års statsrente stiger til det høyeste siden 2007, ettersom Fed-renteøkningsforventningene stiger",
+        "kilde": "CNBC Top News",
+        "tid": "07:07",
+        "lenke": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Olje- og statsrenter har ikke beveget seg så tett på sju år. Det er dårlige nyheter for markedene",
         "kilde": "CNBC Top News",
-        "tid": "03:30",
+        "tid": "05:22",
         "lenke": "https://www.cnbc.com/2026/09/15/oil-us-treasurys-stocks-pressure.html",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Verdens viktigste rente: Høyeste siden finanskrisen",
+        "kilde": "E24",
+        "tid": "05:11",
+        "lenke": "https://e24.no/boers-og-finans/i/XMeXmW/verdens-viktigste-rente-hoeyeste-siden-finanskrisen?utm_medium=rss",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Telle stemmene: Warsh står overfor en tøff kamp når Fed omgir seg med forventet renteøkning",
@@ -71,44 +92,58 @@
         "tid": "19:47",
         "lenke": "https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Verdens viktigste rente passerer fem prosent",
-        "kilde": "E24",
-        "tid": "14:15",
-        "lenke": "https://e24.no/boers-og-finans/i/7pGdm4/verdens-viktigste-rente-passerer-fem-prosent?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ],
     "MARKEDER": [
       {
         "tittel": "Kinas august-salg bommer på prognosen mens investeringsnedgangen blir dypere, og legger press på Beijing",
         "kilde": "CNBC Top News",
-        "tid": "04:06",
+        "tid": "05:41",
         "lenke": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Broadcom-sjef adresserer Anthropics nedbremsing, sier at AI-inntektsmålene ikke har endret seg",
-        "kilde": "CNBC Top News",
-        "tid": "22:43",
-        "lenke": "https://www.cnbc.com/2026/09/14/broadcom-ceo-on-anthropics-slowdown-push-ai-revenue-targets-havent-changed.html",
+        "tittel": "AI-dommedagsfrykt kommer på det verst tenkelige tidspunktet for aksjemarkedet",
+        "kilde": "MarketWatch",
+        "tid": "23:19",
+        "lenke": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "AI-fall roet seg – bankaksjer kraftig ned på Wall Street",
-        "kilde": "E24",
-        "tid": "13:32",
-        "lenke": "https://e24.no/boers-og-finans/i/M72GMB/wall-street-aapner-ned?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ],
     "ENERGI_RAAVARER": [
       {
-        "tittel": "Olje øker gevinsten etter Houthi-angrep på Saudi-Arabia",
+        "tittel": "Olje gir gevinst, Brent-råolje nærmer seg $ 108 etter houthi-angrep på Saudi-Arabia",
         "kilde": "CNBC Top News",
-        "tid": "01:55",
+        "tid": "07:22",
         "lenke": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "USA forsøker å beslaglegge $ 61 millioner av krypto som de hevder er inntekter fra iransk petroleumssalg til kinesiske kjøpere",
+        "kilde": "CNBC Top News",
+        "tid": "07:05",
+        "lenke": "https://www.cnbc.com/2026/09/15/us-attorney-crypto-tether-iran-china-.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Dyr gass løftet Norges overskudd",
+        "kilde": "E24",
+        "tid": "07:01",
+        "lenke": "https://e24.no/energi-og-klima/i/V6vBzr/dyr-gass-loeftet-norges-overskudd?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Dyr strøm gir økt inkassogjeld for bedriftene",
+        "kilde": "E24",
+        "tid": "05:00",
+        "lenke": "https://e24.no/naeringsliv/i/zO2w2O/dyr-stroem-gir-oekt-inkassogjeld-for-bedriftene?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Oljemarkedet sender en stadig kraftigere advarsel om bensinpriser på pumpen",
+        "kilde": "MarketWatch",
+        "tid": "21:31",
+        "lenke": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -128,26 +163,33 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Amazon vs. Forvirring – USAs ankedomstol for den niende kretsen",
-        "kilde": "Hacker News",
-        "tid": "21:05",
-        "lenke": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+        "tittel": "CrowdStrike og Palo Alto Networks fører programvarebeholdninger til en aldri før sett prestasjon",
+        "kilde": "MarketWatch",
+        "tid": "21:11",
+        "lenke": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Chip-aksjer var et trygt AI-spill. Nå har de blitt til markedets smertehandel.",
+        "kilde": "MarketWatch",
+        "tid": "21:11",
+        "lenke": "https://www.marketwatch.com/story/chip-stocks-were-a-safe-ai-play-now-theyve-turned-into-the-markets-pain-trade-6029df5e?mod=mw_rss_topstories",
         "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
+        "tittel": "Pentagon avslører iransk krigsregning på 33,4 milliarder $ og «strategiske» våpenmangler",
+        "kilde": "CNBC Top News",
+        "tid": "06:31",
+        "lenke": "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Trump sier at AI-sikkerhet frykter en \"bløff\" når han avviser krav om større sikkerhetstiltak",
         "kilde": "BBC Business",
         "tid": "03:47",
         "lenke": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Våpenmangel, \"hundrevis\" av bygninger og fly skadet, $ 33,4 milliarder brukt: den amerikanske regjeringen sammenligner kostnadene ved Iran-krigen",
-        "kilde": "CNBC Top News",
-        "tid": "03:45",
-        "lenke": "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
         "engelsk_kilde": true
       },
       {
@@ -158,42 +200,98 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Høyesterett avviser Trumps bud om å oppheve blokken på US Postal Service innskrevne stemmesedler",
-        "kilde": "CNBC Top News",
-        "tid": "00:48",
-        "lenke": "https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Trump går svidd jord på AI-advarsler, raser om datasenteropposisjon og regulering",
         "kilde": "CNBC Top News",
         "tid": "21:15",
         "lenke": "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trump-administrasjonen opphever Biden-æraens krav til drivhusgasser for kraft",
-        "kilde": "CNBC Top News",
-        "tid": "20:45",
-        "lenke": "https://www.cnbc.com/2026/09/14/trump-epa-carbon-dioxide-power-plant-climate-change.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trump avviser AI-frykten: Trenger bare en «smart president»",
-        "kilde": "E24",
-        "tid": "14:44",
-        "lenke": "https://e24.no/teknologi/i/WvMyBr/donald-trump-ai-trenger-ingen-bremseklosser?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Saudisk oljerør stengt: – Øker Iran-konfliktens strupetak",
-        "kilde": "E24",
-        "tid": "14:10",
-        "lenke": "https://e24.no/energi-og-klima/i/V6vXdV/saudisk-oljeroer-stengt-oeker-iran-konfliktens-strupetak?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "Statspensjonen vil trolig øke med £ 488 i året i april",
+        "kilde": "BBC Business",
+        "tid": "07:59",
+        "lenke": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fed kan være på randen av en alvorlig feil, advarer fremtredende økonomer",
+        "kilde": "MarketWatch",
+        "tid": "07:29",
+        "lenke": "https://www.marketwatch.com/story/the-fed-may-be-on-the-verge-of-a-serious-mistake-prominent-economists-warn-3ccb6581?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Lingo.dev (YC F24) ansetter en senior innholdstekniker (Remote, verdensomspennende)",
+        "kilde": "Hacker News",
+        "tid": "07:00",
+        "lenke": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "SSB: Økt kjøpekraft blant husholdningene",
+        "kilde": "E24",
+        "tid": "06:09",
+        "lenke": "https://e24.no/norsk-oekonomi/i/Bx927v/ssb-oekt-kjoepekraft-blant-husholdningene?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Nordnet og ABG Sundal Collier går sammen om private banking",
+        "kilde": "E24",
+        "tid": "06:02",
+        "lenke": "https://e24.no/boers-og-finans/i/Rj0Bx8/nordnet-og-abg-sundal-collier-gaar-sammen-om-private-banking?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Rike kinesiske, teknologiske talenter konfronterer strammere grenser etter hvert som Beijing utvider utgangskontrollene",
+        "kilde": "CNBC Top News",
+        "tid": "05:45",
+        "lenke": "https://www.cnbc.com/2026/09/15/china-rich-talent-immigration-capital-outflows-border-control-.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "USA bekrefter: Har våpen i verdensrommet",
+        "kilde": "NRK Nyheter",
+        "tid": "05:37",
+        "lenke": "https://www.nrk.no/nyheter/usa-bekrefter_-har-vapen-i-verdensrommet-1.18025031",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Puber, hoteller og treningssentre i Wales for å få 30% rabatt på forretningsprisene",
+        "kilde": "BBC Business",
+        "tid": "05:13",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ny runde om Melkøya: – Den største inngrepssaken i samisk historie",
+        "kilde": "NRK Nyheter",
+        "tid": "05:10",
+        "lenke": "https://www.nrk.no/sapmi/elektrifisering-av-melkoya_-sametinget-moter-staten-i-borgarting-lagmannsrett-1.18021961",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Støre om skole: Vil ha sterkere statlig styring",
+        "kilde": "NRK Nyheter",
+        "tid": "05:05",
+        "lenke": "https://www.nrk.no/norge/store-om-skole_-vil-ha-sterkere-statlig-styring-1.18024678",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Linux fra grunnen av",
+        "kilde": "Hacker News",
+        "tid": "04:15",
+        "lenke": "https://www.linuxfromscratch.org/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Næringslivet trenger sikkerhetsavklaringer",
+        "kilde": "E24",
+        "tid": "04:15",
+        "lenke": "https://e24.no/naeringsliv/i/wr2kGo/naeringslivet-trenger-sikkerhetsavklaringer?utm_medium=rss",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Børsekspert: Dette betyr rentehopp for dine aksjefond",
         "kilde": "E24",
@@ -216,10 +314,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "«The Pitt»-skodespelar vann Emmy",
+        "tittel": "Eks-politimann skal ha presset sexkunder for penger",
         "kilde": "NRK Nyheter",
-        "tid": "03:05",
-        "lenke": "https://www.nrk.no/kultur/emmy-prisane-vert-delte-ut-1.18024019",
+        "tid": "03:09",
+        "lenke": "https://www.nrk.no/sorlandet/eks-politimann-skal-ha-presset-sexkunder-for-penger-1.18020820",
         "engelsk_kilde": false
       },
       {
@@ -227,13 +325,6 @@
         "kilde": "E24",
         "tid": "03:00",
         "lenke": "https://e24.no/boers-og-finans/i/vrXwbB/den-kongelige-arven-har-private-eiendeler-til-flere-hundre-millioner?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Høyesterett sier nei til poststemme-begrensning",
-        "kilde": "NRK Nyheter",
-        "tid": "00:48",
-        "lenke": "https://www.nrk.no/nyheter/hoyesterett-sier-nei-til-poststemme-begrensning--1.18024915",
         "engelsk_kilde": false
       },
       {
@@ -248,6 +339,20 @@
         "kilde": "BBC Business",
         "tid": "00:32",
         "lenke": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Han har ikke ektefelle eller barn’: Sønnen min har en alvorlig genetisk sykdom. Hva skal jeg gjøre med min $ 1,3 millioner eiendom?",
+        "kilde": "MarketWatch",
+        "tid": "00:15",
+        "lenke": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Min totale saldo bør være $ 20 millioner’: Jeg investerte $ 1,1 millioner i en kryptoplattform. Har jeg mistet alt?",
+        "kilde": "MarketWatch",
+        "tid": "00:01",
+        "lenke": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -272,10 +377,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Puber, hoteller og treningssentre i Wales for å få 30% rabatt på forretningsprisene",
-        "kilde": "BBC Business",
-        "tid": "22:01",
-        "lenke": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
+        "tittel": "Den mørke AI-milepælen som har noen av bransjens ledende stemmer i økende grad på kanten",
+        "kilde": "MarketWatch",
+        "tid": "21:57",
+        "lenke": "https://www.marketwatch.com/story/the-murky-ai-milestone-that-has-some-of-the-industrys-leading-voices-increasingly-on-edge-6ffeacc7?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -293,27 +398,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Fikk avslag på 200 jobber – måtte ta saken i egne hender",
-        "kilde": "NRK Nyheter",
-        "tid": "20:14",
-        "lenke": "https://www.nrk.no/buskerud/sabine-har-nedsatt-horsel-_-brukte-to-ar-og-skrev-200-soknader-for-hun-fikk-jobb-1.17990090",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "GPT-5.6 Luna vs. GPT-6 Astra: Er en $ 1,20-modell god nok for kodegjennomgang?",
-        "kilde": "Hacker News",
-        "tid": "19:56",
-        "lenke": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "For lite konkurranse mellom bankane, viser ny undersøking: – Dei mest lojale kundane taper mest",
-        "kilde": "NRK Nyheter",
-        "tid": "19:19",
-        "lenke": "https://www.nrk.no/mr/huseierne_-banknaeringa-blir-dominert-av-nokre-fa_-store-aktorar-1.18024562",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Regjeringen innstilt på å nasjonalisere urolig stålfirma",
         "kilde": "BBC Business",
         "tid": "19:06",
@@ -321,38 +405,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Petter Stordalen fornærmet i underslagssak",
-        "kilde": "E24",
-        "tid": "17:43",
-        "lenke": "https://e24.no/naeringsliv/i/6qyV5O/petter-stordalen-fornaermet-i-underslagssak?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Arbeidsgivere vil videre, men ikke på gale premisser",
-        "kilde": "E24",
-        "tid": "16:35",
-        "lenke": "https://e24.no/naeringsliv/i/oE2yQ7/arbeidsgivere-vil-videre-men-ikke-paa-gale-premisser?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kutter hjemmekontor før omorganisering",
-        "kilde": "E24",
-        "tid": "16:31",
-        "lenke": "https://e24.no/naeringsliv/i/M7k9Vm/kutter-hjemmekontor-foer-omorganisering?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Nasjonal spesialitetskjede for klær som stenger alle sine butikker",
         "kilde": "Yahoo Finance",
         "tid": "14:07",
         "lenke": "https://finance.yahoo.com/small-business/articles/national-specialty-clothing-chain-closing-140700669.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Bensin- og dieselprisene nådde det høyeste nivået siden 2022",
-        "kilde": "BBC Business",
-        "tid": "11:42",
-        "lenke": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ]
