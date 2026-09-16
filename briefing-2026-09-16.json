@@ -1,56 +1,89 @@
 {
   "dato": "2026-09-16",
   "dato_norsk": "Onsdag 16. september 2026",
-  "generert_kl": "16:04",
+  "generert_kl": "20:11",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Hvorfor en renteøkning fra Federal Reserve kan være en \"sjelden gevinst\" for pensjonspengene dine",
-      "kilde": "MarketWatch",
-      "tid": "14:01",
-      "lenke": "https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Bensin- og dieselprisstigninger øker inflasjonen i Storbritannia",
-      "kilde": "BBC Business",
-      "tid": "14:30",
-      "lenke": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Canada invitert til å bli EUs første «assosierte medlem» etter hvert som Trumps handelskrig intensiveres",
+      "tittel": "Jeff Gundlach sier at Fed burde ha økt rentene med mer for å bekjempe stigende inflasjon",
       "kilde": "CNBC Top News",
-      "tid": "14:43",
-      "lenke": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html",
+      "tid": "19:38",
+      "lenke": "https://www.cnbc.com/2026/09/16/gundlach-bonds-fed-rate-hike.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Avkastning på 10-årige statsobligasjoner under 5% mens investorer venter på Fed-beslutning",
+      "tittel": "10-års Treasury yield klatrer tilbake til 5% etter Fed-økninger, Warsh fremhever inflasjonsrisiko",
       "kilde": "CNBC Top News",
-      "tid": "13:50",
+      "tid": "20:10",
       "lenke": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Henry Zeffman: Andy Burnham og hans kansler har en kamp på hendene når budsjettet nærmer seg",
-      "kilde": "BBC Business",
-      "tid": "14:52",
-      "lenke": "https://www.bbc.co.uk/news/articles/cwp93jp4p7xpo?at_medium=RSS&at_campaign=rss",
+      "tittel": "Federal Reserve utsteder FOMC-erklæring",
+      "kilde": "Federal Reserve",
+      "tid": "18:00",
+      "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Federal Reserve Board og Federal Open Market Committee offentliggjør økonomiske prognoser fra FOMC-møtet 15.-16. september",
+      "kilde": "Federal Reserve",
+      "tid": "18:00",
+      "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Fed øker renten når inflasjonen bekymrer seg for å øke obligasjonsavkastningen",
+      "kilde": "Hacker News",
+      "tid": "18:55",
+      "lenke": "https://www.reuters.com/live/live-fed-rate-hike-expected-inflation-worries-push-up-bond-yields-2026-09-16/",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
-    "NORGE": [
-      {
-        "tittel": "Equinor-sjefen: – Et krevende prisbilde",
-        "kilde": "E24",
-        "tid": "11:02",
-        "lenke": "https://e24.no/energi-og-klima/i/L477wp/equinor-sjefen-et-krevende-prisbilde?utm_medium=rss",
-        "engelsk_kilde": false
-      }
-    ],
     "MAKRO": [
+      {
+        "tittel": "10-års Treasury yield klatrer tilbake til 5% etter Fed-økninger, Warsh fremhever inflasjonsrisiko",
+        "kilde": "CNBC Top News",
+        "tid": "20:10",
+        "lenke": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeff Gundlach sier at Fed burde ha økt rentene med mer for å bekjempe stigende inflasjon",
+        "kilde": "CNBC Top News",
+        "tid": "19:38",
+        "lenke": "https://www.cnbc.com/2026/09/16/gundlach-bonds-fed-rate-hike.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fed øker renten når inflasjonen bekymrer seg for å øke obligasjonsavkastningen",
+        "kilde": "Hacker News",
+        "tid": "18:55",
+        "lenke": "https://www.reuters.com/live/live-fed-rate-hike-expected-inflation-worries-push-up-bond-yields-2026-09-16/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "USAs sentralbank hever renten for første gang siden 2023",
+        "kilde": "E24",
+        "tid": "18:00",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/QJzv4J/usas-sentralbank-hever-renten-for-foerste-gang-siden-2023?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Federal Reserve utsteder FOMC-erklæring",
+        "kilde": "Federal Reserve",
+        "tid": "18:00",
+        "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Federal Reserve Board og Federal Open Market Committee offentliggjør økonomiske prognoser fra FOMC-møtet 15.-16. september",
+        "kilde": "Federal Reserve",
+        "tid": "18:00",
+        "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Henry Zeffman: Andy Burnham og hans kansler har en kamp på hendene når budsjettet nærmer seg",
         "kilde": "BBC Business",
@@ -64,130 +97,23 @@
         "tid": "14:30",
         "lenke": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvorfor en renteøkning fra Federal Reserve kan være en \"sjelden gevinst\" for pensjonspengene dine",
-        "kilde": "MarketWatch",
-        "tid": "14:01",
-        "lenke": "https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Avkastning på 10-årige statsobligasjoner under 5% mens investorer venter på Fed-beslutning",
-        "kilde": "CNBC Top News",
-        "tid": "13:50",
-        "lenke": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
-        "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "15 aksjer som har økt utbyttet mest — og nesten alle har slått S&P 500",
-        "kilde": "MarketWatch",
-        "tid": "16:00",
-        "lenke": "https://www.marketwatch.com/story/15-stocks-that-have-grown-dividends-the-most-and-nearly-all-have-beaten-the-s-p-500-6d8923fc?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Westlakes (WLK) andre kvartal forvandlet to strake tap til fortjeneste",
-        "kilde": "Yahoo Finance",
-        "tid": "15:38",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/westlake-wlk-second-quarter-turned-153826527.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Arista lager holder seg godt midt i svakhet. Her er hvordan du kan kapitalisere.",
-        "kilde": "Yahoo Finance",
-        "tid": "15:26",
-        "lenke": "https://www.investors.com/research/options/arista-anet-stock-covered-call-options/?src=A00220&yptr=yahoo",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "S&P 500 Trucking lagerkratere på CFO's advarsel",
-        "kilde": "Yahoo Finance",
-        "tid": "15:16",
-        "lenke": "https://www.investors.com/news/sp-500-stocks-jb-hunt-cfo-earnings-oil-diesel-prices-iran-war/?src=A00220&yptr=yahoo",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Aksjemarkedet i dag: Nasdaq, S&P 500 Up With Fed Decision Looming; Intel, Micron, Sandisk Rise (Live Dekning)",
-        "kilde": "Yahoo Finance",
-        "tid": "15:10",
-        "lenke": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Verdens fremste statlige formuesfond advarer om truende tilbaketrekking i det amerikanske aksjemarkedet",
-        "kilde": "CNBC Top News",
-        "tid": "14:31",
-        "lenke": "https://www.cnbc.com/2026/09/16/new-zealand-sovereign-wealth-fund-stock-market.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "\"CIA\" -strategien slår markedet: Hvordan en topppresterende pengeforvalter oppdager feilprisede aksjer",
-        "kilde": "MarketWatch",
-        "tid": "13:33",
-        "lenke": "https://www.marketwatch.com/story/the-cia-strategy-beating-the-market-how-one-top-performing-money-manager-spots-mispriced-stocks-535c638d?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Blandet på Wall Street før rentebeskjed",
+        "tittel": "Wall Street falt etter renteheving",
         "kilde": "E24",
         "tid": "13:32",
         "lenke": "https://e24.no/boers-og-finans/i/43waGg/wall-street-aapner-opp-foer-rentebeskjed?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "J.B. Hunt-aksjen stuper 10% etter at selskapet advarer om at resultatet for tredje kvartal vil falle",
-        "kilde": "CNBC Top News",
-        "tid": "13:17",
-        "lenke": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Bisarr volatilitetsinnsats i opsjonsgropene er en skrapelodd foran Fed-rentebeslutningen",
-        "kilde": "CNBC Top News",
-        "tid": "12:14",
-        "lenke": "https://www.cnbc.com/2026/09/16/bizarre-volatility-bet-in-the-options-pits-is-a-head-scratcher-ahead-of-fed-rate-decision.html",
-        "engelsk_kilde": true
-      }
-    ],
-    "ENERGI_RAAVARER": [
-      {
-        "tittel": "‘Det kan være en sølvfôr’: Min venns kone døde på 60 etter en høy inntjening karriere. Kan han kreve trygden hennes?",
-        "kilde": "MarketWatch",
-        "tid": "14:00",
-        "lenke": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Jeg har hatt Microsoft i 10 år. Her er grunnen til at jeg ikke selger en enkelt aksje.",
-        "kilde": "Yahoo Finance",
-        "tid": "15:50",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/ive-held-microsoft-10-years-155000097.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "OpenAI-investorer har henvendt seg til selskapet om en ny finansieringsrunde",
-        "kilde": "CNBC Top News",
-        "tid": "15:18",
-        "lenke": "https://www.cnbc.com/2026/09/16/open-ai-investors-new-funding-round.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Cathie Wood prosjekterer $ 10 billioner i SpaceX Starship-inntekter innen 2030",
-        "kilde": "Yahoo Finance",
-        "tid": "15:10",
-        "lenke": "https://www.investors.com/news/cathie-wood-ark-spacex-starship-revenue-estimate-elon-msuk/?src=A00220&yptr=yahoo",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Microsoft sier at AI-rivalen Anthropic kan få «katastrofale konsekvenser» for menneskeheten",
+        "tittel": "Nøyaktige modeller av AMD-matrisekjerner",
         "kilde": "Hacker News",
-        "tid": "14:32",
-        "lenke": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
+        "tid": "18:56",
+        "lenke": "https://arxiv.org/abs/2609.14845",
         "engelsk_kilde": true
       },
       {
@@ -196,13 +122,6 @@
         "tid": "14:19",
         "lenke": "https://e24.no/boers-og-finans/i/8pMMB2/nettjenesten-prisjakt-vil-saksoeke-google-for-over-20-milliarder-kroner?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "OpenAI utvider ChatGPT-annonser med sponsede agenter",
-        "kilde": "Hacker News",
-        "tid": "13:51",
-        "lenke": "https://openai.com/index/reimagining-advertising-with-ai/",
-        "engelsk_kilde": true
       },
       {
         "tittel": "OpenAI-sjefen sier at verden \"har rett til å være redd\", men bør stole på AI-firmaer",
@@ -214,34 +133,167 @@
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Huset klar til å vedta en omfattende russisk sanksjonslov til ære for Lindsey Graham",
+        "tittel": "Representantenes hus stemmer for å holde Leon Black i forakt for Kongressen over Epsteins stevninger tross",
         "kilde": "CNBC Top News",
-        "tid": "15:38",
-        "lenke": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
+        "tid": "20:09",
+        "lenke": "https://www.cnbc.com/2026/09/16/leon-black-contempt-house-epstein-subpoenas-refusal.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Canada invitert til å bli EUs første «assosierte medlem» etter hvert som Trumps handelskrig intensiveres",
+        "tittel": "Det hvite hus 'stabssjef Susie Wiles sier hun er kreftfri",
         "kilde": "CNBC Top News",
-        "tid": "14:43",
-        "lenke": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html",
+        "tid": "19:31",
+        "lenke": "https://www.cnbc.com/2026/09/16/susie-wiles-trump-cancer.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Forbrukere rammet av en-to slag olje og priser fra Iran-krigen. Den estimerte regningen er $ 1700 per husstand",
+        "tittel": "Hegseth unngår impeachment stemme med tidlig House valg pause",
         "kilde": "CNBC Top News",
-        "tid": "12:02",
-        "lenke": "https://www.cnbc.com/2026/09/16/oil-prices-treasury-yields-consumers-iran.html",
+        "tid": "19:12",
+        "lenke": "https://www.cnbc.com/2026/09/16/hegseth-impeachment-house-election-recess.html",
         "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
       {
-        "tittel": "Jeg har 125 000 $ i kredittkortgjeld. Vil $ 17 000 i måneden i inntekt, inkludert funksjonshemming, påvirke konkursen min?",
-        "kilde": "MarketWatch",
-        "tid": "16:00",
-        "lenke": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+        "tittel": "Antropisk policy-sjef sier at AI-selskaper ikke kan forventes å operere på 'æreskode'",
+        "kilde": "CNBC Top News",
+        "tid": "19:56",
+        "lenke": "https://www.cnbc.com/2026/09/16/anthropic-policy-chief-says-ai-companies-cant-operate-on-honor-code.html",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Diesel-krav fra Høyre-grasrota: Ber Svenneby snu",
+        "kilde": "NRK Nyheter",
+        "tid": "19:43",
+        "lenke": "https://www.nrk.no/norge/diesel-krav-fra-hoyre-grasrota_-ber-svenneby-snu-1.18027018",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Boeing CEO: 737 Max produksjon tar \"litt lenger\" å stabilisere enn forventet",
+        "kilde": "CNBC Top News",
+        "tid": "19:36",
+        "lenke": "https://www.cnbc.com/2026/09/16/boeing-ceo-737-max-production.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tenåringsjente døydde under barnevernets omsorg medan foreldra sat fengsla",
+        "kilde": "NRK Nyheter",
+        "tid": "19:31",
+        "lenke": "https://www.nrk.no/vestland/tenaringsjente-i-bergen-doydde-under-barnevernets-omsorg-medan-foreldra-sat-varetektsfengsla-1.18026533",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Hyperscaler gjeldssignaler varselskilt, Apollo forsiktighetsregler",
+        "kilde": "CNBC Top News",
+        "tid": "19:29",
+        "lenke": "https://www.cnbc.com/2026/09/16/hyperscaler-debt-signals-warning-sign-apollo-cautions.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvor gode er grensemodeller i fysikk?",
+        "kilde": "Hacker News",
+        "tid": "19:19",
+        "lenke": "https://arxiv.org/abs/2609.13009",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fed øker prisene: Hva det betyr for kredittkort, boliglån, sparekontoer og billån",
+        "kilde": "CNBC Top News",
+        "tid": "19:17",
+        "lenke": "https://www.cnbc.com/2026/09/16/fed-rate-hike-consumer-borrowing-and-savings-rates.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "En kaféeier brukte kunstig intelligens til å lage en menyplakat. Så kom de sinte DM-ene",
+        "kilde": "Hacker News",
+        "tid": "18:59",
+        "lenke": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Opplæring i en 4B-modell for å produsere 81% raskere søkeplaner enn Postgres",
+        "kilde": "Hacker News",
+        "tid": "18:50",
+        "lenke": "https://rohanbansal.com/qorl",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "'Science fiction': Transportselskaper — ryggraden i økonomien — slår alarm om drivstoffprisene",
+        "kilde": "CNBC Top News",
+        "tid": "17:50",
+        "lenke": "https://www.cnbc.com/2026/09/16/transport-economy-diesel-prices-iran.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Samferdselsminister om sjokkrapport: – Dette er ikke mitt forslag",
+        "kilde": "NRK Nyheter",
+        "tid": "17:05",
+        "lenke": "https://www.nrk.no/nordland/disse-4-flyplassene-kan-miste-rutene-sine-_-foreslar-kutt-i-fot-rutene-1.18026675",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Cupdrama: Brann-spiller innrømmer dommerfeil: – Jeg takler meg selv",
+        "kilde": "NRK Nyheter",
+        "tid": "16:57",
+        "lenke": "https://www.nrk.no/sport/fotball-nm_-kjetil-rekdal-og-aalesund-rystet-av-3.-divisjonslag-i-cupens-andre-runde-1.18027180",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Stansa bussar etter prosjektil-treff",
+        "kilde": "NRK Nyheter",
+        "tid": "16:54",
+        "lenke": "https://www.nrk.no/vestland/vy-stansa-bussrute-etter-at-prosjektil-knuste-bussvindauge-pa-holsnoy-1.18027114",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Mystisk trader flytter $ 122 millioner foran Feds 14.00 -beslutning",
+        "kilde": "Yahoo Finance",
+        "tid": "16:47",
+        "lenke": "https://finance.yahoo.com/markets/crypto/articles/mysterious-trader-moves-122-million-164740089.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "SVT: Håpet ute for borgerlig flertall",
+        "kilde": "E24",
+        "tid": "16:44",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/XM1Xwg/svt-haapet-ute-for-borgerlig-flertall?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "SVT: Håpet ute for de borgerlige",
+        "kilde": "NRK Nyheter",
+        "tid": "16:31",
+        "lenke": "https://www.nrk.no/nyheter/svt_-hapet-ute-for-de-borgerlige-1.18027187",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Analysesjef øyner trussel mot shippingaksjer",
+        "kilde": "E24",
+        "tid": "16:04",
+        "lenke": "https://e24.no/boers-og-finans/i/16JAnq/analysesjef-oeyner-trussel-mot-shippingaksjer?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Jakten på flaskehalsene",
+        "kilde": "E24",
+        "tid": "16:04",
+        "lenke": "https://e24.no/boers-og-finans/i/7pva54/jakten-paa-de-loennsomme-flaskehalsene?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Gikk på knusende tap mot staten: Nå vil miljøvernerne rive vei til 40 millioner",
+        "kilde": "NRK Nyheter",
+        "tid": "16:03",
+        "lenke": "https://www.nrk.no/vestfoldogtelemark/bamble-tapte-sak-om-kontroversielle-bunestoppen-1.18027136",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Bak Norges største politioperasjon",
+        "kilde": "NRK Nyheter",
+        "tid": "15:53",
+        "lenke": "https://www.nrk.no/stor-oslo/xl/bak-norges-storste-politioperasjon_-mange-jobbet-i-det-skjulte-under-kong-haralds-gravferd-1.18022782",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Kapital: 4,3 milliarder i formue",
@@ -251,73 +303,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Kinetiks (KNTK) rekordkvartal setter opp en større innsats i 2027",
-        "kilde": "Yahoo Finance",
-        "tid": "15:29",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/kinetik-kntk-record-quarter-sets-152943083.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Radiant Logistics (RLGT) satser $ 100 MILLIONER på en returfrakt",
-        "kilde": "Yahoo Finance",
-        "tid": "15:24",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/radiant-logistics-rlgt-bets-100m-152433522.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Sverige: Svært tett mellom blokkene",
-        "kilde": "NRK Nyheter",
-        "tid": "15:16",
-        "lenke": "https://www.nrk.no/nyheter/sverige_-svaert-tett-mellom-blokkene-1.18027186",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Impulse Spaces serie D-runde vokser til $ 808 millioner etter hvert som etterslepet utvides",
-        "kilde": "Yahoo Finance",
-        "tid": "15:07",
-        "lenke": "https://finance.yahoo.com/news/impulse-spaces-series-d-round-150705626.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vis HN: Gi dine AI-agenter tilgang til WhatsApp",
-        "kilde": "Hacker News",
-        "tid": "15:04",
-        "lenke": "https://news.ycombinator.com/item?id=49728159",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Costco utvider Uber Eats-leveringspartnerskapet til 47 delstater",
-        "kilde": "CNBC Top News",
-        "tid": "14:31",
-        "lenke": "https://www.cnbc.com/2026/09/16/costco-and-uber-partnership.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "PS5 Linux-lead avsluttes: «en haug med noobs som bruker LLM-er» som «de ikke forstår»",
-        "kilde": "Hacker News",
-        "tid": "14:30",
-        "lenke": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Anatomi av en tekstur",
-        "kilde": "Hacker News",
-        "tid": "14:28",
-        "lenke": "https://agentlien.github.io/texture/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Burnham avviser \"skatt og bruk sosialistiske\" kommentarer",
         "kilde": "BBC Business",
         "tid": "14:21",
         "lenke": "https://www.bbc.co.uk/news/articles/cqr7dj1e34z9o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hva skjer hvis du aldri kjøper et hus? Hva leietakere får — og gir opp",
-        "kilde": "MarketWatch",
-        "tid": "14:18",
-        "lenke": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -328,55 +317,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Gjennomførte ny aksjon kort tid før rettssaka: – Fant det nødvendig",
-        "kilde": "NRK Nyheter",
-        "tid": "14:13",
-        "lenke": "https://www.nrk.no/tromsogfinnmark/ny-aksjon-pa-karlsoybruket-manadar-for-rettssaka-1.18026631",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Bestill din Thanksgiving- og julereise nå — eller risikere å bli priset ut av å fly hjem for ferien",
-        "kilde": "MarketWatch",
-        "tid": "14:12",
-        "lenke": "https://www.marketwatch.com/story/the-best-time-to-book-your-flight-home-for-the-holidays-yesterday-6f5928f2?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Flere boligbyggere kutter prisene etter hvert som kjøpere blir skremt",
-        "kilde": "MarketWatch",
-        "tid": "14:10",
-        "lenke": "https://www.marketwatch.com/story/more-home-builders-cut-prices-as-buyers-get-spooked-4cd4b4ec?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Fyrverkeri kan bli forbudt – også på nyttårsaften",
-        "kilde": "NRK Nyheter",
-        "tid": "13:52",
-        "lenke": "https://www.nrk.no/stor-oslo/sv-og-mdg-foreslar-totalforbud-mot-fyrverkeri-i-oslo-1.18026510",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Siktet for drapsforsøk på spedbarn",
-        "kilde": "NRK Nyheter",
-        "tid": "13:46",
-        "lenke": "https://www.nrk.no/ostfold/siktet-for-drapsforsok-pa-spedbarn-1.18026976",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kokk siktet for å ha servert utgått kylling",
-        "kilde": "NRK Nyheter",
-        "tid": "13:43",
-        "lenke": "https://www.nrk.no/nyheter/kokk-siktet-for-a-ha-servert-utgatt-kylling-1.18027042",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Dagbladet: Nordmann funnet død i Riga",
-        "kilde": "NRK Nyheter",
-        "tid": "13:25",
-        "lenke": "https://www.nrk.no/nyheter/dagbladet_-nordmann-funnet-dod-i-riga-1.18027005",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Fondspanikk i Tyrkia – Istanbul-børsen raser",
         "kilde": "E24",
         "tid": "13:21",
@@ -384,52 +324,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Haaland til NRK: – Heia biblioteka",
-        "kilde": "NRK Nyheter",
-        "tid": "13:05",
-        "lenke": "https://www.nrk.no/rogaland/erling-braut-haaland-er-arets-bibliotekvenn-i-rogaland_-_-heia-bibliotekene-1.18026669",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Knivstikking på Kuben: Sikta 17-åring er tidlegare dømd",
-        "kilde": "NRK Nyheter",
-        "tid": "12:03",
-        "lenke": "https://www.nrk.no/stor-oslo/knivstikking-pa-kuben_-siktet-17-aring-er-tidlegare-domt-1.18026801",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Investorer varsler storsatsing på offshoreskip",
         "kilde": "E24",
         "tid": "11:22",
         "lenke": "https://e24.no/boers-og-finans/i/k0Vo39/2020-bulkers-varsler-storsatsing-vil-kjoepe-15-offshoreskip?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Å bo i utlandet gjør ikke slutt på dine amerikanske skatteforpliktelser. Hva unge expats trenger å vite",
-        "kilde": "CNBC Top News",
-        "tid": "11:00",
-        "lenke": "https://www.cnbc.com/2026/09/16/americans-living-abroad-us-tax-rules-fbar-filing.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kommune kan få en halv milliard for datasentertomt",
-        "kilde": "E24",
-        "tid": "10:46",
-        "lenke": "https://e24.no/naeringsliv/i/Ex5LnK/kommune-kan-faa-en-halv-milliard-for-datasentertomt?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Telenors mareritt i Myanmar",
-        "kilde": "E24",
-        "tid": "10:09",
-        "lenke": "https://e24.no/naeringsliv/i/Okddak/telenors-mareritt-i-myanmar?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Investtech-analyse: Derfor må du selge panteaksjene",
-        "kilde": "E24",
-        "tid": "08:59",
-        "lenke": "https://e24.no/boers-og-finans/i/43w4zE/investtech-analyse-derfor-maa-du-selge-panteaksjene?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
@@ -458,13 +356,6 @@
         "kilde": "BBC Business",
         "tid": "23:19",
         "lenke": "https://www.bbc.co.uk/news/articles/c0lr69zeyrwo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Rik pappa Stakkars pappa-forfatter advarer om at historiens største krasj har startet",
-        "kilde": "Yahoo Finance",
-        "tid": "17:26",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/rich-dad-poor-dad-author-172603940.html",
         "engelsk_kilde": true
       }
     ]
