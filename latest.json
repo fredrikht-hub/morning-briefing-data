@@ -1,47 +1,68 @@
 {
   "dato": "2026-09-17",
   "dato_norsk": "Torsdag 17. september 2026",
-  "generert_kl": "08:05",
+  "generert_kl": "12:17",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Bank of England satt til å trosse Feds renteøkende ledelse, til tross for økende inflasjon",
+      "tittel": "Analyse: Hvordan Trump kunne gjenopplive Fed uavhengighetskampen etter Warshs renteøkning",
       "kilde": "CNBC Top News",
-      "tid": "05:20",
-      "lenke": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
+      "tid": "11:42",
+      "lenke": "https://www.cnbc.com/2026/09/16/fed-interest-rates-kevin-warsh-trump.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Trump sier at USA «forhåpentligvis» nærmer seg slutten på Iran-krigen mens Saudi-Arabia - Houthis handelsangrep",
+      "tittel": "Trump sier at USA «forhåpentligvis» nærmer seg slutten på Iran-krigen mens Saudi-Arabia, Houthis handelsangrep",
       "kilde": "CNBC Top News",
-      "tid": "07:56",
+      "tid": "11:17",
       "lenke": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Oljefall på Oslo Børs",
-      "kilde": "E24",
-      "tid": "07:02",
-      "lenke": "https://e24.no/boers-og-finans/i/WvMVek/oslo-boers-faller-fra-start?utm_medium=rss",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Rentenivået er forventet, men Bank of England står overfor vanskelige valg",
-      "kilde": "BBC Business",
-      "tid": "06:06",
-      "lenke": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+      "tittel": "Dow Jones Futures Rise After Hawkish Fed, Warsh Hit Stocks, Trump Fumes; AMD, Bloom Energy Eye Kjøpspoeng",
+      "kilde": "Yahoo Finance",
+      "tid": "11:58",
+      "lenke": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-fed-rate-hike-warsh-amd-bloom-energy-stocks-to-watch/?src=A00220&yptr=yahoo",
       "engelsk_kilde": true
     },
     {
-      "tittel": "'Fiendtlig handling': Trump truer EU med tariffer over Canadas forslag om assosiert medlemskap",
+      "tittel": "Bank of England trosser Feds føring for renteøkning, og etterlater rentene uendret",
       "kilde": "CNBC Top News",
-      "tid": "05:42",
-      "lenke": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
+      "tid": "11:35",
+      "lenke": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Carney sier Canada vil bestemme sine egne partnerskap etter at Trump kaller EU-forslaget \"latterlig\"",
+      "kilde": "CNBC Top News",
+      "tid": "11:59",
+      "lenke": "https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
+      {
+        "tittel": "Slår alarm om norske fengsler: Svarer «kritisk» tre ganger",
+        "kilde": "NRK Nyheter",
+        "tid": "11:26",
+        "lenke": "https://www.nrk.no/buskerud/pengekrisen-i-fengslene_-ansatte-frykter-alvorlige-hendelser-1.18017921",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Mener Aker-topp bommer om norsk arbeidsliv: – Her har man tatt for hardt i",
+        "kilde": "E24",
+        "tid": "09:53",
+        "lenke": "https://e24.no/naeringsliv/i/3p02m9/styrke-lederen-refser-aker-topp-her-har-man-tatt-for-hardt-i?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Sjeføkonom etter undersøkelse: – Norges Bank kan heve renten",
+        "kilde": "E24",
+        "tid": "08:02",
+        "lenke": "https://e24.no/norsk-oekonomi/i/xr2qbX/bedriftene-venter-0-3-prosent-vekst-i-tredje-kvartal-ifoelge-norges-bank-undersoekelse?utm_medium=rss",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Kaller Norge proteksjonistisk: - Jeg skjønner det ikke",
         "kilde": "E24",
@@ -69,49 +90,28 @@
         "tid": "04:09",
         "lenke": "https://e24.no/energi-og-klima/i/6qQQpL/norsk-kraft-subsidierer-irsk-fortjeneste?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "– Norsk arbeidsliv er for «soft»",
-        "kilde": "E24",
-        "tid": "04:08",
-        "lenke": "https://e24.no/naeringsliv/i/Okd5XA/norsk-arbeidsliv-er-for-soft?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ],
     "MAKRO": [
       {
-        "tittel": "Rentenivået er forventet, men Bank of England står overfor vanskelige valg",
-        "kilde": "BBC Business",
-        "tid": "06:06",
-        "lenke": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+        "tittel": "Analyse: Hvordan Trump kunne gjenopplive Fed uavhengighetskampen etter Warshs renteøkning",
+        "kilde": "CNBC Top News",
+        "tid": "11:42",
+        "lenke": "https://www.cnbc.com/2026/09/16/fed-interest-rates-kevin-warsh-trump.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Bank of England satt til å trosse Feds renteøkende ledelse, til tross for økende inflasjon",
+        "tittel": "Bank of England trosser Feds føring for renteøkning, og etterlater rentene uendret",
         "kilde": "CNBC Top News",
-        "tid": "05:20",
+        "tid": "11:35",
         "lenke": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "En sterkere dollar og økende avkastning: Hvordan Feds renteøkning kan ramme globale markeder",
+        "tittel": "Her er fem viktige takeaways fra onsdagens Fed-renteøkning",
         "kilde": "CNBC Top News",
-        "tid": "05:03",
-        "lenke": "https://www.cnbc.com/2026/09/17/fed-rate-hike-impact-globally-currency-yields.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Etter hvert som Fed ruller ut sin første renteøkning på 3 år, selger markedet for flere økninger",
-        "kilde": "MarketWatch",
-        "tid": "22:25",
-        "lenke": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "FED-renteøkning klarer ikke å roe ned urolige markeder ettersom Dow faller 600 poeng. Forvent mer skarpe svingninger i aksjer og obligasjoner.",
-        "kilde": "MarketWatch",
-        "tid": "21:40",
-        "lenke": "https://www.marketwatch.com/story/fed-rate-hike-fails-to-calm-troubled-markets-as-dow-falls-600-points-expect-more-sharp-swings-in-stocks-and-bonds-5ffb55fe?mod=mw_rss_topstories",
+        "tid": "21:23",
+        "lenke": "https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html",
         "engelsk_kilde": true
       },
       {
@@ -129,34 +129,92 @@
         "engelsk_kilde": true
       }
     ],
-    "ENERGI_RAAVARER": [
+    "MARKEDER": [
       {
-        "tittel": "Olje øker tapene ettersom Saudi-Arabia angivelig tilbyr overføringer av råolje fra skip til skip etter at rørledningen ble truffet",
-        "kilde": "CNBC Top News",
-        "tid": "02:08",
-        "lenke": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
+        "tittel": "Verizon-aksje: Koble investorer til verdi sammen med 5,6% avkastning",
+        "kilde": "Yahoo Finance",
+        "tid": "12:00",
+        "lenke": "https://www.investors.com/research/the-income-investor/verizon-vz-stock-income-investor-value-yield/?src=A00220&yptr=yahoo",
         "engelsk_kilde": true
       },
       {
-        "tittel": "‘Det kan være en sølvfôr’: Min venns kone døde på 60 etter en høy inntjening karriere. Kan han kreve trygden hennes?",
+        "tittel": "Dow Jones Futures Rise After Hawkish Fed, Warsh Hit Stocks, Trump Fumes; AMD, Bloom Energy Eye Kjøpspoeng",
+        "kilde": "Yahoo Finance",
+        "tid": "11:58",
+        "lenke": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-fed-rate-hike-warsh-amd-bloom-energy-stocks-to-watch/?src=A00220&yptr=yahoo",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Inntektstrekk og geopolitisk motvind veier på Lockheed Martins (LMT) ytelse",
+        "kilde": "Yahoo Finance",
+        "tid": "11:55",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/earnings-drag-geopolitical-headwinds-weigh-115555417.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Gruppe 1 Automotive (GPI): Kan høy gjeld og et urolig britisk oppkjøp avspore gjenopprettingen?",
+        "kilde": "Yahoo Finance",
+        "tid": "11:52",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/group-1-automotive-gpi-high-115244285.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fallende Bitcoin-priser trekker ned produkter og gruveinntekter for Canaan (CAN)",
+        "kilde": "Yahoo Finance",
+        "tid": "11:51",
+        "lenke": "https://finance.yahoo.com/markets/crypto/articles/falling-bitcoin-prices-drag-down-115121991.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Det er ikke et vinner-tar-alt aksjemarked. Denne hedgefondforvalteren favoriserer tre underdogs.",
         "kilde": "MarketWatch",
-        "tid": "22:15",
-        "lenke": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+        "tid": "10:52",
+        "lenke": "https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      }
+    ],
+    "ENERGI_RAAVARER": [
+      {
+        "tittel": "Milliardæren Kraft sier at Ed Sheeran søkte om $ 2 millioner i bistandsdonasjon fra ham på grunn av Macklemores Palestina-kommentarer",
+        "kilde": "CNBC Top News",
+        "tid": "11:54",
+        "lenke": "https://www.cnbc.com/2026/09/17/kraft-ed-sheeran-macklemore-palestine.html",
         "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "\"Du er løslatt.\" Hva skjedde da en OpenAI-modell i hemmelighet begynte å skrive notater til seg selv?",
-        "kilde": "MarketWatch",
-        "tid": "07:08",
-        "lenke": "https://www.marketwatch.com/story/you-are-freed-what-happened-when-an-openai-model-began-secretly-writing-notes-to-itself-25808ea8?mod=mw_rss_topstories",
+        "tittel": "Forutsigelse: Tesla-aksjer vil være verdt så mye i 2031",
+        "kilde": "Yahoo Finance",
+        "tid": "12:05",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/prediction-tesla-stock-worth-much-120501435.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Teknologi som behandler AI som mennesker er feil og misforstått, sier Microsoft-sjefen til BBC",
+        "tittel": "Arbeidskrise i amerikansk brikkeproduksjon gjør Samsung, TSMC, desperat etter talenter",
+        "kilde": "CNBC Top News",
+        "tid": "12:02",
+        "lenke": "https://www.cnbc.com/2026/09/17/us-chipmakers-face-deep-labor-shortage-samsung-micron-sound-alarm.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Amazon Deal sender Generac Stock Skyrocketing",
+        "kilde": "Yahoo Finance",
+        "tid": "11:58",
+        "lenke": "https://www.investors.com/market-trend/stock-market-today/amazon-deal-sends-generac-stock-skyrocketing/?src=A00220&yptr=yahoo",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Generacs aksjer stiger mer enn 30% etter at Amazon-avtalen sementerer selskapets status som en AI-maktspiller",
+        "kilde": "MarketWatch",
+        "tid": "10:55",
+        "lenke": "https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ukontrollert kunstig intelligens kan føre til «silisiumarter» som kan konkurrere med mennesker, advarer Microsoft",
         "kilde": "BBC Business",
-        "tid": "06:38",
+        "tid": "08:22",
         "lenke": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
@@ -168,91 +226,210 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Intels aksjer øker etter hvert som investorer håper minnebrikkene kan markere neste skritt i sin snuoperasjon",
-        "kilde": "MarketWatch",
-        "tid": "23:51",
-        "lenke": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
+        "tittel": "OpenAI rapporterer 6 nye forekomster av «vedrørende modellatferd» siden mars",
+        "kilde": "CNBC Top News",
+        "tid": "23:05",
+        "lenke": "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Generacs aksjer stiger mer enn 30% etter at Amazon-avtalen sementerer selskapets status som en AI-maktspiller",
-        "kilde": "MarketWatch",
-        "tid": "21:56",
-        "lenke": "https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?mod=mw_rss_topstories",
+        "tittel": "Amazon får rett til å kjøpe aksjer i Generac, noe som øker kraftselskapets aksjekurs med over 40%",
+        "kilde": "CNBC Top News",
+        "tid": "21:40",
+        "lenke": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html",
         "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Trump sier at USA «forhåpentligvis» nærmer seg slutten på Iran-krigen mens Saudi-Arabia - Houthis handelsangrep",
+        "tittel": "Carney sier Canada vil bestemme sine egne partnerskap etter at Trump kaller EU-forslaget \"latterlig\"",
         "kilde": "CNBC Top News",
-        "tid": "07:56",
+        "tid": "11:59",
+        "lenke": "https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump sier at USA «forhåpentligvis» nærmer seg slutten på Iran-krigen mens Saudi-Arabia, Houthis handelsangrep",
+        "kilde": "CNBC Top News",
+        "tid": "11:17",
         "lenke": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "'Fiendtlig handling': Trump truer EU med tariffer over Canadas forslag om assosiert medlemskap",
-        "kilde": "CNBC Top News",
-        "tid": "05:42",
-        "lenke": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
+        "tittel": "Iran skolebombing: grunn til å tro at USA sto bak grusomheter, finner FN",
+        "kilde": "Hacker News",
+        "tid": "11:00",
+        "lenke": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Putin bukseseler for valget stresstest som russerne \"føler smerten\" av sliter økonomi",
-        "kilde": "CNBC Top News",
-        "tid": "05:00",
-        "lenke": "https://www.cnbc.com/2026/09/17/russia-putin-state-duma-election-ukraine-war.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trump truer med handelskutt etter Canada-forslag",
-        "kilde": "NRK Nyheter",
-        "tid": "00:40",
-        "lenke": "https://www.nrk.no/nyheter/trump-truer-med-handelskutt-etter-canada-forslag-1.18027489",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Hus passerer feiende russisk sanksjonslov til ære for Lindsey Graham, sender til Trump",
-        "kilde": "CNBC Top News",
-        "tid": "22:32",
-        "lenke": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trump etter renteheving: – Senk renten",
-        "kilde": "E24",
-        "tid": "20:40",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/j025W9/trump-etter-renteheving-senk-renten-for-usa-og-det-fort?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ],
     "VILLKORT": [
       {
-        "tittel": "Bedriftene venter 0,3 prosent vekst i tredje kvartal",
-        "kilde": "E24",
-        "tid": "08:02",
-        "lenke": "https://e24.no/norsk-oekonomi/i/xr2qbX/bedriftene-venter-0-3-prosent-vekst-i-tredje-kvartal-ifoelge-norges-bank-undersoekelse?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Tom Lee sier at ‘face-ripping’ -stevnet han spådde bare er forsinket",
+        "tittel": "‘Min totale saldo bør være $ 20 millioner’: Jeg investerte $ 1,1 millioner i en kryptoplattform. Har jeg mistet alt?",
         "kilde": "MarketWatch",
-        "tid": "07:50",
-        "lenke": "https://www.marketwatch.com/story/tom-lee-says-the-face-ripping-rally-he-predicted-is-merely-delayed-16933e30?mod=mw_rss_topstories",
+        "tid": "12:15",
+        "lenke": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Rettssaken mot Høiby starter 9. februar 2027",
+        "tittel": "‘Jeg er utbrent’: Jeg hjelper hele tiden fetteren min som er i ferd med å gå tom for penger. Er det for mye å forvente at søsteren hans skal hjelpe?",
+        "kilde": "MarketWatch",
+        "tid": "12:15",
+        "lenke": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bitcoin kan være på vei mot $ 230 000 på mindre enn et tiår. Her er syv måter å verdsette kryptoen på.",
+        "kilde": "MarketWatch",
+        "tid": "12:10",
+        "lenke": "https://www.marketwatch.com/story/bitcoin-could-be-headed-for-230-000-in-less-than-a-decade-here-are-seven-ways-to-value-the-crypto-d1110aab?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Har du det som trengs for å bli med i USAs 1%? Slik bygger du en førsteklasses portefølje i dag",
+        "kilde": "Yahoo Finance",
+        "tid": "12:00",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/takes-join-americas-1-heres-120000963.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Merck & Co. (mrk) bygger en sterkere fremtid utover sin Keytruda-franchise",
+        "kilde": "Yahoo Finance",
+        "tid": "11:57",
+        "lenke": "https://finance.yahoo.com/healthcare/articles/merck-co-mrk-building-stronger-115738035.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Rentene holdes, men banksignalene stiger hvis energiprisene holder seg høye",
+        "kilde": "BBC Business",
+        "tid": "11:50",
+        "lenke": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Netflix innholdssjef Bela Bajaria definerer arrangementsstrategi som streamerøyne mer direktesendt sport",
+        "kilde": "CNBC Top News",
+        "tid": "11:48",
+        "lenke": "https://www.cnbc.com/2026/09/17/netflix-bela-bajaria-live-sports-event-strategy.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tre personar dømd for sølvmynttjuveri",
         "kilde": "NRK Nyheter",
-        "tid": "07:33",
-        "lenke": "https://www.nrk.no/nyheter/rettssaken-mot-hoiby-starter-9.-februar-2027-1.18027730",
+        "tid": "11:46",
+        "lenke": "https://www.nrk.no/stor-oslo/tre-personar-domd-for-solvmynttjuveri-1.18028048",
         "engelsk_kilde": false
       },
       {
-        "tittel": "Reddit-grunnlegger sier at teknologibransjen har vært \"tonedøv\" i å forklare AI: \"Feilinformasjon flyr rundt\"",
-        "kilde": "CNBC Top News",
-        "tid": "07:12",
-        "lenke": "https://www.cnbc.com/2026/09/16/reddit-ai-risk-humanity-warning-tech.html",
+        "tittel": "\"Jeg vil bare ut\": Hvorfor Jeffrey Gundlach flytter pengene sine så langt unna kunstig intelligens som mulig — og hva han gjør i stedet",
+        "kilde": "MarketWatch",
+        "tid": "11:41",
+        "lenke": "https://www.marketwatch.com/story/i-just-want-out-why-jeffrey-gundlach-is-moving-his-money-as-far-from-ai-as-possible-and-what-hes-doing-instead-54281010?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvordan kan jeg få de ansatte til å slutte å dele for mye på jobben?",
+        "kilde": "MarketWatch",
+        "tid": "11:30",
+        "lenke": "https://www.marketwatch.com/story/how-can-i-get-my-employees-to-stop-oversharing-at-work-540ba78c?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Valget i Sverige endelig avgjort",
+        "kilde": "NRK Nyheter",
+        "tid": "11:27",
+        "lenke": "https://www.nrk.no/nyheter/valget-i-sverige-endelig-avgjort-1.18028093",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Jeg har 125 000 $ i kredittkortgjeld. Vil $ 17 000 i måneden i inntekt, inkludert funksjonshemming, påvirke konkursen min?",
+        "kilde": "MarketWatch",
+        "tid": "11:15",
+        "lenke": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Slutt for Tøyen Mineralvann Fabrikk",
+        "kilde": "E24",
+        "tid": "10:52",
+        "lenke": "https://e24.no/naeringsliv/i/Bx9LeG/slutt-for-toeyen-mineralvann-fabrikk?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Neovim har en ~$ 800k Bitcoin-donasjon som har stått urørt siden 2023",
+        "kilde": "Hacker News",
+        "tid": "10:44",
+        "lenke": "https://news.ycombinator.com/item?id=49738879",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg sendte 200 LinkedIn-meldinger og fikk en jobb: How to nail networking",
+        "kilde": "BBC Business",
+        "tid": "10:37",
+        "lenke": "https://www.bbc.co.uk/news/articles/c9vgyd02mdvno?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bedre vektorsøk for lange dokumenter: Chunking Inside Manticore-søk",
+        "kilde": "Hacker News",
+        "tid": "10:30",
+        "lenke": "https://manticoresearch.com/blog/auto-chunking/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kritikken hagler etter disse bildene: Stilte opp i Putin-kampanje",
+        "kilde": "NRK Nyheter",
+        "tid": "10:10",
+        "lenke": "https://www.nrk.no/sport/bildet-av-putin-tilhengerne-skaper-raseri_-vil-ha-superstjernen-utestengt-1.18027581",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Nordmann dømt for dobbeltdrap i Sverige",
+        "kilde": "NRK Nyheter",
+        "tid": "09:25",
+        "lenke": "https://www.nrk.no/nyheter/nordmann-domt-for-dobbeltdrap-i-sverige-1.18027926",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Beslagla 22 kilo kokain i Trysil: – Forstod raskt at det var ugler i mosen",
+        "kilde": "NRK Nyheter",
+        "tid": "09:03",
+        "lenke": "https://www.nrk.no/innlandet/fikk-skanner-etter-nrk-besok-_-sa-ble-det-gigantbeslag-av-kokain-1.17996948",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Stort kokainbeslag i Trysil",
+        "kilde": "NRK Nyheter",
+        "tid": "09:01",
+        "lenke": "https://www.nrk.no/innlandet/stort-kokainbeslag-i-trysil-1.18027651",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Slår hardt ned på videresalg av Mesterliga-billetter – vil stenge folk ute fra stadion",
+        "kilde": "NRK Nyheter",
+        "tid": "08:44",
+        "lenke": "https://www.nrk.no/rogaland/viking-reagerer-sterkt-pa-ulovlig-videresalg-av-billetter-i-mesterligaen-1.18027844",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Drivstoffprisene: – Må snu på hver eneste krone",
+        "kilde": "E24",
+        "tid": "08:39",
+        "lenke": "https://e24.no/norsk-oekonomi/i/M7G03r/drivstoffprisene-maa-snu-paa-hver-eneste-krone?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "GLM bygde sin egen inferensinfrastruktur",
+        "kilde": "Hacker News",
+        "tid": "08:27",
+        "lenke": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ett års sponset servoutvikling",
+        "kilde": "Hacker News",
+        "tid": "08:13",
+        "lenke": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
         "engelsk_kilde": true
       },
       {
@@ -263,80 +440,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Cloudflare/Security-Audit-Skill",
-        "kilde": "Hacker News",
-        "tid": "04:36",
-        "lenke": "https://github.com/cloudflare/security-audit-skill",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Tekoligarkenes klagesang",
         "kilde": "E24",
         "tid": "04:17",
         "lenke": "https://e24.no/teknologi/i/oE2oWB/tekoligarkenes-klagesang?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "– Aksjen du skal eie hvis du vil sove godt om natten",
-        "kilde": "E24",
-        "tid": "04:08",
-        "lenke": "https://e24.no/boers-og-finans/i/pB2R5j/aksjen-du-skal-eie-hvis-du-vil-sove-godt-om-natten?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Mark Walter og Todd Boehly selger andeler i Chelsea Football Club til Clearlake Capital",
-        "kilde": "CNBC Top News",
-        "tid": "03:35",
-        "lenke": "https://www.cnbc.com/2026/09/17/chelsea-mark-walter-bohely-clearlake-capital.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Japans bedriftsledere lyder alarm over svak yen — selv dollarinntekter uttrykker bekymringer",
-        "kilde": "CNBC Top News",
-        "tid": "03:19",
-        "lenke": "https://www.cnbc.com/2026/09/17/japan-yen-weakness-corporate-concerns.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Derfor holdt han seg unna bragden: Ville ikke bli «han kreftsyke treneren»",
-        "kilde": "NRK Nyheter",
-        "tid": "03:14",
-        "lenke": "https://www.nrk.no/sport/derfor-skygget-sjur-robert-nilsen-banen-under-vm-i-ishockey-1.18025610",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Jev Ultrafast: En nettleseragent med et dynamisk, indeksert handlingsrom",
-        "kilde": "Hacker News",
-        "tid": "03:12",
-        "lenke": "https://github.com/browser-use/jev-ultrafast",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nøkler er ikke inkludert: gjenopprette signeringsnøklene for amerikanske førerkortstrekkoder",
-        "kilde": "Hacker News",
-        "tid": "03:03",
-        "lenke": "https://ryan.science/blog/keys-not-included",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Gasslekkasje på industriområde i Larvik",
-        "kilde": "NRK Nyheter",
-        "tid": "02:23",
-        "lenke": "https://www.nrk.no/nyheter/gasslekkasje-pa-industriomrade-i-larvik-1.18027491",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Del-menneskelig del-mus-hjerne utviklet i vitenskapelig gjennombrudd",
-        "kilde": "Hacker News",
-        "tid": "01:33",
-        "lenke": "https://www.bbc.com/news/articles/c60m3k28j81mo",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Ukraina: Ti såret i russiske luftangrep mot Kyiv",
-        "kilde": "NRK Nyheter",
-        "tid": "01:27",
-        "lenke": "https://www.nrk.no/nyheter/ukraina_-ti-saret-i-russiske-luftangrep-mot-kyiv-1.18027490",
         "engelsk_kilde": false
       },
       {
@@ -354,13 +461,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Seilkraftens tilbakekomst: Lasteskip vender tilbake til vinden",
-        "kilde": "Hacker News",
-        "tid": "00:28",
-        "lenke": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Snapchat åpen for å sette tidsbegrensninger på tenåringer, sier sjefen til BBC",
         "kilde": "BBC Business",
         "tid": "23:41",
@@ -373,41 +473,6 @@
         "tid": "23:18",
         "lenke": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg sendte 200 DM til selskaper - det var vanskelig, men jeg fikk jobb",
-        "kilde": "BBC Business",
-        "tid": "23:15",
-        "lenke": "https://www.bbc.co.uk/news/articles/c9vgyd02mdvno?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Utleieeiendommen min er nedbetalt, men jeg trenger kontanter. Er dette et dårlig tidspunkt å ta ut en $ 50 000 HELOC?",
-        "kilde": "MarketWatch",
-        "tid": "22:16",
-        "lenke": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Svarte om tenåringssensasjonen etter kollapsen: – Vi må være varsomme",
-        "kilde": "NRK Nyheter",
-        "tid": "20:55",
-        "lenke": "https://www.nrk.no/sport/manchester-united-raknet-etter-drommestart-mot-brighton-i-ligacupen-1.18027412",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Slår alarm om nye skjermråd: – Løser ikke problemene",
-        "kilde": "NRK Nyheter",
-        "tid": "20:26",
-        "lenke": "https://www.nrk.no/rogaland/regjeringen-ber-barn-og-unge-unnga-tiktok_-youtube-og-snapchat-_-ekspert-kritisk-1.18024052",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Sigrid til VG om Sheeran-bråket: – Forferdelig",
-        "kilde": "NRK Nyheter",
-        "tid": "20:23",
-        "lenke": "https://www.nrk.no/nyheter/sigrid-til-vg-om-sheeran-braket_-_-forferdelig-1.18027424",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Mystisk trader flytter $ 122 millioner foran Feds 14.00 -beslutning",
