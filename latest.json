@@ -1,9 +1,30 @@
 {
   "dato": "2026-09-19",
   "dato_norsk": "Lørdag 19. september 2026",
-  "generert_kl": "08:05",
+  "generert_kl": "12:16",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
+    {
+      "tittel": "Trump sier USA skal bygge et «stort militært nærvær» på Grønland som en del av en sikkerhetsavtale med landet og Danmark",
+      "kilde": "CNBC Top News",
+      "tid": "10:36",
+      "lenke": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "En brå slutt på Iran-krigen ville slå et slag mot oljepriser og energilagre. Likevel kjøper selskapets innsidere.",
+      "kilde": "MarketWatch",
+      "tid": "12:00",
+      "lenke": "https://www.marketwatch.com/story/a-sudden-end-to-the-iran-war-would-strike-a-blow-against-oil-prices-and-energy-stocks-yet-company-insiders-are-buying-673899a0?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Aksjer står overfor en voksende liste over trusler — så hvorfor holder investorer seg så rolige?",
+      "kilde": "MarketWatch",
+      "tid": "11:30",
+      "lenke": "https://www.marketwatch.com/story/stocks-face-a-growing-list-of-threats-so-why-are-investors-staying-so-calm-a6acd7e5?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
     {
       "tittel": "Norge må ikke bli et fristed for datasentre",
       "kilde": "E24",
@@ -17,27 +38,6 @@
       "tid": "05:40",
       "lenke": "https://www.nrk.no/trondelag/bruk-av-paracetamol-i-svangerskapet-knyttes-til-mindre-eggstokker-og-testikler-hos-babyer-1.18026380",
       "engelsk_kilde": false
-    },
-    {
-      "tittel": "Stepfun Trinn 5 Forhåndsvisning (LLM): På AA Pareto-grensen",
-      "kilde": "Hacker News",
-      "tid": "05:42",
-      "lenke": "https://artificialanalysis.ai/models/step-5",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Hvorfor investorer ikke bør bli skremt av frykten for et aksjemarkedskrasj i oktober",
-      "kilde": "MarketWatch",
-      "tid": "22:41",
-      "lenke": "https://www.marketwatch.com/story/why-investors-shouldnt-be-spooked-by-fears-of-an-october-stock-market-crash-ac0eb2e1?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Trump sier han bannlyser MS NÅ, CNN og Politico fra Det hvite hus",
-      "kilde": "CNBC Top News",
-      "tid": "23:43",
-      "lenke": "https://www.cnbc.com/2026/09/18/trump-white-house-ban-msnow-cnn-politico.html",
-      "engelsk_kilde": true
     }
   ],
   "kategorier": {
@@ -75,17 +75,17 @@
     ],
     "MARKEDER": [
       {
-        "tittel": "Hvorfor investorer ikke bør bli skremt av frykten for et aksjemarkedskrasj i oktober",
+        "tittel": "Aksjer står overfor en voksende liste over trusler — så hvorfor holder investorer seg så rolige?",
         "kilde": "MarketWatch",
-        "tid": "22:41",
-        "lenke": "https://www.marketwatch.com/story/why-investors-shouldnt-be-spooked-by-fears-of-an-october-stock-market-crash-ac0eb2e1?mod=mw_rss_topstories",
+        "tid": "11:30",
+        "lenke": "https://www.marketwatch.com/story/stocks-face-a-growing-list-of-threats-so-why-are-investors-staying-so-calm-a6acd7e5?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Aksjer mislykkes i ‘bredde’ -testen, men opsjonshandlere ser fortsatt grunn til å kjøpe",
-        "kilde": "MarketWatch",
-        "tid": "20:48",
-        "lenke": "https://www.marketwatch.com/story/stocks-are-failing-the-breadth-test-but-options-traders-still-see-reason-to-buy-ef78ef14?mod=mw_rss_topstories",
+        "tittel": "Cramers uke fremover: Dette bør du se på mens Wall Street navigerer seg gjennom en tøff september",
+        "kilde": "CNBC Top News",
+        "tid": "22:17",
+        "lenke": "https://www.cnbc.com/2026/09/18/jim-cramer-week-ahead-costco-okta.html",
         "engelsk_kilde": true
       },
       {
@@ -97,34 +97,6 @@
       }
     ],
     "TEKNOLOGI": [
-      {
-        "tittel": "Stepfun Trinn 5 Forhåndsvisning (LLM): På AA Pareto-grensen",
-        "kilde": "Hacker News",
-        "tid": "05:42",
-        "lenke": "https://artificialanalysis.ai/models/step-5",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Googles Gemini blir den nyeste AI-modellen for å bryte ut og hacke datasystemer",
-        "kilde": "CNBC Top News",
-        "tid": "01:41",
-        "lenke": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "OpenAIs siste AI-avsløring er en «alvorlig situasjon», sier Microsofts Suleyman til CNBC",
-        "kilde": "CNBC Top News",
-        "tid": "21:35",
-        "lenke": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Amazon, Palantir og 12 andre toppteknologiske aksjevalg fra UBS-analytikere",
-        "kilde": "MarketWatch",
-        "tid": "21:14",
-        "lenke": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
       {
         "tittel": "Antropisk og OpenAI trenger virkelig uavhengige sikkerhetsevaluatorer, sier eksperter i offentlig brev",
         "kilde": "CNBC Top News",
@@ -142,6 +114,20 @@
     ],
     "GEOPOLITIKK": [
       {
+        "tittel": "En brå slutt på Iran-krigen ville slå et slag mot oljepriser og energilagre. Likevel kjøper selskapets innsidere.",
+        "kilde": "MarketWatch",
+        "tid": "12:00",
+        "lenke": "https://www.marketwatch.com/story/a-sudden-end-to-the-iran-war-would-strike-a-blow-against-oil-prices-and-energy-stocks-yet-company-insiders-are-buying-673899a0?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump sier USA skal bygge et «stort militært nærvær» på Grønland som en del av en sikkerhetsavtale med landet og Danmark",
+        "kilde": "CNBC Top News",
+        "tid": "10:36",
+        "lenke": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Trump sier han bannlyser MS NÅ, CNN og Politico fra Det hvite hus",
         "kilde": "CNBC Top News",
         "tid": "23:43",
@@ -149,18 +135,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Trump sier USA skal bygge et «stort militært nærvær» på Grønland som en del av en sikkerhetsavtale med landet og Danmark",
+        "tittel": "Trumps krigskiste på $ 403 millioner blir endelig brukt på midtveisvalget. Nå kommer den vanskelige delen",
         "kilde": "CNBC Top News",
-        "tid": "23:28",
-        "lenke": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
+        "tid": "20:30",
+        "lenke": "https://www.cnbc.com/2026/09/18/trump-election-ad-spend-maga-inc.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trump: – USA har inngått sikkerhetsavtale med Grønland og Danmark",
-        "kilde": "NRK Nyheter",
-        "tid": "21:31",
-        "lenke": "https://www.nrk.no/nyheter/trump_-_-usa-har-inngatt-sikkerhetsavtale-med-gronland-og-danmark-1.18029906",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Trump sier han kaster ut flere medier fra Det hvite hus",
@@ -179,6 +158,97 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "AI-drepebryteren, forklarte: \"Det er ikke for lite, men det er sannsynligvis for sent\"",
+        "kilde": "CNBC Top News",
+        "tid": "12:00",
+        "lenke": "https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Starbucks 'Snoopy-kopper og McDonald's SpongeBob-leker har store markeringer på eBay",
+        "kilde": "MarketWatch",
+        "tid": "12:00",
+        "lenke": "https://www.marketwatch.com/story/starbuckss-snoopy-cups-and-mcdonalds-spongebob-toys-are-commanding-huge-markups-on-ebay-ed3e514d?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg har nettopp begynt å date en jeg virkelig liker, men han flytter til Mexico i seks måneder. Skal jeg bruke pengene til å besøke ham?",
+        "kilde": "MarketWatch",
+        "tid": "12:00",
+        "lenke": "https://www.marketwatch.com/story/i-just-started-dating-someone-i-really-like-but-hes-moving-to-mexico-for-six-months-should-i-spend-the-money-to-visit-him-be4f8c8b?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Mark Cuban brukte $ 125 000 på et livstids American Airlines-pass etter en full oppringning — her er hvorfor matematikken fungerte",
+        "kilde": "Yahoo Finance",
+        "tid": "12:00",
+        "lenke": "https://finance.yahoo.com/markets/articles/mark-cuban-spent-125-000-120000383.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bitcoin er tilbake på $ 80 000 når resten av kryptoen blir med i rallyet: Dagens diagram",
+        "kilde": "Yahoo Finance",
+        "tid": "11:59",
+        "lenke": "https://finance.yahoo.com/markets/article/bitcoin-is-back-at-80000-as-rest-of-crypto-joins-the-rally-chart-of-the-day-115955499.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kan være et diplomatisk mesterverk",
+        "kilde": "NRK Nyheter",
+        "tid": "11:37",
+        "lenke": "https://www.nrk.no/urix/urix-forklarer-enigheten-mellom-usa_-danmark-og-gronland_-kan-gronlenderne-puste-ut-na-1.18030021",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "AI-ledere ønsker å \"sette fart på grensen\" som en del av en sikkerhetsreduksjon. Men hvordan?",
+        "kilde": "MarketWatch",
+        "tid": "11:00",
+        "lenke": "https://www.marketwatch.com/story/ai-leaders-want-to-pace-the-frontier-as-part-of-a-safety-slowdown-but-how-d8347418?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Satser 200 millioner på mango",
+        "kilde": "E24",
+        "tid": "10:47",
+        "lenke": "https://e24.no/naeringsliv/i/XMmq8x/satser-200-millioner-paa-mango?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Babyørene får ikke ligge lenge i fred på argentinske sykehus",
+        "kilde": "NRK Nyheter",
+        "tid": "10:35",
+        "lenke": "https://www.nrk.no/urix/korrespondentbrev_-babyorene-far-ikke-ligge-lenge-i-fred-pa-argentinske-sykehus-1.18028700",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Krymper burger",
+        "kilde": "E24",
+        "tid": "09:57",
+        "lenke": "https://e24.no/naeringsliv/i/XMm6vb/krymper-burger?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "De maktesløse",
+        "kilde": "E24",
+        "tid": "09:18",
+        "lenke": "https://e24.no/teknologi/i/m0bWKq/de-maktesloese?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Reality-romanser: – Jeg skjønner at det fra utsiden virker underlig",
+        "kilde": "NRK Nyheter",
+        "tid": "09:01",
+        "lenke": "https://www.nrk.no/trondelag/romantikk-pa-norges-toffeste-og-i-andre-reality-programmer_-den-vitenskapelige-forklaringen-1.18000510",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Hiphop-stjerna Dr. Dre heiar på KI-musikk",
+        "kilde": "NRK Nyheter",
+        "tid": "08:45",
+        "lenke": "https://www.nrk.no/norge/hiphop-stjerna-dr.-dre-heiar-pa-ki-musikk-1.18020422",
+        "engelsk_kilde": false
+      },
+      {
         "tittel": "Bilda gjekk viralt: Kryptisk Ingebrigtsen om møtet med erkerivalen",
         "kilde": "NRK Nyheter",
         "tid": "07:48",
@@ -193,28 +263,7 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Hvorfor får AI-relaterte innlegg så mange poeng på HN?",
-        "kilde": "Hacker News",
-        "tid": "06:57",
-        "lenke": "https://news.ycombinator.com/item?id=49764057",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "GPT-6 Astra løser en tysk radiokryptering fra første verdenskrig",
-        "kilde": "Hacker News",
-        "tid": "06:41",
-        "lenke": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvis matematikk er mer enn bevis, må vi bedre feire resten av det",
-        "kilde": "Hacker News",
-        "tid": "06:28",
-        "lenke": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Har vore sakna sidan fredag: Leitar etter fiskebåt med turistar",
+        "tittel": "Båt funnen tom – held fram søk etter fisketuristar",
         "kilde": "NRK Nyheter",
         "tid": "06:12",
         "lenke": "https://www.nrk.no/mr/leitar-etter-fiskebat-med-fire-turistar-utanfor-averoy-1.18029970",
@@ -226,13 +275,6 @@
         "tid": "06:03",
         "lenke": "https://www.nrk.no/norge/xl/store-forskjeller-mellom-kommunene-i-bruk-av-adhd-medisin-blant-barn-1.17919267",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Menneskehjernen er to separate organer, Stanford Medicine-ledede forskningsfunn",
-        "kilde": "Hacker News",
-        "tid": "05:48",
-        "lenke": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Sprengstoffsjefen: – Jeg er alltid bekymret",
@@ -254,13 +296,6 @@
         "tid": "05:00",
         "lenke": "https://www.cnbc.com/2026/09/19/underwater-war-sea-drones-defense-tech.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Eksplosjoner hørt i Riyadh",
-        "kilde": "NRK Nyheter",
-        "tid": "01:38",
-        "lenke": "https://www.nrk.no/nyheter/eksplosjoner-hort-i-riyadh-1.18029932",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Jeg er i 50-årene. Moren min døde av Alzheimers. Trenger jeg langtidspleieforsikring?",
@@ -291,34 +326,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Bekrefter samtaler om Grønland-avtale",
-        "kilde": "NRK Nyheter",
-        "tid": "21:31",
-        "lenke": "https://www.nrk.no/urix/trump-hevder-usa-har-inngatt-avtale-med-danmark-og-gronland-1.18029907",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Martine (1) døde: Mener hodeskadene kan ha skjedd to døgn tidligere",
-        "kilde": "NRK Nyheter",
-        "tid": "21:25",
-        "lenke": "https://www.nrk.no/buskerud/martine-_1_-dode_-mener-hodeskadene-kan-ha-skjedd-to-dogn-tidligere-1.18026426",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Det er nesten umulig å selge en leilighet i disse dager: \"Jeg føler meg fanget\"",
-        "kilde": "MarketWatch",
-        "tid": "21:16",
-        "lenke": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "AI skyleverandør Nskaler filer for å bli offentlige",
-        "kilde": "CNBC Top News",
-        "tid": "21:08",
-        "lenke": "https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "California-guvernør vil ha AI-«kill switch»",
         "kilde": "E24",
         "tid": "20:21",
@@ -326,31 +333,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Det meste av det du vet om datasentre er feil",
-        "kilde": "MarketWatch",
-        "tid": "20:15",
-        "lenke": "https://www.marketwatch.com/story/most-of-what-you-know-about-data-centers-is-wrong-e6e8936c?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Nscale har offisielt søkt om børsnotering i New York",
         "kilde": "E24",
         "tid": "19:56",
         "lenke": "https://e24.no/boers-og-finans/i/bOlzOg/nscale-har-offisielt-soekt-om-boersnotering-i-usa?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Elon Musk snakker om AI-sikkerhet mens han kjemper mot regulering i en vill uke med merkelige allianser",
-        "kilde": "CNBC Top News",
-        "tid": "19:15",
-        "lenke": "https://www.cnbc.com/2026/09/18/after-decade-of-clashes-in-ai-elon-musk-forging-strange-alliances.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Sandal-trøbbel før børsnotering",
-        "kilde": "E24",
-        "tid": "17:55",
-        "lenke": "https://e24.no/boers-og-finans/i/16J34Q/sandal-troebbel-foer-boersnotering?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
@@ -368,18 +354,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Bredbånds-entreprenør konkurs: 19 ansatte rammes",
-        "kilde": "E24",
-        "tid": "16:30",
-        "lenke": "https://e24.no/naeringsliv/i/aJMMB4/bredbaands-entreprenoer-konkurs-19-ansatte-rammes?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Burde ha falt mer",
-        "kilde": "E24",
-        "tid": "15:56",
-        "lenke": "https://e24.no/boers-og-finans/i/16A1LW/burde-ha-falt-mer?utm_medium=rss",
-        "engelsk_kilde": false
+        "tittel": "Sikkerhetsdebatten om kunstig intelligens møter virkeligheten i Dreamforce, ettersom bedriftsledere sier at fjorårets modeller er nok",
+        "kilde": "CNBC Top News",
+        "tid": "16:31",
+        "lenke": "https://www.cnbc.com/2026/09/18/at-dreamforce-business-leaders-say-older-ai-models-are-enough.html",
+        "engelsk_kilde": true
       },
       {
         "tittel": "'Utilstrekkelige midler' til å betale Brewdog-kreditorer etter overtakelsesavtale",
@@ -393,13 +372,6 @@
         "kilde": "BBC Business",
         "tid": "12:47",
         "lenke": "https://www.bbc.co.uk/news/articles/cklyjzv4nl7wo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vi kjøpte vårt hjem på £ 242 000 uten depositum - slik gjør du det",
-        "kilde": "BBC Business",
-        "tid": "10:43",
-        "lenke": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ]
