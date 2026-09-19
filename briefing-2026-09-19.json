@@ -1,47 +1,54 @@
 {
   "dato": "2026-09-19",
   "dato_norsk": "Lørdag 19. september 2026",
-  "generert_kl": "16:04",
+  "generert_kl": "20:10",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
       "tittel": "MS NOW, CNN og Politico-journalister blokkert fra Det hvite hus etter Trump-forbud",
       "kilde": "CNBC Top News",
-      "tid": "15:14",
+      "tid": "18:12",
       "lenke": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "15 aksjer som har økt utbyttet mest — og nesten alle har slått S&P 500",
-      "kilde": "MarketWatch",
-      "tid": "14:57",
-      "lenke": "https://www.marketwatch.com/story/15-stocks-that-have-grown-dividends-the-most-and-nearly-all-have-beaten-the-s-p-500-6d8923fc?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Hvilke S&P 500-gevinster på 9,5% i første halvårssignalet for resten av året",
-      "kilde": "Yahoo Finance",
-      "tid": "15:35",
-      "lenke": "https://finance.yahoo.com/markets/stocks/articles/p-500-gains-9-5-153500487.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Dow Jones Futures: Vil markedsrallyet ta av? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-      "kilde": "Yahoo Finance",
-      "tid": "13:16",
-      "lenke": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Årets dyreste og billigste strøm: – Vi har vinterpriser allerede",
-      "kilde": "E24",
-      "tid": "15:52",
-      "lenke": "https://e24.no/energi-og-klima/i/PdlkqX/aarets-dyreste-og-billigste-stroem-vi-har-vinterpriser-allerede?utm_medium=rss",
+      "tittel": "Politiet: Søker etter mistenkt etter påtent brann i Oslo",
+      "kilde": "NRK Nyheter",
+      "tid": "17:37",
+      "lenke": "https://www.nrk.no/nyheter/politiet_-soker-etter-mistenkt-etter-patent-brann-i-oslo-1.18030401",
       "engelsk_kilde": false
+    },
+    {
+      "tittel": "Er Main Street Capital Stock et kjøp, salg eller beholdning med aksjer 15% under deres 52-ukers høyde?",
+      "kilde": "Yahoo Finance",
+      "tid": "19:35",
+      "lenke": "https://finance.yahoo.com/markets/stocks/articles/main-street-capital-stock-buy-193500520.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Jim Cramer noterer at oljen ligger bak presset på Casey's (CASY) og Texas Roadhouse (TXRH)",
+      "kilde": "Yahoo Finance",
+      "tid": "19:35",
+      "lenke": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-oil-behind-193509467.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Flammer rapportert nær Saudi-Arabias hovedstad flyplass da Pakistan presser Iran over energiforsyninger",
+      "kilde": "CNBC Top News",
+      "tid": "19:08",
+      "lenke": "https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html",
+      "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
+      {
+        "tittel": "Politiet: Søker etter mistenkt etter påtent brann i Oslo",
+        "kilde": "NRK Nyheter",
+        "tid": "17:37",
+        "lenke": "https://www.nrk.no/nyheter/politiet_-soker-etter-mistenkt-etter-patent-brann-i-oslo-1.18030401",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Norge må ikke bli et fristed for datasentre",
         "kilde": "E24",
@@ -52,49 +59,35 @@
     ],
     "MARKEDER": [
       {
-        "tittel": "Hvilke S&P 500-gevinster på 9,5% i første halvårssignalet for resten av året",
+        "tittel": "Er Main Street Capital Stock et kjøp, salg eller beholdning med aksjer 15% under deres 52-ukers høyde?",
         "kilde": "Yahoo Finance",
-        "tid": "15:35",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/p-500-gains-9-5-153500487.html",
+        "tid": "19:35",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/main-street-capital-stock-buy-193500520.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "15 aksjer som har økt utbyttet mest — og nesten alle har slått S&P 500",
+        "tittel": "Det er ikke et vinner-tar-alt aksjemarked. Denne hedgefondforvalteren favoriserer tre underdogs.",
         "kilde": "MarketWatch",
-        "tid": "14:57",
-        "lenke": "https://www.marketwatch.com/story/15-stocks-that-have-grown-dividends-the-most-and-nearly-all-have-beaten-the-s-p-500-6d8923fc?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Dow Jones Futures: Vil markedsrallyet ta av? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-        "kilde": "Yahoo Finance",
-        "tid": "13:16",
-        "lenke": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Aflacs (AFL) nettoinntekter økte med 37,7%, men de justerte inntektene falt faktisk",
-        "kilde": "Yahoo Finance",
-        "tid": "12:45",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/aflac-afl-net-earnings-jumped-124547627.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Aksjemarkedsuke i forkant: Hold utkikk etter endringer",
-        "kilde": "Yahoo Finance",
-        "tid": "12:29",
-        "lenke": "https://www.investors.com/research/investing-action-plan/stock-market-nasdaq-sp-500-analysis-meta-platforms-earnings/?src=A00220&yptr=yahoo",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Tre ord fra Kevin Warsh får Wall Street til å lure på hvor langt Fed vil gå med renteøkninger",
-        "kilde": "CNBC Top News",
-        "tid": "18:28",
-        "lenke": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
+        "tid": "16:19",
+        "lenke": "https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories",
         "engelsk_kilde": true
       }
     ],
     "ENERGI_RAAVARER": [
+      {
+        "tittel": "Jim Cramer noterer at oljen ligger bak presset på Casey's (CASY) og Texas Roadhouse (TXRH)",
+        "kilde": "Yahoo Finance",
+        "tid": "19:35",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-oil-behind-193509467.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Det kan være en sølvfôr’: Min venns kone døde på 60 etter en høy inntjening karriere. Kan han kreve trygden hennes?",
+        "kilde": "MarketWatch",
+        "tid": "16:15",
+        "lenke": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Årets dyreste og billigste strøm: – Vi har vinterpriser allerede",
         "kilde": "E24",
@@ -105,67 +98,207 @@
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Amazon Cargo Delivery Company filer for kapittel 11 konkurs",
-        "kilde": "Yahoo Finance",
-        "tid": "15:33",
-        "lenke": "https://finance.yahoo.com/small-business/articles/amazon-cargo-delivery-company-files-153300197.html",
+        "tittel": "Googles Gemini blir den nyeste AI-modellen for å bryte ut og hacke datasystemer",
+        "kilde": "CNBC Top News",
+        "tid": "01:41",
+        "lenke": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Antropisk og OpenAI trenger virkelig uavhengige sikkerhetsevaluatorer, sier eksperter i offentlig brev",
+        "tittel": "OpenAIs siste AI-avsløring er en «alvorlig situasjon», sier Microsofts Suleyman til CNBC",
         "kilde": "CNBC Top News",
-        "tid": "17:02",
-        "lenke": "https://www.cnbc.com/2026/09/18/ai-safety-evaluators-anthropic-openai-models-security.html",
+        "tid": "21:35",
+        "lenke": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
         "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Valg i Russland: 21-åring tar stor risiko",
-        "kilde": "NRK Nyheter",
-        "tid": "15:42",
-        "lenke": "https://www.nrk.no/urix/valg-i-russland-1.18026856",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "MS NOW, CNN og Politico-journalister blokkert fra Det hvite hus etter Trump-forbud",
-        "kilde": "CNBC Top News",
-        "tid": "15:14",
-        "lenke": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Flammer rapportert nær Saudi-Arabias hovedstad flyplass da Pakistan presser Iran over energiforsyninger",
         "kilde": "CNBC Top News",
-        "tid": "13:48",
+        "tid": "19:08",
         "lenke": "https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "'Vi vet rett og slett ikke' - JP Morgan sliter med å forutsi oljepriser på grunn av Trumps krig med Iran",
-        "kilde": "BBC Business",
-        "tid": "17:57",
-        "lenke": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
+        "tittel": "MS NOW, CNN og Politico-journalister blokkert fra Det hvite hus etter Trump-forbud",
+        "kilde": "CNBC Top News",
+        "tid": "18:12",
+        "lenke": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
         "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
       {
-        "tittel": "‘Jeg er utbrent’: Jeg hjelper hele tiden fetteren min som er i ferd med å gå tom for penger. Er det for mye å forvente at søsteren hans skal hjelpe?",
-        "kilde": "MarketWatch",
-        "tid": "16:00",
-        "lenke": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+        "tittel": "Converse trekker reklame etter Ku Klux Klan-sammenligning",
+        "kilde": "E24",
+        "tid": "20:08",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/d4AwnA/converse-trekker-reklame?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "eGain (EGAN): B. Riley og Roth Capital kutter begge mål som AI-vekstkamp for å kompensere for nedgang i arv",
+        "kilde": "Yahoo Finance",
+        "tid": "19:49",
+        "lenke": "https://finance.yahoo.com/technology/ai/articles/egain-egan-b-riley-roth-194936520.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "I likhet med Costco vil Walmart selge Medicare Advantage-planer",
-        "kilde": "MarketWatch",
-        "tid": "15:57",
-        "lenke": "https://www.marketwatch.com/story/like-costco-walmart-to-sell-medicare-advantage-plans-b31977d2?mod=mw_rss_topstories",
+        "tittel": "Infosys (INFY) plasserer en bremsemaker mens veksten forblir i lavt gir",
+        "kilde": "Yahoo Finance",
+        "tid": "19:47",
+        "lenke": "https://finance.yahoo.com/technology/ai/articles/infosys-infy-lands-brake-maker-194747627.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Arsenal fillerista etter nederlag: – Ikkje i nærleiken",
+        "tittel": "Jim Cramer på Seanergy Maritime (SKIP): «I 'd Be a Buyer»",
+        "kilde": "Yahoo Finance",
+        "tid": "19:40",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-seanergy-maritime-ship-194035405.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jim Cramer sier «Kjøp Reddit» (RDDT)",
+        "kilde": "Yahoo Finance",
+        "tid": "19:33",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-buy-reddit-193324887.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "CoreWeave (CRWV) belaster mer for AI Compute, og kundene fortsetter å betale",
+        "kilde": "Yahoo Finance",
+        "tid": "19:32",
+        "lenke": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-charging-more-ai-193252050.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jim Cramer foreslår mot å holde dominion (D) gjennom NextEra (NEE) aksjekonvertering",
+        "kilde": "Yahoo Finance",
+        "tid": "19:29",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-against-holding-192955385.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "STMicroelectronics (STM) vil at hver bil skal se på sjåføren sin, og billig",
+        "kilde": "Yahoo Finance",
+        "tid": "19:29",
+        "lenke": "https://finance.yahoo.com/technology/articles/stmicroelectronics-stm-wants-every-car-192912047.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Stor test: AI-chatboter bommet på over halvparten av økonomispørsmålene",
+        "kilde": "E24",
+        "tid": "19:12",
+        "lenke": "https://e24.no/privatoekonomi/i/wroO1o/ai-chatboter-bommet-paa-over-halvparten-av-oekonomispoersmaalene?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Alexander (19) haiket fra Lindesnes til Nordkapp på rekordtid",
+        "kilde": "NRK Nyheter",
+        "tid": "19:00",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/haiket-fra-lindesnes-til-nordkapp-pa-rekordtid-1.18021490",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Skaden kunne stoppet Johaugs løpedrøm: – Blodet sprutet i hele sommer",
+        "kilde": "NRK Nyheter",
+        "tid": "18:59",
+        "lenke": "https://www.nrk.no/sport/denne-skaden-kunne-stoppet-therese-johaugs-lopedrom_-_-blodet-sprutet-i-hele-sommer-1.18030115",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Det er nesten umulig å selge en leilighet i disse dager: \"Jeg føler meg fanget\"",
+        "kilde": "MarketWatch",
+        "tid": "18:57",
+        "lenke": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "90% av pensjonistene gjør denne feilberegningen med sparepengene sine",
+        "kilde": "MarketWatch",
+        "tid": "18:40",
+        "lenke": "https://www.marketwatch.com/story/90-of-retirees-are-making-this-miscalculation-with-their-savings-feb9db79?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Mange unge investorer har ikke råd til å investere uten foreldrenes hjelp",
+        "kilde": "MarketWatch",
+        "tid": "18:22",
+        "lenke": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Btrfs/ZFS/bcachefs under arbeidsbelastninger klassiske referanser hoppe over",
+        "kilde": "Hacker News",
+        "tid": "18:11",
+        "lenke": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fremtidens pensjonisttilværelse? Arbeid til du dør.",
+        "kilde": "MarketWatch",
+        "tid": "17:53",
+        "lenke": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tre mistenkte etter knivstikking i Fredrikstad",
+        "kilde": "NRK Nyheter",
+        "tid": "17:27",
+        "lenke": "https://www.nrk.no/ostfold/knivstikking-i-fredrikstad-1.18030402",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Dette er de 10 største pensjonsfryktene — og hva du kan gjøre med dem",
+        "kilde": "MarketWatch",
+        "tid": "17:21",
+        "lenke": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Supabase (YC S20) ansetter for OrioleDB",
+        "kilde": "Hacker News",
+        "tid": "17:01",
+        "lenke": "https://supabase.link/orioledbjob",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Person knivstukket i Fredrikstad",
+        "kilde": "NRK Nyheter",
+        "tid": "16:54",
+        "lenke": "https://www.nrk.no/ostfold/person-knivstukket-i-fredrikstad-1.18030371",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Hva skjer hvis du aldri kjøper et hus? Hva leietakere får — og gir opp.",
+        "kilde": "MarketWatch",
+        "tid": "16:45",
+        "lenke": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bruk nesten aldri kunstig intelligens til å skrive noe substansielt",
+        "kilde": "Hacker News",
+        "tid": "16:35",
+        "lenke": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Avslutter søk etter savnede fisketurister utenfor Averøy",
+        "kilde": "NRK Nyheter",
+        "tid": "16:07",
+        "lenke": "https://www.nrk.no/nyheter/avslutter-sok-etter-savnede-fisketurister-utenfor-averoy-1.18030290",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Superstjerna stilte i heildekkande drakt: – Skulle kjennast litt sexy",
+        "kilde": "NRK Nyheter",
+        "tid": "16:04",
+        "lenke": "https://www.nrk.no/sport/keely-hodgkinsons-nye-drakt-vekker-oppsikt_-_-skulle-kjennast-litt-sexy-1.18030085",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Legg seg flat etter pinleg tap: – Finst ikkje unnskyldningar",
         "kilde": "NRK Nyheter",
         "tid": "15:54",
         "lenke": "https://www.nrk.no/sport/brighton-slo-arsenal-i-premier-league-1.18030295",
@@ -179,52 +312,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Par med stor aldersforskjell trenger mer penger — de må planlegge for to pensjoneringer",
-        "kilde": "MarketWatch",
-        "tid": "15:47",
-        "lenke": "https://www.marketwatch.com/story/couples-with-a-big-age-gap-need-more-money-they-have-to-plan-for-two-retirements-1454b8c2?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Første fosfat sikrer sveitsisk støtte for gruven - ICYMI",
-        "kilde": "Yahoo Finance",
-        "tid": "15:34",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/first-phosphate-secures-swiss-backing-153400975.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vil du få flere jobbintervjuer? Slutt å la AI skrive CV-en din.",
-        "kilde": "MarketWatch",
-        "tid": "15:20",
-        "lenke": "https://www.marketwatch.com/story/are-ai-written-resumes-more-likely-to-get-you-a-job-the-answer-may-surprise-you-ae408827?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Min totale saldo bør være $ 20 millioner’: Jeg investerte $ 1,1 millioner i en kryptoplattform. Har jeg mistet alt?",
-        "kilde": "MarketWatch",
-        "tid": "15:15",
-        "lenke": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvordan lage en \"evig lønnsslipp\" uten å betale for en livrente",
-        "kilde": "MarketWatch",
-        "tid": "15:14",
-        "lenke": "https://www.marketwatch.com/story/how-to-create-a-forever-paycheck-without-paying-for-an-annuity-e5d171d3?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg er i 50-årene. Moren min døde av Alzheimers. Trenger jeg langtidspleieforsikring?",
-        "kilde": "MarketWatch",
-        "tid": "14:46",
-        "lenke": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Å lære et annet språk kan være en av de beste måtene å holde hjernen sunn på",
+        "tittel": "Vis HN: CUA-S1 – En System One-modell for datamaskinbruk",
         "kilde": "Hacker News",
-        "tid": "14:23",
-        "lenke": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
+        "tid": "15:52",
+        "lenke": "https://github.com/trycua/cua",
         "engelsk_kilde": true
       },
       {
@@ -235,20 +326,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Innrømmer feil etter siktelse av sametingsråd",
-        "kilde": "NRK Nyheter",
-        "tid": "14:09",
-        "lenke": "https://www.nrk.no/sapmi/innrommer-feil-etter-siktelse-av-sametingsrad-1.18029991",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Journalister nektet adgang til Det hvite hus lørdag",
-        "kilde": "NRK Nyheter",
-        "tid": "14:07",
-        "lenke": "https://www.nrk.no/nyheter/journalister-nektet-adgang-til-det-hvite-hus-lordag-1.18030261",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "En grafisk stasjonær PC for ZX Spectrum",
         "kilde": "Hacker News",
         "tid": "14:01",
@@ -256,46 +333,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hvordan Zig føltes, kommer fra Rust",
-        "kilde": "Hacker News",
-        "tid": "13:55",
-        "lenke": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Tin: fulltekstsøk etter Postgres",
-        "kilde": "Hacker News",
-        "tid": "13:52",
-        "lenke": "https://planetscale.com/blog/introducing-tin",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Store skader på amerikanske baser i Midtøsten",
-        "kilde": "NRK Nyheter",
-        "tid": "13:35",
-        "lenke": "https://www.nrk.no/urix/nye-bilder-viser-store-skader-pa-amerikanske-baser-i-midtosten-1.18030114",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Studentlån låntakere som avslutter SPARE kan møte kraftig høyere utbetalinger hvis de ikke iverksetter tiltak snart",
         "kilde": "CNBC Top News",
         "tid": "13:30",
         "lenke": "https://www.cnbc.com/2026/09/19/save-student-loan-deadline-avoid-higher-payments.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Advokater sier at din gjeld på $ 5000 ikke forsvinner når selskapet du skylder går konkurs — her er hvorfor",
-        "kilde": "Yahoo Finance",
-        "tid": "13:30",
-        "lenke": "https://finance.yahoo.com/small-business/articles/lawyers-5-000-debt-doesnt-133000085.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Sluttkjørt Ingebrigtsen stusset etter målgang: – Må høre med arrangøren om det er kontrollmålt",
-        "kilde": "NRK Nyheter",
-        "tid": "13:05",
-        "lenke": "https://www.nrk.no/sport/friidrett_-jakob-ingebrigtsen-matte-ta-til-takke-med-vm-solv-1.18030171",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Forbrukerfølelsen er i søppelet til tross for en solid økonomi. Goldman Sachs klandrer 'lavere lykke'",
@@ -309,27 +351,6 @@
         "kilde": "CNBC Top News",
         "tid": "12:43",
         "lenke": "https://www.cnbc.com/2026/09/19/warren-buffett-takes-next-step-in-plan-to-keep-berkshire-from-straying.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Cencora (COR) økte veiledningen og kjøpte tilbake $ 1B. Hva er fangsten?",
-        "kilde": "Yahoo Finance",
-        "tid": "12:38",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/cencora-cor-raised-guidance-bought-123837104.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Sammenhengende (COHR) klemmer nøkkeloptisk nettverksutstyr inn i en plugin-modul",
-        "kilde": "Yahoo Finance",
-        "tid": "12:35",
-        "lenke": "https://finance.yahoo.com/technology/articles/coherent-cohr-squeezes-key-optical-123508124.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Gallaghers (AJG) Colorado-avtale er nok en murstein i en veldig stor vegg",
-        "kilde": "Yahoo Finance",
-        "tid": "12:30",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/gallagher-ajg-colorado-deal-another-123050148.html",
         "engelsk_kilde": true
       },
       {
@@ -347,32 +368,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Politiet og Vegvesenet slår alarm: – Rett og slett respektlaust",
-        "kilde": "NRK Nyheter",
-        "tid": "11:49",
-        "lenke": "https://www.nrk.no/buskerud/politiet-og-vegvesenet-slar-alarm_-_-rett-og-slett-respektlaust-1.18023074",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kvinne omkom i fallulykke i Rauma",
-        "kilde": "NRK Nyheter",
-        "tid": "11:49",
-        "lenke": "https://www.nrk.no/trondelag/kvinne-omkom-i-fallulykke-i-rauma-1.18030181",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Satser 200 millioner på mango",
         "kilde": "E24",
         "tid": "10:47",
         "lenke": "https://e24.no/naeringsliv/i/XMmq8x/satser-200-millioner-paa-mango?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Laya åpen kildekodeversjon av Jev",
-        "kilde": "Hacker News",
-        "tid": "10:46",
-        "lenke": "https://laya.convaiinnovations.com/",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Krymper burger",
@@ -396,38 +396,17 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Sprengstoffsjefen: – Jeg er alltid bekymret",
-        "kilde": "E24",
-        "tid": "05:20",
-        "lenke": "https://e24.no/naeringsliv/i/0pdqK0/sprengstoffsjefen-jeg-er-alltid-bekymret?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Byttet jobb – og angrer?",
-        "kilde": "E24",
-        "tid": "05:07",
-        "lenke": "https://e24.no/karriere-og-ledelse/i/gkl9Va/byttet-jobb-og-angrer?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Warren Buffett går av etter seks tiår i Berkshire - 'Father Time always wins'",
-        "kilde": "BBC Business",
-        "tid": "17:15",
-        "lenke": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Ryanair-sjef Michael O'Leary ber om unnskyldning for bemerkninger om «dyre voldtektsforbrytere»",
-        "kilde": "BBC Business",
-        "tid": "17:10",
-        "lenke": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Sikkerhetsdebatten om kunstig intelligens møter virkeligheten i Dreamforce, ettersom bedriftsledere sier at fjorårets modeller er nok",
+        "tittel": "Et nytt våpenkappløp utfolder seg på havbunnen",
         "kilde": "CNBC Top News",
-        "tid": "16:31",
-        "lenke": "https://www.cnbc.com/2026/09/18/at-dreamforce-business-leaders-say-older-ai-models-are-enough.html",
+        "tid": "05:00",
+        "lenke": "https://www.cnbc.com/2026/09/19/underwater-war-sea-drones-defense-tech.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Whiskymerke knyttet til Jack Daniels ansikter et nytt kapittel 7",
+        "kilde": "Yahoo Finance",
+        "tid": "02:59",
+        "lenke": "https://finance.yahoo.com/small-business/articles/170-old-whiskey-brands-saga-171043884.html",
         "engelsk_kilde": true
       }
     ]
