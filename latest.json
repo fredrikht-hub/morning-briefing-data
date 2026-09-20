@@ -1,52 +1,52 @@
 {
   "dato": "2026-09-20",
   "dato_norsk": "Søndag 20. september 2026",
-  "generert_kl": "12:15",
+  "generert_kl": "16:04",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Nvidias administrerende direktør Jensen Huang fremstår som Trumps beste allierte i sikkerhetsdebatten om kunstig intelligens",
-      "kilde": "CNBC Top News",
-      "tid": "11:25",
-      "lenke": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Budsjettflyselskapet King Bill Franke varmer opp til førsteklasses seter og premium-oppgraderinger",
-      "kilde": "CNBC Top News",
-      "tid": "12:00",
-      "lenke": "https://www.cnbc.com/2026/09/20/bill-franke-frontier-spirit-budget-airlines.html",
-      "engelsk_kilde": true
-    },
-    {
       "tittel": "Kina jager SpaceX og retter blikket mot den globale romøkonomien",
       "kilde": "MarketWatch",
-      "tid": "12:00",
+      "tid": "13:53",
       "lenke": "https://www.marketwatch.com/story/china-is-chasing-spacex-and-setting-its-sights-on-the-global-space-economy-3b9e37ff?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Williams-Sonomas aksjer har steget i et tregt boligmarked. Slik vant den over Wall Street",
-      "kilde": "CNBC Top News",
-      "tid": "12:00",
-      "lenke": "https://www.cnbc.com/2026/09/20/williams-sonoma-stock-rises-housing-market.html",
+      "tittel": "Nå er han tidenes mestskårande på nivå to i norsk herrefotball",
+      "kilde": "NRK Nyheter",
+      "tid": "15:23",
+      "lenke": "https://www.nrk.no/rogaland/sory-diarra-har-slatt-den-historiske-rekorden-1.18022380",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Dow Jones Futures: Kan markedsrallyet ta fly? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+      "kilde": "Yahoo Finance",
+      "tid": "15:25",
+      "lenke": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Tyskland sliter med å finne nok soldater til Europas største hær",
-      "kilde": "NRK Nyheter",
-      "tid": "06:16",
-      "lenke": "https://www.nrk.no/urix/tyskland-trenger-80.000-nye-soldater-for-a-bli-krigsdyktige-1.18026481",
-      "engelsk_kilde": false
+      "tittel": "Joby Aviation-aksjen er nede med 54% i år. Her er grunnen til at jeg ville kjøpt den før 2027.",
+      "kilde": "Yahoo Finance",
+      "tid": "15:35",
+      "lenke": "https://finance.yahoo.com/markets/stocks/articles/joby-aviation-stock-down-54-153500236.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "‘Det kan være en sølvfôr’: Min venns kone døde på 60 etter en høy inntjening karriere. Kan han kreve trygden hennes?",
+      "kilde": "MarketWatch",
+      "tid": "13:16",
+      "lenke": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+      "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "Tyskland sliter med å finne nok soldater til Europas største hær",
+        "tittel": "Nå er han tidenes mestskårande på nivå to i norsk herrefotball",
         "kilde": "NRK Nyheter",
-        "tid": "06:16",
-        "lenke": "https://www.nrk.no/urix/tyskland-trenger-80.000-nye-soldater-for-a-bli-krigsdyktige-1.18026481",
+        "tid": "15:23",
+        "lenke": "https://www.nrk.no/rogaland/sory-diarra-har-slatt-den-historiske-rekorden-1.18022380",
         "engelsk_kilde": false
       }
     ],
@@ -61,6 +61,34 @@
     ],
     "MARKEDER": [
       {
+        "tittel": "Joby Aviation-aksjen er nede med 54% i år. Her er grunnen til at jeg ville kjøpt den før 2027.",
+        "kilde": "Yahoo Finance",
+        "tid": "15:35",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/joby-aviation-stock-down-54-153500236.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Dow Jones Futures: Kan markedsrallyet ta fly? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+        "kilde": "Yahoo Finance",
+        "tid": "15:25",
+        "lenke": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Rekordhøye dieselpriser avslører smertepunkter i aksjemarkedet og økonomien",
+        "kilde": "MarketWatch",
+        "tid": "13:00",
+        "lenke": "https://www.marketwatch.com/story/record-diesel-prices-are-exposing-pain-points-in-the-stock-market-and-economy-a2079b04?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Topp Wall Street-analytikere finner disse 3 aksjene attraktive som langsiktige investeringer",
+        "kilde": "CNBC Top News",
+        "tid": "12:01",
+        "lenke": "https://www.cnbc.com/2026/09/20/top-wall-street-analysts-find-these-3-stocks-attractive-as-long-term-investments.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Williams-Sonomas aksjer har steget i et tregt boligmarked. Slik vant den over Wall Street",
         "kilde": "CNBC Top News",
         "tid": "12:00",
@@ -70,18 +98,32 @@
     ],
     "ENERGI_RAAVARER": [
       {
-        "tittel": "Årets dyreste og billigste strøm: – Vi har vinterpriser allerede",
-        "kilde": "E24",
-        "tid": "15:52",
-        "lenke": "https://e24.no/energi-og-klima/i/PdlkqX/aarets-dyreste-og-billigste-stroem-vi-har-vinterpriser-allerede?utm_medium=rss",
-        "engelsk_kilde": false
+        "tittel": "Chevron (CVX) supercharger sin Venezuela-innsats med flere oljerigger",
+        "kilde": "Yahoo Finance",
+        "tid": "15:18",
+        "lenke": "https://finance.yahoo.com/energy/articles/chevron-cvx-supercharges-venezuela-bet-151837921.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Det kan være en sølvfôr’: Min venns kone døde på 60 etter en høy inntjening karriere. Kan han kreve trygden hennes?",
+        "kilde": "MarketWatch",
+        "tid": "13:16",
+        "lenke": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+        "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
+        "tittel": "\"Robotrelasjoner\" -avdelingen kan bli virkelighet på fremtidens arbeidsplass",
+        "kilde": "CNBC Top News",
+        "tid": "14:37",
+        "lenke": "https://www.cnbc.com/2026/09/20/ai-jobs-worker-fears.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Kina jager SpaceX og retter blikket mot den globale romøkonomien",
         "kilde": "MarketWatch",
-        "tid": "12:00",
+        "tid": "13:53",
         "lenke": "https://www.marketwatch.com/story/china-is-chasing-spacex-and-setting-its-sights-on-the-global-space-economy-3b9e37ff?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
@@ -91,23 +133,23 @@
         "tid": "11:25",
         "lenke": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Microsoft porterer agentbasert copilot-kjøretid til Rust for $ 120 000",
-        "kilde": "Hacker News",
-        "tid": "09:08",
-        "lenke": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Googles Gemini AI hacket tre selskaper i sikkerhetstest",
-        "kilde": "BBC Business",
-        "tid": "13:39",
-        "lenke": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
+      {
+        "tittel": "NextEras Nuclear Bet fikk nettopp en økning på $ 1,9 milliarder",
+        "kilde": "Yahoo Finance",
+        "tid": "15:24",
+        "lenke": "https://finance.yahoo.com/energy/articles/nextera-nuclear-bet-just-got-152438612.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "USA oppfordrer amerikanerne til å revurdere Midtøsten-reiser etter hvert som Iran-spenningene øker",
+        "kilde": "CNBC Top News",
+        "tid": "14:23",
+        "lenke": "https://www.cnbc.com/2026/09/20/us-middle-east-travel-warning-iran-war-hormuz.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "MS NOW, CNN og Politico-journalister blokkert fra Det hvite hus etter Trump-forbud",
         "kilde": "CNBC Top News",
@@ -118,10 +160,185 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "Kan jeg stryke på personlighetstesten?",
+        "kilde": "E24",
+        "tid": "15:34",
+        "lenke": "https://e24.no/karriere-og-ledelse/i/Ok5LWq/kan-jeg-stryke-paa-personlighetstesten?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "NextEra (NEE) og Dominion (D) avslører en større bane for Virginia",
+        "kilde": "Yahoo Finance",
+        "tid": "15:33",
+        "lenke": "https://finance.yahoo.com/energy/articles/nextera-nee-dominion-d-unveil-153356972.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Klart for rentethriller: – Kan komme to hevinger",
+        "kilde": "E24",
+        "tid": "15:32",
+        "lenke": "https://e24.no/norsk-oekonomi/i/pBaQeV/klart-for-rentethriller-kan-komme-to-hevinger?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "BMO-kapitalinnsatser på en retur for Enbridge (ENB)",
+        "kilde": "Yahoo Finance",
+        "tid": "15:29",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/bmo-capital-bets-rebound-enbridge-152940861.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ettelektronunivers",
+        "kilde": "Hacker News",
+        "tid": "15:28",
+        "lenke": "https://en.wikipedia.org/wiki/One-electron_universe",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tok akupunktur – ble sykemeldt i åtte måneder",
+        "kilde": "NRK Nyheter",
+        "tid": "15:22",
+        "lenke": "https://www.nrk.no/stor-oslo/fikk-akupunkturbehandling-_-ble-sykemeldt-i-atte-maneder-1.18028838",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Morgan Stanley ser Shell (SHEL) treffe nye høyder",
+        "kilde": "Yahoo Finance",
+        "tid": "15:20",
+        "lenke": "https://finance.yahoo.com/energy/articles/morgan-stanley-sees-shell-shel-152036523.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Singapore betaler folk for å legge fra seg telefonene og lese bøker",
+        "kilde": "Hacker News",
+        "tid": "15:18",
+        "lenke": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "UBS ser Phillips 66 (PSX) flammende forbi sin rekordhøye",
+        "kilde": "Yahoo Finance",
+        "tid": "15:12",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/ubs-sees-phillips-66-psx-151252128.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Baker Hughes (BKR) Hever 2026 Veiledning. Men investorer er ikke imponert",
+        "kilde": "Yahoo Finance",
+        "tid": "15:09",
+        "lenke": "https://finance.yahoo.com/energy/articles/baker-hughes-bkr-raises-2026-150954006.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Sherline Tools går konkurs",
+        "kilde": "Hacker News",
+        "tid": "15:09",
+        "lenke": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Utleieeiendommen min er nedbetalt, men jeg trenger kontanter. Er dette et dårlig tidspunkt å ta ut en $ 50 000 HELOC?",
+        "kilde": "MarketWatch",
+        "tid": "15:00",
+        "lenke": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Haaland med kjempemiss – så brøt han en ny barriere",
+        "kilde": "NRK Nyheter",
+        "tid": "14:58",
+        "lenke": "https://www.nrk.no/sport/erling-braut-haaland-med-kjempemiss-_-sa-brot-han-en-ny-barriere-1.18030797",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Ed Davey krever øyeblikkelig 10 pence cut to fuel duty",
+        "kilde": "BBC Business",
+        "tid": "14:42",
+        "lenke": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vet du hva «pydde» betyr? Slik vil de redde dialektordene",
+        "kilde": "NRK Nyheter",
+        "tid": "14:40",
+        "lenke": "https://www.nrk.no/sorlandet/kjemper-for-bygdespraket_-_-det-er-viktig-for-identiteten-var-1.18022100",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vågslidtunnelen stengt etter ulykke",
+        "kilde": "NRK Nyheter",
+        "tid": "14:33",
+        "lenke": "https://www.nrk.no/vestfoldogtelemark/vagslidtunnelen-stengt-etter-ulykke-1.18030752",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Snoopy-kopper på Starbucks og McDonald's SpongeBob-leker har store markeringer på eBay",
+        "kilde": "MarketWatch",
+        "tid": "14:08",
+        "lenke": "https://www.marketwatch.com/story/starbuckss-snoopy-cups-and-mcdonalds-spongebob-toys-are-commanding-huge-markups-on-ebay-ed3e514d?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Lib Dems lover å avslutte «datamaskinen sier nei» -økonomien for å øke veksten",
+        "kilde": "BBC Business",
+        "tid": "14:05",
+        "lenke": "https://www.bbc.co.uk/news/articles/cqrk31k7pprlo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Min totale saldo bør være $ 20 millioner’: Jeg investerte $ 1,1 millioner i en kryptoplattform. Har jeg mistet alt?",
+        "kilde": "MarketWatch",
+        "tid": "14:00",
+        "lenke": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Matematisk biljard (2024)",
+        "kilde": "Hacker News",
+        "tid": "13:42",
+        "lenke": "https://structures.uni-heidelberg.de/blog/posts/2024_01_costa/index.php",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Har fugler aksenter? de regionale forskjellene i fuglesang",
+        "kilde": "Hacker News",
+        "tid": "13:19",
+        "lenke": "https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "\"Det er forferdelig\": Hvordan tariffer, skyhøye drivstoffkostnader og høyere renter presser amerikanske selskaper",
         "kilde": "CNBC Top News",
-        "tid": "12:00",
+        "tid": "12:47",
         "lenke": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Jeg er utbrent’: Jeg hjelper hele tiden fetteren min som er i ferd med å gå tom for penger. Er det for mye å forvente at søsteren hans skal hjelpe?",
+        "kilde": "MarketWatch",
+        "tid": "12:46",
+        "lenke": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ikke ta helt av",
+        "kilde": "E24",
+        "tid": "12:33",
+        "lenke": "https://e24.no/boers-og-finans/i/5paB5O/ikke-ta-helt-av?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Dommedags­profetiene rundt AI: – Klart bekymringsfullt",
+        "kilde": "E24",
+        "tid": "12:32",
+        "lenke": "https://e24.no/naeringsliv/i/vr2qyX/dommedagsprofetiene-rundt-ai-klart-bekymringsfullt?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Midtveisvelgerne er overveldende bekymret for statsgjelden. Men bare små utbedringer er forventet i år.",
+        "kilde": "MarketWatch",
+        "tid": "12:31",
+        "lenke": "https://www.marketwatch.com/story/midterm-voters-are-overwhelmingly-worried-about-the-national-debt-but-only-small-fixes-are-expected-this-year-758d364e?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -129,13 +346,6 @@
         "kilde": "CNBC Top News",
         "tid": "11:59",
         "lenke": "https://www.cnbc.com/2026/09/20/caruso-cabrera-the-investing-tailwinds-for-latin-america-are-the-best-in-decades.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvis AI-koding reduserer kodekvaliteten, administrerer du ikke kvaliteten riktig",
-        "kilde": "Hacker News",
-        "tid": "11:37",
-        "lenke": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
         "engelsk_kilde": true
       },
       {
@@ -153,27 +363,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Lib Dems lover å avslutte «datamaskinen sier nei» -økonomien for å øke veksten",
-        "kilde": "BBC Business",
-        "tid": "11:21",
-        "lenke": "https://www.bbc.co.uk/news/articles/cqrk31k7pprlo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg er lei av AI-tonen",
-        "kilde": "Hacker News",
-        "tid": "11:18",
-        "lenke": "https://sagivo.com/blog/im-tired-of-the-ai-tone",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvorfor trenger vi menneskelige matematikere lenger?",
-        "kilde": "Hacker News",
-        "tid": "10:49",
-        "lenke": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Den agentbaserte informasjonsøkonomien",
         "kilde": "E24",
         "tid": "10:45",
@@ -188,38 +377,17 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "AI og ødeleggelsen av Creative Commons",
-        "kilde": "Hacker News",
-        "tid": "10:07",
-        "lenke": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Én fisketurist er død - tre er antatt omkommet",
+        "tittel": "Én fisketurist er død – tre er antatt omkommet",
         "kilde": "NRK Nyheter",
         "tid": "09:39",
         "lenke": "https://www.nrk.no/mr/savna-fisketurister-averoy_-soker-na-etter-antatt-omkomne-1.18030566",
         "engelsk_kilde": false
       },
       {
-        "tittel": "Ed Davey krever øyeblikkelig 10 pence cut to fuel duty",
-        "kilde": "BBC Business",
-        "tid": "09:32",
-        "lenke": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Daniel (18) mente Gud var en myte – nå går han i kirken hver søndag",
         "kilde": "NRK Nyheter",
         "tid": "09:28",
         "lenke": "https://www.nrk.no/rogaland/1-av-3-unge-tror-pa-gud-_-oppsiktsvekkende-stor-vekst-i-ny-norsk-monitor-undersokelse-1.17987513",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Har ingen medisinar som verkar – forskarar trur dei veit om ei mogleg behandling",
-        "kilde": "NRK Nyheter",
-        "tid": "08:59",
-        "lenke": "https://www.nrk.no/trondelag/ingen-medisinar-som-verkar-mot-leversjukdommen-psc-_-forskarar-trur-dei-veit-om-ei-mogleg-behandling-1.18021616",
         "engelsk_kilde": false
       },
       {
@@ -237,31 +405,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Skrei-museet til over ein halv milliard opna denne helga",
-        "kilde": "NRK Nyheter",
-        "tid": "08:10",
-        "lenke": "https://www.nrk.no/nordland/offisiell-opning-skrei-museet-i-lofoten-1.18029638",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Derfor streiker lokførerne: – Må vite at jeg får levert barna",
         "kilde": "E24",
         "tid": "06:10",
         "lenke": "https://e24.no/norsk-oekonomi/i/K8Jn2G/derfor-streiker-lokfoererne-maa-vite-at-jeg-faar-levert-barna?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Ukraina angrep oljeraffineri i Moskva",
-        "kilde": "NRK Nyheter",
-        "tid": "05:42",
-        "lenke": "https://www.nrk.no/nyheter/ukraina-angrep-oljeraffineri-i-moskva-1.18030537",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Naa har dei to mest sentrale nordmennene skrota Å-en",
-        "kilde": "NRK Nyheter",
-        "tid": "05:39",
-        "lenke": "https://www.nrk.no/mr/baade-kong-haakon-og-erling-braut-haaland-har-skrota-vaar-nasjonalbokstav-1.18007273",
         "engelsk_kilde": false
       },
       {
@@ -286,27 +433,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "‘Min totale saldo bør være $ 20 millioner’: Jeg investerte $ 1,1 millioner i en kryptoplattform. Har jeg mistet alt?",
-        "kilde": "MarketWatch",
-        "tid": "01:45",
-        "lenke": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Jeg er utbrent’: Jeg hjelper hele tiden fetteren min som er i ferd med å gå tom for penger. Er det for mye å forvente at søsteren hans skal hjelpe?",
-        "kilde": "MarketWatch",
-        "tid": "01:30",
-        "lenke": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg er i 50-årene. Moren min døde av Alzheimers. Trenger jeg langtidspleieforsikring?",
-        "kilde": "MarketWatch",
-        "tid": "01:03",
-        "lenke": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "80 år gammel motekjede som stenger 120 butikker",
         "kilde": "Yahoo Finance",
         "tid": "23:02",
@@ -318,76 +444,6 @@
         "kilde": "BBC Business",
         "tid": "23:01",
         "lenke": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Converse trekker reklame etter Ku Klux Klan-sammenligning",
-        "kilde": "E24",
-        "tid": "20:08",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/d4AwnA/converse-trekker-reklame?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Stor test: AI-chatboter bommet på over halvparten av økonomispørsmålene",
-        "kilde": "E24",
-        "tid": "19:12",
-        "lenke": "https://e24.no/privatoekonomi/i/wroO1o/ai-chatboter-bommet-paa-over-halvparten-av-oekonomispoersmaalene?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Det er nesten umulig å selge en leilighet i disse dager: \"Jeg føler meg fanget\"",
-        "kilde": "MarketWatch",
-        "tid": "18:57",
-        "lenke": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "90% av pensjonistene gjør denne feilberegningen med sparepengene sine",
-        "kilde": "MarketWatch",
-        "tid": "18:40",
-        "lenke": "https://www.marketwatch.com/story/90-of-retirees-are-making-this-miscalculation-with-their-savings-feb9db79?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Mange unge investorer har ikke råd til å investere uten foreldrenes hjelp",
-        "kilde": "MarketWatch",
-        "tid": "18:22",
-        "lenke": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Fremtidens pensjonisttilværelse? Arbeid til du dør.",
-        "kilde": "MarketWatch",
-        "tid": "17:53",
-        "lenke": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Milliardær vil ha full NRK-tilgang fra Sveits: – Ikke rettferdig",
-        "kilde": "E24",
-        "tid": "15:54",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/K8Jzm4/milliardaer-vil-ha-full-nrk-tilgang-fra-sveits-ikke-rettferdig?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Hun betaler $ 96 i måneden for å bo i Yellowstone nasjonalpark: \"Å være her har forandret livet mitt\"",
-        "kilde": "CNBC Top News",
-        "tid": "14:10",
-        "lenke": "https://www.cnbc.com/2026/09/19/living-in-yellowstone-for-96-dollars-a-month.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Forbrukerfølelsen er i søppelet til tross for en solid økonomi. Goldman Sachs klandrer 'lavere lykke'",
-        "kilde": "CNBC Top News",
-        "tid": "12:50",
-        "lenke": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Buffett tar neste skritt i planen for å hindre Berkshire i å gå seg vill",
-        "kilde": "CNBC Top News",
-        "tid": "12:43",
-        "lenke": "https://www.cnbc.com/2026/09/19/warren-buffett-takes-next-step-in-plan-to-keep-berkshire-from-straying.html",
         "engelsk_kilde": true
       }
     ]
