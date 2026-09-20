@@ -1,47 +1,54 @@
 {
   "dato": "2026-09-20",
   "dato_norsk": "Søndag 20. september 2026",
-  "generert_kl": "16:04",
+  "generert_kl": "20:09",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Kina jager SpaceX og retter blikket mot den globale romøkonomien",
-      "kilde": "MarketWatch",
-      "tid": "13:53",
-      "lenke": "https://www.marketwatch.com/story/china-is-chasing-spacex-and-setting-its-sights-on-the-global-space-economy-3b9e37ff?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Nå er han tidenes mestskårande på nivå to i norsk herrefotball",
-      "kilde": "NRK Nyheter",
-      "tid": "15:23",
-      "lenke": "https://www.nrk.no/rogaland/sory-diarra-har-slatt-den-historiske-rekorden-1.18022380",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Dow Jones Futures: Kan markedsrallyet ta fly? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+      "tittel": "Vera Bradley (VRA) returnerer til driftsresultat. Kan gjenvinningen vare lenger enn tollrefusjoner?",
       "kilde": "Yahoo Finance",
-      "tid": "15:25",
-      "lenke": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
+      "tid": "18:51",
+      "lenke": "https://finance.yahoo.com/markets/stocks/articles/vera-bradley-vra-returns-operating-185154105.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Joby Aviation-aksjen er nede med 54% i år. Her er grunnen til at jeg ville kjøpt den før 2027.",
+      "tittel": "Hormuz-krisen presser det globale kullbehovet til rekordhøye nivåer",
       "kilde": "Yahoo Finance",
-      "tid": "15:35",
-      "lenke": "https://finance.yahoo.com/markets/stocks/articles/joby-aviation-stock-down-54-153500236.html",
+      "tid": "19:00",
+      "lenke": "https://finance.yahoo.com/energy/articles/hormuz-crisis-push-global-coal-190000905.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "‘Det kan være en sølvfôr’: Min venns kone døde på 60 etter en høy inntjening karriere. Kan han kreve trygden hennes?",
-      "kilde": "MarketWatch",
-      "tid": "13:16",
-      "lenke": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+      "tittel": "Trump skal møte NYC-ordfører Zohran Mamdani på mandag i forkant av FNs generalforsamling",
+      "kilde": "CNBC Top News",
+      "tid": "19:06",
+      "lenke": "https://www.cnbc.com/2026/09/20/trump-mamdani-gracie-mansion-meeting.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Bessent møter Kinas visestatsminister He Lifeng i forkant av Trump-Xi-toppmøtet",
+      "kilde": "CNBC Top News",
+      "tid": "16:56",
+      "lenke": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Nvidias administrerende direktør Jensen Huang fremstår som Trumps beste allierte i sikkerhetsdebatten om kunstig intelligens",
+      "kilde": "CNBC Top News",
+      "tid": "11:25",
+      "lenke": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
+      {
+        "tittel": "Brann i Oslo: – Mye røyk og åpne flammer",
+        "kilde": "NRK Nyheter",
+        "tid": "16:39",
+        "lenke": "https://www.nrk.no/nyheter/brann-i-oslo_-_-mye-royk-og-apne-flammer-1.18030854",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Nå er han tidenes mestskårande på nivå to i norsk herrefotball",
         "kilde": "NRK Nyheter",
@@ -61,17 +68,10 @@
     ],
     "MARKEDER": [
       {
-        "tittel": "Joby Aviation-aksjen er nede med 54% i år. Her er grunnen til at jeg ville kjøpt den før 2027.",
+        "tittel": "Vera Bradley (VRA) returnerer til driftsresultat. Kan gjenvinningen vare lenger enn tollrefusjoner?",
         "kilde": "Yahoo Finance",
-        "tid": "15:35",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/joby-aviation-stock-down-54-153500236.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Dow Jones Futures: Kan markedsrallyet ta fly? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-        "kilde": "Yahoo Finance",
-        "tid": "15:25",
-        "lenke": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
+        "tid": "18:51",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/vera-bradley-vra-returns-operating-185154105.html",
         "engelsk_kilde": true
       },
       {
@@ -98,10 +98,17 @@
     ],
     "ENERGI_RAAVARER": [
       {
-        "tittel": "Chevron (CVX) supercharger sin Venezuela-innsats med flere oljerigger",
+        "tittel": "Hormuz-krisen presser det globale kullbehovet til rekordhøye nivåer",
         "kilde": "Yahoo Finance",
-        "tid": "15:18",
-        "lenke": "https://finance.yahoo.com/energy/articles/chevron-cvx-supercharges-venezuela-bet-151837921.html",
+        "tid": "19:00",
+        "lenke": "https://finance.yahoo.com/energy/articles/hormuz-crisis-push-global-coal-190000905.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Chevrons konsernsjef sender et sterkt budskap om oljepris og økonomi",
+        "kilde": "Yahoo Finance",
+        "tid": "16:47",
+        "lenke": "https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html",
         "engelsk_kilde": true
       },
       {
@@ -113,6 +120,13 @@
       }
     ],
     "TEKNOLOGI": [
+      {
+        "tittel": "Sandkasse for programvare: Det grunnleggende",
+        "kilde": "Hacker News",
+        "tid": "18:42",
+        "lenke": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "\"Robotrelasjoner\" -avdelingen kan bli virkelighet på fremtidens arbeidsplass",
         "kilde": "CNBC Top News",
@@ -137,10 +151,17 @@
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "NextEras Nuclear Bet fikk nettopp en økning på $ 1,9 milliarder",
-        "kilde": "Yahoo Finance",
-        "tid": "15:24",
-        "lenke": "https://finance.yahoo.com/energy/articles/nextera-nuclear-bet-just-got-152438612.html",
+        "tittel": "Trump skal møte NYC-ordfører Zohran Mamdani på mandag i forkant av FNs generalforsamling",
+        "kilde": "CNBC Top News",
+        "tid": "19:06",
+        "lenke": "https://www.cnbc.com/2026/09/20/trump-mamdani-gracie-mansion-meeting.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bessent møter Kinas visestatsminister He Lifeng i forkant av Trump-Xi-toppmøtet",
+        "kilde": "CNBC Top News",
+        "tid": "16:56",
+        "lenke": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
         "engelsk_kilde": true
       },
       {
@@ -149,29 +170,134 @@
         "tid": "14:23",
         "lenke": "https://www.cnbc.com/2026/09/20/us-middle-east-travel-warning-iran-war-hormuz.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "MS NOW, CNN og Politico-journalister blokkert fra Det hvite hus etter Trump-forbud",
-        "kilde": "CNBC Top News",
-        "tid": "18:12",
-        "lenke": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
-        "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "Olaf Tufte årets deltakar på «Reality Awards»",
+        "kilde": "NRK Nyheter",
+        "tid": "19:47",
+        "lenke": "https://www.nrk.no/norge/olaf-tufte-arets-deltakar-pa-_reality-awards_-1.18030934",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Axon Enterprise (AXON) priser $ 1B av nullkupongnotater. Hva er den virkelige kostnaden?",
+        "kilde": "Yahoo Finance",
+        "tid": "19:47",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/axon-enterprise-axon-prices-1b-194719659.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvorfor MCP alltid var en dårlig idé",
+        "kilde": "Hacker News",
+        "tid": "19:44",
+        "lenke": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "SABR-priser (SABR) $ 1,35B av sikrede notater. Er pusterommet verdt kostnaden?",
+        "kilde": "Yahoo Finance",
+        "tid": "19:42",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/sabre-sabr-prices-1-35b-194212645.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Brookfield Business (BBUC) blir med i Reliance Deal. Hvilke returer kan den fange opp?",
+        "kilde": "Yahoo Finance",
+        "tid": "19:40",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/brookfield-business-bbuc-joins-reliance-194039725.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Pengehierarkiet",
+        "kilde": "Hacker News",
+        "tid": "19:37",
+        "lenke": "https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Casper (10) brukar karate mot barnedemens: – Utviklinga har vore enorm",
+        "kilde": "NRK Nyheter",
+        "tid": "19:26",
+        "lenke": "https://www.nrk.no/sport/casper-erlandsson-brukar-karate-mot-barnedemens-1.18029643",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Diesel til $ 6,48 per gallon presser lastebilsjåfører til å bruke $ 3500 i uken på drivstoff, noe som tvinger noen til å slutte",
+        "kilde": "Yahoo Finance",
+        "tid": "19:00",
+        "lenke": "https://finance.yahoo.com/energy/articles/diesel-6-48-per-gallon-190000006.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Lindblad Expeditions (LIND) kjøper White Desert Control. Kan landreiseheisen i Antarktis komme tilbake?",
+        "kilde": "Yahoo Finance",
+        "tid": "18:56",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/lindblad-expeditions-lind-buys-white-185653752.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "SPX Technologies (SPXC) kjøper FIS-vann for $ 410 millioner. Kan vannstyring løfte avkjølingsreturer?",
+        "kilde": "Yahoo Finance",
+        "tid": "18:45",
+        "lenke": "https://finance.yahoo.com/markets/stocks/articles/spx-technologies-spxc-buys-fis-184511019.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Én person omkommet etter trafikkulykke i Vinje",
+        "kilde": "NRK Nyheter",
+        "tid": "18:45",
+        "lenke": "https://www.nrk.no/nyheter/en-person-omkommet-etter-trafikkulykke-i-vinje-1.18030927",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "– Her bygges Nordens største batteri",
+        "kilde": "E24",
+        "tid": "17:58",
+        "lenke": "https://e24.no/norsk-oekonomi/i/ln2oEA/her-bygges-nordens-stoerste-batteri?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "En nødvendig historie om den rareste bokstaven: W",
+        "kilde": "Hacker News",
+        "tid": "17:55",
+        "lenke": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg forvandlet Jev til en (elendig) chatbot",
+        "kilde": "Hacker News",
+        "tid": "17:51",
+        "lenke": "https://github.com/kyle-pena-nlp/jevchat/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg har 125 000 $ i kredittkortgjeld. Vil $ 17 000 i måneden i inntekt, inkludert funksjonshemming, påvirke konkursen min?",
+        "kilde": "MarketWatch",
+        "tid": "17:30",
+        "lenke": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Skal sjå på regelverket for båtutleige",
+        "kilde": "NRK Nyheter",
+        "tid": "16:59",
+        "lenke": "https://www.nrk.no/mr/sjofartsdirektoratet-vil-sja-pa-regelverket-for-utleige-av-fritidsbatar-1.18030592",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "\"Mitt hovedmål er å hjelpe folk\": Jeg er singel, 74, med $ 10 millioner som brenner et hull i lommen. Hva skal jeg gjøre?",
+        "kilde": "MarketWatch",
+        "tid": "16:30",
+        "lenke": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Kan jeg stryke på personlighetstesten?",
         "kilde": "E24",
         "tid": "15:34",
         "lenke": "https://e24.no/karriere-og-ledelse/i/Ok5LWq/kan-jeg-stryke-paa-personlighetstesten?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "NextEra (NEE) og Dominion (D) avslører en større bane for Virginia",
-        "kilde": "Yahoo Finance",
-        "tid": "15:33",
-        "lenke": "https://finance.yahoo.com/energy/articles/nextera-nee-dominion-d-unveil-153356972.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Klart for rentethriller: – Kan komme to hevinger",
@@ -181,60 +307,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "BMO-kapitalinnsatser på en retur for Enbridge (ENB)",
-        "kilde": "Yahoo Finance",
-        "tid": "15:29",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/bmo-capital-bets-rebound-enbridge-152940861.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Ettelektronunivers",
-        "kilde": "Hacker News",
-        "tid": "15:28",
-        "lenke": "https://en.wikipedia.org/wiki/One-electron_universe",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Tok akupunktur – ble sykemeldt i åtte måneder",
         "kilde": "NRK Nyheter",
         "tid": "15:22",
         "lenke": "https://www.nrk.no/stor-oslo/fikk-akupunkturbehandling-_-ble-sykemeldt-i-atte-maneder-1.18028838",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Morgan Stanley ser Shell (SHEL) treffe nye høyder",
-        "kilde": "Yahoo Finance",
-        "tid": "15:20",
-        "lenke": "https://finance.yahoo.com/energy/articles/morgan-stanley-sees-shell-shel-152036523.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Singapore betaler folk for å legge fra seg telefonene og lese bøker",
-        "kilde": "Hacker News",
-        "tid": "15:18",
-        "lenke": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "UBS ser Phillips 66 (PSX) flammende forbi sin rekordhøye",
-        "kilde": "Yahoo Finance",
-        "tid": "15:12",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/ubs-sees-phillips-66-psx-151252128.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Baker Hughes (BKR) Hever 2026 Veiledning. Men investorer er ikke imponert",
-        "kilde": "Yahoo Finance",
-        "tid": "15:09",
-        "lenke": "https://finance.yahoo.com/energy/articles/baker-hughes-bkr-raises-2026-150954006.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Sherline Tools går konkurs",
-        "kilde": "Hacker News",
-        "tid": "15:09",
-        "lenke": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Utleieeiendommen min er nedbetalt, men jeg trenger kontanter. Er dette et dårlig tidspunkt å ta ut en $ 50 000 HELOC?",
@@ -258,20 +335,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Vet du hva «pydde» betyr? Slik vil de redde dialektordene",
-        "kilde": "NRK Nyheter",
-        "tid": "14:40",
-        "lenke": "https://www.nrk.no/sorlandet/kjemper-for-bygdespraket_-_-det-er-viktig-for-identiteten-var-1.18022100",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Vågslidtunnelen stengt etter ulykke",
-        "kilde": "NRK Nyheter",
-        "tid": "14:33",
-        "lenke": "https://www.nrk.no/vestfoldogtelemark/vagslidtunnelen-stengt-etter-ulykke-1.18030752",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Snoopy-kopper på Starbucks og McDonald's SpongeBob-leker har store markeringer på eBay",
         "kilde": "MarketWatch",
         "tid": "14:08",
@@ -293,31 +356,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Matematisk biljard (2024)",
-        "kilde": "Hacker News",
-        "tid": "13:42",
-        "lenke": "https://structures.uni-heidelberg.de/blog/posts/2024_01_costa/index.php",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Har fugler aksenter? de regionale forskjellene i fuglesang",
-        "kilde": "Hacker News",
-        "tid": "13:19",
-        "lenke": "https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "\"Det er forferdelig\": Hvordan tariffer, skyhøye drivstoffkostnader og høyere renter presser amerikanske selskaper",
         "kilde": "CNBC Top News",
         "tid": "12:47",
         "lenke": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Jeg er utbrent’: Jeg hjelper hele tiden fetteren min som er i ferd med å gå tom for penger. Er det for mye å forvente at søsteren hans skal hjelpe?",
-        "kilde": "MarketWatch",
-        "tid": "12:46",
-        "lenke": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -335,25 +377,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Midtveisvelgerne er overveldende bekymret for statsgjelden. Men bare små utbedringer er forventet i år.",
-        "kilde": "MarketWatch",
-        "tid": "12:31",
-        "lenke": "https://www.marketwatch.com/story/midterm-voters-are-overwhelmingly-worried-about-the-national-debt-but-only-small-fixes-are-expected-this-year-758d364e?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Caruso-Cabrera: Investeringsmedvinden for Latin-Amerika er den beste på flere tiår",
         "kilde": "CNBC Top News",
         "tid": "11:59",
         "lenke": "https://www.cnbc.com/2026/09/20/caruso-cabrera-the-investing-tailwinds-for-latin-america-are-the-best-in-decades.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Det bare klatrerne ser",
-        "kilde": "NRK Nyheter",
-        "tid": "11:28",
-        "lenke": "https://www.nrk.no/urix/xl/fjellet-er-blitt-farligere-1.18027972",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Milliardæren Man United-eier mister moralsk høy grunn etter skatteeksil, sier Labour-leder",
@@ -377,20 +405,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Én fisketurist er død – tre er antatt omkommet",
-        "kilde": "NRK Nyheter",
-        "tid": "09:39",
-        "lenke": "https://www.nrk.no/mr/savna-fisketurister-averoy_-soker-na-etter-antatt-omkomne-1.18030566",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Daniel (18) mente Gud var en myte – nå går han i kirken hver søndag",
-        "kilde": "NRK Nyheter",
-        "tid": "09:28",
-        "lenke": "https://www.nrk.no/rogaland/1-av-3-unge-tror-pa-gud-_-oppsiktsvekkende-stor-vekst-i-ny-norsk-monitor-undersokelse-1.17987513",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Ønsker økte drivstofflagre: – Staten bør ta regningen",
         "kilde": "E24",
         "tid": "08:56",
@@ -412,24 +426,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Frankrikes vinproduksjon nærmer seg 70 års lavpunkt, noe som etterlater vinprodusenter med vanskelige valg",
-        "kilde": "CNBC Top News",
-        "tid": "05:00",
-        "lenke": "https://www.cnbc.com/2026/09/20/france-wine-production-70-year-low-heatwaves-drought.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "AI-risikoen småsparere står i",
         "kilde": "E24",
         "tid": "04:49",
         "lenke": "https://e24.no/boers-og-finans/i/XM0jVx/ai-risikoen-smaasparere-staar-i?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Oskar «Lilleulv» Westerlin: – Jeg vil bli en vis gris",
-        "kilde": "E24",
-        "tid": "03:00",
-        "lenke": "https://e24.no/naeringsliv/i/bOxVxA/oskar-lilleulv-westerlin-jeg-vil-bli-en-vis-gris?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
