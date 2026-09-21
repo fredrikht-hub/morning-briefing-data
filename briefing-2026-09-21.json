@@ -1,123 +1,100 @@
 {
   "dato": "2026-09-21",
   "dato_norsk": "Mandag 21. september 2026",
-  "generert_kl": "16:04",
+  "generert_kl": "20:11",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Trump-administratoren vil ikke gi AI-ledere et «ansvarsskjold», sier Bessent til CNBC",
+      "tittel": "Trumps medieforbudssøksmål satt til onsdagens rettshøring",
       "kilde": "CNBC Top News",
-      "tid": "15:14",
-      "lenke": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "USA-noterte grønlandske aksjer øker etter at Trump kunngjør sikkerhetsavtale med Danmark",
-      "kilde": "CNBC Top News",
-      "tid": "15:34",
-      "lenke": "https://www.cnbc.com/2026/09/21/greenland-trump-denmark-deal-stocks-mining.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Grønlandsavtalen brenner kritiske metaller; sjeldne jordlagre hengsler på Trump-Xi",
-      "kilde": "Yahoo Finance",
-      "tid": "15:33",
-      "lenke": "https://www.investors.com/news/critical-metals-crml-stock-rare-earth-us-denmark-greenland-trump-xi/?src=A00220&yptr=yahoo",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Det hvite hus 'TV-basseng vil ikke dekke Trump etter presseforbud: CNN",
-      "kilde": "CNBC Top News",
-      "tid": "14:46",
-      "lenke": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-cnn-ban.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Trump saksøkt av MS NOW, CNN, Politico over Det hvite hus medieforbud",
-      "kilde": "CNBC Top News",
-      "tid": "15:46",
+      "tid": "18:56",
       "lenke": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Mye av Trumps lovede midterm valgutgifter har ennå ikke dukket opp, nye arkiveringsprogrammer",
+      "kilde": "CNBC Top News",
+      "tid": "19:28",
+      "lenke": "https://www.cnbc.com/2026/09/21/trump-maga-midterm-spending-war-chest.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Elon Musk, Jensen Huang og Tim Cook skal spise middag med Xi denne uken. Dette er hva selskapene deres vil ha fra Kina.",
+      "kilde": "MarketWatch",
+      "tid": "19:46",
+      "lenke": "https://www.marketwatch.com/story/elon-musk-jensen-huang-and-tim-cook-are-set-to-dine-this-week-with-xi-heres-what-their-companies-want-from-china-cd1a1814?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "En klargjøring av mitt syn på norsk arbeidsliv",
+      "kilde": "E24",
+      "tid": "18:05",
+      "lenke": "https://e24.no/karriere-og-ledelse/i/zOoloO/en-noedvendig-presisering-om-norsk-arbeidsliv?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Paramount og statlige AGs avgjør søksmål, slik at Warner Bros.-fusjonen kan fortsette",
+      "kilde": "CNBC Top News",
+      "tid": "19:00",
+      "lenke": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "Varsler pålegg til Equinor og Vår Energi etter støy­utfordringer",
-        "kilde": "NRK Nyheter",
-        "tid": "11:12",
-        "lenke": "https://www.nrk.no/vestland/varsler-palegg-til-equinor-og-var-energi-etter-stoyutfordringer-1.18031591",
+        "tittel": "En klargjøring av mitt syn på norsk arbeidsliv",
+        "kilde": "E24",
+        "tid": "18:05",
+        "lenke": "https://e24.no/karriere-og-ledelse/i/zOoloO/en-noedvendig-presisering-om-norsk-arbeidsliv?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
-        "tittel": "Varsler pålegg til Equinor og Vår Energi etter støyutfordringer",
-        "kilde": "NRK Nyheter",
-        "tid": "10:53",
-        "lenke": "https://www.nrk.no/vestland/varsler-palegg-til-equinor-og-var-energi-etter-stoyutfordringer-1.18031383",
+        "tittel": "DNB forbyr AI-briller",
+        "kilde": "E24",
+        "tid": "16:51",
+        "lenke": "https://e24.no/naeringsliv/i/JOdrgJ/dnb-forbyr-ai-briller?utm_medium=rss",
         "engelsk_kilde": false
-      }
-    ],
-    "MAKRO": [
-      {
-        "tittel": "Trump-administratoren vil ikke gi AI-ledere et «ansvarsskjold», sier Bessent til CNBC",
-        "kilde": "CNBC Top News",
-        "tid": "15:14",
-        "lenke": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
-        "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "3 aksjer under $ 6 å kjøpe i høst",
-        "kilde": "Yahoo Finance",
-        "tid": "15:57",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-under-6-buy-155700618.html",
+        "tittel": "Amerikas strømnett er i ferd med å gå tom for juice — og disse aksjene står til å vinne",
+        "kilde": "MarketWatch",
+        "tid": "20:02",
+        "lenke": "https://www.marketwatch.com/story/americas-power-grid-is-running-out-of-juice-and-these-stocks-stand-to-gain-85364aca?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Neocloud Nscale, rivalisering mellom CoreWeave og Nebius, filer for børsnotering",
-        "kilde": "Yahoo Finance",
-        "tid": "15:47",
-        "lenke": "https://www.investors.com/news/technology/nscale-rival-of-coreweave-nebius-files-for-ipo/?src=A00220&yptr=yahoo",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "USA-noterte grønlandske aksjer øker etter at Trump kunngjør sikkerhetsavtale med Danmark",
+        "tittel": "Investorer oppdager sitt nye favorittspill innen forbruker-AI i Meta. Valgvolumet øker",
         "kilde": "CNBC Top News",
-        "tid": "15:34",
-        "lenke": "https://www.cnbc.com/2026/09/21/greenland-trump-denmark-deal-stocks-mining.html",
+        "tid": "19:59",
+        "lenke": "https://www.cnbc.com/2026/09/21/meta-investors-discover-new-ai-play.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Grønlandsavtalen brenner kritiske metaller; sjeldne jordlagre hengsler på Trump-Xi",
-        "kilde": "Yahoo Finance",
-        "tid": "15:33",
-        "lenke": "https://www.investors.com/news/critical-metals-crml-stock-rare-earth-us-denmark-greenland-trump-xi/?src=A00220&yptr=yahoo",
+        "tittel": "Wall Street blir stadig mer skeptisk til datasenterboomen",
+        "kilde": "Hacker News",
+        "tid": "19:14",
+        "lenke": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Paramount og statlige AG-er vil avgjøre søksmål, slik at Warner Bros.-fusjonen kan fortsette, sier rapporter",
+        "tittel": "Paramount og statlige AGs avgjør søksmål, slik at Warner Bros.-fusjonen kan fortsette",
         "kilde": "CNBC Top News",
-        "tid": "15:18",
+        "tid": "19:00",
         "lenke": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Aksjemarkedet i dag: Dow Up As Alphabet Shines, Tech Fund Offers Entry; Oil Dips On Iran Hopes (Live Dekning)",
-        "kilde": "Yahoo Finance",
-        "tid": "15:07",
-        "lenke": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
+        "tittel": "Paramount gjør opp søksmål med amerikanske delstater, og bidrar til en fusjon på $ 110 milliarder med Warner Bros.",
+        "kilde": "BBC Business",
+        "tid": "18:42",
+        "lenke": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "AT&Ts aksjer ser ut som den smarteste innsatsen i den trådløse sektoren, sier analytiker",
-        "kilde": "MarketWatch",
-        "tid": "14:39",
-        "lenke": "https://www.marketwatch.com/story/at-ts-stock-looks-like-the-smartest-bet-in-the-wireless-sector-analyst-says-6e773d63?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Oppgang på Wall Street",
+        "tittel": "Tek-opptur: – Ekstrem inntjening",
         "kilde": "E24",
         "tid": "13:33",
         "lenke": "https://e24.no/boers-og-finans/i/8paPJr/oppgang-paa-wall-street?utm_medium=rss",
@@ -129,93 +106,51 @@
         "tid": "10:00",
         "lenke": "https://e24.no/boers-og-finans/i/k0ovpB/groenland-aksjer-skyter-i-vaeret?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Vil ta tankrederi på børs i shippingfest",
-        "kilde": "E24",
-        "tid": "08:37",
-        "lenke": "https://e24.no/boers-og-finans/i/xrolPB/vil-ta-tankrederi-paa-boers-i-shippingfest?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Tidligere Kongsberg-sjef selger aksjer: – Fortsatt veldig troen",
-        "kilde": "E24",
-        "tid": "08:17",
-        "lenke": "https://e24.no/boers-og-finans/i/Arar6x/tidligere-kongsberg-sjef-selger-aksjer-fortsatt-veldig-troen?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Aksjemarkedet i dag: Nasdaq leder Dow, S&P 500 høyere ettersom brikkeaksjer og bitcoin rally, oljeprisene faller",
-        "kilde": "Yahoo Finance",
-        "tid": "08:02",
-        "lenke": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
-        "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "AMD treffer en stor milepæl når AI-aksjene skyter i været",
-        "kilde": "MarketWatch",
-        "tid": "15:58",
-        "lenke": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Dette er den «mest undervurderte» driveren for Microsofts virksomhet, ifølge en analytiker",
-        "kilde": "MarketWatch",
-        "tid": "15:39",
-        "lenke": "https://www.marketwatch.com/story/this-is-the-most-underappreciated-driver-for-microsoft-according-to-one-analyst-f9a5e4eb?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Noodle Gallery- Åpen kildekode, selvbetjent alternativ til Google Foto og Immich",
+        "tittel": "Den rådgivende gruppen for matematikk og kunstig intelligens",
         "kilde": "Hacker News",
-        "tid": "14:22",
-        "lenke": "https://digitalescapetools.com/tools/noodlegallery.html",
+        "tid": "19:17",
+        "lenke": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nvidia-sjefen avviser AI-utryddelsesfrykt som \"dommedagsfortellinger\"",
-        "kilde": "BBC Business",
-        "tid": "06:25",
-        "lenke": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jim Cramer sender et sterkt signal til Apple-aksjeinvestorer",
-        "kilde": "Yahoo Finance",
-        "tid": "16:33",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-strong-signal-163300406.html",
+        "tittel": "Metas personlige AI-agent Muse topper ChatGPT, Grok og Claude for nedlastinger etter lansering",
+        "kilde": "CNBC Top News",
+        "tid": "19:14",
+        "lenke": "https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html",
         "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Hva er Det hvite hus 'pressebasseng og hvorfor spiller det noen rolle?",
-        "kilde": "CNBC Top News",
-        "tid": "16:03",
-        "lenke": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-what-is.html",
+        "tittel": "Elon Musk, Jensen Huang og Tim Cook skal spise middag med Xi denne uken. Dette er hva selskapene deres vil ha fra Kina.",
+        "kilde": "MarketWatch",
+        "tid": "19:46",
+        "lenke": "https://www.marketwatch.com/story/elon-musk-jensen-huang-and-tim-cook-are-set-to-dine-this-week-with-xi-heres-what-their-companies-want-from-china-cd1a1814?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Trump saksøkt av MS NOW, CNN, Politico over Det hvite hus medieforbud",
+        "tittel": "Mye av Trumps lovede midterm valgutgifter har ennå ikke dukket opp, nye arkiveringsprogrammer",
         "kilde": "CNBC Top News",
-        "tid": "15:46",
+        "tid": "19:28",
+        "lenke": "https://www.cnbc.com/2026/09/21/trump-maga-midterm-spending-war-chest.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trumps medieforbudssøksmål satt til onsdagens rettshøring",
+        "kilde": "CNBC Top News",
+        "tid": "18:56",
         "lenke": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Trump krever 1% rente fordi USA har den ‘beste kreditten i verden’ — Fed økte rentene uansett. Så hvem har rett?",
-        "kilde": "Yahoo Finance",
-        "tid": "15:30",
-        "lenke": "https://finance.yahoo.com/economy/policy/articles/trump-demands-1-rates-because-153000828.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Det hvite hus 'TV-basseng vil ikke dekke Trump etter presseforbud: CNN",
+        "tittel": "Trump sier at DOJ vil tøyle AI 'hvis vi må'",
         "kilde": "CNBC Top News",
-        "tid": "14:46",
-        "lenke": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-cnn-ban.html",
+        "tid": "16:46",
+        "lenke": "https://www.cnbc.com/2026/09/21/trump-ai-doj.html",
         "engelsk_kilde": true
       },
       {
@@ -224,13 +159,6 @@
         "tid": "14:20",
         "lenke": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "CNN, Politico og MS NOW saksøker Trump-administrasjonen",
-        "kilde": "NRK Nyheter",
-        "tid": "10:25",
-        "lenke": "https://www.nrk.no/nyheter/cnn_-politico-og-ms-now-saksoker-trump-administrasjonen-1.18031514",
-        "engelsk_kilde": false
       },
       {
         "tittel": "USA og Kina diskuterer AI-sikkerhetsplan i forkant av Trump-Xi-toppmøtet",
@@ -245,84 +173,175 @@
         "tid": "04:00",
         "lenke": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trump skal møte NYC-ordfører Zohran Mamdani på mandag i forkant av FNs generalforsamling",
-        "kilde": "CNBC Top News",
-        "tid": "19:06",
-        "lenke": "https://www.cnbc.com/2026/09/20/trump-mamdani-gracie-mansion-meeting.html",
-        "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
       {
         "tittel": "Flyselskaper kritiserer lufttrafikkontroll da andre feil forårsaker mer forstyrrelse",
         "kilde": "BBC Business",
-        "tid": "15:55",
+        "tid": "20:02",
         "lenke": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Gode mennesker nekter å gjøre dårlige ting",
-        "kilde": "Hacker News",
-        "tid": "15:31",
-        "lenke": "https://carette.xyz/posts/good_people_refuse_to_do_bad_things/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg er i 50-årene. Moren min døde av Alzheimers. Trenger jeg langtidspleieforsikring?",
-        "kilde": "MarketWatch",
-        "tid": "15:30",
-        "lenke": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Mange unge voksne har bare råd til å investere takket være mor og fars bank",
-        "kilde": "MarketWatch",
-        "tid": "15:22",
-        "lenke": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg har nettopp begynt å date en jeg virkelig liker, men han flytter til Mexico i seks måneder. Skal jeg bruke pengene til å besøke ham?",
-        "kilde": "MarketWatch",
-        "tid": "15:19",
-        "lenke": "https://www.marketwatch.com/story/i-just-started-dating-someone-i-really-like-but-hes-moving-to-mexico-for-six-months-should-i-spend-the-money-to-visit-him-be4f8c8b?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Corteva (CTVA) satser på en belgisk partner for avlingsbeskyttelsens neste lov – korrigert",
-        "kilde": "Yahoo Finance",
-        "tid": "15:12",
-        "lenke": "https://finance.yahoo.com/markets/stocks/articles/corteva-ctva-bets-belgian-partner-183747198.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Det er nesten umulig å selge en leilighet i disse dager: \"Jeg føler meg fanget\"",
-        "kilde": "MarketWatch",
-        "tid": "15:11",
-        "lenke": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Til tross for salg opprettholder Baron Capital Outlook on Ventas (vtr)",
-        "kilde": "Yahoo Finance",
-        "tid": "14:58",
-        "lenke": "https://finance.yahoo.com/real-estate/articles/despite-sale-baron-capital-maintains-145801862.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "AI er en Pandoras eske som noen administrerende direktører ser ut til å være skeptiske til å åpne — i hvert fall med investorer",
-        "kilde": "MarketWatch",
-        "tid": "14:57",
-        "lenke": "https://www.marketwatch.com/story/ai-is-a-pandoras-box-that-some-ceos-seem-wary-of-opening-at-least-with-investors-39eff0d2?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Etterlyser strengare reglar etter dødsulykka i Averøy – tre er framleis sakna i havet",
+        "tittel": "De voksne slår alarm om «krisetall» i skolen – nå svarer 15-åringene",
         "kilde": "NRK Nyheter",
-        "tid": "14:38",
-        "lenke": "https://www.nrk.no/mr/lokale-fiskarar-vil-ha-strengare-reglar-etter-dodsulykka-i-averoy-_-tre-er-framleis-sakna-i-havet-1.18031631",
+        "tid": "19:57",
+        "lenke": "https://www.nrk.no/nordland/de-voksne-slar-alarm-om-pisa-tallene-_-na-svarer-15-aringene-1.18028986",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Forhandler Revolve kunngjør samarbeid med Donatella Versace",
+        "kilde": "CNBC Top News",
+        "tid": "19:44",
+        "lenke": "https://www.cnbc.com/2026/09/21/revolve-partnership-donatella-versace.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vindkraft i nord: Frist utsettes til januar",
+        "kilde": "E24",
+        "tid": "19:44",
+        "lenke": "https://e24.no/energi-og-klima/i/PdQvm5/vindkraft-i-nord-frist-utsettes-til-januar?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Moderna vil avsløre dataene for sin mRNA-kreftvaksine neste måned. Her er hvorfor det betyr noe.",
+        "kilde": "MarketWatch",
+        "tid": "19:43",
+        "lenke": "https://www.marketwatch.com/story/moderna-will-reveal-the-data-for-its-mrna-cancer-vaccine-next-month-heres-why-it-matters-4470a558?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Eli Lilly administrerende direktør sier 700.000 nye seniorer har startet GLP-1s etter Medicare dekning, og 70% er på Lilly narkotika",
+        "kilde": "CNBC Top News",
+        "tid": "19:37",
+        "lenke": "https://www.cnbc.com/2026/09/21/eli-lilly-ceo-david-ricks-glp-1s-medicare-coverage.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Flyavbrudd i Newark, New York, Philadelphia etter Verizon-kabelkutt",
+        "kilde": "CNBC Top News",
+        "tid": "19:36",
+        "lenke": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Min totale saldo bør være $ 20 millioner’: Jeg investerte $ 1,1 millioner i en kryptoplattform. Har jeg mistet alt?",
+        "kilde": "MarketWatch",
+        "tid": "19:30",
+        "lenke": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Den hotteste delen av AI-handelen kan bli dens største svakhet",
+        "kilde": "MarketWatch",
+        "tid": "19:24",
+        "lenke": "https://www.marketwatch.com/story/the-hottest-part-of-the-ai-trade-could-be-turning-into-its-biggest-weakness-099f2c09?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "AI-koding har gjort CI til en flaskehals, så vi omarbeidet vår for å holde tritt",
+        "kilde": "Hacker News",
+        "tid": "19:23",
+        "lenke": "https://linear.app/now/ci-bottleneck-reworked",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Glem Elon Musk og Jeff Bezos: «Overalt skapte millionærene» planen for vanlige mennesker om å bli rike i Amerika",
+        "kilde": "MarketWatch",
+        "tid": "19:23",
+        "lenke": "https://www.marketwatch.com/story/forget-elon-musk-and-jeff-bezos-the-everywhere-millionaires-created-the-blueprint-for-regular-people-to-get-rich-in-america-df543f9c?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "NASA/ESA Mars Sample Return-oppdraget er kansellert",
+        "kilde": "Hacker News",
+        "tid": "19:14",
+        "lenke": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "På jakt etter en komposisjonell teori om selvstabilisering",
+        "kilde": "Hacker News",
+        "tid": "19:04",
+        "lenke": "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Utleieeiendommen min er nedbetalt, men jeg trenger kontanter. Er dette et dårlig tidspunkt å ta ut en $ 50 000 HELOC?",
+        "kilde": "MarketWatch",
+        "tid": "19:00",
+        "lenke": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Solbakken refser kommentator: – Dette er syltynt",
+        "kilde": "NRK Nyheter",
+        "tid": "18:43",
+        "lenke": "https://www.nrk.no/sport/stale-solbakken-refser-kommentator_-_-syltynn-artikkel-1.18031899",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Jan Kjell (83) gir seg etter 100 sesonger: – Et siste løfte til kona",
+        "kilde": "NRK Nyheter",
+        "tid": "18:42",
+        "lenke": "https://www.nrk.no/vestfoldogtelemark/jan-kjell-_83_-gir-seg-etter-100-sesonger_-_-et-siste-lofte-til-kona-1.18031185",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Mannen min og jeg er i 50-årene og har ingen barn. Vi har $ 2 millioner i Ira og 401(k)s. Trenger vi virkelig et testamente?",
+        "kilde": "MarketWatch",
+        "tid": "18:30",
+        "lenke": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bilutleie konkurs etter 32 år: – Eneste forsvarlige",
+        "kilde": "E24",
+        "tid": "18:18",
+        "lenke": "https://e24.no/naeringsliv/i/d4A4Ko/bilutleie-konkurs-etter-32-aar-eneste-forsvarlige?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Nicolas (6) nektes utsatt skolestart: – Hvis ikke han kan få det, hvem kan da?",
+        "kilde": "NRK Nyheter",
+        "tid": "17:44",
+        "lenke": "https://www.nrk.no/vestfoldogtelemark/6-aring-med-downs-syndrom-nektes-utsatt-skolestart_-sivilombudet-mener-avslag-er-_vanskelig-a-forsta-1.18016439",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Danmark: Skriver under Grønland-avtale tirsdag",
+        "kilde": "NRK Nyheter",
+        "tid": "17:32",
+        "lenke": "https://www.nrk.no/nyheter/danmark_-skriver-under-gronland-avtale-tirsdag-1.18032068",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Togstreiken: Flere innstilte tog onsdag",
+        "kilde": "NRK Nyheter",
+        "tid": "17:19",
+        "lenke": "https://www.nrk.no/stor-oslo/togstreiken_-flere-innstilte-tog-onsdag-1.18032042",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Sikta for overgrep mot to mindreårige jenter",
+        "kilde": "NRK Nyheter",
+        "tid": "16:44",
+        "lenke": "https://www.nrk.no/vestland/mann-i-30-ara-sikta-for-overgrep-mot-to-mindrearige-jenter-i-bergen-1.18031990",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Gjentatte feil i flykontrollen gjør at vi befinner oss i et bekymringsfullt område",
+        "kilde": "BBC Business",
+        "tid": "16:39",
+        "lenke": "https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Full krangling i retten – nå har Fifa én ukes frist på å svare",
+        "kilde": "NRK Nyheter",
+        "tid": "16:18",
+        "lenke": "https://www.nrk.no/sport/full-krangling-i-retten-_-na-har-fifa-en-ukes-frist-pa-a-svare-1.18028581",
         "engelsk_kilde": false
       },
       {
@@ -340,46 +359,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Meta forbyr annonser for Virginia Woolf Play i Spania",
-        "kilde": "Hacker News",
-        "tid": "14:30",
-        "lenke": "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Claude-vrangforestillingen",
-        "kilde": "Hacker News",
-        "tid": "14:30",
-        "lenke": "https://pluralistic.net/2026/09/21/sunsetting/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "SAS-topp mener flyprisene må opp",
         "kilde": "E24",
         "tid": "14:28",
         "lenke": "https://e24.no/naeringsliv/i/43a7oa/sas-topp-mener-flyprisene-maa-opp?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Oppmerksomhet er alt du har",
-        "kilde": "Hacker News",
-        "tid": "14:26",
-        "lenke": "https://alicegg.tech/2026/09/21/attention",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Generasjonsforbud: Vil nekte unge å kjøpe sigaretter",
-        "kilde": "NRK Nyheter",
-        "tid": "13:55",
-        "lenke": "https://www.nrk.no/buskerud/generasjonsforbud_-vil-nekte-unge-a-kjope-sigaretter-1.18024220",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Nissans øyne øker den amerikanske produksjonen etter hvert som den nye Rogue-hybriden lanseres",
-        "kilde": "CNBC Top News",
-        "tid": "13:06",
-        "lenke": "https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Oljeprisen faller – var under 100 dollar",
@@ -396,32 +380,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Nå skal Nav kontakte 16.000 unge uføre",
-        "kilde": "NRK Nyheter",
-        "tid": "11:20",
-        "lenke": "https://www.nrk.no/norge/nav-skal-sende-sms-til-16.000-unge-ufore-for-a-hore-om-de-vil-jobbe-litt-1.18031298",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Bitcoin når det høyeste nivået siden januar på $ 85 000, mens markedet diskuterer om 'kryptovinteren' er over",
-        "kilde": "CNBC Top News",
-        "tid": "11:10",
-        "lenke": "https://www.cnbc.com/2026/09/21/bitcoin-price-crypto-rally.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Toryene lover å bringe tilbake skattefri shopping for turister",
         "kilde": "BBC Business",
         "tid": "10:37",
         "lenke": "https://www.bbc.co.uk/news/articles/cmd68px5qqddo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Fjelløper Ida Amelie Robsahm (30) omkom etter fallulykke",
-        "kilde": "NRK Nyheter",
-        "tid": "10:30",
-        "lenke": "https://www.nrk.no/sport/fjelloper-ida-amelie-robsahm-_30_-omkom-etter-fallulykke-1.18030715",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Hvilke rettigheter har jeg hvis flyet mitt blir kansellert eller forsinket?",
@@ -431,20 +394,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Tenåringsjente i barnevernet døydde – nå er dødsårsaka undersøkt",
-        "kilde": "NRK Nyheter",
-        "tid": "10:13",
-        "lenke": "https://www.nrk.no/vestland/dette-seier-obduksjonsrapport-om-dodsarsak-da-tenaringsjente-doydde-i-barnevernet-i-bergen-1.18031385",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Nest dårligste laksefiske noen gang: – Villaksen er under hardt press",
-        "kilde": "E24",
-        "tid": "09:33",
-        "lenke": "https://e24.no/hav-og-sjoemat/i/e7p72a/nest-daarligste-laksefiske-noen-gang-villaksen-er-under-hardt-press?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Får du £ 13 000 i året når du slutter å jobbe? Slik sjekker du",
         "kilde": "BBC Business",
         "tid": "08:49",
@@ -452,11 +401,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Kronen rykker fra krona",
-        "kilde": "E24",
-        "tid": "08:14",
-        "lenke": "https://e24.no/norsk-oekonomi/i/AravV5/kronen-rykker-fra-krona?utm_medium=rss",
-        "engelsk_kilde": false
+        "tittel": "Burgerkjeden kansellerer frokosten på hundrevis av restauranter",
+        "kilde": "Yahoo Finance",
+        "tid": "04:15",
+        "lenke": "https://finance.yahoo.com/small-business/articles/fast-food-giant-cancels-breakfast-041519870.html",
+        "engelsk_kilde": true
       }
     ]
   }
