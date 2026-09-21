@@ -1,63 +1,84 @@
 {
   "dato": "2026-09-21",
   "dato_norsk": "Mandag 21. september 2026",
-  "generert_kl": "04:15",
+  "generert_kl": "08:05",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Ber Norges Bank droppe renteheving: – Vil være galskap",
+      "tittel": "USA og Kina diskuterer AI-sikkerhetsplan i forkant av Trump-Xi-toppmøtet",
+      "kilde": "BBC Business",
+      "tid": "05:50",
+      "lenke": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Aker hopper på Oslo Børs",
       "kilde": "E24",
-      "tid": "04:07",
-      "lenke": "https://e24.no/boers-og-finans/i/d4eVaB/ber-norges-bank-droppe-renteheving-vil-vaere-galskap?utm_medium=rss",
+      "tid": "07:01",
+      "lenke": "https://e24.no/boers-og-finans/i/n1o125/aker-aksjen-hopper-4-prosent-etter-nscales-boerssoeknad?utm_medium=rss",
       "engelsk_kilde": false
     },
     {
-      "tittel": "Iran lover «smertefull» gjengjeldelse mens Trump legger press på FNs generalforsamling",
-      "kilde": "CNBC Top News",
-      "tid": "04:04",
-      "lenke": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
-      "engelsk_kilde": true
+      "tittel": "– Må være forberedt på det verste, også krig",
+      "kilde": "NRK Nyheter",
+      "tid": "05:28",
+      "lenke": "https://www.nrk.no/stor-oslo/byradet-med-satsing-pa-beredskap-og-tilfluktsrom-i-oslo-1.18027722",
+      "engelsk_kilde": false
     },
     {
-      "tittel": "Olje faller mens råoljestrømmene forblir 'overraskende sterke'",
-      "kilde": "CNBC Top News",
-      "tid": "02:14",
-      "lenke": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Bessent innkaller til møte med Kinas visestatsminister He Lifeng «vellykket» i forkant av Trump-Xi-toppmøtet",
-      "kilde": "CNBC Top News",
-      "tid": "00:45",
-      "lenke": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Storbritannia bør «slå seg sammen» med Canada i en ny Europa-allianse, sier den kanadiske ministeren til BBC",
+      "tittel": "Nvidia-sjefen avviser AI-utryddelsesfrykt som \"dommedagsfortellinger\"",
       "kilde": "BBC Business",
-      "tid": "04:00",
-      "lenke": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
+      "tid": "06:25",
+      "lenke": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss",
       "engelsk_kilde": true
+    },
+    {
+      "tittel": "Norske Lakseelver om årets laksefiske: – En dårlig sesong",
+      "kilde": "NRK Nyheter",
+      "tid": "06:07",
+      "lenke": "https://www.nrk.no/tromsogfinnmark/norske-lakseelver_-en-darlig-laksesesong-i-norske-lakseelver_-men-med-enkelte-unntak-1.18029251",
+      "engelsk_kilde": false
     }
   ],
   "kategorier": {
     "NORGE": [
+      {
+        "tittel": "Aker hopper på Oslo Børs",
+        "kilde": "E24",
+        "tid": "07:01",
+        "lenke": "https://e24.no/boers-og-finans/i/n1o125/aker-aksjen-hopper-4-prosent-etter-nscales-boerssoeknad?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Norske Lakseelver om årets laksefiske: – En dårlig sesong",
+        "kilde": "NRK Nyheter",
+        "tid": "06:07",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/norske-lakseelver_-en-darlig-laksesesong-i-norske-lakseelver_-men-med-enkelte-unntak-1.18029251",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Regjeringen vil gjøre det vanskeligere å bli norsk fra Svalbard",
+        "kilde": "NRK Nyheter",
+        "tid": "04:20",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/regjeringen-vil-gjore-det-vanskeligere-a-bli-norsk-fra-svalbard-1.18031051",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Ber Norges Bank droppe renteheving: – Vil være galskap",
         "kilde": "E24",
         "tid": "04:07",
         "lenke": "https://e24.no/boers-og-finans/i/d4eVaB/ber-norges-bank-droppe-renteheving-vil-vaere-galskap?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Brann i Oslo: – Mye røyk og åpne flammer",
-        "kilde": "NRK Nyheter",
-        "tid": "16:39",
-        "lenke": "https://www.nrk.no/nyheter/brann-i-oslo_-_-mye-royk-og-apne-flammer-1.18030854",
-        "engelsk_kilde": false
       }
     ],
     "MARKEDER": [
+      {
+        "tittel": "Kinesiske biopharma-aksjer hopper mens USA veier og holder døren åpen for narkotikahandel",
+        "kilde": "CNBC Top News",
+        "tid": "04:20",
+        "lenke": "https://www.cnbc.com/2026/09/21/chinese-biopharma-stocks-jump-as-us-plans-to-continue-drug-licensing-deals-.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Her er de 3 store tingene vi ser på aksjemarkedet denne uken",
         "kilde": "CNBC Top News",
@@ -82,13 +103,6 @@
     ],
     "ENERGI_RAAVARER": [
       {
-        "tittel": "Olje faller mens råoljestrømmene forblir 'overraskende sterke'",
-        "kilde": "CNBC Top News",
-        "tid": "02:14",
-        "lenke": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Chevrons konsernsjef sender et sterkt budskap om oljepris og økonomi",
         "kilde": "Yahoo Finance",
         "tid": "16:47",
@@ -107,7 +121,7 @@
       {
         "tittel": "Nvidia-sjefen avviser AI-utryddelsesfrykt som \"dommedagsfortellinger\"",
         "kilde": "BBC Business",
-        "tid": "00:34",
+        "tid": "06:25",
         "lenke": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
@@ -127,6 +141,27 @@
       }
     ],
     "GEOPOLITIKK": [
+      {
+        "tittel": "Knutsen slår alarm før Solbakkens Haaland-valg",
+        "kilde": "NRK Nyheter",
+        "tid": "07:54",
+        "lenke": "https://www.nrk.no/sport/knutsen-slar-alarm-for-solbakkens-haaland-valg-1.18029121",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "USA og Kina diskuterer AI-sikkerhetsplan i forkant av Trump-Xi-toppmøtet",
+        "kilde": "BBC Business",
+        "tid": "05:50",
+        "lenke": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "– Må være forberedt på det verste, også krig",
+        "kilde": "NRK Nyheter",
+        "tid": "05:28",
+        "lenke": "https://www.nrk.no/stor-oslo/byradet-med-satsing-pa-beredskap-og-tilfluktsrom-i-oslo-1.18027722",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Iran lover «smertefull» gjengjeldelse mens Trump legger press på FNs generalforsamling",
         "kilde": "CNBC Top News",
@@ -149,13 +184,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Trump har satt naboskapet på prøve",
-        "kilde": "NRK Nyheter",
-        "tid": "21:07",
-        "lenke": "https://www.nrk.no/urix/trump-har-satt-naboskapet-med-canada-pa-prove-1.18030513",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Trump skal møte NYC-ordfører Zohran Mamdani på mandag i forkant av FNs generalforsamling",
         "kilde": "CNBC Top News",
         "tid": "19:06",
@@ -172,6 +200,69 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "Kronprinsesse Victoria deltar i prinsesse Astrids gravferd",
+        "kilde": "NRK Nyheter",
+        "tid": "07:29",
+        "lenke": "https://www.nrk.no/nyheter/kronprinsesse-victoria-deltar-i-prinsesse-astrids-gravferd-1.18031166",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kev: Liten Jev-lignende familie av beslutningsmodeller bygget på toppen av Qwen3.5",
+        "kilde": "Hacker News",
+        "tid": "07:11",
+        "lenke": "https://github.com/jaredpalmer/kev/tree/main",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "CNBC Daily Open: Måtte 'AI Force' være med deg",
+        "kilde": "CNBC Top News",
+        "tid": "06:41",
+        "lenke": "https://www.cnbc.com/2026/09/21/cnbc-daily-open-trump-china-ai-force.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tettare forsvarssamarbeid mellom Noreg og Canada",
+        "kilde": "NRK Nyheter",
+        "tid": "06:07",
+        "lenke": "https://www.nrk.no/urix/tettare-forsvarssamarbeid-mellom-noreg-og-canada-1.18031061",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Testet livet som rockestjerne: – Han bør gjøre som Haaland",
+        "kilde": "NRK Nyheter",
+        "tid": "05:59",
+        "lenke": "https://www.nrk.no/sport/skiskyting_-sveisen-til-sturla-holm-laegreid-vekker-oppsikt_-_-han-bor-gjore-som-haaland-1.18030710",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Grim Fandango Puslespill Dokument (1996) [pdf]",
+        "kilde": "Hacker News",
+        "tid": "05:55",
+        "lenke": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Snø på Sognefjellet",
+        "kilde": "NRK Nyheter",
+        "tid": "05:37",
+        "lenke": "https://www.nrk.no/innlandet/sno-pa-sognefjellet-1.18031098",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vis HN: Mini-AGI – Dynamisk kontinuerlig læringsmodell opplært på 8 GB VRAM",
+        "kilde": "Hacker News",
+        "tid": "04:42",
+        "lenke": "https://github.com/volotat/mini-AGI/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "AI-chatboter gir feil svar på økonomiske spørsmål 'mesteparten av tiden'",
+        "kilde": "Hacker News",
+        "tid": "04:28",
+        "lenke": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Har sitt største veddemål i oljeaksje: – Aner ikke når dette snur",
         "kilde": "E24",
         "tid": "04:09",
@@ -179,52 +270,17 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Togstreiken: 124 togavganger innstilt mandag",
-        "kilde": "NRK Nyheter",
-        "tid": "03:39",
-        "lenke": "https://www.nrk.no/nyheter/togstreiken_-124-togavganger-innstilt-mandag-1.18031003",
-        "engelsk_kilde": false
+        "tittel": "Vinn i VISA-lotteriet",
+        "kilde": "Hacker News",
+        "tid": "03:37",
+        "lenke": "https://www.aeaweb.org/research/immigration-restrictions-firms-workers",
+        "engelsk_kilde": true
       },
       {
         "tittel": "‘Min totale saldo bør være $ 20 millioner’: Jeg investerte $ 1,1 millioner i en kryptoplattform. Har jeg mistet alt?",
         "kilde": "MarketWatch",
         "tid": "02:40",
         "lenke": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Deterministisk kjerne, ikke-deterministisk skall",
-        "kilde": "Hacker News",
-        "tid": "02:02",
-        "lenke": "https://outdata.net/blog/260803",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvorfor tilbake forplantning går bakover",
-        "kilde": "Hacker News",
-        "tid": "00:42",
-        "lenke": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Amiga Unix, igjen",
-        "kilde": "Hacker News",
-        "tid": "23:57",
-        "lenke": "https://amigaux.org/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Mann skutt av ICE i Texas",
-        "kilde": "NRK Nyheter",
-        "tid": "23:19",
-        "lenke": "https://www.nrk.no/nyheter/mann-skutt-av-ice-i-texas-1.18030995",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "DAPO: Et åpen kildekode RL-system fra ByteDance Seed og Tsinghua AIR",
-        "kilde": "Hacker News",
-        "tid": "23:19",
-        "lenke": "https://github.com/BytedTsinghua-SIA/DAPO",
         "engelsk_kilde": true
       },
       {
@@ -235,32 +291,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hva skjedde med Snowden-arkivet",
-        "kilde": "Hacker News",
-        "tid": "22:35",
-        "lenke": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+        "tittel": "T-Mobile og Verizon møter en ny bredbåndsrival",
+        "kilde": "Yahoo Finance",
+        "tid": "18:17",
+        "lenke": "https://finance.yahoo.com/technology/articles/t-mobile-verizon-face-broadband-181700799.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Olaf Tufte årets deltakar på «Reality Awards»",
-        "kilde": "NRK Nyheter",
-        "tid": "19:47",
-        "lenke": "https://www.nrk.no/norge/olaf-tufte-arets-deltakar-pa-_reality-awards_-1.18030934",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Casper (10) brukar karate mot barnedemens: – Utviklinga har vore enorm",
-        "kilde": "NRK Nyheter",
-        "tid": "19:26",
-        "lenke": "https://www.nrk.no/sport/casper-erlandsson-brukar-karate-mot-barnedemens-1.18029643",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Én person omkommet etter trafikkulykke i Vinje",
-        "kilde": "NRK Nyheter",
-        "tid": "18:45",
-        "lenke": "https://www.nrk.no/nyheter/en-person-omkommet-etter-trafikkulykke-i-vinje-1.18030927",
-        "engelsk_kilde": false
       },
       {
         "tittel": "– Her bygges Nordens største batteri",
@@ -275,13 +310,6 @@
         "tid": "17:30",
         "lenke": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Skal sjå på regelverket for båtutleige",
-        "kilde": "NRK Nyheter",
-        "tid": "16:59",
-        "lenke": "https://www.nrk.no/mr/sjofartsdirektoratet-vil-sja-pa-regelverket-for-utleige-av-fritidsbatar-1.18030592",
-        "engelsk_kilde": false
       },
       {
         "tittel": "\"Mitt hovedmål er å hjelpe folk\": Jeg er singel, 74, med $ 10 millioner som brenner et hull i lommen. Hva skal jeg gjøre?",
@@ -368,13 +396,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Caruso-Cabrera: Investeringsmedvinden for Latin-Amerika er den beste på flere tiår",
-        "kilde": "CNBC Top News",
-        "tid": "11:59",
-        "lenke": "https://www.cnbc.com/2026/09/20/caruso-cabrera-the-investing-tailwinds-for-latin-america-are-the-best-in-decades.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Milliardæren Man United-eier mister moralsk høy grunn etter skatteeksil, sier Labour-leder",
         "kilde": "BBC Business",
         "tid": "11:22",
@@ -396,17 +417,24 @@
         "engelsk_kilde": true
       },
       {
+        "tittel": "De beste CD-prisene i dag, søndag 20. september 2026: Lås inn opptil 4,40% APY",
+        "kilde": "Yahoo Finance",
+        "tid": "10:00",
+        "lenke": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-september-20-2026-lock-in-up-to-440-apy-100000852.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Boliglåns- og refinansieringsrenten i dag, søndag 20. september 2026: Boliglånsrenten økte igjen sammenlignet med forrige uke",
+        "kilde": "Yahoo Finance",
+        "tid": "10:00",
+        "lenke": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-september-20-2026-mortgage-rates-moved-higher-again-compared-to-last-week-100000702.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Ønsker økte drivstofflagre: – Staten bør ta regningen",
         "kilde": "E24",
         "tid": "08:56",
         "lenke": "https://e24.no/energi-og-klima/i/rr6O8m/oensker-oekte-drivstofflagre-staten-boer-ta-regningen?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "AI-ekspert: – Barn bør ikke ha mobiltelefon i det hele tatt",
-        "kilde": "E24",
-        "tid": "08:48",
-        "lenke": "https://e24.no/teknologi/i/JOe1z8/ai-ekspert-barn-boer-ikke-ha-mobiltelefon-i-det-hele-tatt?utm_medium=rss",
         "engelsk_kilde": false
       }
     ]
