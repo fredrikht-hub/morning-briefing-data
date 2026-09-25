@@ -1,59 +1,66 @@
 {
   "dato": "2026-09-25",
   "dato_norsk": "Fredag 25. september 2026",
-  "generert_kl": "13:07",
+  "generert_kl": "16:48",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Fra $ 6 egg til $ 50 000 biler, viser disse diagrammene hvordan inflasjonen har definert de siste 5 årene",
-      "kilde": "MarketWatch",
-      "tid": "12:00",
-      "lenke": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
+      "tittel": "Detaljer om handelsforhandlingene mellom USA og Kina kommer på mandag, sier USTR Greer",
+      "kilde": "CNBC Top News",
+      "tid": "16:20",
+      "lenke": "https://www.cnbc.com/2026/09/25/trump-xi-china-trade-greer.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Detaljer om handelsforhandlingene mellom USA og Kina kommer på mandag, sier USTR Greer",
+      "tittel": "Her er hvem som deltok på delstatsmiddagen Trump-Xi",
       "kilde": "CNBC Top News",
-      "tid": "13:05",
-      "lenke": "https://www.cnbc.com/2026/09/25/trump-xi-china-trade-greer.html",
+      "tid": "14:41",
+      "lenke": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
       "engelsk_kilde": true
     },
     {
       "tittel": "Trump og Xi utveksler varme ord på statsmiddagen, men lite fremgang på sentrale spørsmål",
       "kilde": "BBC Business",
-      "tid": "10:36",
+      "tid": "16:01",
       "lenke": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Sparebank 1 Sør-Norge er første storbank til å heve boliglånsrenten",
+      "tittel": "Vil regulere AI: – Kraftig nok til å forårsake én milliard dødsfall",
       "kilde": "E24",
-      "tid": "12:12",
-      "lenke": "https://e24.no/boers-og-finans/i/JOdMpX/sparebank-1-soer-norge-er-foerste-storbank-til-aa-heve-boliglaansrenten?utm_medium=rss",
+      "tid": "16:15",
+      "lenke": "https://e24.no/boers-og-finans/i/zOqQ4r/vil-regulere-ai-kraftig-nok-til-aa-foraarsake-en-milliard-doedsfall?utm_medium=rss",
       "engelsk_kilde": false
     },
     {
-      "tittel": "TV 2: Mann pågrepet og siktet for drap i Oslo",
+      "tittel": "Stats­forvaltaren i Oslo får kritikk etter at soldat tok sitt eige liv",
       "kilde": "NRK Nyheter",
-      "tid": "10:24",
-      "lenke": "https://www.nrk.no/stor-oslo/tv-2_-mann-pagrepet-og-siktet-for-drap-i-oslo-1.18036681",
+      "tid": "15:03",
+      "lenke": "https://www.nrk.no/innlandet/sivilombodet-med-hard-kritikk-av-statsforvaltaren-etter-at-jakob-tok-sitt-eige-liv-1.18035157",
       "engelsk_kilde": false
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "Sparebank 1 Sør-Norge er første storbank til å heve boliglånsrenten",
+        "tittel": "Vil regulere AI: – Kraftig nok til å forårsake én milliard dødsfall",
         "kilde": "E24",
-        "tid": "12:12",
-        "lenke": "https://e24.no/boers-og-finans/i/JOdMpX/sparebank-1-soer-norge-er-foerste-storbank-til-aa-heve-boliglaansrenten?utm_medium=rss",
+        "tid": "16:15",
+        "lenke": "https://e24.no/boers-og-finans/i/zOqQ4r/vil-regulere-ai-kraftig-nok-til-aa-foraarsake-en-milliard-doedsfall?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
-        "tittel": "TV 2: Mann pågrepet og siktet for drap i Oslo",
+        "tittel": "Stats­forvaltaren i Oslo får kritikk etter at soldat tok sitt eige liv",
         "kilde": "NRK Nyheter",
-        "tid": "10:24",
-        "lenke": "https://www.nrk.no/stor-oslo/tv-2_-mann-pagrepet-og-siktet-for-drap-i-oslo-1.18036681",
+        "tid": "15:03",
+        "lenke": "https://www.nrk.no/innlandet/sivilombodet-med-hard-kritikk-av-statsforvaltaren-etter-at-jakob-tok-sitt-eige-liv-1.18035157",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Sparebank 1 Sør-Norge er første storbank til å heve renten",
+        "kilde": "E24",
+        "tid": "12:12",
+        "lenke": "https://e24.no/boers-og-finans/i/JOdMpX/sparebank-1-soer-norge-er-foerste-storbank-til-aa-heve-boliglaansrenten?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
@@ -71,102 +78,95 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Oljeaksjer faller på Oslo Børs",
+        "tittel": "Oljeaksjer falt på Oslo Børs",
         "kilde": "E24",
         "tid": "07:01",
         "lenke": "https://e24.no/boers-og-finans/i/Okx4nO/oljeaksjer-faller-paa-oslo-boers?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Over 200 ansatte i olje- og gassnæringen går ut i streik",
-        "kilde": "E24",
-        "tid": "04:49",
-        "lenke": "https://e24.no/boers-og-finans/i/BxQaX9/over-200-ansatte-i-olje-og-gassnaeringen-gaar-ut-i-streik?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "– Fortsatt attraktive aksjer på Oslo Børs",
-        "kilde": "E24",
-        "tid": "04:36",
-        "lenke": "https://e24.no/boers-og-finans/i/q6ogoz/fortsatt-attraktive-aksjer-paa-oslo-boers?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ],
     "MAKRO": [
-      {
-        "tittel": "Fra $ 6 egg til $ 50 000 biler, viser disse diagrammene hvordan inflasjonen har definert de siste 5 årene",
-        "kilde": "MarketWatch",
-        "tid": "12:00",
-        "lenke": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
       {
         "tittel": "Federal Reserve Board ber om offentlig kommentar til to forslag knyttet til etablering av et regelverk for styreovervåket betaling stablecoin utstedere under GENIUS ACT",
         "kilde": "Federal Reserve",
         "tid": "18:30",
         "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Federal Reserve Board utsteder håndhevelsestiltak med tidligere ansatt i Sandy Spring Bank",
-        "kilde": "Federal Reserve",
-        "tid": "15:00",
-        "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
-        "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "Aksjemarkedet kan være på grunn av et stygt salg, å dømme etter disse to signalene",
+        "tittel": "Micron-investorer bør gjøre seg klar for en vippetur, sier analytikeren",
         "kilde": "MarketWatch",
-        "tid": "12:52",
-        "lenke": "https://www.marketwatch.com/story/these-two-market-gauges-may-signal-a-big-risk-off-event-for-the-market-says-bofa-0432250a?mod=mw_rss_topstories",
+        "tid": "16:27",
+        "lenke": "https://www.marketwatch.com/story/micron-investors-should-get-ready-for-a-seesaw-ride-analyst-says-1c0cc651?mod=mw_rss_topstories",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Wall Street stiger",
+        "kilde": "E24",
+        "tid": "13:32",
+        "lenke": "https://e24.no/boers-og-finans/i/pBqGxW/wall-street-stiger?utm_medium=rss",
+        "engelsk_kilde": false
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Microsoft pakker forretnings-AI i én enkelt app mens de prøver å konkurrere med Anthropic",
-        "kilde": "CNBC Top News",
-        "tid": "12:00",
-        "lenke": "https://www.cnbc.com/2026/09/25/microsoft-copilot-ai-coding-anthropic.html",
+        "tittel": "Apples dyre nye iPhones kan være et tveegget sverd for selskapet",
+        "kilde": "MarketWatch",
+        "tid": "16:11",
+        "lenke": "https://www.marketwatch.com/story/apples-expensive-new-iphones-could-be-a-double-edged-sword-for-the-company-21c4fefb?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hvorfor Australia valgte verdens største politiske scene for å avsløre OpenAI-hack",
-        "kilde": "BBC Business",
-        "tid": "18:06",
-        "lenke": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+        "tittel": "Teslas aksjer faller ettersom lanseringen av Semi Truck ikke klarer å begeistre investorer",
+        "kilde": "MarketWatch",
+        "tid": "15:53",
+        "lenke": "https://www.marketwatch.com/story/teslas-stock-falls-as-semi-launch-fails-to-excite-investors-5b216e59?mod=mw_rss_topstories",
         "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Detaljer om handelsforhandlingene mellom USA og Kina kommer på mandag, sier USTR Greer",
+        "tittel": "USAs ankedomstol opprettholder Pentagons betegnelse av antropisk som forsyningskjederisiko",
         "kilde": "CNBC Top News",
-        "tid": "13:05",
-        "lenke": "https://www.cnbc.com/2026/09/25/trump-xi-china-trade-greer.html",
+        "tid": "16:42",
+        "lenke": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Iran tilbyr seg å gjenåpne Hormuzstredet innen 7 dager og gjenoppta atomforhandlingene",
+        "tittel": "Detaljer om handelsforhandlingene mellom USA og Kina kommer på mandag, sier USTR Greer",
         "kilde": "CNBC Top News",
-        "tid": "12:39",
-        "lenke": "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html",
+        "tid": "16:20",
+        "lenke": "https://www.cnbc.com/2026/09/25/trump-xi-china-trade-greer.html",
         "engelsk_kilde": true
       },
       {
         "tittel": "Trump og Xi utveksler varme ord på statsmiddagen, men lite fremgang på sentrale spørsmål",
         "kilde": "BBC Business",
-        "tid": "10:36",
+        "tid": "16:01",
         "lenke": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
         "tittel": "Her er hvem som deltok på delstatsmiddagen Trump-Xi",
         "kilde": "CNBC Top News",
-        "tid": "06:30",
+        "tid": "14:41",
         "lenke": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Et nytt lovforslag i Kongressen vil senke pensjonsalderen til 60 år. Se hvem som kvalifiserer.",
+        "kilde": "MarketWatch",
+        "tid": "14:39",
+        "lenke": "https://www.marketwatch.com/story/a-new-bill-in-congress-would-lower-the-retirement-age-to-60-see-who-would-qualify-10563052?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Iran tilbyr seg å gjenåpne Hormuzstredet innen 7 dager og gjenoppta atomforhandlingene",
+        "kilde": "CNBC Top News",
+        "tid": "13:45",
+        "lenke": "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html",
         "engelsk_kilde": true
       },
       {
@@ -179,130 +179,144 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "Flyselskaper gir avkall på avgifter for flyendringer før nor'easter",
+        "tittel": "NIH-finansieringskutt forsinket en lovende studie av hjernekreft i barndommen. Pasientene mistet tid de ikke hadde",
         "kilde": "CNBC Top News",
-        "tid": "12:52",
-        "lenke": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
+        "tid": "16:43",
+        "lenke": "https://www.cnbc.com/2026/09/25/nih-cuts-delayed-a-cancer-trial-patients-lost-time-they-didnt-have.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Vis HN: Hamilton – et helsedashboard for Android uten internett, oppkalt etter hunden min",
-        "kilde": "Hacker News",
-        "tid": "12:49",
-        "lenke": "https://play.google.com/store/apps/details?id=com.gads.hamilton&hl=en_US",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Vi tok feil.’ Hvorfor Morgan Stanley endret sin holdning til den amerikanske dollaren — og hva den forventer nå.",
-        "kilde": "MarketWatch",
-        "tid": "12:46",
-        "lenke": "https://www.marketwatch.com/story/we-were-wrong-why-morgan-stanley-changed-its-tune-on-the-u-s-dollar-and-what-it-expects-now-7826fb96?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Krisestart for Stavanger Oilers – treneren må gå",
+        "tittel": "Mener draps­rekruttering kan være menneskehandel",
         "kilde": "NRK Nyheter",
-        "tid": "12:32",
-        "lenke": "https://www.nrk.no/rogaland/krisestart-for-stavanger-oilers-_-treneren-ma-ga-1.18036783",
+        "tid": "16:34",
+        "lenke": "https://www.nrk.no/rogaland/mener-drapsrekruttering-kan-vaere-menneskehandel-1.18036400",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "‘Vi tok en dårlig, dårlig beslutning’: Jeg lærte på den harde måten hvordan jeg skal håndtere min aldrende fars penger",
-        "kilde": "MarketWatch",
-        "tid": "12:15",
-        "lenke": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg er 77, betaler husleie og lever av trygd, men jeg hjelper hjemløse. Hvorfor er det så mange som sulter?",
-        "kilde": "MarketWatch",
-        "tid": "12:15",
-        "lenke": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Testen",
-        "kilde": "Hacker News",
-        "tid": "12:14",
-        "lenke": "https://tante.cc/2026/09/24/the-test/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg er lei av å være på nettverket",
-        "kilde": "Hacker News",
-        "tid": "12:13",
-        "lenke": "https://matduggan.com/im-tired-of-being-on-the-network/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Slik kan du fortsette å dra nytte av kunstig intelligens mens du beskytter porteføljen mot risikoen for en nedgang",
-        "kilde": "MarketWatch",
-        "tid": "12:05",
-        "lenke": "https://www.marketwatch.com/story/how-to-keep-profiting-from-ai-while-shielding-your-portfolio-against-the-risk-of-a-slowdown-a5801291?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Ny studie avslører eiendomsplanleggingsvalgene som sannsynligvis vil sette arvinger opp mot hverandre",
-        "kilde": "CNBC Top News",
-        "tid": "12:00",
-        "lenke": "https://www.cnbc.com/2026/09/25/study-estate-planning-heirs-legal-battles.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Document-redaktørens medlemskap ikke ferdigbehandlet",
-        "kilde": "NRK Nyheter",
-        "tid": "11:48",
-        "lenke": "https://www.nrk.no/nyheter/document-redaktorens-medlemskap-ikke-ferdigbehandlet-1.18036691",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Plattformuavhengig SIMD i Go",
-        "kilde": "Hacker News",
-        "tid": "11:47",
-        "lenke": "https://go.dev/blog/simd-experiment",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trøbbel med Vy-appen løst",
-        "kilde": "NRK Nyheter",
-        "tid": "11:41",
-        "lenke": "https://www.nrk.no/stor-oslo/trobbel-med-vy-appen-lost-1.18036724",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Git-bug: Distribuert, frakoblet første bug tracker innebygd i Git",
-        "kilde": "Hacker News",
-        "tid": "11:38",
-        "lenke": "https://github.com/git-bug/git-bug",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Se hvilke etablerte operatører som har den største kontantfordelen i de tetteste amerikanske husløpene",
         "kilde": "CNBC Top News",
-        "tid": "11:17",
+        "tid": "16:08",
         "lenke": "https://www.cnbc.com/2026/09/25/house-midterms-toss-ups-campaign-cash-incumbents.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Jeg bruker tid og penger på å ta vare på min aldrende mor — men hun ga broren min $ 100 000. Skal jeg trekke meg tilbake?",
-        "kilde": "MarketWatch",
-        "tid": "11:15",
-        "lenke": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories",
+        "tittel": "Jevmem – automatisk prosjektminne for Claude Code, bygget på Jev",
+        "kilde": "Hacker News",
+        "tid": "16:04",
+        "lenke": "https://github.com/Avinash-jetwani/jevmem",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Ny rapport: Meldingar på WhatsApp forseinka redningsaksjonen med to timar",
+        "tittel": "Når er det riktig tidspunkt å invitere noen ut? Jeg er 21, og ‘min økonomi og identitet føles fortsatt som pågående arbeid.’",
+        "kilde": "MarketWatch",
+        "tid": "16:03",
+        "lenke": "https://www.marketwatch.com/story/when-is-it-the-right-time-to-ask-someone-out-im-21-and-my-finances-and-identity-still-feel-like-works-in-progress-4bce4fa5?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Sir David Beckham tjener £ 38,5 millioner etter VM-annonsetilbud",
+        "kilde": "BBC Business",
+        "tid": "16:00",
+        "lenke": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg har nettopp begynt å date en jeg virkelig liker, men han flytter til Mexico i seks måneder. Skal jeg bruke pengene til å besøke ham?",
+        "kilde": "MarketWatch",
+        "tid": "15:43",
+        "lenke": "https://www.marketwatch.com/story/i-just-started-dating-someone-i-really-like-but-hes-moving-to-mexico-for-six-months-should-i-spend-the-money-to-visit-him-be4f8c8b?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tyngdekraften virker holografisk. Hva betyr det for virkeligheten?",
+        "kilde": "Hacker News",
+        "tid": "15:31",
+        "lenke": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Klassifiserte estimater viser at NSA betaler milliarder for å teste AI-modeller",
+        "kilde": "Hacker News",
+        "tid": "15:27",
+        "lenke": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Overraska av Solbakkens klesgrep: – Det var friskt",
         "kilde": "NRK Nyheter",
-        "tid": "11:10",
-        "lenke": "https://www.nrk.no/vestland/meldingar-pa-whatsapp-forseinka-redningsaksjonen-da-_argos-georgia_-forliste-1.18036602",
+        "tid": "14:59",
+        "lenke": "https://www.nrk.no/sport/overraska-av-solbakkens-klesgrep_-_-det-var-friskt-1.18036168",
         "engelsk_kilde": false
       },
       {
-        "tittel": "Hvorfor alternativet til den \"klare og nåværende\" faren fra obligasjonsrenter er dette AI-drevne markedet som stille har overgått",
+        "tittel": "Mener regjeringen krever for mye av politiet: – Konstant nye prioriteringer fra sidelinja",
+        "kilde": "NRK Nyheter",
+        "tid": "14:46",
+        "lenke": "https://www.nrk.no/vestfoldogtelemark/mener-regjeringen-krever-for-mye-av-politiet_-_-konstant-nye-prioriteringer-fra-sidelinja-1.18029459",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "8% boliglånsrenter er ‘ikke en umulighet’ ettersom de 30-årige fastrentetoppene",
         "kilde": "MarketWatch",
-        "tid": "11:02",
-        "lenke": "https://www.marketwatch.com/story/why-the-alternative-to-the-clear-and-present-danger-from-bond-yields-is-this-ai-fueled-market-thats-quietly-outperformed-cea440af?mod=mw_rss_topstories",
+        "tid": "14:42",
+        "lenke": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Dagligvarekjedene vant: Prisjeger-dommer er inhabil",
+        "kilde": "E24",
+        "tid": "14:29",
+        "lenke": "https://e24.no/naeringsliv/i/q6qvKw/dagligvarekjedene-vant-prisjeger-dommer-er-inhabil?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Disse Gen Z-erne velger ETF-er fremfor sportsspill. Hvordan yngre investorer fortalte oss at de bygger rikdom.",
+        "kilde": "MarketWatch",
+        "tid": "14:27",
+        "lenke": "https://www.marketwatch.com/story/how-is-gen-z-investing-their-money-over-a-dozen-share-their-strategies-for-todays-market-c8a418da?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Faktorio som du kan ta på",
+        "kilde": "Hacker News",
+        "tid": "14:24",
+        "lenke": "https://factorio.com/blog/post/fff-447",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Flyselskaper gir avkall på avgifter for flyendringer før nor'easter",
+        "kilde": "CNBC Top News",
+        "tid": "14:10",
+        "lenke": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Blod- og urinprøveresultater fra spesialagenter stjålet i FBI-hack",
+        "kilde": "BBC Business",
+        "tid": "13:56",
+        "lenke": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Medier: Manchester City funnet skyldig i 114 av 115 lovbrudd",
+        "kilde": "NRK Nyheter",
+        "tid": "13:46",
+        "lenke": "https://www.nrk.no/sport/medier_-manchester-city-funnet-skyldig-i-114-av-115-lovbrudd-1.18036951",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Ny person sikta i Lørenskog-saka",
+        "kilde": "NRK Nyheter",
+        "tid": "13:41",
+        "lenke": "https://www.nrk.no/nyheter/ny-person-sikta-i-lorenskog-saka-1.18036930",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Sametinget fjernet plenumsmøtet fra nett",
+        "kilde": "NRK Nyheter",
+        "tid": "13:07",
+        "lenke": "https://www.nrk.no/sapmi/sametinget-fjernet-plenumsmote-fra-nett_-opposisjonen-kaller-det-for-sensur-1.18036463",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Britisk dieselpris nær all-time high",
@@ -312,25 +326,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Over 400 hytteeiere vant i tingretten – kommunen anker dommen",
-        "kilde": "NRK Nyheter",
-        "tid": "10:47",
-        "lenke": "https://www.nrk.no/innlandet/over-400-hytteeiere-vant-i-tingretten-_-kommunen-anker-dommen-1.18036706",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Warshs regimeendring i Fed presser fremover – og møter motstand",
         "kilde": "CNBC Top News",
         "tid": "10:30",
         "lenke": "https://www.cnbc.com/2026/09/25/kevin-warsh-fed-interest-rates-balance-sheet.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Politiet stoppet uvanlig får-bryter på ull-lovlig ferd i Moss",
-        "kilde": "NRK Nyheter",
-        "tid": "10:29",
-        "lenke": "https://www.nrk.no/ostfold/politiet-stoppet-uvanlig-far-bryter-pa-ull-lovlig-ferd-i-moss-1.18036636",
-        "engelsk_kilde": false
       },
       {
         "tittel": "USA støtter Elon Musks bud om å omgjøre € 120m EU-bøter mot X",
@@ -373,20 +373,6 @@
         "tid": "05:30",
         "lenke": "https://www.bbc.co.uk/news/articles/cjvgy7qd20wgo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Svindel hotellbestilling sendt familie til Wetherspoon pub",
-        "kilde": "BBC Business",
-        "tid": "05:02",
-        "lenke": "https://www.bbc.co.uk/news/articles/c3zxzqyj24xeo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Raser mot Norgesgruppen-utbytte: – Stort og grådig",
-        "kilde": "E24",
-        "tid": "04:35",
-        "lenke": "https://e24.no/naeringsliv/i/8pM8Ax/raser-mot-norgesgruppen-utbytte-stort-og-graadig?utm_medium=rss",
-        "engelsk_kilde": false
       },
       {
         "tittel": "X-fly: Er de nødvendige i den nye æraen av droner?",
