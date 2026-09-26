@@ -1,47 +1,54 @@
 {
   "dato": "2026-09-26",
   "dato_norsk": "Lørdag 26. september 2026",
-  "generert_kl": "16:00",
+  "generert_kl": "18:51",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Den 10-årige statsobligasjonsavkastningen er på sitt høyeste på nesten to tiår. Hvordan vi kom hit",
-      "kilde": "CNBC Top News",
-      "tid": "13:30",
-      "lenke": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
+      "tittel": "Fra $ 6 egg til $ 50 000 biler, viser disse diagrammene hvordan inflasjonen har definert de siste 5 årene",
+      "kilde": "MarketWatch",
+      "tid": "17:54",
+      "lenke": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Trump avviser Irans betingede våpenhvileforslag, rapporterer WSJ, ettersom den saudiarabiske koalisjonen avskjærer prosjektiler",
-      "kilde": "CNBC Top News",
-      "tid": "15:05",
-      "lenke": "https://www.cnbc.com/2026/09/26/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports.html",
-      "engelsk_kilde": true
+      "tittel": "Stjerner usikre før Norge-møte: – Vil være en enorm svekkelse",
+      "kilde": "NRK Nyheter",
+      "tid": "16:16",
+      "lenke": "https://www.nrk.no/sport/norge-portugal_-bade-cristiano-ronaldo-og-bruno-fernandes-er-usikre-1.18037598",
+      "engelsk_kilde": false
     },
     {
-      "tittel": "Apple risikerer en dom om patentbrudd på $ 5,7 milliarder for iPhone og Apple Watch",
-      "kilde": "CNBC Top News",
-      "tid": "14:55",
-      "lenke": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Forstå virkningen av LLM-vannmerking på AI-agentenes atferd",
+      "tittel": "Japan går inn for å stramme inn reglene for utlendinger, og kaster futures i tvil",
       "kilde": "Hacker News",
-      "tid": "13:05",
-      "lenke": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+      "tid": "17:43",
+      "lenke": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Fra rentekutt til heving på ett år: – Klart det føles smertefullt",
-      "kilde": "E24",
-      "tid": "11:20",
-      "lenke": "https://e24.no/norsk-oekonomi/i/zOpdqv/fra-rentekutt-til-heving-paa-ett-aar-klart-det-foeles-smertefullt?utm_medium=rss",
+      "tittel": "Det hvite hus flytter for å blokkere $ 810 millioner i finansiering gjennom lommeoppsigelser",
+      "kilde": "CNBC Top News",
+      "tid": "18:46",
+      "lenke": "https://www.cnbc.com/2026/09/26/white-house-810-million-pocket-rescission.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Kartet som holder Nato sammen",
+      "kilde": "NRK Nyheter",
+      "tid": "17:09",
+      "lenke": "https://www.nrk.no/tromsogfinnmark/xl/tore-o.-sandvik-mener-et-dybdekart-fra-polarinstituttet-viser-hvorfor-usa-ikke-forlater-nato-1.17999578",
       "engelsk_kilde": false
     }
   ],
   "kategorier": {
     "NORGE": [
+      {
+        "tittel": "Stjerner usikre før Norge-møte: – Vil være en enorm svekkelse",
+        "kilde": "NRK Nyheter",
+        "tid": "16:16",
+        "lenke": "https://www.nrk.no/sport/norge-portugal_-bade-cristiano-ronaldo-og-bruno-fernandes-er-usikre-1.18037598",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Må destruere varer for millioner: – Døden for sigarer i Norge",
         "kilde": "E24",
@@ -51,6 +58,13 @@
       }
     ],
     "MAKRO": [
+      {
+        "tittel": "Fra $ 6 egg til $ 50 000 biler, viser disse diagrammene hvordan inflasjonen har definert de siste 5 årene",
+        "kilde": "MarketWatch",
+        "tid": "17:54",
+        "lenke": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Den 10-årige statsobligasjonsavkastningen er på sitt høyeste på nesten to tiår. Hvordan vi kom hit",
         "kilde": "CNBC Top News",
@@ -75,6 +89,13 @@
     ],
     "MARKEDER": [
       {
+        "tittel": "Japan går inn for å stramme inn reglene for utlendinger, og kaster futures i tvil",
+        "kilde": "Hacker News",
+        "tid": "17:43",
+        "lenke": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Forvalternes favoritter: Åtte utbytte­aksjer du bør satse på nå",
         "kilde": "E24",
         "tid": "05:43",
@@ -84,24 +105,31 @@
     ],
     "TEKNOLOGI": [
       {
+        "tittel": "OpenAI utvider gjennomgang av modellatferd etter at flere falske agenthendelser dukker opp",
+        "kilde": "CNBC Top News",
+        "tid": "17:10",
+        "lenke": "https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Apple risikerer en dom om patentbrudd på $ 5,7 milliarder for iPhone og Apple Watch",
         "kilde": "CNBC Top News",
-        "tid": "14:55",
+        "tid": "16:57",
         "lenke": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Forstå virkningen av LLM-vannmerking på AI-agentenes atferd",
+        "tittel": "Den amerikanske juryen mener Apple skylder rekordhøye $ 5,7 milliarder i patentsak for haptisk teknologi",
         "kilde": "Hacker News",
-        "tid": "13:05",
-        "lenke": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+        "tid": "16:46",
+        "lenke": "https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Bryte opp med Google Play: Hvorfor samtaler nå er gratis",
+        "tittel": "Banker og kredittforeninger slår seg sammen mot Apple Pay-gebyrer",
         "kilde": "Hacker News",
-        "tid": "10:55",
-        "lenke": "https://gultsch.de/posts/breaking-up-with-google-play/",
+        "tid": "15:48",
+        "lenke": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
         "engelsk_kilde": true
       },
       {
@@ -114,17 +142,24 @@
     ],
     "GEOPOLITIKK": [
       {
+        "tittel": "Det hvite hus flytter for å blokkere $ 810 millioner i finansiering gjennom lommeoppsigelser",
+        "kilde": "CNBC Top News",
+        "tid": "18:46",
+        "lenke": "https://www.cnbc.com/2026/09/26/white-house-810-million-pocket-rescission.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kartet som holder Nato sammen",
+        "kilde": "NRK Nyheter",
+        "tid": "17:09",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/xl/tore-o.-sandvik-mener-et-dybdekart-fra-polarinstituttet-viser-hvorfor-usa-ikke-forlater-nato-1.17999578",
+        "engelsk_kilde": false
+      },
+      {
         "tittel": "Trump avviser Irans betingede våpenhvileforslag, rapporterer WSJ, ettersom den saudiarabiske koalisjonen avskjærer prosjektiler",
         "kilde": "CNBC Top News",
         "tid": "15:05",
         "lenke": "https://www.cnbc.com/2026/09/26/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kina vil være med på den amerikanske AI-datasenterboomen. Her er hvorfor",
-        "kilde": "CNBC Top News",
-        "tid": "12:00",
-        "lenke": "https://www.cnbc.com/2026/09/26/china-us-ai-data-centers.html",
         "engelsk_kilde": true
       },
       {
@@ -133,16 +168,51 @@
         "tid": "21:38",
         "lenke": "https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trump og Xi utveksler varme ord på statsmiddagen, men lite fremgang på sentrale spørsmål",
-        "kilde": "BBC Business",
-        "tid": "16:01",
-        "lenke": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "Sosiale sikkerhetskontroller forventes å bli kuttet med $ 540 i måneden på bare seks år",
+        "kilde": "MarketWatch",
+        "tid": "17:15",
+        "lenke": "https://www.marketwatch.com/story/social-security-checks-are-projected-to-be-cut-by-540-a-month-in-just-six-years-a8842912?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "På hesteauksjon i Danmark: – Den har en «dejlig røv»",
+        "kilde": "E24",
+        "tid": "16:52",
+        "lenke": "https://e24.no/naeringsliv/i/7papbv/paa-hesteauksjon-i-danmark-den-har-en-dejlig-roev?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Et risikofritt utbytte på 10%? For noen, ja.",
+        "kilde": "MarketWatch",
+        "tid": "16:51",
+        "lenke": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Å velge disse AI-eksponerte hovedfagene kan skade jobbmulighetene dine — og senke lønnen din",
+        "kilde": "MarketWatch",
+        "tid": "16:22",
+        "lenke": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg er moren i det virale gigantklippet. La meg fortelle deg om mannen min",
+        "kilde": "Hacker News",
+        "tid": "16:12",
+        "lenke": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tegner: Kodingsagent på et levende Excalidraw-lerret",
+        "kilde": "Hacker News",
+        "tid": "15:56",
+        "lenke": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Skattefrie obligasjonsrenter er i en søt flekk. Kom deg inn før det er for sent.",
         "kilde": "MarketWatch",
@@ -172,38 +242,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Stupende testresultater er en saktegående katastrofe",
-        "kilde": "Hacker News",
-        "tid": "15:24",
-        "lenke": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Ny satellittmotor kan bruke jordens atmosfære til å holde seg i bane på ubestemt tid",
-        "kilde": "Hacker News",
-        "tid": "15:10",
-        "lenke": "https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Gjør denne ene tingen for å forhindre at foreldrene dine blir lurt",
-        "kilde": "MarketWatch",
-        "tid": "15:04",
-        "lenke": "https://www.marketwatch.com/story/do-this-one-thing-to-help-prevent-your-parents-from-being-scammed-27a0ca4b?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Dette kan være den \"manglende brikken\" for investorer som ønsker å øke AI-eksponeringen",
         "kilde": "CNBC Top News",
         "tid": "15:00",
         "lenke": "https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Mannen min og jeg er i 50-årene og har ingen barn. Vi har $ 2 millioner i Ira og 401(k)s. Trenger vi virkelig et testamente?",
-        "kilde": "MarketWatch",
-        "tid": "15:00",
-        "lenke": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -221,27 +263,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Jeg er redd for å sulte i hjel. Social Security stoppet våre sjekker på grunn av en hacket bankkonto. Hva kan vi gjøre?",
-        "kilde": "MarketWatch",
-        "tid": "14:44",
-        "lenke": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jorden er i ferd med å revne under det nordvestlige Stillehavet",
-        "kilde": "Hacker News",
-        "tid": "14:33",
-        "lenke": "https://www.sciencedaily.com/releases/2026/09/260924231343.htm",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg bruker tid og penger på å ta vare på min aldrende mor — men hun ga broren min $ 100 000. Skal jeg trekke meg tilbake?",
-        "kilde": "MarketWatch",
-        "tid": "14:30",
-        "lenke": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Karsten Warholm opna Karsten Warholm stadion",
         "kilde": "NRK Nyheter",
         "tid": "14:24",
@@ -256,17 +277,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Berkshire legger til nesten doblet eierandel i slumping homebuilder",
-        "kilde": "CNBC Top News",
-        "tid": "13:14",
-        "lenke": "https://www.cnbc.com/2026/09/26/berkshire-adds-to-nearly-doubled-stake-in-slumping-homebuilder.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trafikkulykke på E18 i Holmestrand: En person kritisk skadd",
+        "tittel": "En person kritisk skadd etter utforkjøring i Holmestrand",
         "kilde": "NRK Nyheter",
         "tid": "12:47",
-        "lenke": "https://www.nrk.no/vestfoldogtelemark/trafikkulykke-pa-e18-i-holmestrand_-en-person-kritisk-skadd-1.18037445",
+        "lenke": "https://www.nrk.no/vestfoldogtelemark/en-person-kritisk-skadd-etter-utforkjoring-i-holmestrand-1.18037445",
         "engelsk_kilde": false
       },
       {
@@ -289,13 +303,6 @@
         "tid": "12:19",
         "lenke": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Forsker får se dokumenter fra Rød-Larsens kjellerbod",
-        "kilde": "NRK Nyheter",
-        "tid": "12:02",
-        "lenke": "https://www.nrk.no/norge/forsker-hilde-henriksen-waage-far-se-dokumenter-fra-rod-larsens-kjellerbod-1.18037315",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Kan en iskaffe fryse deg ut av arbeidsmarkedet?",
@@ -323,13 +330,6 @@
         "kilde": "E24",
         "tid": "09:29",
         "lenke": "https://e24.no/boers-og-finans/i/aJV2XO/billigere-hoestferie-trenger-ikke-reise-langt?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Mann siktet for drapsforsøk etter knivstikking på matbutikk i Bærum",
-        "kilde": "NRK Nyheter",
-        "tid": "09:21",
-        "lenke": "https://www.nrk.no/stor-oslo/mann-siktet-for-drapsforsok-etter-knivstikking-pa-matbutikk-i-baerum-1.18037303",
         "engelsk_kilde": false
       },
       {
@@ -365,20 +365,6 @@
         "kilde": "BBC Business",
         "tid": "20:13",
         "lenke": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Flybilletter på billigsalg",
-        "kilde": "E24",
-        "tid": "20:09",
-        "lenke": "https://e24.no/naeringsliv/i/e7VreQ/flybilletter-paa-billigsalg?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Sir David Beckham tjener £ 38,5 millioner etter VM-annonsetilbud",
-        "kilde": "BBC Business",
-        "tid": "16:00",
-        "lenke": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ]
