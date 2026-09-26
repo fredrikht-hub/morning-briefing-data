@@ -1,42 +1,42 @@
 {
   "dato": "2026-09-26",
   "dato_norsk": "Lørdag 26. september 2026",
-  "generert_kl": "12:35",
+  "generert_kl": "16:00",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
+    {
+      "tittel": "Den 10-årige statsobligasjonsavkastningen er på sitt høyeste på nesten to tiår. Hvordan vi kom hit",
+      "kilde": "CNBC Top News",
+      "tid": "13:30",
+      "lenke": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Trump avviser Irans betingede våpenhvileforslag, rapporterer WSJ, ettersom den saudiarabiske koalisjonen avskjærer prosjektiler",
+      "kilde": "CNBC Top News",
+      "tid": "15:05",
+      "lenke": "https://www.cnbc.com/2026/09/26/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Apple risikerer en dom om patentbrudd på $ 5,7 milliarder for iPhone og Apple Watch",
+      "kilde": "CNBC Top News",
+      "tid": "14:55",
+      "lenke": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Forstå virkningen av LLM-vannmerking på AI-agentenes atferd",
+      "kilde": "Hacker News",
+      "tid": "13:05",
+      "lenke": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+      "engelsk_kilde": true
+    },
     {
       "tittel": "Fra rentekutt til heving på ett år: – Klart det føles smertefullt",
       "kilde": "E24",
       "tid": "11:20",
       "lenke": "https://e24.no/norsk-oekonomi/i/zOpdqv/fra-rentekutt-til-heving-paa-ett-aar-klart-det-foeles-smertefullt?utm_medium=rss",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Kina spiller et annet spill når det gjelder AI",
-      "kilde": "MarketWatch",
-      "tid": "12:30",
-      "lenke": "https://www.marketwatch.com/story/china-is-playing-a-different-game-when-it-comes-to-ai-c48791cd?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Hvorfor volatiliteten i obligasjonsmarkedet ikke har spredd seg til aksjer",
-      "kilde": "MarketWatch",
-      "tid": "12:00",
-      "lenke": "https://www.marketwatch.com/story/why-bond-market-volatility-hasnt-spilled-over-into-stocks-f156b24a?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Bryte opp med Google Play: Hvorfor samtaler nå er gratis",
-      "kilde": "Hacker News",
-      "tid": "10:55",
-      "lenke": "https://gultsch.de/posts/breaking-up-with-google-play/",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Må destruere varer for millioner: – Døden for sigarer i Norge",
-      "kilde": "E24",
-      "tid": "03:00",
-      "lenke": "https://e24.no/norsk-oekonomi/i/43v7Lo/maa-destruere-varer-for-millioner-doeden-for-sigarer-i-norge?utm_medium=rss",
       "engelsk_kilde": false
     }
   ],
@@ -51,6 +51,13 @@
       }
     ],
     "MAKRO": [
+      {
+        "tittel": "Den 10-årige statsobligasjonsavkastningen er på sitt høyeste på nesten to tiår. Hvordan vi kom hit",
+        "kilde": "CNBC Top News",
+        "tid": "13:30",
+        "lenke": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Fra rentekutt til heving på ett år: – Klart det føles smertefullt",
         "kilde": "E24",
@@ -68,13 +75,6 @@
     ],
     "MARKEDER": [
       {
-        "tittel": "Hvorfor volatiliteten i obligasjonsmarkedet ikke har spredd seg til aksjer",
-        "kilde": "MarketWatch",
-        "tid": "12:00",
-        "lenke": "https://www.marketwatch.com/story/why-bond-market-volatility-hasnt-spilled-over-into-stocks-f156b24a?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Forvalternes favoritter: Åtte utbytte­aksjer du bør satse på nå",
         "kilde": "E24",
         "tid": "05:43",
@@ -82,28 +82,26 @@
         "engelsk_kilde": false
       }
     ],
-    "ENERGI_RAAVARER": [
-      {
-        "tittel": "Afrikas rikeste mann bidrar til å finansiere $ 660m drivstoffrørledning mellom Etiopia og Djibouti",
-        "kilde": "BBC Business",
-        "tid": "14:24",
-        "lenke": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      }
-    ],
     "TEKNOLOGI": [
+      {
+        "tittel": "Apple risikerer en dom om patentbrudd på $ 5,7 milliarder for iPhone og Apple Watch",
+        "kilde": "CNBC Top News",
+        "tid": "14:55",
+        "lenke": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Forstå virkningen av LLM-vannmerking på AI-agentenes atferd",
+        "kilde": "Hacker News",
+        "tid": "13:05",
+        "lenke": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Bryte opp med Google Play: Hvorfor samtaler nå er gratis",
         "kilde": "Hacker News",
         "tid": "10:55",
         "lenke": "https://gultsch.de/posts/breaking-up-with-google-play/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Femten år senere kommer opprinnelseshistorien til Apple Cards",
-        "kilde": "Hacker News",
-        "tid": "09:13",
-        "lenke": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
         "engelsk_kilde": true
       },
       {
@@ -116,17 +114,17 @@
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Kina spiller et annet spill når det gjelder AI",
-        "kilde": "MarketWatch",
-        "tid": "12:30",
-        "lenke": "https://www.marketwatch.com/story/china-is-playing-a-different-game-when-it-comes-to-ai-c48791cd?mod=mw_rss_topstories",
+        "tittel": "Trump avviser Irans betingede våpenhvileforslag, rapporterer WSJ, ettersom den saudiarabiske koalisjonen avskjærer prosjektiler",
+        "kilde": "CNBC Top News",
+        "tid": "15:05",
+        "lenke": "https://www.cnbc.com/2026/09/26/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Et \"dødskors\" kommer for dollaren. Hvorfor Trump vil bli glad.",
-        "kilde": "MarketWatch",
-        "tid": "21:57",
-        "lenke": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
+        "tittel": "Kina vil være med på den amerikanske AI-datasenterboomen. Her er hvorfor",
+        "kilde": "CNBC Top News",
+        "tid": "12:00",
+        "lenke": "https://www.cnbc.com/2026/09/26/china-us-ai-data-centers.html",
         "engelsk_kilde": true
       },
       {
@@ -137,28 +135,147 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "USAs ankedomstol opprettholder Pentagons betegnelse av antropisk som forsyningskjederisiko",
-        "kilde": "CNBC Top News",
-        "tid": "17:19",
-        "lenke": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Trump og Xi utveksler varme ord på statsmiddagen, men lite fremgang på sentrale spørsmål",
         "kilde": "BBC Business",
         "tid": "16:01",
         "lenke": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Iran tilbyr seg å gjenåpne Hormuzstredet innen 7 dager og gjenoppta atomforhandlingene",
-        "kilde": "CNBC Top News",
-        "tid": "13:45",
-        "lenke": "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html",
-        "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "Skattefrie obligasjonsrenter er i en søt flekk. Kom deg inn før det er for sent.",
+        "kilde": "MarketWatch",
+        "tid": "15:48",
+        "lenke": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "\"Hun sier det bare er penger\": Vennen min betaler for alt. Jeg burde være takknemlig, men jeg tåler henne ikke lenger.",
+        "kilde": "MarketWatch",
+        "tid": "15:30",
+        "lenke": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Millioner vil miste Medicaid når nye arbeidsregler trer i kraft. Disse gruppene vil bli rammet hardest.",
+        "kilde": "MarketWatch",
+        "tid": "15:30",
+        "lenke": "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "\"Vi levde innenfor våre midler\": Jeg tjente $ 30 000 som pastor og pensjonerte meg fortsatt komfortabelt. Hvorfor forteller du ikke folk det?",
+        "kilde": "MarketWatch",
+        "tid": "15:30",
+        "lenke": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Stupende testresultater er en saktegående katastrofe",
+        "kilde": "Hacker News",
+        "tid": "15:24",
+        "lenke": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ny satellittmotor kan bruke jordens atmosfære til å holde seg i bane på ubestemt tid",
+        "kilde": "Hacker News",
+        "tid": "15:10",
+        "lenke": "https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Gjør denne ene tingen for å forhindre at foreldrene dine blir lurt",
+        "kilde": "MarketWatch",
+        "tid": "15:04",
+        "lenke": "https://www.marketwatch.com/story/do-this-one-thing-to-help-prevent-your-parents-from-being-scammed-27a0ca4b?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Dette kan være den \"manglende brikken\" for investorer som ønsker å øke AI-eksponeringen",
+        "kilde": "CNBC Top News",
+        "tid": "15:00",
+        "lenke": "https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Mannen min og jeg er i 50-årene og har ingen barn. Vi har $ 2 millioner i Ira og 401(k)s. Trenger vi virkelig et testamente?",
+        "kilde": "MarketWatch",
+        "tid": "15:00",
+        "lenke": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trafikkulykke på E18 i Holmestrand: En person kritisk skadd",
+        "kilde": "NRK Nyheter",
+        "tid": "14:58",
+        "lenke": "https://www.nrk.no/vestfoldogtelemark/trafikkulykke-pa-e18-i-holmestrand_-en-person-kritisk-skadd-1.18037513",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Ville scener på Ullevaal: – Aldri vært vitne til lignende",
+        "kilde": "NRK Nyheter",
+        "tid": "14:51",
+        "lenke": "https://www.nrk.no/sport/cristiano-ronaldo-feber_-ville-scener-pa-ullevaal-for-portugal-trening-1.18037542",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Jeg er redd for å sulte i hjel. Social Security stoppet våre sjekker på grunn av en hacket bankkonto. Hva kan vi gjøre?",
+        "kilde": "MarketWatch",
+        "tid": "14:44",
+        "lenke": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jorden er i ferd med å revne under det nordvestlige Stillehavet",
+        "kilde": "Hacker News",
+        "tid": "14:33",
+        "lenke": "https://www.sciencedaily.com/releases/2026/09/260924231343.htm",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg bruker tid og penger på å ta vare på min aldrende mor — men hun ga broren min $ 100 000. Skal jeg trekke meg tilbake?",
+        "kilde": "MarketWatch",
+        "tid": "14:30",
+        "lenke": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Karsten Warholm opna Karsten Warholm stadion",
+        "kilde": "NRK Nyheter",
+        "tid": "14:24",
+        "lenke": "https://www.nrk.no/mr/offisiell-opning-av-dimna-il-sin-karsten-warholm-stadion-i-ulsteinvik-1.18037450",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "AI-bruken øker: – Vi må ta advarslene på alvor",
+        "kilde": "E24",
+        "tid": "14:10",
+        "lenke": "https://e24.no/naeringsliv/i/9p9m4M/ai-bruken-oeker-vi-maa-ta-advarslene-paa-alvor?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Berkshire legger til nesten doblet eierandel i slumping homebuilder",
+        "kilde": "CNBC Top News",
+        "tid": "13:14",
+        "lenke": "https://www.cnbc.com/2026/09/26/berkshire-adds-to-nearly-doubled-stake-in-slumping-homebuilder.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trafikkulykke på E18 i Holmestrand: En person kritisk skadd",
+        "kilde": "NRK Nyheter",
+        "tid": "12:47",
+        "lenke": "https://www.nrk.no/vestfoldogtelemark/trafikkulykke-pa-e18-i-holmestrand_-en-person-kritisk-skadd-1.18037445",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Bil kjørte av veien ved Holmestrand",
+        "kilde": "NRK Nyheter",
+        "tid": "12:44",
+        "lenke": "https://www.nrk.no/nyheter/bil-kjorte-av-veien-ved-holmestrand-1.18037461",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Alle ambulanser var opptatt da sønnen falt om: – Veldig skummelt",
         "kilde": "NRK Nyheter",
@@ -181,34 +298,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "\"Vi levde innenfor våre midler\": Jeg tjente $ 30 000 som pastor og pensjonerte meg fortsatt komfortabelt. Hvorfor forteller du ikke folk det?",
-        "kilde": "MarketWatch",
-        "tid": "12:00",
-        "lenke": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Claude Opus 5.5 bør heve ambisjonene dine",
-        "kilde": "Hacker News",
-        "tid": "11:53",
-        "lenke": "https://thezvi.substack.com/p/claude-opus-55-should-raise-your",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Meta gjorde Muse til en viral hit. Nå kommer den vanskelige delen.",
-        "kilde": "MarketWatch",
-        "tid": "11:00",
-        "lenke": "https://www.marketwatch.com/story/meta-turned-muse-into-a-viral-hit-now-comes-the-hard-part-fb3177a8?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Én måned uten AI",
-        "kilde": "Hacker News",
-        "tid": "10:08",
-        "lenke": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Kan en iskaffe fryse deg ut av arbeidsmarkedet?",
         "kilde": "BBC Business",
         "tid": "10:05",
@@ -220,13 +309,6 @@
         "kilde": "CNBC Top News",
         "tid": "10:00",
         "lenke": "https://www.cnbc.com/2026/09/26/audemars-piguet-and-royal-pop-defy-luxury-watch-slump-and-tariffs.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Merket Copilot+ PC er dødt",
-        "kilde": "Hacker News",
-        "tid": "09:55",
-        "lenke": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
         "engelsk_kilde": true
       },
       {
@@ -251,45 +333,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Kritikk mot gransking av sykehuset: Flere mener ledelsen slipper for billig unna",
-        "kilde": "NRK Nyheter",
-        "tid": "08:22",
-        "lenke": "https://www.nrk.no/tromsogfinnmark/kritikk-mot-gransking-av-finnmarkssykehuset_-flere-mener-ledelsen-slipper-for-billig-unna-1.18035744",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Professor får sjå dokument frå Rød-Larsens kjellarbod",
-        "kilde": "NRK Nyheter",
-        "tid": "06:37",
-        "lenke": "https://www.nrk.no/nyheter/professor-far-sja-dokument-fra-rod-larsens-kjellarbod-1.18037270",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Leilighet til besvær",
-        "kilde": "NRK Nyheter",
-        "tid": "06:20",
-        "lenke": "https://www.nrk.no/dokumentar/xl/okokrim-etterforsker-epsteins-overforinger-til-rod-larsen-1.18001797",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Fleire vil lagre atomavfall: Vekker oppsikt internasjonalt",
-        "kilde": "NRK Nyheter",
-        "tid": "06:14",
-        "lenke": "https://www.nrk.no/ostfold/fleire-vil-lagre-atomavfall_-vekker-oppsikt-internasjonalt-1.18032694",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "De advarer. Så bygger de neste modell",
         "kilde": "E24",
         "tid": "05:49",
         "lenke": "https://e24.no/teknologi/i/K8VzMe/de-advarer-saa-bygger-de-neste-modell?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Fekk Ronaldo til å bryte ut i latter: – Det var veldig herleg",
-        "kilde": "NRK Nyheter",
-        "tid": "05:46",
-        "lenke": "https://www.nrk.no/sport/espen-eskas-fekk-cristiano-ronaldo-og-luka-modric-til-a-le-i-vm-1.18033948",
         "engelsk_kilde": false
       },
       {
@@ -307,52 +354,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Kinesiske AI-modeller øker i global popularitet — og Washington er bekymret",
-        "kilde": "CNBC Top News",
-        "tid": "05:00",
-        "lenke": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg er 77, betaler husleie og lever av trygd, men jeg hjelper hjemløse. Hvorfor er det så mange som sulter?",
-        "kilde": "MarketWatch",
-        "tid": "00:00",
-        "lenke": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vennen min er dødssyk. Skal hun selge utleieboligen sin og betale $ 100 000 i kapitalgevinster?",
-        "kilde": "MarketWatch",
-        "tid": "23:30",
-        "lenke": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Ankerettens regler om at stater kan regulere Kalshis sportspredikasjonsmarkeder, noe som gir enda et juridisk slag mot plattformer",
-        "kilde": "CNBC Top News",
-        "tid": "23:28",
-        "lenke": "https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Her er nøyaktig hva Paramount lovet Hollywood å lande WBD — og hvorfor noen fortsatt er skeptiske",
         "kilde": "CNBC Top News",
         "tid": "22:53",
         "lenke": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "\"Hun sier det bare er penger\": Vennen min betaler for alt. Jeg burde være takknemlig, men jeg tåler henne ikke lenger.",
-        "kilde": "MarketWatch",
-        "tid": "22:00",
-        "lenke": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Coca-Cola ansetter Rob Gehring fra Monster Energy for å drive sin nordamerikanske virksomhet",
-        "kilde": "CNBC Top News",
-        "tid": "21:02",
-        "lenke": "https://www.cnbc.com/2026/09/25/monster-coca-cola-rob-gehring.html",
         "engelsk_kilde": true
       },
       {
@@ -370,24 +375,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Fotballegende selger New York-luksus",
-        "kilde": "E24",
-        "tid": "19:28",
-        "lenke": "https://e24.no/naeringsliv/i/e7pRdK/fotballegende-selger-new-york-luksus?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Sir David Beckham tjener £ 38,5 millioner etter VM-annonsetilbud",
         "kilde": "BBC Business",
         "tid": "16:00",
         "lenke": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Administrerende direktør som la ut 'Lake America' -genserbilder, er ikke lenger med i selskapet",
-        "kilde": "CNBC Top News",
-        "tid": "13:32",
-        "lenke": "https://www.cnbc.com/2026/09/25/ceo-who-posted-lake-america-sweatshirt-photos-has-left-the-company.html",
         "engelsk_kilde": true
       }
     ]
