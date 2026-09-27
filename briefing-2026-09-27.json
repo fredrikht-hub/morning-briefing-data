@@ -1,43 +1,43 @@
 {
   "dato": "2026-09-27",
   "dato_norsk": "Søndag 27. september 2026",
-  "generert_kl": "09:55",
+  "generert_kl": "13:25",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Er norske politikere dømt til å være maktesløse?",
-      "kilde": "E24",
-      "tid": "09:07",
-      "lenke": "https://e24.no/teknologi/i/zOaMjq/er-norske-politikere-doemt-til-aa-vaere-maktesloese?utm_medium=rss",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Den norske dronekrigeren",
-      "kilde": "NRK Nyheter",
-      "tid": "08:47",
-      "lenke": "https://www.nrk.no/urix/xl/den-norske-dronekrigeren-1.18031145",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Meta blokkerer president Lulas Facebook-side, kampanjeannonser 2 uker fra valget",
-      "kilde": "Hacker News",
-      "tid": "08:44",
-      "lenke": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+      "tittel": "Hvorfor den kommende jobbrapporten kan sende 10- og 30-årige avkastningsøkninger",
+      "kilde": "MarketWatch",
+      "tid": "11:00",
+      "lenke": "https://www.marketwatch.com/story/why-the-upcoming-jobs-report-could-send-10-year-and-30-year-treasury-yields-surging-67eab4ba?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Salgsflom i fjellet: – Et tydelig kjøpers marked",
-      "kilde": "E24",
-      "tid": "09:20",
-      "lenke": "https://e24.no/naeringsliv/i/Rjkj4W/salgsflom-i-fjellet-et-tydelig-kjoepers-marked?utm_medium=rss",
-      "engelsk_kilde": false
+      "tittel": "Wall Street-penger tar tilbake fra små investorer som drivkraften i aksjemarkedet",
+      "kilde": "CNBC Top News",
+      "tid": "11:32",
+      "lenke": "https://www.cnbc.com/2026/09/27/institutional-investors-stocks-treaurys-retail-traders.html",
+      "engelsk_kilde": true
     },
     {
-      "tittel": "Jeg tok feil",
-      "kilde": "E24",
-      "tid": "09:18",
-      "lenke": "https://e24.no/naeringsliv/i/6qalwz/jeg-tok-feil?utm_medium=rss",
-      "engelsk_kilde": false
+      "tittel": "Topp Wall Street-analytikere som disse 3 utbytteaksjene for jevn inntekt",
+      "kilde": "CNBC Top News",
+      "tid": "11:33",
+      "lenke": "https://www.cnbc.com/2026/09/27/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Se nærmere, og Wall Streets rally viser sprekker",
+      "kilde": "MarketWatch",
+      "tid": "13:00",
+      "lenke": "https://www.marketwatch.com/story/look-closer-and-wall-streets-rally-is-showing-cracks-94952048?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "\"Som språkmodell\": Chat-malbrytere LLM selvrefererende stemme",
+      "kilde": "Hacker News",
+      "tid": "10:26",
+      "lenke": "https://arxiv.org/abs/2609.25021",
+      "engelsk_kilde": true
     }
   ],
   "kategorier": {
@@ -59,28 +59,58 @@
     ],
     "MAKRO": [
       {
+        "tittel": "Hvorfor den kommende jobbrapporten kan sende 10- og 30-årige avkastningsøkninger",
+        "kilde": "MarketWatch",
+        "tid": "11:00",
+        "lenke": "https://www.marketwatch.com/story/why-the-upcoming-jobs-report-could-send-10-year-and-30-year-treasury-yields-surging-67eab4ba?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Fra $ 6 egg til $ 50 000 biler, viser disse diagrammene hvordan inflasjonen har definert de siste 5 årene",
         "kilde": "MarketWatch",
         "tid": "17:54",
         "lenke": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
         "engelsk_kilde": true
-      },
+      }
+    ],
+    "MARKEDER": [
       {
-        "tittel": "Den 10-årige statsobligasjonsavkastningen er på sitt høyeste på nesten to tiår. Hvordan vi kom hit",
-        "kilde": "CNBC Top News",
-        "tid": "13:30",
-        "lenke": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
+        "tittel": "Se nærmere, og Wall Streets rally viser sprekker",
+        "kilde": "MarketWatch",
+        "tid": "13:00",
+        "lenke": "https://www.marketwatch.com/story/look-closer-and-wall-streets-rally-is-showing-cracks-94952048?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Fra rentekutt til heving på ett år: – Klart det føles smertefullt",
-        "kilde": "E24",
-        "tid": "11:20",
-        "lenke": "https://e24.no/norsk-oekonomi/i/zOpdqv/fra-rentekutt-til-heving-paa-ett-aar-klart-det-foeles-smertefullt?utm_medium=rss",
-        "engelsk_kilde": false
+        "tittel": "Topp Wall Street-analytikere som disse 3 utbytteaksjene for jevn inntekt",
+        "kilde": "CNBC Top News",
+        "tid": "11:33",
+        "lenke": "https://www.cnbc.com/2026/09/27/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Wall Street-penger tar tilbake fra små investorer som drivkraften i aksjemarkedet",
+        "kilde": "CNBC Top News",
+        "tid": "11:32",
+        "lenke": "https://www.cnbc.com/2026/09/27/institutional-investors-stocks-treaurys-retail-traders.html",
+        "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
+      {
+        "tittel": "\"Som språkmodell\": Chat-malbrytere LLM selvrefererende stemme",
+        "kilde": "Hacker News",
+        "tid": "10:26",
+        "lenke": "https://arxiv.org/abs/2609.25021",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvordan forhindre krig som følge av kunstig intelligens?",
+        "kilde": "E24",
+        "tid": "10:17",
+        "lenke": "https://e24.no/teknologi/i/j0R3A9/hvordan-forhindre-krig-som-foelge-av-kunstig-intelligens?utm_medium=rss",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "OpenAI fryktet \"Optikk\" av hva som kan vises på Hacker News",
         "kilde": "Hacker News",
@@ -119,13 +149,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Trump sier han godkjente nye drivstofføkonomistandarder, og rullet tilbake reglene fra Biden-æraen",
-        "kilde": "CNBC Top News",
-        "tid": "21:21",
-        "lenke": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Trump avviser Irans betingede våpenhvileforslag, rapporterer WSJ, ettersom den saudiarabiske koalisjonen avskjærer prosjektiler",
         "kilde": "CNBC Top News",
         "tid": "15:05",
@@ -134,6 +157,55 @@
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "Bolig i Ski solgt 2,75 millioner over prisantydning",
+        "kilde": "E24",
+        "tid": "12:12",
+        "lenke": "https://e24.no/norsk-oekonomi/i/9pRmG9/solgt-nesten-3-millioner-over-prisantydning-etter-et-droeyt-aar-viktig-aa-ha-taalmodighet?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "England: Fem menn pågrepet etter mistanke om forberedelser av terrorhandlinger",
+        "kilde": "NRK Nyheter",
+        "tid": "12:09",
+        "lenke": "https://www.nrk.no/urix/england_-fem-menn-pagrepet-etter-mistanke-om-forberedelser-av-terrorhandlinger-1.18037909",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Ulykke på riksveg 9 - en person fraktet til sykehus med luftambulanse",
+        "kilde": "NRK Nyheter",
+        "tid": "12:04",
+        "lenke": "https://www.nrk.no/sorlandet/ulykke-pa-riksveg-9---en-person-fraktet-til-sykehus-med-luftambulanse-1.18037943",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "På NFL-kamper denne sesongen har droneforsvarsteknologien som mål å få ned forstyrrelser",
+        "kilde": "CNBC Top News",
+        "tid": "12:00",
+        "lenke": "https://www.cnbc.com/2026/09/27/nfl-drone-defense-tech-game-disruptions.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Dette hjelper mot ensomhet",
+        "kilde": "NRK Nyheter",
+        "tid": "11:29",
+        "lenke": "https://www.nrk.no/nyttig/xl/dette-hjelper-mot-ensomhet-1.18032539",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Andy Burnham nekter å støtte tredje rullebane på Heathrow",
+        "kilde": "BBC Business",
+        "tid": "11:22",
+        "lenke": "https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Gjeldshungrige AI-selskaper står overfor økt risiko etter hvert som obligasjonsrenten stiger",
+        "kilde": "CNBC Top News",
+        "tid": "11:00",
+        "lenke": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Følsom kjendis",
         "kilde": "NRK Nyheter",
@@ -170,13 +242,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Ronaldo «nektar» å gi seg: – Fordel Noreg om han startar",
-        "kilde": "NRK Nyheter",
-        "tid": "07:04",
-        "lenke": "https://www.nrk.no/sport/ronaldo-_nektar_-a-gi-seg-_-nrk-ekspert-meiner-det-kan-vere-fordel-for-noreg-1.18035225",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Rentefond: – Kan være et godt tidspunkt",
         "kilde": "E24",
         "tid": "06:51",
@@ -188,20 +253,6 @@
         "kilde": "NRK Nyheter",
         "tid": "06:50",
         "lenke": "https://www.nrk.no/trondelag/mann-siktet-etter-husbrann-i-namsos-1.18037776",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Person sikta for brannstiftelse etter to husbrannar i Namsos",
-        "kilde": "NRK Nyheter",
-        "tid": "06:16",
-        "lenke": "https://www.nrk.no/nyheter/person-sikta-for-brannstiftelse-etter-to-husbrannar-i-namsos-1.18037745",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "To meter høy, skostørrelse 48 og gullring – politiet står uten svar på hvem han er",
-        "kilde": "NRK Nyheter",
-        "tid": "06:09",
-        "lenke": "https://www.nrk.no/nordland/dod-mann-i-lofoten-fortsatt-uidentifisert_-politiet-undersoker-havstrommer-1.18035781",
         "engelsk_kilde": false
       },
       {
@@ -268,13 +319,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "DeepSeek Elastic Compute (DSec)",
-        "kilde": "Hacker News",
-        "tid": "18:22",
-        "lenke": "https://arxiv.org/abs/2609.22978",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Sosiale sikkerhetskontroller forventes å bli kuttet med $ 540 i måneden på bare seks år",
         "kilde": "MarketWatch",
         "tid": "17:15",
@@ -310,52 +354,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Skattefrie obligasjonsrenter er i en søt flekk. Kom deg inn før det er for sent.",
-        "kilde": "MarketWatch",
-        "tid": "15:48",
-        "lenke": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "\"Hun sier det bare er penger\": Vennen min betaler for alt. Jeg burde være takknemlig, men jeg tåler henne ikke lenger.",
-        "kilde": "MarketWatch",
-        "tid": "15:30",
-        "lenke": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "AI-bruken øker: – Vi må ta advarslene på alvor",
-        "kilde": "E24",
-        "tid": "14:10",
-        "lenke": "https://e24.no/naeringsliv/i/9p9m4M/ai-bruken-oeker-vi-maa-ta-advarslene-paa-alvor?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Berkshire legger til nesten doblet eierandel i slumping homebuilder",
+        "tittel": "Dette kan være den \"manglende brikken\" for investorer som ønsker å øke AI-eksponeringen",
         "kilde": "CNBC Top News",
-        "tid": "13:14",
-        "lenke": "https://www.cnbc.com/2026/09/26/berkshire-adds-to-nearly-doubled-stake-in-slumping-homebuilder.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Forsyningsglut, laboratoriedyrkede alternativer: Hva ligger bak fallet i diamantprisene for å registrere nedturer",
-        "kilde": "CNBC Top News",
-        "tid": "13:09",
-        "lenke": "https://www.cnbc.com/2026/09/26/whats-behind-the-fall-of-diamond-prices-to-record-lows.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kan en iskaffe fryse deg ut av arbeidsmarkedet?",
-        "kilde": "BBC Business",
-        "tid": "10:05",
-        "lenke": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Audemars Piguet sier at deres Royal Pop-samarbeid med Swatch slår salgsrekorder, til tross for nedgang i luksusklokker og tariffer",
-        "kilde": "CNBC Top News",
-        "tid": "10:00",
-        "lenke": "https://www.cnbc.com/2026/09/26/audemars-piguet-and-royal-pop-defy-luxury-watch-slump-and-tariffs.html",
+        "tid": "15:00",
+        "lenke": "https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html",
         "engelsk_kilde": true
       }
     ]
