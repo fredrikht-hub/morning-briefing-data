@@ -1,9 +1,23 @@
 {
   "dato": "2026-09-27",
   "dato_norsk": "Søndag 27. september 2026",
-  "generert_kl": "13:25",
+  "generert_kl": "16:37",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
+    {
+      "tittel": "Micron kan fjerne Nvidia og bli den største driveren for S&P 500 resultatvekst",
+      "kilde": "MarketWatch",
+      "tid": "14:00",
+      "lenke": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Irans utenriksminister sier Teheran er klar for «dommedagskrig» med USA, men etterlater diplomati på bordet",
+      "kilde": "CNBC Top News",
+      "tid": "16:15",
+      "lenke": "https://www.cnbc.com/2026/09/27/iran-foreign-minister-keeps-indirect-talks-with-us-open-state-media.html",
+      "engelsk_kilde": true
+    },
     {
       "tittel": "Hvorfor den kommende jobbrapporten kan sende 10- og 30-årige avkastningsøkninger",
       "kilde": "MarketWatch",
@@ -12,32 +26,18 @@
       "engelsk_kilde": true
     },
     {
-      "tittel": "Wall Street-penger tar tilbake fra små investorer som drivkraften i aksjemarkedet",
-      "kilde": "CNBC Top News",
-      "tid": "11:32",
-      "lenke": "https://www.cnbc.com/2026/09/27/institutional-investors-stocks-treaurys-retail-traders.html",
-      "engelsk_kilde": true
+      "tittel": "Hvordan forhindre krig som følge av kunstig intelligens?",
+      "kilde": "E24",
+      "tid": "10:17",
+      "lenke": "https://e24.no/teknologi/i/j0R3A9/hvordan-forhindre-krig-som-foelge-av-kunstig-intelligens?utm_medium=rss",
+      "engelsk_kilde": false
     },
     {
-      "tittel": "Topp Wall Street-analytikere som disse 3 utbytteaksjene for jevn inntekt",
-      "kilde": "CNBC Top News",
-      "tid": "11:33",
-      "lenke": "https://www.cnbc.com/2026/09/27/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Se nærmere, og Wall Streets rally viser sprekker",
-      "kilde": "MarketWatch",
-      "tid": "13:00",
-      "lenke": "https://www.marketwatch.com/story/look-closer-and-wall-streets-rally-is-showing-cracks-94952048?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "\"Som språkmodell\": Chat-malbrytere LLM selvrefererende stemme",
-      "kilde": "Hacker News",
-      "tid": "10:26",
-      "lenke": "https://arxiv.org/abs/2609.25021",
-      "engelsk_kilde": true
+      "tittel": "Er norske politikere dømt til å være maktesløse?",
+      "kilde": "E24",
+      "tid": "09:07",
+      "lenke": "https://e24.no/teknologi/i/zOaMjq/er-norske-politikere-doemt-til-aa-vaere-maktesloese?utm_medium=rss",
+      "engelsk_kilde": false
     }
   ],
   "kategorier": {
@@ -64,16 +64,16 @@
         "tid": "11:00",
         "lenke": "https://www.marketwatch.com/story/why-the-upcoming-jobs-report-could-send-10-year-and-30-year-treasury-yields-surging-67eab4ba?mod=mw_rss_topstories",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Fra $ 6 egg til $ 50 000 biler, viser disse diagrammene hvordan inflasjonen har definert de siste 5 årene",
-        "kilde": "MarketWatch",
-        "tid": "17:54",
-        "lenke": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
+      {
+        "tittel": "Micron kan fjerne Nvidia og bli den største driveren for S&P 500 resultatvekst",
+        "kilde": "MarketWatch",
+        "tid": "14:00",
+        "lenke": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Se nærmere, og Wall Streets rally viser sprekker",
         "kilde": "MarketWatch",
@@ -98,32 +98,11 @@
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "\"Som språkmodell\": Chat-malbrytere LLM selvrefererende stemme",
-        "kilde": "Hacker News",
-        "tid": "10:26",
-        "lenke": "https://arxiv.org/abs/2609.25021",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Hvordan forhindre krig som følge av kunstig intelligens?",
         "kilde": "E24",
         "tid": "10:17",
         "lenke": "https://e24.no/teknologi/i/j0R3A9/hvordan-forhindre-krig-som-foelge-av-kunstig-intelligens?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "OpenAI fryktet \"Optikk\" av hva som kan vises på Hacker News",
-        "kilde": "Hacker News",
-        "tid": "06:19",
-        "lenke": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Boeing-flagg 737 Max programvarefeil som påvirker noen automatiserte innflyvningsfunksjoner",
-        "kilde": "CNBC Top News",
-        "tid": "21:55",
-        "lenke": "https://www.cnbc.com/2026/09/26/boeing-737-max-navigation-software-glitch.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "OpenAI utvider gjennomgang av modellatferd etter at flere falske agenthendelser dukker opp",
@@ -142,21 +121,133 @@
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Meta blokkerer president Lulas Facebook-side, kampanjeannonser 2 uker fra valget",
-        "kilde": "Hacker News",
-        "tid": "08:44",
-        "lenke": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trump avviser Irans betingede våpenhvileforslag, rapporterer WSJ, ettersom den saudiarabiske koalisjonen avskjærer prosjektiler",
+        "tittel": "Irans utenriksminister sier Teheran er klar for «dommedagskrig» med USA, men etterlater diplomati på bordet",
         "kilde": "CNBC Top News",
-        "tid": "15:05",
-        "lenke": "https://www.cnbc.com/2026/09/26/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports.html",
+        "tid": "16:15",
+        "lenke": "https://www.cnbc.com/2026/09/27/iran-foreign-minister-keeps-indirect-talks-with-us-open-state-media.html",
         "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "Vrangforestillingen om Mars",
+        "kilde": "Hacker News",
+        "tid": "16:06",
+        "lenke": "https://www.noemamag.com/the-mars-delusion/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Mannen min og jeg er i 50-årene og har ingen barn. Vi har $ 2 millioner i Ira og 401(k)s. Trenger vi virkelig et testamente?",
+        "kilde": "MarketWatch",
+        "tid": "16:00",
+        "lenke": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Det virker ikke rettferdig’: Jeg er pensjonert og har masse penger. Hvorfor kan jeg ikke kvalifisere for et forhandlerkredittkort?",
+        "kilde": "MarketWatch",
+        "tid": "16:00",
+        "lenke": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vis HN: TinyAIArena se AI-agenter kjempe mot hverandre",
+        "kilde": "Hacker News",
+        "tid": "15:51",
+        "lenke": "https://tinyaiarena.com/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Gjeldshungrige AI-selskaper står overfor økt risiko etter hvert som obligasjonsrenten stiger",
+        "kilde": "CNBC Top News",
+        "tid": "15:35",
+        "lenke": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "postmarketOS Rebrand: Nura",
+        "kilde": "Hacker News",
+        "tid": "15:31",
+        "lenke": "https://nura.eco/blog/2026/09/27/nura-rename/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Normalisering av uforklarlige feil",
+        "kilde": "Hacker News",
+        "tid": "15:26",
+        "lenke": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tollsjokk for danseband-miljøet: – Absurd situasjon",
+        "kilde": "E24",
+        "tid": "15:25",
+        "lenke": "https://e24.no/norsk-oekonomi/i/j05nQo/tollsjokk-for-danseband-miljoeet-absurd-situasjon?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "På NFL-kamper denne sesongen har droneforsvarsteknologien som mål å få ned forstyrrelser",
+        "kilde": "CNBC Top News",
+        "tid": "15:22",
+        "lenke": "https://www.cnbc.com/2026/09/27/nfl-drone-defense-tech-game-disruptions.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kjempetabbane som kan gi Haaland og Noreg hovudbry",
+        "kilde": "NRK Nyheter",
+        "tid": "15:18",
+        "lenke": "https://www.nrk.no/sport/manchester-citys-nico-o_reilly-og-marc-guehi-med-feil-for-england-etter-skuldingane-1.18037891",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vennen min er dødssyk. Skal hun selge utleieboligen sin og betale $ 100 000 i kapitalgevinster?",
+        "kilde": "MarketWatch",
+        "tid": "15:15",
+        "lenke": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Steffen si siste reise",
+        "kilde": "NRK Nyheter",
+        "tid": "15:13",
+        "lenke": "https://www.nrk.no/mr/xl/steffen-ulvatne-fekk-draumejobben-pa-hurtigruta-ms-_nordlys_-men-kom-aldri-heim-fra-sin-forste-tur-1.17993553",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Jeg er 77, betaler husleie og lever av trygd, men jeg hjelper hjemløse. Hvorfor er det så mange som sulter?",
+        "kilde": "MarketWatch",
+        "tid": "15:00",
+        "lenke": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "\"De hadde ikke noe begrep om omsorgsplikt overfor brukerne.\"",
+        "kilde": "Hacker News",
+        "tid": "14:45",
+        "lenke": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "\"Vi levde innenfor våre midler\": Jeg tjente $ 30 000 som pastor og pensjonerte meg fortsatt komfortabelt. Hvorfor forteller du ikke folk det?",
+        "kilde": "MarketWatch",
+        "tid": "14:45",
+        "lenke": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Metas MUSE-agent angriper et av økonomiens mest lønnsomme svake punkter",
+        "kilde": "CNBC Top News",
+        "tid": "14:33",
+        "lenke": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Flyselskaper gir avkall på endringsgebyrer før nor'easter etter hvert som flyforstyrrelser kommer inn",
+        "kilde": "CNBC Top News",
+        "tid": "13:39",
+        "lenke": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Bolig i Ski solgt 2,75 millioner over prisantydning",
         "kilde": "E24",
@@ -165,25 +256,18 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "England: Fem menn pågrepet etter mistanke om forberedelser av terrorhandlinger",
+        "tittel": "England: Fem menn pågrepet etter mistanke om forberedelser av terrorhandling",
         "kilde": "NRK Nyheter",
         "tid": "12:09",
-        "lenke": "https://www.nrk.no/urix/england_-fem-menn-pagrepet-etter-mistanke-om-forberedelser-av-terrorhandlinger-1.18037909",
+        "lenke": "https://www.nrk.no/urix/england_-fem-menn-pagrepet-etter-mistanke-om-forberedelser-av-terrorhandling-1.18037909",
         "engelsk_kilde": false
       },
       {
-        "tittel": "Ulykke på riksveg 9 - en person fraktet til sykehus med luftambulanse",
+        "tittel": "Ulykke på riksveg 9 - en person fraktet til sykehus i luftambulanse",
         "kilde": "NRK Nyheter",
         "tid": "12:04",
-        "lenke": "https://www.nrk.no/sorlandet/ulykke-pa-riksveg-9---en-person-fraktet-til-sykehus-med-luftambulanse-1.18037943",
+        "lenke": "https://www.nrk.no/sorlandet/ulykke-pa-riksveg-9---en-person-fraktet-til-sykehus-i-luftambulanse-1.18037943",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "På NFL-kamper denne sesongen har droneforsvarsteknologien som mål å få ned forstyrrelser",
-        "kilde": "CNBC Top News",
-        "tid": "12:00",
-        "lenke": "https://www.cnbc.com/2026/09/27/nfl-drone-defense-tech-game-disruptions.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Dette hjelper mot ensomhet",
@@ -197,13 +281,6 @@
         "kilde": "BBC Business",
         "tid": "11:22",
         "lenke": "https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Gjeldshungrige AI-selskaper står overfor økt risiko etter hvert som obligasjonsrenten stiger",
-        "kilde": "CNBC Top News",
-        "tid": "11:00",
-        "lenke": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
         "engelsk_kilde": true
       },
       {
@@ -235,32 +312,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Jørg-Fr. Ellertsen er død",
-        "kilde": "NRK Nyheter",
-        "tid": "07:48",
-        "lenke": "https://www.nrk.no/vestland/jorg-fr.-ellertsen-er-dod-1.18037789",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Rentefond: – Kan være et godt tidspunkt",
         "kilde": "E24",
         "tid": "06:51",
         "lenke": "https://e24.no/boers-og-finans/i/JOavqR/rentefond-kan-vaere-et-godt-tidspunkt?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Mann pågrepet etter parallelle husbranner",
-        "kilde": "NRK Nyheter",
-        "tid": "06:50",
-        "lenke": "https://www.nrk.no/trondelag/mann-siktet-etter-husbrann-i-namsos-1.18037776",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Internett oppdager TLA+. Hva nå?",
-        "kilde": "Hacker News",
-        "tid": "05:26",
-        "lenke": "https://reasonable.io/blog/tla-tutorial/",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Nå haster det i Telemark",
@@ -284,24 +340,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Hva er størrelsen på Jemen? (2024)",
-        "kilde": "Hacker News",
-        "tid": "02:40",
-        "lenke": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Faisal Islam: De to store avgjørelsene kansleren må ta",
         "kilde": "BBC Business",
         "tid": "23:00",
         "lenke": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vennen min tjener $ 300 000 i året på dyrepass. Hun betaler seg selv $ 50 000. Burde jeg gjøre det samme?",
-        "kilde": "MarketWatch",
-        "tid": "20:00",
-        "lenke": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -310,55 +352,6 @@
         "tid": "19:20",
         "lenke": "https://e24.no/energi-og-klima/i/0pabJ2/europeiske-gasspriser-kan-gaa-av-skaftet?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "\"Vi levde innenfor våre midler\": Jeg tjente $ 30 000 som pastor og pensjonerte meg fortsatt komfortabelt. Hvorfor forteller du ikke folk det?",
-        "kilde": "MarketWatch",
-        "tid": "19:00",
-        "lenke": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Sosiale sikkerhetskontroller forventes å bli kuttet med $ 540 i måneden på bare seks år",
-        "kilde": "MarketWatch",
-        "tid": "17:15",
-        "lenke": "https://www.marketwatch.com/story/social-security-checks-are-projected-to-be-cut-by-540-a-month-in-just-six-years-a8842912?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "På hesteauksjon i Danmark: – Den har en «dejlig røv»",
-        "kilde": "E24",
-        "tid": "16:52",
-        "lenke": "https://e24.no/naeringsliv/i/7papbv/paa-hesteauksjon-i-danmark-den-har-en-dejlig-roev?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Et risikofritt utbytte på 10%? For noen, ja.",
-        "kilde": "MarketWatch",
-        "tid": "16:51",
-        "lenke": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Heathrow lufthavn advarer om at den tredje rullebanen kan bli fire år forsinket",
-        "kilde": "BBC Business",
-        "tid": "16:32",
-        "lenke": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Å velge disse AI-eksponerte hovedfagene kan skade jobbmulighetene dine — og senke lønnen din",
-        "kilde": "MarketWatch",
-        "tid": "16:22",
-        "lenke": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Dette kan være den \"manglende brikken\" for investorer som ønsker å øke AI-eksponeringen",
-        "kilde": "CNBC Top News",
-        "tid": "15:00",
-        "lenke": "https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html",
-        "engelsk_kilde": true
       }
     ]
   }
