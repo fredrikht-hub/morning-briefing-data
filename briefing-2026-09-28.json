@@ -1,42 +1,42 @@
 {
   "dato": "2026-09-28",
   "dato_norsk": "Mandag 28. september 2026",
-  "generert_kl": "19:23",
+  "generert_kl": "21:28",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "USA og Kina er enige om 60 milliarder $ i tollkutt på produkter som dukker og fyrverkeri. Sjeldne jordarter forblir et fast punkt.",
-      "kilde": "MarketWatch",
-      "tid": "18:15",
-      "lenke": "https://www.marketwatch.com/story/the-u-s-and-china-agree-to-60-billion-in-tariff-cuts-on-products-like-dolls-and-fireworks-rare-earths-remain-a-sticking-point-e4667872?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Micron har en sjanse til å sette rekorden rett med sin inntjeningsrapport",
-      "kilde": "MarketWatch",
-      "tid": "16:58",
-      "lenke": "https://www.marketwatch.com/story/micron-has-a-chance-to-set-the-record-straight-with-its-earnings-report-a98fb935?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Hva er budsjettet og hva kan det inneholde?",
-      "kilde": "BBC Business",
-      "tid": "17:14",
-      "lenke": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "engelsk_kilde": true
-    },
-    {
       "tittel": "Trump kunngjør plan for $ 15 milliarder stålverk, vil være den største i amerikansk historie",
       "kilde": "CNBC Top News",
-      "tid": "19:11",
+      "tid": "21:20",
       "lenke": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
       "engelsk_kilde": true
     },
     {
       "tittel": "Storbritannia forsøker å stoppe Trumps eksportforbud av diesel",
       "kilde": "BBC Business",
-      "tid": "17:00",
+      "tid": "20:39",
       "lenke": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "OpenAI utløste Hugging Face-bud med tidlig investeringstilbud i forkant av Nvidias $ 13 milliarder-avtale",
+      "kilde": "CNBC Top News",
+      "tid": "20:36",
+      "lenke": "https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "MongoDBs aksjer er nede nesten 20% da administrerende direktør dekamper til Meta",
+      "kilde": "MarketWatch",
+      "tid": "21:23",
+      "lenke": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Obligasjonsrenter beveger seg ubarmhjertig høyere, mens Wall Street lurer på hvor mye mer teknologiaksjer kan ta",
+      "kilde": "MarketWatch",
+      "tid": "20:43",
+      "lenke": "https://www.marketwatch.com/story/bond-yields-move-relentlessly-higher-as-wall-street-wonders-how-much-more-tech-stocks-can-take-dd050c39?mod=mw_rss_topstories",
       "engelsk_kilde": true
     }
   ],
@@ -68,24 +68,38 @@
     ],
     "MARKEDER": [
       {
-        "tittel": "Nesten halvparten av aksjene i S&P 500 er på kryss med resten av markedet",
-        "kilde": "CNBC Top News",
-        "tid": "17:53",
-        "lenke": "https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "MongoDBs aksjer er nede nesten 20% da administrerende direktør dekamper til Meta",
         "kilde": "MarketWatch",
-        "tid": "17:10",
+        "tid": "21:23",
         "lenke": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Micron har en sjanse til å sette rekorden rett med sin inntjeningsrapport",
+        "tittel": "Obligasjonsrenter beveger seg ubarmhjertig høyere, mens Wall Street lurer på hvor mye mer teknologiaksjer kan ta",
         "kilde": "MarketWatch",
-        "tid": "16:58",
-        "lenke": "https://www.marketwatch.com/story/micron-has-a-chance-to-set-the-record-straight-with-its-earnings-report-a98fb935?mod=mw_rss_topstories",
+        "tid": "20:43",
+        "lenke": "https://www.marketwatch.com/story/bond-yields-move-relentlessly-higher-as-wall-street-wonders-how-much-more-tech-stocks-can-take-dd050c39?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Før du investerer i Oura IPO, forstå hva du kjøper",
+        "kilde": "MarketWatch",
+        "tid": "20:04",
+        "lenke": "https://www.marketwatch.com/story/before-you-invest-in-the-oura-ipo-understand-what-youre-buying-1d88d868?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Oktober er historisk sett den mest volatile måneden for aksjer. Men hvorfor? Disse 4 populære teoriene holder ikke.",
+        "kilde": "MarketWatch",
+        "tid": "20:02",
+        "lenke": "https://www.marketwatch.com/story/october-is-historically-the-most-volatile-month-for-stocks-but-why-these-4-popular-theories-fail-to-hold-up-a47a1830?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "PepsiCo planlegger å øke prisene på brus, chips og dip — og det bekymrer Wall Street",
+        "kilde": "MarketWatch",
+        "tid": "19:37",
+        "lenke": "https://www.marketwatch.com/story/pepsico-plans-to-raise-prices-on-sodas-chips-and-dip-and-that-has-wall-street-worried-0ec355bf?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -94,35 +108,42 @@
         "tid": "13:32",
         "lenke": "https://e24.no/boers-og-finans/i/oEXzkV/bredt-wall-street-fall?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Hamstret aksjer i notering",
-        "kilde": "E24",
-        "tid": "10:12",
-        "lenke": "https://e24.no/boers-og-finans/i/16KxEJ/witzoee-og-stordalen-kjoepte-sportsbutikk-aksjer?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ],
     "TEKNOLOGI": [
       {
+        "tittel": "AMD kjøper opp Fei-Fei Li's World Labs AI-firma i avtale verdt $ 8,2 milliarder",
+        "kilde": "CNBC Top News",
+        "tid": "21:21",
+        "lenke": "https://www.cnbc.com/2026/09/28/amd-fei-fei-li-world-labs.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Denne AI-oppstarten har bare 14 ansatte — og en ny verdivurdering på $ 10 milliarder",
+        "kilde": "MarketWatch",
+        "tid": "21:19",
+        "lenke": "https://www.marketwatch.com/story/this-ai-startup-has-only-14-employees-and-a-fresh-10-billion-valuation-5466e081?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "OpenAI utløste Hugging Face-bud med tidlig investeringstilbud i forkant av Nvidias $ 13 milliarder-avtale",
         "kilde": "CNBC Top News",
-        "tid": "18:47",
+        "tid": "20:36",
         "lenke": "https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hilsen Google, og takk for alle nakenhetene",
+        "tittel": "World Labs blir med i AMD",
         "kilde": "Hacker News",
-        "tid": "18:04",
-        "lenke": "https://lecaro.me/20260921-google-less.html",
+        "tid": "20:18",
+        "lenke": "https://www.worldlabs.ai/blog/amd-announcement",
         "engelsk_kilde": true
       },
       {
-        "tittel": "SpaceX sender sin Starship-rakett i bane for første gang — men ikke uten noen hikke",
-        "kilde": "MarketWatch",
-        "tid": "17:21",
-        "lenke": "https://www.marketwatch.com/story/spacex-is-moments-away-from-monumental-starship-launch-4f34767b?mod=mw_rss_topstories",
+        "tittel": "Boeing 737 Max 10-sertifisering forsinket av programvareproblem, sier FAA",
+        "kilde": "CNBC Top News",
+        "tid": "20:16",
+        "lenke": "https://www.cnbc.com/2026/09/28/faa-boeing-737-max-10-certification-delay-software-issue.html",
         "engelsk_kilde": true
       },
       {
@@ -144,53 +165,116 @@
       {
         "tittel": "Trump kunngjør plan for $ 15 milliarder stålverk, vil være den største i amerikansk historie",
         "kilde": "CNBC Top News",
-        "tid": "19:11",
+        "tid": "21:20",
         "lenke": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "FBI kan ikke holde tilbake midler til terrorbekjempelse fra stater for å tvinge valgadministratorer til å endre seg, dommerregler",
-        "kilde": "CNBC Top News",
-        "tid": "18:41",
-        "lenke": "https://www.cnbc.com/2026/09/28/elections-dhs-counterterrorism.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "USA og Kina er enige om 60 milliarder $ i tollkutt på produkter som dukker og fyrverkeri. Sjeldne jordarter forblir et fast punkt.",
-        "kilde": "MarketWatch",
-        "tid": "18:15",
-        "lenke": "https://www.marketwatch.com/story/the-u-s-and-china-agree-to-60-billion-in-tariff-cuts-on-products-like-dolls-and-fireworks-rare-earths-remain-a-sticking-point-e4667872?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
         "tittel": "Storbritannia forsøker å stoppe Trumps eksportforbud av diesel",
         "kilde": "BBC Business",
-        "tid": "17:00",
+        "tid": "20:39",
         "lenke": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
       {
+        "tittel": "Maricarmen Abascal får flytte heim etter store demonstrasjonar",
+        "kilde": "NRK Nyheter",
+        "tid": "21:00",
+        "lenke": "https://www.nrk.no/urix/maricarmen-abascal-far-flytte-heim-etter-store-demonstrasjonar-1.18039361",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "‘Jeg vil heller være på en strand på Bali’: Mannen min misliker min nettoverdi på $ 8 millioner. Skal jeg betale for pensjonen hans?",
+        "kilde": "MarketWatch",
+        "tid": "21:00",
+        "lenke": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Palantir-grunnlegger kjøper store skogstrøk i Sverige",
+        "kilde": "Hacker News",
+        "tid": "20:51",
+        "lenke": "https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Pacing the Frontier er ikke det faktiske målet for AI-laboratorier",
+        "kilde": "Hacker News",
+        "tid": "20:47",
+        "lenke": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvorfor britiske dieselpriser har nådd et rekordhøyt nivå",
+        "kilde": "BBC Business",
+        "tid": "20:43",
+        "lenke": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Michael Burry tror at AI-boblen \"kan sprekke\" tidligere enn han først trodde",
+        "kilde": "CNBC Top News",
+        "tid": "20:43",
+        "lenke": "https://www.cnbc.com/2026/09/28/michael-burry-believes-the-ai-bubble-may-burst-sooner-than-he-first-believed.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Dieselprisen i Storbritannia treffer all-time high, sier RAC",
+        "kilde": "BBC Business",
+        "tid": "20:42",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeff – Jev-kompatible 0.8B-beslutningsmodeller, opplært hjemme, ~30 ms",
+        "kilde": "Hacker News",
+        "tid": "20:23",
+        "lenke": "https://github.com/firelex/jeff",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Det beste av britisk design",
+        "kilde": "Hacker News",
+        "tid": "20:21",
+        "lenke": "https://best-of-british-design.vercel.app/",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Høyesterettsdommer Alito vil ikke delta i store klimasaker neste uke",
         "kilde": "CNBC Top News",
-        "tid": "18:58",
+        "tid": "20:13",
         "lenke": "https://www.cnbc.com/2026/09/28/supreme-court-justice-alito-recusal-climate-change-case.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Dolly Parton planla godset sitt. Kampen med nevøen hennes viser hvorfor det betyr noe.",
-        "kilde": "MarketWatch",
-        "tid": "18:56",
-        "lenke": "https://www.marketwatch.com/story/dolly-parton-planned-for-her-estate-the-fight-with-her-nephew-shows-why-that-matters-b7e57c26?mod=mw_rss_topstories",
+        "tittel": "LeBron James øker allerede billett- og vareetterspørselen etter Philadelphia 76ers",
+        "kilde": "CNBC Top News",
+        "tid": "20:12",
+        "lenke": "https://www.cnbc.com/2026/09/28/lebron-james-boosts-ticket-jersey-demand-for-nba-philadelphia-76ers.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Å bruke $ 800 for å se familien min denne Thanksgiving er en økonomisk byrde. Hvordan kan jeg presse på for en billigere flyvning?",
+        "tittel": "– Ser ut som et månelandskap",
+        "kilde": "NRK Nyheter",
+        "tid": "19:58",
+        "lenke": "https://www.nrk.no/innlandet/_-ser-ut-som-et-manelandskap-1.18036569",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "‘Jeg vil gjøre henne stolt’: Min mor, en fraskilt kvinne, døde og jeg er hennes eksekutor. Må jeg søke om skifte?",
         "kilde": "MarketWatch",
-        "tid": "18:40",
-        "lenke": "https://www.marketwatch.com/story/spending-800-to-see-my-family-this-thanksgiving-is-a-financial-burden-how-can-i-push-for-a-cheaper-flight-c6dd1fdf?mod=mw_rss_topstories",
+        "tid": "19:45",
+        "lenke": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Palantir-sjefen kjøper enorm skogseiendom i Sverige for 225 millioner",
+        "kilde": "E24",
+        "tid": "19:41",
+        "lenke": "https://e24.no/boers-og-finans/i/JOj3WJ/palantir-sjefen-kjoeper-enorm-skogeiendom-i-sverige-for-225-millioner?utm_medium=rss",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Advarer etter Solbakkens beskjed: – Vil være et gigantisk tap",
@@ -198,13 +282,6 @@
         "tid": "18:27",
         "lenke": "https://www.nrk.no/sport/advarer-etter-solbakkens-beskjed_-_-vil-vaere-et-gigantisk-tap-1.18039078",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "GrapheneOS – Når en app er treg",
-        "kilde": "Hacker News",
-        "tid": "18:21",
-        "lenke": "https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Hva et amerikansk dieseleksportforbud kan bety for deg",
@@ -228,34 +305,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Sonett 5.5",
-        "kilde": "Hacker News",
-        "tid": "17:58",
-        "lenke": "https://www.anthropic.com/claude-sonnet-5-5",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg har laget et visuelt arbeidsområde for AI-automatisering",
-        "kilde": "Hacker News",
-        "tid": "17:53",
-        "lenke": "https://www.biom.dev/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Windows 11½",
-        "kilde": "Hacker News",
-        "tid": "17:51",
-        "lenke": "https://definitelynotwindows.com/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "En nøkkeltest venter for AI-handelen denne uken. Slik handler Mike Khouw det",
-        "kilde": "CNBC Top News",
-        "tid": "17:48",
-        "lenke": "https://www.cnbc.com/2026/09/28/a-key-test-looms-for-the-ai-trade-this-week-heres-how-mike-khouw-is-trading-it.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Aldi-sjefen sier at noen av konkurrentenes lojalitetsrabatter «lurer» kunder",
         "kilde": "BBC Business",
         "tid": "17:45",
@@ -268,34 +317,6 @@
         "tid": "17:30",
         "lenke": "https://www.nrk.no/norge/hard-kritikk-mot-stores-ki-opprop-1.18039066",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "‘Jeg selger aldri’: Jeg er 47 og kjøper bitcoin for hver dollar jeg tjener. Er jeg gal?",
-        "kilde": "MarketWatch",
-        "tid": "17:30",
-        "lenke": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Dieselprisen i Storbritannia treffer all-time high, sier RAC",
-        "kilde": "BBC Business",
-        "tid": "17:19",
-        "lenke": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvorfor britiske dieselpriser har nådd et rekordhøyt nivå",
-        "kilde": "BBC Business",
-        "tid": "17:18",
-        "lenke": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Jeg vil heller være på en strand på Bali’: Mannen min misliker min nettoverdi på $ 8 millioner. Skal jeg betale for pensjonen hans?",
-        "kilde": "MarketWatch",
-        "tid": "17:15",
-        "lenke": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Jenny Stray Spetalen selger Bygdøy-luksus",
@@ -326,13 +347,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Vil slå hardere ned på skjult reklame – kan gi influensere bøter på opptil 25 millioner",
-        "kilde": "NRK Nyheter",
-        "tid": "15:48",
-        "lenke": "https://www.nrk.no/vestfoldogtelemark/forbrukertilsynet-slar-ned-pa-skjult-reklame_-kan-gi-millionboter-for-_tilfeldige_-selfies-1.18023919",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Europa trenger en klimapolitikk som industrien kan leve med",
         "kilde": "E24",
         "tid": "15:23",
@@ -347,10 +361,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Kom med tydelig melding etter nederlaget: – Dette må vi øve på",
+        "tittel": "Ber om spleiselag etter million­regning i båtfølge-saken",
         "kilde": "NRK Nyheter",
-        "tid": "14:43",
-        "lenke": "https://www.nrk.no/sport/erling-braut-haaland-kom-med-tydelig-beskjed-til-norges-landslagssjef-stale-solbakken-1.18038374",
+        "tid": "14:49",
+        "lenke": "https://www.nrk.no/vestfoldogtelemark/horten-soker-stotte-etter-millionregning-for-batfolget-i-oslofjorden-1.18038838",
         "engelsk_kilde": false
       },
       {
@@ -359,13 +373,6 @@
         "tid": "14:18",
         "lenke": "https://e24.no/boers-og-finans/i/Ok4ewb/overlever-ai-aksjene-hoesten?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Metas MUSE-agent angriper et av økonomiens mest lønnsomme svake punkter",
-        "kilde": "CNBC Top News",
-        "tid": "14:03",
-        "lenke": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "«Vi er ikke Blå Kors»",
@@ -379,13 +386,6 @@
         "kilde": "E24",
         "tid": "13:20",
         "lenke": "https://e24.no/boers-og-finans/i/Ok4aAE/goldman-sachs-topp-skal-moete-stoltenberg?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Solbakken kraftig ut mot NRK-kommentator: – Dette var en avgjørelse jeg tok",
-        "kilde": "NRK Nyheter",
-        "tid": "09:51",
-        "lenke": "https://www.nrk.no/sport/nasjonsligaen_-stale-solbakken-hardt-ut-mot-nrk-kommentator-jan-petter-saltvedt-1.18038339",
         "engelsk_kilde": false
       },
       {
