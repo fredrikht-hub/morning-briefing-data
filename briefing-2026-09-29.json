@@ -1,63 +1,114 @@
 {
   "dato": "2026-09-29",
   "dato_norsk": "Tirsdag 29. september 2026",
-  "generert_kl": "17:50",
+  "generert_kl": "20:20",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
+      "tittel": "Feds viktigste inflasjonsmål vil bli offentliggjort onsdag. Her er hva du kan forvente",
+      "kilde": "CNBC Top News",
+      "tid": "19:07",
+      "lenke": "https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html",
+      "engelsk_kilde": true
+    },
+    {
       "tittel": "Trump-kontoer vil automatisk registrere barn, og potensielt legge til 60 millioner kontoer: Treasury",
       "kilde": "CNBC Top News",
-      "tid": "17:45",
+      "tid": "18:01",
       "lenke": "https://www.cnbc.com/2026/09/29/trump-accounts-auto-enroll.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Utdanningsavdelingen forlenger fristen for studielånsrenterabatt",
-      "kilde": "CNBC Top News",
-      "tid": "16:23",
-      "lenke": "https://www.cnbc.com/2026/09/29/trump-officials-extend-student-loan-interest-rate-discount-deadline.html",
+      "tittel": "Næringsdrivende som forventer en back-to-back renteøkning fra Fed i oktober, kan ha kommet foran seg selv",
+      "kilde": "MarketWatch",
+      "tid": "20:13",
+      "lenke": "https://www.marketwatch.com/story/traders-expecting-a-back-to-back-rate-hike-from-the-fed-in-october-may-have-gotten-ahead-of-themselves-e2cc5193?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Teknologiledere ankommer Det hvite hus for AI-lunsj med Trump",
-      "kilde": "CNBC Top News",
-      "tid": "17:25",
-      "lenke": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
-      "engelsk_kilde": true
+      "tittel": "Oslo Børs-aksje: – For billig til å ignorere",
+      "kilde": "E24",
+      "tid": "18:28",
+      "lenke": "https://e24.no/boers-og-finans/i/L484mQ/hever-shipping-kursmaal-for-billig-til-aa-ignorere?utm_medium=rss",
+      "engelsk_kilde": false
     },
     {
-      "tittel": "Trumps regjeringsannonser ble finansiert av Homeland Security, rapporterer WSJ",
+      "tittel": "30-årige renteskalaer for statsobligasjoner til høyeste nivå siden 2002",
       "kilde": "CNBC Top News",
-      "tid": "17:16",
-      "lenke": "https://www.cnbc.com/2026/09/29/trump-ads-cbp-dhs-taxpayer-funding-election.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Ny AI-drevet regjeringens nettsted bruker Gemini, Grok, Trump offisielle Gebbia sier",
-      "kilde": "CNBC Top News",
-      "tid": "16:55",
-      "lenke": "https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html",
+      "tid": "20:03",
+      "lenke": "https://www.cnbc.com/2026/09/29/treasury-yields-bonds.html",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
+    "NORGE": [
+      {
+        "tittel": "Oslo Børs-aksje: – For billig til å ignorere",
+        "kilde": "E24",
+        "tid": "18:28",
+        "lenke": "https://e24.no/boers-og-finans/i/L484mQ/hever-shipping-kursmaal-for-billig-til-aa-ignorere?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Norge-helten er iskald i England: – Brutal verden",
+        "kilde": "NRK Nyheter",
+        "tid": "17:58",
+        "lenke": "https://www.nrk.no/sport/u21_-norge-herjet-_-til-em-med-seks-scoringer-1.18040247",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Norge herjet – til EM med seks scoringer",
+        "kilde": "NRK Nyheter",
+        "tid": "17:48",
+        "lenke": "https://www.nrk.no/sport/norge-herjet-_-til-em-med-seks-scoringer-1.18040361",
+        "engelsk_kilde": false
+      }
+    ],
     "MAKRO": [
       {
-        "tittel": "Trump-kontoer vil automatisk registrere barn, og potensielt legge til 60 millioner kontoer: Treasury",
-        "kilde": "CNBC Top News",
-        "tid": "17:45",
-        "lenke": "https://www.cnbc.com/2026/09/29/trump-accounts-auto-enroll.html",
+        "tittel": "Næringsdrivende som forventer en back-to-back renteøkning fra Fed i oktober, kan ha kommet foran seg selv",
+        "kilde": "MarketWatch",
+        "tid": "20:13",
+        "lenke": "https://www.marketwatch.com/story/traders-expecting-a-back-to-back-rate-hike-from-the-fed-in-october-may-have-gotten-ahead-of-themselves-e2cc5193?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Utdanningsavdelingen forlenger fristen for studielånsrenterabatt",
+        "tittel": "30-årige renteskalaer for statsobligasjoner til høyeste nivå siden 2002",
         "kilde": "CNBC Top News",
-        "tid": "16:23",
-        "lenke": "https://www.cnbc.com/2026/09/29/trump-officials-extend-student-loan-interest-rate-discount-deadline.html",
+        "tid": "20:03",
+        "lenke": "https://www.cnbc.com/2026/09/29/treasury-yields-bonds.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Feds viktigste inflasjonsmål vil bli offentliggjort onsdag. Her er hva du kan forvente",
+        "kilde": "CNBC Top News",
+        "tid": "19:07",
+        "lenke": "https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump-kontoer vil automatisk registrere barn, og potensielt legge til 60 millioner kontoer: Treasury",
+        "kilde": "CNBC Top News",
+        "tid": "18:01",
+        "lenke": "https://www.cnbc.com/2026/09/29/trump-accounts-auto-enroll.html",
         "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
+      {
+        "tittel": "AI trenger $ 6T i årlig inntekt for å rettferdiggjøre datasenterboomen",
+        "kilde": "Hacker News",
+        "tid": "19:21",
+        "lenke": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Mener Wall Street-gigant får «gullbillett» til Stoltenberg",
+        "kilde": "E24",
+        "tid": "18:27",
+        "lenke": "https://e24.no/boers-og-finans/i/zOvn9O/mener-wall-street-gigant-faar-gullbillett-til-stoltenberg?utm_medium=rss",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Oura trekker $ 15 milliarder børsnotering dager etter kunngjøring",
         "kilde": "BBC Business",
@@ -66,28 +117,7 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Her er hva Netflix-skeptikere tar feil om aksjen, ifølge en analytiker",
-        "kilde": "MarketWatch",
-        "tid": "16:45",
-        "lenke": "https://www.marketwatch.com/story/heres-what-netflix-skeptics-are-getting-wrong-about-the-stock-according-to-an-analyst-40436696?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "De skjulte meldingene obligasjonsmarkedet sender om AI-boomen og aksjemarkedet",
-        "kilde": "MarketWatch",
-        "tid": "16:44",
-        "lenke": "https://www.marketwatch.com/story/the-hidden-messages-the-bond-market-is-sending-about-the-ai-boom-and-the-stock-market-5c9495ba?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Du kan bli sjokkert over hvor mange aksjer som er i et bjørnemarked akkurat nå",
-        "kilde": "MarketWatch",
-        "tid": "16:24",
-        "lenke": "https://www.marketwatch.com/story/you-might-be-shocked-by-how-many-stocks-are-in-a-bear-market-right-now-017c9cd8?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Rentefrykt sender Wall Street nedover",
+        "tittel": "Rentefrykt tynget Wall Street",
         "kilde": "E24",
         "tid": "13:32",
         "lenke": "https://e24.no/boers-og-finans/i/OkGQxw/s-p-500-indeksen-stiger-forsiktig-cruiseaksje-sendes-rett-opp?utm_medium=rss",
@@ -96,17 +126,31 @@
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "ChatGPT Pro 500",
-        "kilde": "Hacker News",
-        "tid": "17:26",
-        "lenke": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+        "tittel": "Den virkelige prisen i AMDs $ 8 milliarder World Labs-oppkjøp er ikke det du tror",
+        "kilde": "MarketWatch",
+        "tid": "19:34",
+        "lenke": "https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Kan SpaceX være verdt $ 12 billioner en dag? Citi sier Starship kommer et skritt nærmere.",
+        "tittel": "OpenAI-agenter får nytt navn - som \"prikker\" - mens sikkerhetsbekymringer forsinker ny modell",
+        "kilde": "BBC Business",
+        "tid": "19:17",
+        "lenke": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "OpenAI lanserer en rival til Metas Muse, når kampen om AI-agenter starter i høyt gir",
         "kilde": "MarketWatch",
-        "tid": "16:59",
-        "lenke": "https://www.marketwatch.com/story/could-spacex-be-worth-12-trillion-one-day-citi-says-starship-gets-it-a-step-closer-6ce44961?mod=mw_rss_topstories",
+        "tid": "18:34",
+        "lenke": "https://www.marketwatch.com/story/openai-launches-a-rival-to-metas-muse-as-the-battle-for-ai-agents-kicks-into-high-gear-0f0de9b3?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Gode nyheter for OpenAI er gode nyheter for Oracles aksjer — her er hvorfor",
+        "kilde": "MarketWatch",
+        "tid": "18:28",
+        "lenke": "https://www.marketwatch.com/story/good-news-for-openai-is-great-news-for-oracles-stock-heres-why-993b6a5f?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -126,31 +170,17 @@
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Teknologiledere ankommer Det hvite hus for AI-lunsj med Trump",
+        "tittel": "Trump sier han og teknologiledere signerte AI-avtale som er 'moralsk bindende'",
         "kilde": "CNBC Top News",
-        "tid": "17:25",
+        "tid": "20:19",
         "lenke": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
         "engelsk_kilde": true
       },
       {
         "tittel": "Trumps regjeringsannonser ble finansiert av Homeland Security, rapporterer WSJ",
         "kilde": "CNBC Top News",
-        "tid": "17:16",
+        "tid": "19:16",
         "lenke": "https://www.cnbc.com/2026/09/29/trump-ads-cbp-dhs-taxpayer-funding-election.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Ny AI-drevet regjeringens nettsted bruker Gemini, Grok, Trump offisielle Gebbia sier",
-        "kilde": "CNBC Top News",
-        "tid": "16:55",
-        "lenke": "https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "USAs forbud mot kanadisk alkohol og meieriprodukter trer i kraft etter hvert som handelskrigen trekker ut",
-        "kilde": "BBC Business",
-        "tid": "13:38",
-        "lenke": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
@@ -159,16 +189,107 @@
         "tid": "13:37",
         "lenke": "https://www.cnbc.com/2026/09/29/ai-safety-regulation-mike-johnson-congress.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Storbritannia forsøker å stoppe Trumps eksportforbud av diesel",
-        "kilde": "BBC Business",
-        "tid": "07:19",
-        "lenke": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "Rekordhøye veddemål mot Nike: – Under betydelig press",
+        "kilde": "E24",
+        "tid": "20:01",
+        "lenke": "https://e24.no/boers-og-finans/i/L48eX4/rekordhoeye-veddemaal-mot-nike-under-betydelig-press?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "‘Jeg selger aldri’: Jeg er 47 og kjøper bitcoin for hver dollar jeg tjener. Er jeg gal?",
+        "kilde": "MarketWatch",
+        "tid": "20:00",
+        "lenke": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Byråer publiserer tilbakemeldingsbrev om løsningsplan for 15 bankorganisasjoner",
+        "kilde": "Federal Reserve",
+        "tid": "20:00",
+        "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "USPS avslutter nettsted som solgte 5 millioner forfalskede portoetiketter for $ 2 hver",
+        "kilde": "Hacker News",
+        "tid": "19:30",
+        "lenke": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fords administrerende direktør sier at det er \"for sent\" for Europa å avverge kinesiske bilprodusenter, men ikke amerikanske",
+        "kilde": "CNBC Top News",
+        "tid": "19:28",
+        "lenke": "https://www.cnbc.com/2026/09/29/ford-ceo-jim-farley-china-automakers.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Minnebedrifter har ødelagt forbrukermarkedet",
+        "kilde": "Hacker News",
+        "tid": "19:27",
+        "lenke": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Galaxy Game – Interim Computer Museum",
+        "kilde": "Hacker News",
+        "tid": "19:24",
+        "lenke": "https://icm.museum/blog/?p=698",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Huseiere sitter på rekordkapital – og bruker den ikke",
+        "kilde": "CNBC Top News",
+        "tid": "19:23",
+        "lenke": "https://www.cnbc.com/2026/09/29/homeowners-are-sitting-on-record-equity-and-not-using-it.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nicholas Polson har skrevet 258 akademiske artikler i 2026 (så langt)",
+        "kilde": "Hacker News",
+        "tid": "19:15",
+        "lenke": "https://statmodeling.stat.columbia.edu/2026/08/27/258/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Prognosemarkedshandlere tror at USA la til flere jobber i september enn økonomer anslår",
+        "kilde": "CNBC Top News",
+        "tid": "19:11",
+        "lenke": "https://www.cnbc.com/2026/09/29/prediction-market-traders-september-jobs-report-will-beat-estimates.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Soho House arena under etterforskning for mattrygghet",
+        "kilde": "BBC Business",
+        "tid": "19:10",
+        "lenke": "https://www.bbc.co.uk/news/articles/cjly4dn9r21qo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Barna mine vil ikke ha ting for flere tiår. Slik lærer jeg å gi slipp på det.",
+        "kilde": "MarketWatch",
+        "tid": "19:02",
+        "lenke": "https://www.marketwatch.com/story/my-kids-dont-want-my-decades-worth-of-stuff-heres-how-im-learning-to-let-go-of-it-74f91da6?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg er i 50-årene. Moren min døde av Alzheimers. Trenger jeg langtidspleieforsikring?",
+        "kilde": "MarketWatch",
+        "tid": "18:55",
+        "lenke": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Sjeføkonom: Nordmenn har betre råd enn før",
+        "kilde": "NRK Nyheter",
+        "tid": "17:58",
+        "lenke": "https://www.nrk.no/norge/sjefokonom_-nordmenn-har-bedre-rad-enn-for-1.18040221",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Medicare Advantage-planene blir billigere neste år. Her er den nye kostnaden.",
         "kilde": "MarketWatch",
@@ -177,52 +298,24 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Disney sier opp rundt 300 ansatte i de siste kuttene under ny administrerende direktør Josh D'Amaro",
-        "kilde": "CNBC Top News",
-        "tid": "17:36",
-        "lenke": "https://www.cnbc.com/2026/09/29/disney-layoffs-josh-damaro.html",
+        "tittel": "Burnham lover å avslutte eksisterende trippellås for pensjon i 2030 for å hjelpe til med å finansiere omsorg",
+        "kilde": "BBC Business",
+        "tid": "17:39",
+        "lenke": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Jeg er 77, betaler husleie og lever av trygd, men jeg hjelper hjemløse. Hvorfor er det så mange som sulter?",
-        "kilde": "MarketWatch",
-        "tid": "17:30",
-        "lenke": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Ceuta: Bulldosere fjerner leir – migrantene sendes mot grensa",
+        "tittel": "Ceuta: River ned leir – migrantene sendes mot grensa",
         "kilde": "NRK Nyheter",
         "tid": "17:22",
-        "lenke": "https://www.nrk.no/urix/bulldosere-fjerner-leir-_-migrantene-sendes-mot-grensa-1.18040086",
+        "lenke": "https://www.nrk.no/urix/river-ned-leir-_-migrantene-sendes-mot-grensa-1.18040086",
         "engelsk_kilde": false
       },
       {
-        "tittel": "Tcl/Tk 9.1 utgitt",
-        "kilde": "Hacker News",
-        "tid": "17:13",
-        "lenke": "https://www.tcl-lang.org/software/tcltk/9.1.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Prikker",
-        "kilde": "Hacker News",
-        "tid": "17:07",
-        "lenke": "https://openai.com/index/introducing-dots/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "DevDay 2026 oppsummering",
-        "kilde": "Hacker News",
-        "tid": "17:07",
-        "lenke": "https://openai.com/index/devday-2026-recap/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "GPT 6.1 sol",
-        "kilde": "Hacker News",
-        "tid": "17:06",
-        "lenke": "https://openai.com/index/introducing-gpt-6-1-sol/",
+        "tittel": "Hva er trippel-låsen og hvorfor snakker folk om den?",
+        "kilde": "BBC Business",
+        "tid": "17:09",
+        "lenke": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
@@ -233,31 +326,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Forbrukeroptimismen synker til det laveste siden 2014, ettersom frykten eskalerer på grunn av stigende priser og arbeidsplasser",
-        "kilde": "CNBC Top News",
-        "tid": "16:52",
-        "lenke": "https://www.cnbc.com/2026/09/29/consumer-optimism-slides-sharply-as-fears-escalate-over-rising-prices-and-jobs.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Faisal Islam: Trippel lås trekk er betydelig, men det er en gamble",
         "kilde": "BBC Business",
         "tid": "16:43",
         "lenke": "https://www.bbc.co.uk/news/articles/cwp93d078j8no?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Jeg vil heller være på en strand på Bali’: Mannen min misliker min nettoverdi på $ 8 millioner. Skal jeg betale for pensjonen hans?",
-        "kilde": "MarketWatch",
-        "tid": "16:30",
-        "lenke": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Jeg vil gjøre henne stolt’: Min mor, en fraskilt kvinne, døde og jeg er hennes eksekutor. Må jeg søke om skifte?",
-        "kilde": "MarketWatch",
-        "tid": "16:15",
-        "lenke": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -282,25 +354,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Eiendomsspill: Boligeiere sitter på rekordkapital – og bruker den ikke",
-        "kilde": "CNBC Top News",
-        "tid": "15:54",
-        "lenke": "https://www.cnbc.com/2026/09/29/homeowners-are-sitting-on-record-equity-and-not-using-it.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Gina Raimondo tror at kunstig intelligens til syvende og sist vil skape arbeidsplasser. Det er den første masseoppsigelsesbølgen som bekymrer henne",
         "kilde": "CNBC Top News",
         "tid": "15:46",
         "lenke": "https://www.cnbc.com/2026/09/29/ai-job-losses-layoffs.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hjemløs 19-åring i rullestol måtte overnatte på legevakta",
-        "kilde": "NRK Nyheter",
-        "tid": "15:44",
-        "lenke": "https://www.nrk.no/ostfold/hjemlos-19-aring-i-rullestol-matte-overnatte-pa-legevakta-1.18032127",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Enebolig gikk 4 millioner over prisantydning",
@@ -310,24 +368,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Ordførar rasar mot asyl­nedlegging: – Eg forstår ikkje UDI sin handlemåte",
-        "kilde": "NRK Nyheter",
-        "tid": "14:38",
-        "lenke": "https://www.nrk.no/innlandet/ordforar-rasar-mot-asylnedlegging_-_-eg-forstar-ikkje-udi-sin-handlemate-1.18028968",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Kan i verste fall skade saken",
         "kilde": "E24",
         "tid": "14:31",
         "lenke": "https://e24.no/norsk-oekonomi/i/rrkQ4l/kan-i-verste-fall-skade-saken?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Karsten Warholm og Oda Djupvik giftet seg: – Vi er veldig lykkelige",
-        "kilde": "NRK Nyheter",
-        "tid": "14:07",
-        "lenke": "https://www.nrk.no/sport/karsten-warholm-giftet-seg-i-hemmelighet_-_-vi-er-veldig-lykkelige-1.18039921",
         "engelsk_kilde": false
       },
       {
@@ -356,41 +400,6 @@
         "kilde": "BBC Business",
         "tid": "09:42",
         "lenke": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Muse sender børsen i sjokk – kan gjøre netthandelen din overflødig",
-        "kilde": "E24",
-        "tid": "09:37",
-        "lenke": "https://e24.no/teknologi/i/bORVK5/muse-sender-boersen-i-sjokk-kan-gjoere-netthandelen-din-overfloedig?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "NVE gir Nscale varsel om tvangsmulkt",
-        "kilde": "E24",
-        "tid": "09:28",
-        "lenke": "https://e24.no/norsk-oekonomi/i/zOvny4/nve-gir-nscale-varsel-om-tvangsmulkt?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kollega i krise",
-        "kilde": "E24",
-        "tid": "08:41",
-        "lenke": "https://e24.no/karriere-og-ledelse/i/6qE41O/kollega-i-krise?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Jeg betalte £ 30 000 for en 'influencer' -grad. Her er hvorfor",
-        "kilde": "BBC Business",
-        "tid": "07:02",
-        "lenke": "https://www.bbc.co.uk/news/articles/c61mvy1emr2zo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hva et amerikansk dieseleksportforbud kan bety for deg",
-        "kilde": "BBC Business",
-        "tid": "18:18",
-        "lenke": "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ]
