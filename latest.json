@@ -1,115 +1,120 @@
 {
   "dato": "2026-09-29",
   "dato_norsk": "Tirsdag 29. september 2026",
-  "generert_kl": "14:28",
+  "generert_kl": "17:50",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "USAs forbud mot kanadisk alkohol og meieriprodukter trer i kraft etter hvert som handelskrigen trekker ut",
-      "kilde": "BBC Business",
-      "tid": "13:38",
-      "lenke": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Polymarket taper Goldman Sachs veteran Lisa Mantil for å tiltrekke Wall Street likviditet",
+      "tittel": "Trump-kontoer vil automatisk registrere barn, og potensielt legge til 60 millioner kontoer: Treasury",
       "kilde": "CNBC Top News",
-      "tid": "12:00",
-      "lenke": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
+      "tid": "17:45",
+      "lenke": "https://www.cnbc.com/2026/09/29/trump-accounts-auto-enroll.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Søppelobligasjoner er på vei mot den verste måneden siden 2022 etter å ha straffet globalt salg",
-      "kilde": "MarketWatch",
-      "tid": "14:00",
-      "lenke": "https://www.marketwatch.com/story/junk-bonds-are-heading-for-worst-month-since-2022-after-punishing-global-selloff-12b70a3e?mod=mw_rss_topstories",
+      "tittel": "Utdanningsavdelingen forlenger fristen for studielånsrenterabatt",
+      "kilde": "CNBC Top News",
+      "tid": "16:23",
+      "lenke": "https://www.cnbc.com/2026/09/29/trump-officials-extend-student-loan-interest-rate-discount-deadline.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Før du investerer i Oura IPO, forstå hva du kjøper",
-      "kilde": "MarketWatch",
-      "tid": "13:45",
-      "lenke": "https://www.marketwatch.com/story/before-you-invest-in-the-oura-ipo-understand-what-youre-buying-1d88d868?mod=mw_rss_topstories",
+      "tittel": "Teknologiledere ankommer Det hvite hus for AI-lunsj med Trump",
+      "kilde": "CNBC Top News",
+      "tid": "17:25",
+      "lenke": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "To aksjeplukk fra en pengeforvalter som forventer at små selskaper vil brøle i 2027",
-      "kilde": "MarketWatch",
-      "tid": "13:39",
-      "lenke": "https://www.marketwatch.com/story/two-stock-picks-from-a-money-manager-who-expects-small-caps-to-roar-in-2027-70de9c4d?mod=mw_rss_topstories",
+      "tittel": "Trumps regjeringsannonser ble finansiert av Homeland Security, rapporterer WSJ",
+      "kilde": "CNBC Top News",
+      "tid": "17:16",
+      "lenke": "https://www.cnbc.com/2026/09/29/trump-ads-cbp-dhs-taxpayer-funding-election.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Ny AI-drevet regjeringens nettsted bruker Gemini, Grok, Trump offisielle Gebbia sier",
+      "kilde": "CNBC Top News",
+      "tid": "16:55",
+      "lenke": "https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
-    "NORGE": [
+    "MAKRO": [
       {
-        "tittel": "Ber Portugal-stjernen passe seg mot Norge: – Det fortjener han",
-        "kilde": "NRK Nyheter",
-        "tid": "10:06",
-        "lenke": "https://www.nrk.no/sport/brede-hangeland-om-bernardo-silvas-ettersleng-pa-martin-odegaard-1.18039637",
-        "engelsk_kilde": false
+        "tittel": "Trump-kontoer vil automatisk registrere barn, og potensielt legge til 60 millioner kontoer: Treasury",
+        "kilde": "CNBC Top News",
+        "tid": "17:45",
+        "lenke": "https://www.cnbc.com/2026/09/29/trump-accounts-auto-enroll.html",
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Vil åpne for lovlig nettpoker i Norge – pokermiljøet jubler",
-        "kilde": "NRK Nyheter",
-        "tid": "07:29",
-        "lenke": "https://www.nrk.no/innlandet/regjeringen-foreslar-lovendring-for-a-la-norsk-tipping-drive-lovlig-nettpoker-1.18039073",
-        "engelsk_kilde": false
+        "tittel": "Utdanningsavdelingen forlenger fristen for studielånsrenterabatt",
+        "kilde": "CNBC Top News",
+        "tid": "16:23",
+        "lenke": "https://www.cnbc.com/2026/09/29/trump-officials-extend-student-loan-interest-rate-discount-deadline.html",
+        "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "Søppelobligasjoner er på vei mot den verste måneden siden 2022 etter å ha straffet globalt salg",
-        "kilde": "MarketWatch",
-        "tid": "14:00",
-        "lenke": "https://www.marketwatch.com/story/junk-bonds-are-heading-for-worst-month-since-2022-after-punishing-global-selloff-12b70a3e?mod=mw_rss_topstories",
+        "tittel": "Oura trekker $ 15 milliarder børsnotering dager etter kunngjøring",
+        "kilde": "BBC Business",
+        "tid": "17:17",
+        "lenke": "https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Før du investerer i Oura IPO, forstå hva du kjøper",
+        "tittel": "Her er hva Netflix-skeptikere tar feil om aksjen, ifølge en analytiker",
         "kilde": "MarketWatch",
-        "tid": "13:45",
-        "lenke": "https://www.marketwatch.com/story/before-you-invest-in-the-oura-ipo-understand-what-youre-buying-1d88d868?mod=mw_rss_topstories",
+        "tid": "16:45",
+        "lenke": "https://www.marketwatch.com/story/heres-what-netflix-skeptics-are-getting-wrong-about-the-stock-according-to-an-analyst-40436696?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "To aksjeplukk fra en pengeforvalter som forventer at små selskaper vil brøle i 2027",
+        "tittel": "De skjulte meldingene obligasjonsmarkedet sender om AI-boomen og aksjemarkedet",
         "kilde": "MarketWatch",
-        "tid": "13:39",
-        "lenke": "https://www.marketwatch.com/story/two-stock-picks-from-a-money-manager-who-expects-small-caps-to-roar-in-2027-70de9c4d?mod=mw_rss_topstories",
+        "tid": "16:44",
+        "lenke": "https://www.marketwatch.com/story/the-hidden-messages-the-bond-market-is-sending-about-the-ai-boom-and-the-stock-market-5c9495ba?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Blandet på Wall Street",
+        "tittel": "Du kan bli sjokkert over hvor mange aksjer som er i et bjørnemarked akkurat nå",
+        "kilde": "MarketWatch",
+        "tid": "16:24",
+        "lenke": "https://www.marketwatch.com/story/you-might-be-shocked-by-how-many-stocks-are-in-a-bear-market-right-now-017c9cd8?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Rentefrykt sender Wall Street nedover",
         "kilde": "E24",
         "tid": "13:32",
         "lenke": "https://e24.no/boers-og-finans/i/OkGQxw/s-p-500-indeksen-stiger-forsiktig-cruiseaksje-sendes-rett-opp?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Polymarket taper Goldman Sachs veteran Lisa Mantil for å tiltrekke Wall Street likviditet",
-        "kilde": "CNBC Top News",
-        "tid": "12:00",
-        "lenke": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
-        "engelsk_kilde": true
-      }
-    ],
-    "ENERGI_RAAVARER": [
-      {
-        "tittel": "Ny rapport: Datasentre sluker strøm – gir begrenset verdiskapning",
-        "kilde": "NRK Nyheter",
-        "tid": "07:56",
-        "lenke": "https://www.nrk.no/vestfoldogtelemark/ny-rapport_-datasentre-sluker-strom-_-gir-begrenset-verdiskapning-1.18036425",
         "engelsk_kilde": false
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Hva gjør programvareutviklingsteknikk",
+        "tittel": "ChatGPT Pro 500",
         "kilde": "Hacker News",
-        "tid": "13:31",
-        "lenke": "https://parksb.github.io/en/article/44.html",
+        "tid": "17:26",
+        "lenke": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kan SpaceX være verdt $ 12 billioner en dag? Citi sier Starship kommer et skritt nærmere.",
+        "kilde": "MarketWatch",
+        "tid": "16:59",
+        "lenke": "https://www.marketwatch.com/story/could-spacex-be-worth-12-trillion-one-day-citi-says-starship-gets-it-a-step-closer-6ce44961?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "SpaceX-aksjen etter Starship-suksess: – Ser attraktivt ut",
+        "kilde": "E24",
+        "tid": "14:31",
+        "lenke": "https://e24.no/boers-og-finans/i/0pPR9J/spacex-aksjen-etter-starship-suksess-ser-attraktivt-ut?utm_medium=rss",
+        "engelsk_kilde": false
       },
       {
         "tittel": "OpenAI skraper utrulling av ny modell over sikkerhetsproblemer",
@@ -121,10 +126,24 @@
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Hassett: 'Vi jobber oss fortsatt ut av' Biden Covid utgifter",
+        "tittel": "Teknologiledere ankommer Det hvite hus for AI-lunsj med Trump",
         "kilde": "CNBC Top News",
-        "tid": "14:15",
-        "lenke": "https://www.cnbc.com/2026/09/29/hassett-trump-economy-biden-covid.html",
+        "tid": "17:25",
+        "lenke": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trumps regjeringsannonser ble finansiert av Homeland Security, rapporterer WSJ",
+        "kilde": "CNBC Top News",
+        "tid": "17:16",
+        "lenke": "https://www.cnbc.com/2026/09/29/trump-ads-cbp-dhs-taxpayer-funding-election.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ny AI-drevet regjeringens nettsted bruker Gemini, Grok, Trump offisielle Gebbia sier",
+        "kilde": "CNBC Top News",
+        "tid": "16:55",
+        "lenke": "https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html",
         "engelsk_kilde": true
       },
       {
@@ -151,137 +170,165 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "Den største feilen nybegynnere gjør med reisekort, ifølge The Points Guy",
+        "tittel": "Medicare Advantage-planene blir billigere neste år. Her er den nye kostnaden.",
         "kilde": "MarketWatch",
-        "tid": "14:13",
-        "lenke": "https://www.marketwatch.com/story/the-no-1-mistake-beginners-make-with-travel-cards-according-to-the-points-guy-3502e859?mod=mw_rss_topstories",
+        "tid": "17:45",
+        "lenke": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Karsten Warholm har giftet seg: – En fantastisk dag",
+        "tittel": "Disney sier opp rundt 300 ansatte i de siste kuttene under ny administrerende direktør Josh D'Amaro",
+        "kilde": "CNBC Top News",
+        "tid": "17:36",
+        "lenke": "https://www.cnbc.com/2026/09/29/disney-layoffs-josh-damaro.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg er 77, betaler husleie og lever av trygd, men jeg hjelper hjemløse. Hvorfor er det så mange som sulter?",
+        "kilde": "MarketWatch",
+        "tid": "17:30",
+        "lenke": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ceuta: Bulldosere fjerner leir – migrantene sendes mot grensa",
+        "kilde": "NRK Nyheter",
+        "tid": "17:22",
+        "lenke": "https://www.nrk.no/urix/bulldosere-fjerner-leir-_-migrantene-sendes-mot-grensa-1.18040086",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Tcl/Tk 9.1 utgitt",
+        "kilde": "Hacker News",
+        "tid": "17:13",
+        "lenke": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Prikker",
+        "kilde": "Hacker News",
+        "tid": "17:07",
+        "lenke": "https://openai.com/index/introducing-dots/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "DevDay 2026 oppsummering",
+        "kilde": "Hacker News",
+        "tid": "17:07",
+        "lenke": "https://openai.com/index/devday-2026-recap/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "GPT 6.1 sol",
+        "kilde": "Hacker News",
+        "tid": "17:06",
+        "lenke": "https://openai.com/index/introducing-gpt-6-1-sol/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Får skjerpet straff etter ulykken der Chris-Stian (17) døde",
+        "kilde": "NRK Nyheter",
+        "tid": "16:54",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/skjerpet-straff-etter-arbeidsulykken-der-chris-stian-_17_-dode-1.18040309",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Forbrukeroptimismen synker til det laveste siden 2014, ettersom frykten eskalerer på grunn av stigende priser og arbeidsplasser",
+        "kilde": "CNBC Top News",
+        "tid": "16:52",
+        "lenke": "https://www.cnbc.com/2026/09/29/consumer-optimism-slides-sharply-as-fears-escalate-over-rising-prices-and-jobs.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Faisal Islam: Trippel lås trekk er betydelig, men det er en gamble",
+        "kilde": "BBC Business",
+        "tid": "16:43",
+        "lenke": "https://www.bbc.co.uk/news/articles/cwp93d078j8no?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Jeg vil heller være på en strand på Bali’: Mannen min misliker min nettoverdi på $ 8 millioner. Skal jeg betale for pensjonen hans?",
+        "kilde": "MarketWatch",
+        "tid": "16:30",
+        "lenke": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Jeg vil gjøre henne stolt’: Min mor, en fraskilt kvinne, døde og jeg er hennes eksekutor. Må jeg søke om skifte?",
+        "kilde": "MarketWatch",
+        "tid": "16:15",
+        "lenke": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Regjeringen vil stramme inn reglene for datasentre",
+        "kilde": "NRK Nyheter",
+        "tid": "16:11",
+        "lenke": "https://www.nrk.no/vestfoldogtelemark/regjeringen-vil-stramme-inn-reglene-for-datasentre-i-norge-1.18040088",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Knusende City-dom – nektet å snakke med NRK",
+        "kilde": "NRK Nyheter",
+        "tid": "16:00",
+        "lenke": "https://www.nrk.no/sport/premier-league-bekrefter_-manchester-city-funnet-skyldig-1.18040284",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Premier League bekrefter at City er funnet skyldig",
+        "kilde": "NRK Nyheter",
+        "tid": "15:57",
+        "lenke": "https://www.nrk.no/sport/premier-league-bekrefter-at-city-er-funnet-skyldig-1.18040280",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Eiendomsspill: Boligeiere sitter på rekordkapital – og bruker den ikke",
+        "kilde": "CNBC Top News",
+        "tid": "15:54",
+        "lenke": "https://www.cnbc.com/2026/09/29/homeowners-are-sitting-on-record-equity-and-not-using-it.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Gina Raimondo tror at kunstig intelligens til syvende og sist vil skape arbeidsplasser. Det er den første masseoppsigelsesbølgen som bekymrer henne",
+        "kilde": "CNBC Top News",
+        "tid": "15:46",
+        "lenke": "https://www.cnbc.com/2026/09/29/ai-job-losses-layoffs.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hjemløs 19-åring i rullestol måtte overnatte på legevakta",
+        "kilde": "NRK Nyheter",
+        "tid": "15:44",
+        "lenke": "https://www.nrk.no/ostfold/hjemlos-19-aring-i-rullestol-matte-overnatte-pa-legevakta-1.18032127",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Enebolig gikk 4 millioner over prisantydning",
+        "kilde": "E24",
+        "tid": "15:23",
+        "lenke": "https://e24.no/norsk-oekonomi/i/8pnMBG/enebolig-gikk-4-millioner-over-prisantydning?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Ordførar rasar mot asyl­nedlegging: – Eg forstår ikkje UDI sin handlemåte",
+        "kilde": "NRK Nyheter",
+        "tid": "14:38",
+        "lenke": "https://www.nrk.no/innlandet/ordforar-rasar-mot-asylnedlegging_-_-eg-forstar-ikkje-udi-sin-handlemate-1.18028968",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kan i verste fall skade saken",
+        "kilde": "E24",
+        "tid": "14:31",
+        "lenke": "https://e24.no/norsk-oekonomi/i/rrkQ4l/kan-i-verste-fall-skade-saken?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Karsten Warholm og Oda Djupvik giftet seg: – Vi er veldig lykkelige",
         "kilde": "NRK Nyheter",
         "tid": "14:07",
-        "lenke": "https://www.nrk.no/sport/karsten-warholm-giftet-seg-i-hemmelighet_-1.18039921",
+        "lenke": "https://www.nrk.no/sport/karsten-warholm-giftet-seg-i-hemmelighet_-_-vi-er-veldig-lykkelige-1.18039921",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Rep. James Comer utvider husets undersøkelse av innsidehandel i prediksjonsmarkedet",
-        "kilde": "CNBC Top News",
-        "tid": "14:00",
-        "lenke": "https://www.cnbc.com/2026/09/29/comer-house-prediction-market-insider-trading.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Barna mine vil ikke ha ting for flere tiår. Slik lærer jeg å gi slipp på det.",
-        "kilde": "MarketWatch",
-        "tid": "14:00",
-        "lenke": "https://www.marketwatch.com/story/my-kids-dont-want-my-decades-worth-of-stuff-heres-how-im-learning-to-let-go-of-it-74f91da6?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Investorer som har unngått diversifisering, står kanskje overfor den beste kjøpsmuligheten for obligasjoner på flere tiår",
-        "kilde": "CNBC Top News",
-        "tid": "13:22",
-        "lenke": "https://www.cnbc.com/2026/09/29/investors-who-have-shunned-diversification-face-maybe-the-best-buying-opportunity-for-bonds-in-decades.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Meiner Haaland bør benkast: – Eg trur han er freista",
-        "kilde": "NRK Nyheter",
-        "tid": "13:11",
-        "lenke": "https://www.nrk.no/sport/nrk-ekspert-kristoffer-lokberg-meiner-erling-braut-haaland-bor-benkast-1.18039155",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Fem menn dømt for 180 grove bedragerier",
-        "kilde": "NRK Nyheter",
-        "tid": "13:06",
-        "lenke": "https://www.nrk.no/nyheter/fem-menn-domt-for-180-grove-bedragerier-1.18039994",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Coinbase Ventures og CMCC Global lukker strategisk finansieringsrunde med handelsfirmaet Raven",
-        "kilde": "CNBC Top News",
-        "tid": "13:05",
-        "lenke": "https://www.cnbc.com/2026/09/29/coinbase-ventures-and-cmcc-global-close-strategic-funding-round-with-raven.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Disse private og offentlige høyskolene har den beste avkastningen på investeringen, ifølge The Princeton Review",
-        "kilde": "CNBC Top News",
-        "tid": "13:00",
-        "lenke": "https://www.cnbc.com/2026/09/29/private-public-colleges-best-roi-return-on-investment-the-princeton-review.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Burnham avslører offentlig organ som investerer i strømnett",
-        "kilde": "BBC Business",
-        "tid": "12:56",
-        "lenke": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Alaska Airlines avduker massiv premium kabinoverhaling i high-end reiseløp",
-        "kilde": "CNBC Top News",
-        "tid": "12:45",
-        "lenke": "https://www.cnbc.com/2026/09/29/alaska-airlines-hawaiian-new-cabins.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvordan Delhi kuttet strømtapet fra 50 til 5 prosent",
-        "kilde": "Hacker News",
-        "tid": "12:43",
-        "lenke": "https://spectrum.ieee.org/delhi-electricity-loss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Dolly Parton planla godset sitt. Kampen med nevøen hennes viser hvorfor det betyr noe.",
-        "kilde": "MarketWatch",
-        "tid": "12:42",
-        "lenke": "https://www.marketwatch.com/story/dolly-parton-planned-for-her-estate-the-fight-with-her-nephew-shows-why-that-matters-b7e57c26?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jamie Dimon har en plan for å gjenopplive Vesten: En \"stor, vakker\" avtale med Europa",
-        "kilde": "CNBC Top News",
-        "tid": "12:39",
-        "lenke": "https://www.cnbc.com/2026/09/29/jamie-dimon-europe-trade.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Uten varmluft",
-        "kilde": "Hacker News",
-        "tid": "12:38",
-        "lenke": "https://www.withouthotair.com/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "1 av 8 krefttilfeller over hele verden er forårsaket av infeksjoner, finner studien",
-        "kilde": "Hacker News",
-        "tid": "12:33",
-        "lenke": "https://www.cbc.ca/lite/story/9.7361622",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "IRS sender meldinger om Saver's Match til skattebetalere som kan kvalifisere for ny fordel, verdt opptil $ 2000",
-        "kilde": "CNBC Top News",
-        "tid": "12:15",
-        "lenke": "https://www.cnbc.com/2026/09/29/savers-match-irs-retirement-benefit.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "\"Vi levde innenfor våre midler\": Jeg tjente $ 30 000 som pastor og pensjonerte meg fortsatt komfortabelt. Hvorfor forteller du ikke folk det?",
-        "kilde": "MarketWatch",
-        "tid": "12:15",
-        "lenke": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Klimaet akkumulerer 4 Hiroshima-atombomber verdt varme per sekund",
-        "kilde": "Hacker News",
-        "tid": "12:14",
-        "lenke": "https://4hiroshimas.info/",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Lokførerne trapper opp streiken",
@@ -298,31 +345,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Tar du Ozempic og er bekymret for synstap? Denne testen kan hjelpe deg med å forstå risikoen din.",
-        "kilde": "MarketWatch",
-        "tid": "12:03",
-        "lenke": "https://www.marketwatch.com/story/taking-ozempic-a-routine-eye-exam-could-help-you-understand-your-risk-for-vision-loss-3392c1a0?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Skviser småaksjonærene",
         "kilde": "E24",
         "tid": "10:44",
         "lenke": "https://e24.no/boers-og-finans/i/PdQjvJ/rettighetene-til-minoritetsaksjonaerer-strammes-til-over-hele-verden?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Voldstiltalt 25-åring dømt til 11,5 års forvaring",
-        "kilde": "NRK Nyheter",
-        "tid": "10:10",
-        "lenke": "https://www.nrk.no/sorlandet/voldstiltalt-25-aring-dommes-til-11_5-ars-forvaring-1.18031270",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Friluftsbølge: – Ville pushe meg på en måte jeg aldri hadde gjort før",
-        "kilde": "NRK Nyheter",
-        "tid": "09:54",
-        "lenke": "https://www.nrk.no/vestfoldogtelemark/stadig-flere-soker-ekstreme-fysiske-utfordringer_-gikk-norge-pa-langs-for-a-slippe-press-1.18028816",
         "engelsk_kilde": false
       },
       {
@@ -354,27 +380,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Tar milliongevinst ved første mulighet",
-        "kilde": "E24",
-        "tid": "08:30",
-        "lenke": "https://e24.no/boers-og-finans/i/n18eyd/tar-milliongevinst-ved-foerste-mulighet?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Anthropic advarer om «eksistensiell risiko for menneskeheten»",
-        "kilde": "E24",
-        "tid": "08:07",
-        "lenke": "https://e24.no/boers-og-finans/i/7pbk1v/anthropic-advarer-om-eksistensiell-risiko-for-menneskeheten?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Regjeringen vil åpne for lovlig nettpoker",
-        "kilde": "E24",
-        "tid": "07:37",
-        "lenke": "https://e24.no/boers-og-finans/i/oE4gbR/regjeringen-vil-la-norsk-tipping-tilby-nettpoker?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Jeg betalte £ 30 000 for en 'influencer' -grad. Her er hvorfor",
         "kilde": "BBC Business",
         "tid": "07:02",
@@ -386,13 +391,6 @@
         "kilde": "BBC Business",
         "tid": "18:18",
         "lenke": "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Aldi-sjefen sier at noen av konkurrentenes lojalitetsrabatter «lurer» kunder",
-        "kilde": "BBC Business",
-        "tid": "17:45",
-        "lenke": "https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ]
