@@ -1,61 +1,56 @@
 {
   "dato": "2026-09-30",
   "dato_norsk": "Onsdag 30. september 2026",
-  "generert_kl": "17:45",
+  "generert_kl": "20:24",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Inside Man: Hvordan kinesiske spioner brukte løgner, kjærlighet og svik for å angripe Federal Reserve",
+      "tittel": "Ronaldo forlater Portugal-troppen:  – Dessverre nok en skamplett",
+      "kilde": "NRK Nyheter",
+      "tid": "18:48",
+      "lenke": "https://www.nrk.no/sport/cristiano-ronaldo-har-forlatt-portugal-troppen-1.18041527",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Meta-aksjer har den beste måneden siden 2022 på AI-momentum",
       "kilde": "CNBC Top News",
-      "tid": "17:21",
-      "lenke": "https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html",
+      "tid": "20:08",
+      "lenke": "https://www.cnbc.com/2026/09/30/meta-stock-best-month-2013-ai.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Gull skal være en trygg havn når inflasjonen stiger. Så hvorfor fungerer det ikke slik nå?",
+      "tittel": "Micron slår på inntjeningen og gir sterk veiledning etter hvert som den globale minnemangelen fortsetter",
+      "kilde": "CNBC Top News",
+      "tid": "20:22",
+      "lenke": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "To handler som nettopp skjedde i 'Magnificent Seven' -aksjer peker på store gevinster fremover",
+      "kilde": "CNBC Top News",
+      "tid": "18:47",
+      "lenke": "https://www.cnbc.com/2026/09/30/two-trades-that-just-happened-in-magnificent-seven-stocks-point-to-big-gains-ahead.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Dette diagrammet viser at kjøp og beholdning av aksjer slår \"selg i mai og gå bort\" og andre gimmicks",
       "kilde": "MarketWatch",
-      "tid": "16:51",
-      "lenke": "https://www.marketwatch.com/story/gold-is-supposed-to-be-a-safe-haven-when-inflation-surges-so-why-isnt-it-working-that-way-now-45cbb07b?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Trump spionerer på økonomiske gevinster i slagmarken — som en $ 54 milliarder Alaskan-rørledning — når midtveisvalgene nærmer seg",
-      "kilde": "MarketWatch",
-      "tid": "17:37",
-      "lenke": "https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Treasury lanserer studielånsstøttesenter som nye data viser 9,3 millioner låntakere i mislighold",
-      "kilde": "CNBC Top News",
-      "tid": "15:56",
-      "lenke": "https://www.cnbc.com/2026/09/30/student-loan-default-support-center.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Trumps siste globale tariffer står overfor en handelsrettsutfordring",
-      "kilde": "CNBC Top News",
-      "tid": "17:33",
-      "lenke": "https://www.cnbc.com/2026/09/30/trump-tariffs-trade-lawsuit.html",
+      "tid": "18:20",
+      "lenke": "https://www.marketwatch.com/story/why-the-halloween-indicator-isnt-working-and-what-smart-investors-are-doing-instead-6d758662?mod=mw_rss_topstories",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
+    "NORGE": [
+      {
+        "tittel": "Ronaldo forlater Portugal-troppen:  – Dessverre nok en skamplett",
+        "kilde": "NRK Nyheter",
+        "tid": "18:48",
+        "lenke": "https://www.nrk.no/sport/cristiano-ronaldo-har-forlatt-portugal-troppen-1.18041527",
+        "engelsk_kilde": false
+      }
+    ],
     "MAKRO": [
-      {
-        "tittel": "Inside Man: Hvordan kinesiske spioner brukte løgner, kjærlighet og svik for å angripe Federal Reserve",
-        "kilde": "CNBC Top News",
-        "tid": "17:21",
-        "lenke": "https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Gull skal være en trygg havn når inflasjonen stiger. Så hvorfor fungerer det ikke slik nå?",
-        "kilde": "MarketWatch",
-        "tid": "16:51",
-        "lenke": "https://www.marketwatch.com/story/gold-is-supposed-to-be-a-safe-haven-when-inflation-surges-so-why-isnt-it-working-that-way-now-45cbb07b?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
       {
         "tittel": "Treasury lanserer studielånsstøttesenter som nye data viser 9,3 millioner låntakere i mislighold",
         "kilde": "CNBC Top News",
@@ -73,10 +68,31 @@
     ],
     "MARKEDER": [
       {
-        "tittel": "Demokratene i Senatet senker forbudet mot \"tannløs\" aksjehandel, regningen for datasentre i siste akt før valgpausen",
+        "tittel": "Micron slår på inntjeningen og gir sterk veiledning etter hvert som den globale minnemangelen fortsetter",
         "kilde": "CNBC Top News",
-        "tid": "17:44",
-        "lenke": "https://www.cnbc.com/2026/09/30/senate-stock-trading-ban-data-center-election.html",
+        "tid": "20:22",
+        "lenke": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Meta-aksjer har den beste måneden siden 2022 på AI-momentum",
+        "kilde": "CNBC Top News",
+        "tid": "20:08",
+        "lenke": "https://www.cnbc.com/2026/09/30/meta-stock-best-month-2013-ai.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "To handler som nettopp skjedde i 'Magnificent Seven' -aksjer peker på store gevinster fremover",
+        "kilde": "CNBC Top News",
+        "tid": "18:47",
+        "lenke": "https://www.cnbc.com/2026/09/30/two-trades-that-just-happened-in-magnificent-seven-stocks-point-to-big-gains-ahead.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Dette diagrammet viser at kjøp og beholdning av aksjer slår \"selg i mai og gå bort\" og andre gimmicks",
+        "kilde": "MarketWatch",
+        "tid": "18:20",
+        "lenke": "https://www.marketwatch.com/story/why-the-halloween-indicator-isnt-working-and-what-smart-investors-are-doing-instead-6d758662?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -96,10 +112,10 @@
     ],
     "ENERGI_RAAVARER": [
       {
-        "tittel": "Trump spionerer på økonomiske gevinster i slagmarken — som en $ 54 milliarder Alaskan-rørledning — når midtveisvalgene nærmer seg",
-        "kilde": "MarketWatch",
-        "tid": "17:37",
-        "lenke": "https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories",
+        "tittel": "Eksport av råolje gjennom Hormuzstredet nådde førkrigsnivåer, men drivstoffleveranser forblir begrenset",
+        "kilde": "CNBC Top News",
+        "tid": "20:16",
+        "lenke": "https://www.cnbc.com/2026/09/30/iran-war-strait-hormuz-gulf-oil-fuel.html",
         "engelsk_kilde": true
       },
       {
@@ -112,40 +128,26 @@
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "La oss droppe Google (verb)",
-        "kilde": "Hacker News",
-        "tid": "17:18",
-        "lenke": "https://adam.farkas.pro/lets-ditch-google-verb/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Det kan hende at Wall Street sover på denne nettverksaksjen som er knyttet til Google og OpenAI",
-        "kilde": "MarketWatch",
-        "tid": "16:29",
-        "lenke": "https://www.marketwatch.com/story/wall-street-may-be-sleeping-on-this-networking-stock-tied-to-google-and-openai-1cb9741f?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "FTC undersøker OpenAI, Anthropic og andre AI-selskaper over produktrisiko",
+        "tittel": "Sen. Hawley: OpenAI-sjef Sam Altman nektet å vitne under en falsk AI-høring",
         "kilde": "CNBC Top News",
-        "tid": "15:54",
-        "lenke": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+        "tid": "19:34",
+        "lenke": "https://www.cnbc.com/2026/09/30/hawley-openai-sam-altman-rogue-ai.html",
         "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Trumps siste globale tariffer står overfor en handelsrettsutfordring",
+        "tittel": "Elon Musk, Palmer Luckey og Newt Gingrich for å hjelpe Pentagon med krigsinitiativ, sier Hegseth",
         "kilde": "CNBC Top News",
-        "tid": "17:33",
-        "lenke": "https://www.cnbc.com/2026/09/30/trump-tariffs-trade-lawsuit.html",
+        "tid": "20:03",
+        "lenke": "https://www.cnbc.com/2026/09/30/musk-luckey-gingrich-pentagon-hegseth-.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Trump-administrasjonen begynner å sende $ 500 Obamacare-refusjonssjekker — som står til fordel",
+        "tittel": "Senatorer klinkekonstruksjon tillater avtale før valget jet-set",
         "kilde": "CNBC Top News",
-        "tid": "16:19",
-        "lenke": "https://www.cnbc.com/2026/09/30/obamacare-aca-refund-checks.html",
+        "tid": "19:35",
+        "lenke": "https://www.cnbc.com/2026/09/30/permitting-deal-congress-election.html",
         "engelsk_kilde": true
       },
       {
@@ -165,32 +167,116 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "Hvorfor ‘Halloween-indikatoren’ ikke fungerer — og hva smarte investorer gjør i stedet",
-        "kilde": "MarketWatch",
-        "tid": "17:40",
-        "lenke": "https://www.marketwatch.com/story/why-the-halloween-indicator-isnt-working-and-what-smart-investors-are-doing-instead-6d758662?mod=mw_rss_topstories",
+        "tittel": "Fed-vakthund finner renoveringsfeil, men ingen grunnlag for kriminell henvisning",
+        "kilde": "CNBC Top News",
+        "tid": "20:17",
+        "lenke": "https://www.cnbc.com/2026/09/30/fed-inspector-general-report-powell-trump.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Disse obligasjonsstrategiene kan hjelpe deg med å få en trygg 5% avkastning på pengene dine",
-        "kilde": "MarketWatch",
-        "tid": "17:38",
-        "lenke": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
-        "engelsk_kilde": true
+        "tittel": "Hilde Henriksen Waage reagerer på Støre: – Sjokkerende",
+        "kilde": "NRK Nyheter",
+        "tid": "20:07",
+        "lenke": "https://www.nrk.no/norge/hilde-henriksen-waage-reagerer-pa-store_-_-sjokkerende-1.18041437",
+        "engelsk_kilde": false
       },
       {
-        "tittel": "Lansering HN: Magnitude (YC S25) – Selvoptimaliserende inferensmotor for agenter",
+        "tittel": "Tvillingene 4 Argon",
         "kilde": "Hacker News",
-        "tid": "17:37",
-        "lenke": "https://github.com/magnitudedev/magnitude",
+        "tid": "20:04",
+        "lenke": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
         "engelsk_kilde": true
       },
       {
-        "tittel": "‘Jeg har $ 400 000 i egenkapital’: Jeg er 80. Skal jeg selge huset mitt på grunn av farlige trapper — eller bruke tusenvis på renovering?",
-        "kilde": "MarketWatch",
-        "tid": "17:31",
-        "lenke": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+        "tittel": "Halfspace eksperimentell ide for solid modellering med avstandsfelt",
+        "kilde": "Hacker News",
+        "tid": "19:44",
+        "lenke": "https://www.mattkeeter.com/projects/halfspace/",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Amerikanske obligasjonsrenter etter det største hoppet på en generasjon ettersom global ruting rasler investorer",
+        "kilde": "MarketWatch",
+        "tid": "19:42",
+        "lenke": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Paramounts mega gjeldssalg avslører hvordan høyere obligasjonsrenter presser bedriftens Amerika",
+        "kilde": "MarketWatch",
+        "tid": "19:42",
+        "lenke": "https://www.marketwatch.com/story/paramounts-mega-debt-sale-reveals-how-higher-bond-yields-are-squeezing-corporate-america-e9694ec3?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "America.gov går amok på \"spill Minecraft\"",
+        "kilde": "Hacker News",
+        "tid": "19:34",
+        "lenke": "https://america.gov/chat",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "EDG C++ front-end blir offentlig",
+        "kilde": "Hacker News",
+        "tid": "19:26",
+        "lenke": "https://edgcpp.org/#transition",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Milliardærer som Ken Griffin deler ut tonnevis av penger for å bevise at en universitetsgrad fortsatt betyr noe",
+        "kilde": "MarketWatch",
+        "tid": "19:21",
+        "lenke": "https://www.marketwatch.com/story/billionaires-like-ken-griffin-are-doling-out-tons-of-money-to-prove-that-a-college-degree-still-matters-63e50332?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Overraskende komplekse bølger avslører hjernens indre arbeid",
+        "kilde": "Hacker News",
+        "tid": "19:04",
+        "lenke": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Min venns pet-sitting virksomhet grosses $ 300.000 i året, men hun betaler seg $ 50.000. Skal jeg starte en også?",
+        "kilde": "MarketWatch",
+        "tid": "19:00",
+        "lenke": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ved å legge til Lillys nye medikament til Zepbound hjalp folk med å gå ned mer i vekt — men det var flere bivirkninger",
+        "kilde": "MarketWatch",
+        "tid": "18:45",
+        "lenke": "https://www.marketwatch.com/story/adding-lillys-new-drug-to-zepbound-helped-people-lose-up-to-23-of-their-weight-but-there-were-more-side-effects-b7b7c6c0?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Etter at jeg solgte TOMS Shoes for $ 400 millioner ble jeg feildiagnostisert med bipolar lidelse — og det kostet meg nesten alt",
+        "kilde": "MarketWatch",
+        "tid": "18:44",
+        "lenke": "https://www.marketwatch.com/story/after-i-sold-toms-shoes-for-400-million-i-was-misdiagnosed-with-bipolar-disorder-and-it-almost-cost-me-everything-4409da4c?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Jeg vil heller være på en strand på Bali’: Mannen min misliker min nettoverdi på $ 8 millioner. Skal jeg betale for pensjonen hans?",
+        "kilde": "MarketWatch",
+        "tid": "18:15",
+        "lenke": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Investtech-analyse: Tre risikable kjøpsanbefalinger",
+        "kilde": "E24",
+        "tid": "18:04",
+        "lenke": "https://e24.no/boers-og-finans/i/pBJaXR/investtech-analyse-tre-risikable-kjoepsanbefalinger?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Norges kriselager mister 100.000 sardinbokser",
+        "kilde": "E24",
+        "tid": "18:03",
+        "lenke": "https://e24.no/hav-og-sjoemat/i/ArA3qx/norges-kriselager-mister-100-000-sardinbokser?utm_medium=rss",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Nordic Mining-sjefen slutter på dagen",
@@ -200,53 +286,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Forplikte beskrivelse som et tenkningsverktøy",
-        "kilde": "Hacker News",
-        "tid": "17:18",
-        "lenke": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Ny million­innsprøytning for Bellona",
         "kilde": "E24",
         "tid": "17:16",
         "lenke": "https://e24.no/norsk-oekonomi/i/Gxzo2q/ny-millioninnsproeytning-for-bellona?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Fed-vakthund finner renoveringsfeil, men ingen grunnlag for kriminell henvisning",
-        "kilde": "CNBC Top News",
-        "tid": "17:15",
-        "lenke": "https://www.cnbc.com/2026/09/30/fed-inspector-general-report-powell-trump.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Tidligere NFL-spillere har nesten fire ganger så stor risiko for å dø av hjerneskade. Er det på tide å boikotte fotball?",
-        "kilde": "MarketWatch",
-        "tid": "17:15",
-        "lenke": "https://www.marketwatch.com/story/former-nfl-players-are-nearly-four-times-as-likely-to-die-with-brain-damage-is-it-time-to-boycott-football-ba886e44?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Justisdepartementet anklager Minnesota føderale dommere for uredelighet for NY Times innvandringsintervjuer",
-        "kilde": "CNBC Top News",
-        "tid": "17:09",
-        "lenke": "https://www.cnbc.com/2026/09/30/doj-minnesota-judges-complaint.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Den amerikanske økonomien trosser tyngdekraften. Her er alle de gode nyhetene.",
-        "kilde": "MarketWatch",
-        "tid": "17:07",
-        "lenke": "https://www.marketwatch.com/story/the-u-s-economy-is-defying-gravity-heres-all-the-good-news-8b58fc7b?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Bild AI (YC W25) ansetter en grunnleggende produktingeniør",
-        "kilde": "Hacker News",
-        "tid": "17:00",
-        "lenke": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Handelsminister Howard Lutnick rapporterte mer enn $ 250 millioner i inntekter i fjor",
@@ -277,13 +321,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Fuktig elektrisk tapet for innendørs energiinnhøsting og fuktighetsstyring",
-        "kilde": "Hacker News",
-        "tid": "15:54",
-        "lenke": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Regjeringen gir grønt lys til tømming av gruveavfall i Førdefjorden i tre år fremover",
         "kilde": "NRK Nyheter",
         "tid": "15:54",
@@ -312,20 +349,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Eli Lilly sier at nøye overvåket kombinasjonsovervektsregime øker vekttapet i midtstadiet av studien",
-        "kilde": "CNBC Top News",
-        "tid": "14:32",
-        "lenke": "https://www.cnbc.com/2026/09/30/eli-lilly-obesity-drug-amylin-tirzepatide-weight-loss-trial.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Slår alarm om investeringssvindel",
-        "kilde": "NRK Nyheter",
-        "tid": "14:27",
-        "lenke": "https://www.nrk.no/dokumentar/slar-alarm-om-investeringssvindel-1.18031826",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Grillet om City-sjokket: – Hva vi snakker om forblir mellom oss",
         "kilde": "NRK Nyheter",
         "tid": "14:26",
@@ -347,31 +370,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Turistane skvisar ut lokalbefolkninga – no vil ministeren ha eigne bebuarprisar",
-        "kilde": "NRK Nyheter",
-        "tid": "13:59",
-        "lenke": "https://www.nrk.no/nordland/lofoten-kan-fa-kanari-modellen-1.18040715",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Den siste makrell",
         "kilde": "E24",
         "tid": "12:54",
         "lenke": "https://e24.no/boers-og-finans/i/2pRlxx/den-siste-makrell?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Prisvekst på 3,4 prosent USA i august",
-        "kilde": "E24",
-        "tid": "12:30",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/M7Md2J/prisveksten-i-usa-falt-til-3-4-prosent-i-august-viser-sentralbankens-favorittmaal?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Sigarformann og Frp-donor frykter det verste: – Jeg har nesten gitt opp",
-        "kilde": "E24",
-        "tid": "11:36",
-        "lenke": "https://e24.no/naeringsliv/i/XMPypr/sigarformann-og-frp-donor-frykter-det-verste-jeg-har-nesten-gitt-opp?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
@@ -393,13 +395,6 @@
         "kilde": "BBC Business",
         "tid": "23:06",
         "lenke": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Byråer publiserer tilbakemeldingsbrev om løsningsplan for 15 bankorganisasjoner",
-        "kilde": "Federal Reserve",
-        "tid": "20:00",
-        "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
         "engelsk_kilde": true
       }
     ]
