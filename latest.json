@@ -1,68 +1,66 @@
 {
   "dato": "2026-09-30",
   "dato_norsk": "Onsdag 30. september 2026",
-  "generert_kl": "14:27",
+  "generert_kl": "17:45",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Feds foretrukne måler viste en kjerneinflasjon på 3,0% i august, mye lettere enn forventet",
+      "tittel": "Inside Man: Hvordan kinesiske spioner brukte løgner, kjærlighet og svik for å angripe Federal Reserve",
       "kilde": "CNBC Top News",
-      "tid": "13:40",
-      "lenke": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
+      "tid": "17:21",
+      "lenke": "https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "USAs inflasjon stiger, og holder presset på Fed",
+      "tittel": "Gull skal være en trygg havn når inflasjonen stiger. Så hvorfor fungerer det ikke slik nå?",
       "kilde": "MarketWatch",
-      "tid": "13:11",
-      "lenke": "https://www.marketwatch.com/story/inflation-rises-again-and-keeps-pressure-on-fed-f64d2ced?mod=mw_rss_topstories",
+      "tid": "16:51",
+      "lenke": "https://www.marketwatch.com/story/gold-is-supposed-to-be-a-safe-haven-when-inflation-surges-so-why-isnt-it-working-that-way-now-45cbb07b?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Federal Reserve Board fullfører endringer for å forbedre gjennomsiktigheten og offentlig ansvarlighet for sin stresstest og redusere volatiliteten i sine stresstestrelaterte kapitalkrav",
-      "kilde": "Federal Reserve",
-      "tid": "13:00",
-      "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
+      "tittel": "Trump spionerer på økonomiske gevinster i slagmarken — som en $ 54 milliarder Alaskan-rørledning — når midtveisvalgene nærmer seg",
+      "kilde": "MarketWatch",
+      "tid": "17:37",
+      "lenke": "https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Treasury lanserer studielånsstøttesenter som nye data viser 9,3 millioner låntakere i mislighold",
+      "kilde": "CNBC Top News",
+      "tid": "15:56",
+      "lenke": "https://www.cnbc.com/2026/09/30/student-loan-default-support-center.html",
       "engelsk_kilde": true
     },
     {
       "tittel": "Trumps siste globale tariffer står overfor en handelsrettsutfordring",
       "kilde": "CNBC Top News",
-      "tid": "14:04",
+      "tid": "17:33",
       "lenke": "https://www.cnbc.com/2026/09/30/trump-tariffs-trade-lawsuit.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Trumps møte med teknologiledere gjør AI-sikkerheten mer urolig enn noensinne",
-      "kilde": "CNBC Top News",
-      "tid": "13:54",
-      "lenke": "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
-    "NORGE": [
-      {
-        "tittel": "Norges Bank fortsetter å selge kroner i oktober",
-        "kilde": "E24",
-        "tid": "08:01",
-        "lenke": "https://e24.no/boers-og-finans/i/9pj6Od/norges-bank-skal-selge-kroner-for-176-millioner-daglig-i-oktober?utm_medium=rss",
-        "engelsk_kilde": false
-      }
-    ],
     "MAKRO": [
       {
-        "tittel": "Feds foretrukne måler viste en kjerneinflasjon på 3,0% i august, mye lettere enn forventet",
+        "tittel": "Inside Man: Hvordan kinesiske spioner brukte løgner, kjærlighet og svik for å angripe Federal Reserve",
         "kilde": "CNBC Top News",
-        "tid": "13:40",
-        "lenke": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
+        "tid": "17:21",
+        "lenke": "https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "USAs inflasjon stiger, og holder presset på Fed",
+        "tittel": "Gull skal være en trygg havn når inflasjonen stiger. Så hvorfor fungerer det ikke slik nå?",
         "kilde": "MarketWatch",
-        "tid": "13:11",
-        "lenke": "https://www.marketwatch.com/story/inflation-rises-again-and-keeps-pressure-on-fed-f64d2ced?mod=mw_rss_topstories",
+        "tid": "16:51",
+        "lenke": "https://www.marketwatch.com/story/gold-is-supposed-to-be-a-safe-haven-when-inflation-surges-so-why-isnt-it-working-that-way-now-45cbb07b?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Treasury lanserer studielånsstøttesenter som nye data viser 9,3 millioner låntakere i mislighold",
+        "kilde": "CNBC Top News",
+        "tid": "15:56",
+        "lenke": "https://www.cnbc.com/2026/09/30/student-loan-default-support-center.html",
         "engelsk_kilde": true
       },
       {
@@ -71,44 +69,37 @@
         "tid": "13:00",
         "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Inside Man: Hvordan kinesiske spioner brukte løgner, kjærlighet og svik for å angripe Federal Reserve",
-        "kilde": "CNBC Top News",
-        "tid": "10:55",
-        "lenke": "https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html",
-        "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "Oppgrader den stasjonære PC-en: Ubuntu 26.04.1 LTS er nå tilgjengelig",
-        "kilde": "Hacker News",
-        "tid": "13:36",
-        "lenke": "https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts",
+        "tittel": "Demokratene i Senatet senker forbudet mot \"tannløs\" aksjehandel, regningen for datasentre i siste akt før valgpausen",
+        "kilde": "CNBC Top News",
+        "tid": "17:44",
+        "lenke": "https://www.cnbc.com/2026/09/30/senate-stock-trading-ban-data-center-election.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Wall Street stiger fra start",
-        "kilde": "E24",
-        "tid": "13:30",
-        "lenke": "https://e24.no/boers-og-finans/i/pBJk21/wall-street-stiger-fra-start?utm_medium=rss",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Husholdningenes energiregninger forventes å se den største økningen på fire år",
         "kilde": "BBC Business",
-        "tid": "10:47",
+        "tid": "14:36",
         "lenke": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tek-hopp på Wall Street",
+        "kilde": "E24",
+        "tid": "13:30",
+        "lenke": "https://e24.no/boers-og-finans/i/pBJk21/wall-street-stiger-fra-start?utm_medium=rss",
+        "engelsk_kilde": false
       }
     ],
     "ENERGI_RAAVARER": [
       {
-        "tittel": "‘Jeg er redd for menneskelig dumhet’: Hvorfor denne toppøkonomen foretrekker amerikansk teknologi og gull fremfor obligasjoner",
+        "tittel": "Trump spionerer på økonomiske gevinster i slagmarken — som en $ 54 milliarder Alaskan-rørledning — når midtveisvalgene nærmer seg",
         "kilde": "MarketWatch",
-        "tid": "13:33",
-        "lenke": "https://www.marketwatch.com/story/im-afraid-of-human-stupidity-why-this-top-economist-prefers-u-s-tech-and-gold-over-bonds-30299219?mod=mw_rss_topstories",
+        "tid": "17:37",
+        "lenke": "https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -121,10 +112,24 @@
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Hvordan Amazons aksjer kan bekjempe AI-trusselen og sveve 46%",
+        "tittel": "La oss droppe Google (verb)",
+        "kilde": "Hacker News",
+        "tid": "17:18",
+        "lenke": "https://adam.farkas.pro/lets-ditch-google-verb/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Det kan hende at Wall Street sover på denne nettverksaksjen som er knyttet til Google og OpenAI",
         "kilde": "MarketWatch",
-        "tid": "13:24",
-        "lenke": "https://www.marketwatch.com/story/how-amazons-stock-can-fight-off-the-ai-threat-and-soar-46-5af77a03?mod=mw_rss_topstories",
+        "tid": "16:29",
+        "lenke": "https://www.marketwatch.com/story/wall-street-may-be-sleeping-on-this-networking-stock-tied-to-google-and-openai-1cb9741f?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "FTC undersøker OpenAI, Anthropic og andre AI-selskaper over produktrisiko",
+        "kilde": "CNBC Top News",
+        "tid": "15:54",
+        "lenke": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
         "engelsk_kilde": true
       }
     ],
@@ -132,16 +137,23 @@
       {
         "tittel": "Trumps siste globale tariffer står overfor en handelsrettsutfordring",
         "kilde": "CNBC Top News",
-        "tid": "14:04",
+        "tid": "17:33",
         "lenke": "https://www.cnbc.com/2026/09/30/trump-tariffs-trade-lawsuit.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Trumps møte med teknologiledere gjør AI-sikkerheten mer urolig enn noensinne",
+        "tittel": "Trump-administrasjonen begynner å sende $ 500 Obamacare-refusjonssjekker — som står til fordel",
         "kilde": "CNBC Top News",
-        "tid": "13:54",
-        "lenke": "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html",
+        "tid": "16:19",
+        "lenke": "https://www.cnbc.com/2026/09/30/obamacare-aca-refund-checks.html",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Britisk statsminister: Sterke indikasjoner på at Iran var involvert i hendelsen ved Fairford flybase",
+        "kilde": "NRK Nyheter",
+        "tid": "16:03",
+        "lenke": "https://www.nrk.no/nyheter/britisk-statsminister_-sterke-indikasjoner-pa-at-iran-var-involvert-i-hendelsen-ved-fairford-flybase-1.18041326",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Tre takeaways fra Trumps \"Super Intelligence\" -toppmøte",
@@ -153,18 +165,172 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "Kalshi, Polymarket handelsvolumer på noen produkter reiser spørsmål midt i massiv vekst",
-        "kilde": "CNBC Top News",
-        "tid": "14:18",
-        "lenke": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+        "tittel": "Hvorfor ‘Halloween-indikatoren’ ikke fungerer — og hva smarte investorer gjør i stedet",
+        "kilde": "MarketWatch",
+        "tid": "17:40",
+        "lenke": "https://www.marketwatch.com/story/why-the-halloween-indicator-isnt-working-and-what-smart-investors-are-doing-instead-6d758662?mod=mw_rss_topstories",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Disse obligasjonsstrategiene kan hjelpe deg med å få en trygg 5% avkastning på pengene dine",
+        "kilde": "MarketWatch",
+        "tid": "17:38",
+        "lenke": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Lansering HN: Magnitude (YC S25) – Selvoptimaliserende inferensmotor for agenter",
+        "kilde": "Hacker News",
+        "tid": "17:37",
+        "lenke": "https://github.com/magnitudedev/magnitude",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Jeg har $ 400 000 i egenkapital’: Jeg er 80. Skal jeg selge huset mitt på grunn av farlige trapper — eller bruke tusenvis på renovering?",
+        "kilde": "MarketWatch",
+        "tid": "17:31",
+        "lenke": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nordic Mining-sjefen slutter på dagen",
+        "kilde": "E24",
+        "tid": "17:30",
+        "lenke": "https://e24.no/boers-og-finans/i/6qrwj3/nordic-mining-sjefen-slutter-paa-dagen?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Forplikte beskrivelse som et tenkningsverktøy",
+        "kilde": "Hacker News",
+        "tid": "17:18",
+        "lenke": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ny million­innsprøytning for Bellona",
+        "kilde": "E24",
+        "tid": "17:16",
+        "lenke": "https://e24.no/norsk-oekonomi/i/Gxzo2q/ny-millioninnsproeytning-for-bellona?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Fed-vakthund finner renoveringsfeil, men ingen grunnlag for kriminell henvisning",
+        "kilde": "CNBC Top News",
+        "tid": "17:15",
+        "lenke": "https://www.cnbc.com/2026/09/30/fed-inspector-general-report-powell-trump.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tidligere NFL-spillere har nesten fire ganger så stor risiko for å dø av hjerneskade. Er det på tide å boikotte fotball?",
+        "kilde": "MarketWatch",
+        "tid": "17:15",
+        "lenke": "https://www.marketwatch.com/story/former-nfl-players-are-nearly-four-times-as-likely-to-die-with-brain-damage-is-it-time-to-boycott-football-ba886e44?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Justisdepartementet anklager Minnesota føderale dommere for uredelighet for NY Times innvandringsintervjuer",
+        "kilde": "CNBC Top News",
+        "tid": "17:09",
+        "lenke": "https://www.cnbc.com/2026/09/30/doj-minnesota-judges-complaint.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Den amerikanske økonomien trosser tyngdekraften. Her er alle de gode nyhetene.",
+        "kilde": "MarketWatch",
+        "tid": "17:07",
+        "lenke": "https://www.marketwatch.com/story/the-u-s-economy-is-defying-gravity-heres-all-the-good-news-8b58fc7b?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bild AI (YC W25) ansetter en grunnleggende produktingeniør",
+        "kilde": "Hacker News",
+        "tid": "17:00",
+        "lenke": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Handelsminister Howard Lutnick rapporterte mer enn $ 250 millioner i inntekter i fjor",
+        "kilde": "CNBC Top News",
+        "tid": "16:30",
+        "lenke": "https://www.cnbc.com/2026/09/30/howard-lutnick-commerce-secretary-disclosure-cantor-fitzgerald.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Denne dommen gjør alle til tapere",
+        "kilde": "NRK Nyheter",
+        "tid": "16:28",
+        "lenke": "https://www.nrk.no/sport/haugstad-kommentar_-denne-dommen-gjor-alle-til-tapere-1.18041346",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Nordic Mining får dumpe-tillatelse",
+        "kilde": "E24",
+        "tid": "16:19",
+        "lenke": "https://e24.no/naeringsliv/i/Gxzk2m/nordic-mining-faar-dumpe-tillatelse?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Regjeringa gir grønt lys til tømming av gruveavfall i Førdefjorden i tre år",
+        "kilde": "NRK Nyheter",
+        "tid": "15:58",
+        "lenke": "https://www.nrk.no/vestland/regjeringa-gir-gront-lys-til-tomming-av-gruveavfall-i-fordefjorden-i-tre-ar-1.18041425",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Fuktig elektrisk tapet for innendørs energiinnhøsting og fuktighetsstyring",
+        "kilde": "Hacker News",
+        "tid": "15:54",
+        "lenke": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Regjeringen gir grønt lys til tømming av gruveavfall i Førdefjorden i tre år fremover",
+        "kilde": "NRK Nyheter",
+        "tid": "15:54",
+        "lenke": "https://www.nrk.no/vestland/regjeringen-gir-gront-lys-til-tomming-av-gruveavfall-i-fordefjorden-i-tre-ar-fremover-1.18041420",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Greggs stenger fire fabrikker og kutter 740 arbeidsplasser",
+        "kilde": "BBC Business",
+        "tid": "15:03",
+        "lenke": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Reagerer etter «Debatten»: – Urovekkende",
+        "kilde": "E24",
+        "tid": "15:01",
+        "lenke": "https://e24.no/norsk-oekonomi/i/xrayQV/reagerer-etter-debatten-urovekkende?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Børsrakettene som fortsatt ser billige ut",
+        "kilde": "E24",
+        "tid": "15:00",
+        "lenke": "https://e24.no/boers-og-finans/i/7pXj3V/boersrakettene-som-fortsatt-ser-billige-ut?utm_medium=rss",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Eli Lilly sier at nøye overvåket kombinasjonsovervektsregime øker vekttapet i midtstadiet av studien",
         "kilde": "CNBC Top News",
-        "tid": "14:15",
+        "tid": "14:32",
         "lenke": "https://www.cnbc.com/2026/09/30/eli-lilly-obesity-drug-amylin-tirzepatide-weight-loss-trial.html",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Slår alarm om investeringssvindel",
+        "kilde": "NRK Nyheter",
+        "tid": "14:27",
+        "lenke": "https://www.nrk.no/dokumentar/slar-alarm-om-investeringssvindel-1.18031826",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Grillet om City-sjokket: – Hva vi snakker om forblir mellom oss",
+        "kilde": "NRK Nyheter",
+        "tid": "14:26",
+        "lenke": "https://www.nrk.no/sport/stale-solbakken-og-kristoffer-ajer-moter-pressen-1.18041341",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Industritopp avviser rolleblanding etter rapport-lekkasje",
@@ -174,31 +340,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Amerikanerne går tilbake til utgiftene sine. Økonomien kan øke igjen.",
-        "kilde": "MarketWatch",
-        "tid": "14:08",
-        "lenke": "https://www.marketwatch.com/story/americans-get-back-to-their-spending-ways-economy-might-be-speeding-up-again-7884c424?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Den største feilen nybegynnere gjør med reisekort, ifølge The Points Guy",
-        "kilde": "MarketWatch",
-        "tid": "14:03",
-        "lenke": "https://www.marketwatch.com/story/the-no-1-mistake-beginners-make-with-travel-cards-according-to-the-points-guy-3502e859?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Regulering av kunstig intelligens «ikke riktig sted å starte», sier Bailey",
         "kilde": "BBC Business",
         "tid": "14:00",
         "lenke": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Jeg vil heller være på en strand på Bali’: Mannen min misliker min nettoverdi på $ 8 millioner. Skal jeg betale for pensjonen hans?",
-        "kilde": "MarketWatch",
-        "tid": "14:00",
-        "lenke": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -207,62 +352,6 @@
         "tid": "13:59",
         "lenke": "https://www.nrk.no/nordland/lofoten-kan-fa-kanari-modellen-1.18040715",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "\"Superintelligens er et nasjonalt sikkerhetsproblem,\" sier Jay Clayton; unngår AI \"tsar\" -spørsmål",
-        "kilde": "CNBC Top News",
-        "tid": "13:59",
-        "lenke": "https://www.cnbc.com/2026/09/30/ai-national-security-jay-clayton.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Stjernetrener satt ut av Norges forvandling: – Hva skjedde der?",
-        "kilde": "NRK Nyheter",
-        "tid": "13:53",
-        "lenke": "https://www.nrk.no/sport/wales-trener-craig-bellamy-hyller-norge-1.18040880",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "SDF vs. MSDF vs. Slug: GPU-tekstgjengivelse",
-        "kilde": "Hacker News",
-        "tid": "13:50",
-        "lenke": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Store bilrivaler slår seg sammen for å løse den største veisperringen for elbiler: Pålitelig lading",
-        "kilde": "MarketWatch",
-        "tid": "13:37",
-        "lenke": "https://www.marketwatch.com/story/major-car-rivals-are-teaming-up-to-solve-the-biggest-ev-roadblock-reliable-charging-a11b70c0?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Tre menn pågrepet etter skyting mot bolig på Jessheim",
-        "kilde": "NRK Nyheter",
-        "tid": "13:32",
-        "lenke": "https://www.nrk.no/nyheter/tre-menn-pagrepet-etter-skyting-mot-bolig-pa-jessheim-1.18041140",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "‘Jeg selger aldri’: Jeg er 47 og kjøper bitcoin for hver dollar jeg tjener. Er jeg gal?",
-        "kilde": "MarketWatch",
-        "tid": "13:30",
-        "lenke": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Årets varmaste dag i Bergen",
-        "kilde": "NRK Nyheter",
-        "tid": "13:26",
-        "lenke": "https://www.nrk.no/vestland/siste-dag-i-september-blei-arets-varmaste-dag-i-bergen-1.18041239",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Ken Griffin lover $ 3 milliarder til Carnegie Mellon University i \"historisk\" gave",
-        "kilde": "CNBC Top News",
-        "tid": "13:15",
-        "lenke": "https://www.cnbc.com/2026/09/30/ken-griffin-pledges-3-billion-to-carnegie-mellon-university.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Den siste makrell",
@@ -279,48 +368,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Private jobber økte med 90 000 i september, bedre enn forventet, rapporterer ADP",
-        "kilde": "CNBC Top News",
-        "tid": "12:24",
-        "lenke": "https://www.cnbc.com/2026/09/30/private-sector-jobs-rose-by-90000-in-september-better-than-expected-adp-reports.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Martine (1) døde for 20 år siden: Ber om full frifinnelse",
-        "kilde": "NRK Nyheter",
-        "tid": "12:10",
-        "lenke": "https://www.nrk.no/buskerud/martine-_1_-dode-for-20-ar-siden_-ber-om-full-frifinnelse-av-tidligere-dagmamma-1.18040741",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Helomvending om Nicolas (6): – Det har vært en ekstrem kamp",
-        "kilde": "NRK Nyheter",
-        "tid": "12:07",
-        "lenke": "https://www.nrk.no/vestfoldogtelemark/kommunen-har-snudd-i-saken-om-nicolas-_6__-sylvi-listhaug-og-frp-krever-lovendring-1.18038815",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Redningsaksjon på Voss: Gjort funn av endå ein person",
-        "kilde": "NRK Nyheter",
-        "tid": "12:04",
-        "lenke": "https://www.nrk.no/vestland/redningsaksjon-pa-voss_-leiter-etter-ein-person-i-vatnet-1.18041096",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Tennisstjernen Jessica Pegula sier at det kan være i hennes fremtid å hjelpe familien med å drive Buffalo Bills",
-        "kilde": "CNBC Top News",
-        "tid": "12:00",
-        "lenke": "https://www.cnbc.com/2026/09/30/tennis-star-jessica-pegula-on-buffalo-bills-sabres-family-ownership.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Greggs stenger fire fabrikker og kutter 740 arbeidsplasser",
-        "kilde": "BBC Business",
-        "tid": "11:47",
-        "lenke": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Sigarformann og Frp-donor frykter det verste: – Jeg har nesten gitt opp",
         "kilde": "E24",
         "tid": "11:36",
@@ -328,66 +375,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "NVE sa nei – regjeringen vil likevel gi landets største vindkraft­verk ny sjanse",
-        "kilde": "NRK Nyheter",
-        "tid": "10:58",
-        "lenke": "https://www.nrk.no/sapmi/regjeringen-overprover-fagetaten_-apner-for-omstridt-vindkraftverk-i-finnmark-1.18040981",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "De fleste datasentre nekter å si hvor mye vann, strøm de bruker",
-        "kilde": "Hacker News",
-        "tid": "10:49",
-        "lenke": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Haaland-selskap sitter på 250 mill.",
-        "kilde": "E24",
-        "tid": "10:34",
-        "lenke": "https://e24.no/naeringsliv/i/wrMb3M/haaland-selskap-sitter-paa-250-mill?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Pi.dev: Du sa nei MCP",
-        "kilde": "Hacker News",
-        "tid": "09:55",
-        "lenke": "https://earendil.com/posts/you-said-no-mcp/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nekter luksusoppgradering av Norges dyreste bolig",
-        "kilde": "E24",
-        "tid": "09:39",
-        "lenke": "https://e24.no/boers-og-finans/i/7pXBzK/katharina-andresen-faar-ikke-ha-flytebrygge-eller-bygge-trimrom-eller-hjemmekino?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Støre Epstein-grilles: – Ingen dekning for å bruke ord som ukultur",
-        "kilde": "E24",
-        "tid": "09:20",
-        "lenke": "https://e24.no/norsk-oekonomi/i/ln7eX3/hoeringen-om-epstein-saken-dette-er-hva-du-trenger-aa-vite?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Vil bruke 650 millioner på ny rakettrampe på Andøya",
-        "kilde": "E24",
-        "tid": "09:17",
-        "lenke": "https://e24.no/naeringsliv/i/n150QB/vil-bruke-650-millioner-paa-ny-rakettrampe-paa-andoeya?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Tviler ansporer meg på: hvorfor flere kvinner tar opp gjør-det-selv",
         "kilde": "BBC Business",
         "tid": "07:27",
         "lenke": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "September 2026: Verden i dag, sett av en polsk fyr",
-        "kilde": "Hacker News",
-        "tid": "07:12",
-        "lenke": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
         "engelsk_kilde": true
       },
       {
