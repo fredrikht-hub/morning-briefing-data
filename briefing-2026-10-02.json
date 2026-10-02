@@ -1,47 +1,54 @@
 {
   "dato": "2026-10-02",
   "dato_norsk": "Fredag 2. oktober 2026",
-  "generert_kl": "10:24",
+  "generert_kl": "14:20",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "USA presser Europa til å frigjøre dieselreserver mens Trump truer med eksportforbud",
-      "kilde": "BBC Business",
-      "tid": "08:54",
-      "lenke": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+      "tittel": "Arbeidsmarkedet vaklet i september da jobbene økte med bare 29 000, arbeidsledigheten økte til 4,2%",
+      "kilde": "CNBC Top News",
+      "tid": "13:45",
+      "lenke": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Amazon øker leieprisene på brikker og flytter angivelig Nvidia-prosessorer fra balansen",
-      "kilde": "MarketWatch",
-      "tid": "09:07",
-      "lenke": "https://www.marketwatch.com/story/amazon-is-hiking-chip-rental-prices-and-reportedly-moving-nvidia-processors-off-the-balance-sheet-b205a0b0?mod=mw_rss_topstories",
+      "tittel": "Treasury Sec. Bessent, IRS slår ned på ETF-strategien de velstående bruker for å unngå kapitalgevinstskatt",
+      "kilde": "CNBC Top News",
+      "tid": "13:48",
+      "lenke": "https://www.cnbc.com/2026/10/02/treasury-irs-capital-gains-income-tax-section-351-warning.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Aker BP varsler nedbemanning",
+      "tittel": "KI har lært seg å shoppe – i Norge også!",
       "kilde": "E24",
-      "tid": "10:03",
-      "lenke": "https://e24.no/boers-og-finans/i/gd7a0B/aker-bp-sjefen-varsler-nedbemanning-blir-en-betydelig-reduksjon-sier-han-til-dn?utm_medium=rss",
+      "tid": "12:19",
+      "lenke": "https://e24.no/teknologi/i/mKR0y0/ki-har-laert-seg-aa-shoppe-i-norge-ogsaa?utm_medium=rss",
       "engelsk_kilde": false
     },
     {
-      "tittel": "Slakter lønnsoppgjør etter milliardoverskudd: – Fryktelig skuffet",
-      "kilde": "E24",
-      "tid": "08:41",
-      "lenke": "https://e24.no/hav-og-sjoemat/i/QJK5L8/slakter-loennsoppgjoer-etter-milliardoverskudd-fryktelig-skuffet?utm_medium=rss",
-      "engelsk_kilde": false
+      "tittel": "Nike-aksjer faller etter svake inntektsutsikter og permitteringsplaner på gang",
+      "kilde": "CNBC Top News",
+      "tid": "13:43",
+      "lenke": "https://www.cnbc.com/2026/10/02/nike-nke-stock-q1-earnings-layoffs.html",
+      "engelsk_kilde": true
     },
     {
-      "tittel": "Oljefondet investerer 13 milliarder kroner i fornybarfond",
-      "kilde": "E24",
-      "tid": "08:18",
-      "lenke": "https://e24.no/boers-og-finans/i/d7dXG1/oljefondet-investerer-13-milliarder-kroner-i-fornybarfond?utm_medium=rss",
-      "engelsk_kilde": false
+      "tittel": "Hvordan kunstig intelligens omdefinerer Wall Street-jobber — og øker etterspørselen etter denne nye \"hotteste ferdigheten\" med 1 721%",
+      "kilde": "CNBC Top News",
+      "tid": "12:24",
+      "lenke": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+      "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
+      {
+        "tittel": "KI har lært seg å shoppe – i Norge også!",
+        "kilde": "E24",
+        "tid": "12:19",
+        "lenke": "https://e24.no/teknologi/i/mKR0y0/ki-har-laert-seg-aa-shoppe-i-norge-ogsaa?utm_medium=rss",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Aker BP varsler nedbemanning",
         "kilde": "E24",
@@ -55,130 +62,254 @@
         "tid": "08:41",
         "lenke": "https://e24.no/hav-og-sjoemat/i/QJK5L8/slakter-loennsoppgjoer-etter-milliardoverskudd-fryktelig-skuffet?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Oljefondet investerer 13 milliarder kroner i fornybarfond",
-        "kilde": "E24",
-        "tid": "08:18",
-        "lenke": "https://e24.no/boers-og-finans/i/d7dXG1/oljefondet-investerer-13-milliarder-kroner-i-fornybarfond?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Tankaksjer stiger på positiv Oslo Børs",
-        "kilde": "E24",
-        "tid": "07:00",
-        "lenke": "https://e24.no/boers-og-finans/i/77lGBv/oppgang-paa-oslo-boers?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ],
     "MAKRO": [
       {
-        "tittel": "Rapporten om arbeidsplasser i september vil bli offentliggjort fredag. Her er hva du kan forvente",
+        "tittel": "Treasury Sec. Bessent, IRS slår ned på ETF-strategien de velstående bruker for å unngå kapitalgevinstskatt",
         "kilde": "CNBC Top News",
-        "tid": "18:55",
-        "lenke": "https://www.cnbc.com/2026/10/01/the-september-jobs-report-will-be-released-friday-heres-what-to-expect.html",
+        "tid": "13:48",
+        "lenke": "https://www.cnbc.com/2026/10/02/treasury-irs-capital-gains-income-tax-section-351-warning.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Arbeidsmarkedet vaklet i september da jobbene økte med bare 29 000, arbeidsledigheten økte til 4,2%",
+        "kilde": "CNBC Top News",
+        "tid": "13:45",
+        "lenke": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
         "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "Nike-aksjer stuper 10% etter svake inntektsutsikter og permitteringsplaner på gang",
+        "tittel": "Nike-aksjer faller etter svake inntektsutsikter og permitteringsplaner på gang",
         "kilde": "CNBC Top News",
-        "tid": "10:11",
+        "tid": "13:43",
         "lenke": "https://www.cnbc.com/2026/10/02/nike-nke-stock-q1-earnings-layoffs.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bredt Wall Street-hopp etter jobbtall",
+        "kilde": "E24",
+        "tid": "13:31",
+        "lenke": "https://e24.no/boers-og-finans/i/mKR5zl/bredt-wall-street-hopp-etter-jobbtall?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Tre grunner til at dette Wall Street-markedsskapende kraftsenteret sier at investorer bør laste på aksjer akkurat nå",
+        "kilde": "MarketWatch",
+        "tid": "13:30",
+        "lenke": "https://www.marketwatch.com/story/three-reasons-why-this-wall-street-market-making-powerhouse-says-investors-should-reload-on-stocks-now-8e19ecce?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Teslas elbilsalg slo Wall Streets forventninger igjen, og aksjen hopper",
+        "kilde": "MarketWatch",
+        "tid": "13:30",
+        "lenke": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvorfor Western Digital og Seagate opplever store fall i aksjene i dag",
+        "kilde": "MarketWatch",
+        "tid": "12:58",
+        "lenke": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nikes aksjekurs for sitt verste år noensinne når selskapets problemer øker",
+        "kilde": "MarketWatch",
+        "tid": "12:50",
+        "lenke": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
         "tittel": "Hvordan kunstig intelligens omdefinerer Wall Street-jobber — og øker etterspørselen etter denne nye \"hotteste ferdigheten\" med 1 721%",
         "kilde": "CNBC Top News",
-        "tid": "10:00",
+        "tid": "12:24",
         "lenke": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Her er hvem som blir med i S&P 500 i indeksens siste shakeup",
-        "kilde": "MarketWatch",
-        "tid": "00:14",
-        "lenke": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      }
-    ],
-    "ENERGI_RAAVARER": [
-      {
-        "tittel": "Oljeprisen faller over 3% på rapport om potensiell diesel, råoljeutslipp; Brent tilbake under $ 100",
-        "kilde": "CNBC Top News",
-        "tid": "09:34",
-        "lenke": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vedtok akuttplan for strøm: – Dypt alvorlig",
-        "kilde": "E24",
-        "tid": "04:22",
-        "lenke": "https://e24.no/energi-og-klima/i/gdaW3J/vedtok-akuttplan-for-stroem-dypt-alvorlig?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Statsministeren advarte om at oljefeltet Rosebank kan bryte sanksjonene på Vestbredden",
+        "tittel": "Dieselprisen i Storbritannia når £ 2 per liter ettersom USA ber Europa om å frigjøre flere aksjer",
         "kilde": "BBC Business",
-        "tid": "18:38",
-        "lenke": "https://www.bbc.co.uk/news/articles/cmrl6lz454lgo?at_medium=RSS&at_campaign=rss",
+        "tid": "11:17",
+        "lenke": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Amazon øker leieprisene på brikker og flytter angivelig Nvidia-prosessorer fra balansen",
-        "kilde": "MarketWatch",
-        "tid": "09:07",
-        "lenke": "https://www.marketwatch.com/story/amazon-is-hiking-chip-rental-prices-and-reportedly-moving-nvidia-processors-off-the-balance-sheet-b205a0b0?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "OpenAI fyrer arbeidere for \"feilhåndtering av sensitiv informasjon\"",
-        "kilde": "BBC Business",
-        "tid": "08:20",
-        "lenke": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+        "tittel": "Tesla rapporterer 486.532 kjøretøyleveranser for tredje kvartal, toppet forventningene",
+        "kilde": "CNBC Top News",
+        "tid": "13:20",
+        "lenke": "https://www.cnbc.com/2026/10/02/tesla-tsla-q3-2026-vehicle-delivery-production.html",
         "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
-      {
-        "tittel": "USA presser Europa til å frigjøre dieselreserver mens Trump truer med eksportforbud",
-        "kilde": "BBC Business",
-        "tid": "08:54",
-        "lenke": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "USA sender tredje hangarskipgruppe til Midtøsten da Trump advarer om nye Iran-angrep",
-        "kilde": "CNBC Top News",
-        "tid": "06:51",
-        "lenke": "https://www.cnbc.com/2026/10/02/us-iran-war-trump-hormuz-.html",
-        "engelsk_kilde": true
-      },
       {
         "tittel": "En Brexit-reversering er på bordet 10 år etter avstemningen som forandret Storbritannia. Her er hva som står på spill",
         "kilde": "CNBC Top News",
         "tid": "05:00",
         "lenke": "https://www.cnbc.com/2026/10/02/brexit-uk-rejoin-eu-referendum.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trump kunne målrette mot tre Fed-guvernører. Det kan være vanskeligere enn det ser ut til å være å fjerne dem",
-        "kilde": "CNBC Top News",
-        "tid": "21:14",
-        "lenke": "https://www.cnbc.com/2026/10/01/trump-fed-powell-lisa-cook-michael-barr-removal.html",
-        "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
       {
+        "tittel": "Slik får du opp farten i organisasjonen",
+        "kilde": "E24",
+        "tid": "14:09",
+        "lenke": "https://e24.no/karriere-og-ledelse/i/Arja4n/slik-faar-du-opp-farten-i-organisasjonen?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Ford avverger Hyundai for å beholde nr. 3 USAs salgsposisjon i tredje kvartal",
+        "kilde": "CNBC Top News",
+        "tid": "14:06",
+        "lenke": "https://www.cnbc.com/2026/10/02/ford-q3-sales.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "David Ellison sier kombinerte Paramount og Warner Bros. Oppdagelsen vil få navnet Skydance",
+        "kilde": "CNBC Top News",
+        "tid": "14:05",
+        "lenke": "https://www.cnbc.com/2026/10/02/paramount-warner-bros-discovery-skydance.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "\"Jeg vil ikke dø på salgsgulvet\": Jeg er 67 år og tjener $ 19,50 i timen i en stor butikk. Når kan jeg endelig pensjonere meg?",
+        "kilde": "MarketWatch",
+        "tid": "14:00",
+        "lenke": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ekspert: – USA prøver å skru tiden tilbake til kolonitiden",
+        "kilde": "NRK Nyheter",
+        "tid": "13:56",
+        "lenke": "https://www.nrk.no/urix/kampen-om-latin-amerika_-_-usa-prover-a-skru-klokka-200-ar-tilbake-til-kolonitida-1.18031777",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Det amerikanske arbeidsmarkedet ser en kraftig nedgang i september",
+        "kilde": "BBC Business",
+        "tid": "13:56",
+        "lenke": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ikke la deg lure - LLM-er resonnerer ikke",
+        "kilde": "Hacker News",
+        "tid": "13:45",
+        "lenke": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Kona mi begynte aldri å jobbe igjen etter å ha oppdratt barna våre. Må jeg dele min pensjonssparing 50/50?",
         "kilde": "MarketWatch",
-        "tid": "10:15",
+        "tid": "13:45",
         "lenke": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvorfor britiske dieselpriser har overskredet £ 2 per liter-merket",
+        "kilde": "BBC Business",
+        "tid": "13:38",
+        "lenke": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Jeg har $ 400 000 i egenkapital’: Jeg er 80. Skal jeg selge huset mitt på grunn av farlige trapper — eller bruke tusenvis på renovering?",
+        "kilde": "MarketWatch",
+        "tid": "13:30",
+        "lenke": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Legenden om von Neumann [pdf]",
+        "kilde": "Hacker News",
+        "tid": "13:18",
+        "lenke": "https://gwern.net/doc/math/1973-halmos.pdf",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg er 71 og jobber fortsatt. Jeg tjener $ 108 000 i året. Gjør jeg det rette?",
+        "kilde": "MarketWatch",
+        "tid": "13:00",
+        "lenke": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Krever at milliardkonsesjon inndras: – Slutt å gi Røkke særfordeler",
+        "kilde": "E24",
+        "tid": "12:48",
+        "lenke": "https://e24.no/hav-og-sjoemat/i/gkbKoB/krever-at-milliardkonsesjon-inndras-slutt-aa-gi-roekke-saerfordeler?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Rivian topper leveringsforventningene for tredje kvartal, bekrefter veiledningen for 2026",
+        "kilde": "CNBC Top News",
+        "tid": "12:38",
+        "lenke": "https://www.cnbc.com/2026/10/02/q3-vehicle-deliveries.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Svakere jobbvekst enn ventet i USA",
+        "kilde": "E24",
+        "tid": "12:30",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/0BE1A6/svakere-jobbvekst-enn-ventet-i-usa-29-000-nye-jobber-i-september?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "- Omvendt av det man kanskje tror",
+        "kilde": "E24",
+        "tid": "12:12",
+        "lenke": "https://e24.no/boers-og-finans/i/BMVQ3g/slik-vil-ai-agenter-flytte-pengene-fra-giganter-til-deg?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Et voldelig klasseromsopprør er i ferd med å bli Frankrikes neste store krise",
+        "kilde": "CNBC Top News",
+        "tid": "12:10",
+        "lenke": "https://www.cnbc.com/2026/10/02/france-student-protests-budget-debt.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Minneansvarlige forventer at RAM-mangel vil fortsette gjennom 2028",
+        "kilde": "Hacker News",
+        "tid": "11:58",
+        "lenke": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Politiet: Melding om eksplosjon på Økern",
+        "kilde": "NRK Nyheter",
+        "tid": "11:51",
+        "lenke": "https://www.nrk.no/stor-oslo/politiet_-melding-om-eksplosjon-pa-okern-1.18043713",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Japansk selskap vil kjøpe Akva Group",
+        "kilde": "E24",
+        "tid": "10:48",
+        "lenke": "https://e24.no/norsk-oekonomi/i/QgoRa4/japansk-selskap-vil-kjoepe-akva-group-for-5-9-milliarder-kroner?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Ikke mer frokostblanding i enden av midtgangen? Nye regler i Skottlands supermarkeder",
+        "kilde": "BBC Business",
+        "tid": "10:47",
+        "lenke": "https://www.bbc.co.uk/news/articles/cmwyzye21463o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Sandnesposten: Person omkom etter buskbrann",
+        "kilde": "NRK Nyheter",
+        "tid": "10:41",
+        "lenke": "https://www.nrk.no/rogaland/sandnesposten_-person-omkom-etter-buskbrann-1.18043590",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Hvis én fisk slipper unna, kan alt være bortkastet",
@@ -188,32 +319,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "YouTubes sportsstrategi retter seg mot flere direktesendte rettigheter - men ikke nødvendigvis hendelser",
-        "kilde": "CNBC Top News",
-        "tid": "10:00",
-        "lenke": "https://www.cnbc.com/2026/10/02/youtube-sports-strategy-targets-more-live-rights-but-not-necessarily-events.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Demokratisk Texas AG-kandidat lover å undersøke Deloittes rolle i forsinkelse av valgregistrering",
-        "kilde": "CNBC Top News",
-        "tid": "10:00",
-        "lenke": "https://www.cnbc.com/2026/10/02/texas-ag-deloitte-voter-registration.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Kvinne ble siktet for å ha servert politiet gammel kylling – nå er saken henlagt",
         "kilde": "NRK Nyheter",
         "tid": "09:39",
         "lenke": "https://www.nrk.no/nyheter/kvinne-ble-siktet-for-a-ha-servert-politiet-gammel-kylling-_-na-er-saken-henlagt--1.18043483",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "En annen viral AI-dommedagsrapport hevder at «det er over». Hvorfor boligpriser kan bli en hit når skjermbaserte jobber forsvinner.",
-        "kilde": "MarketWatch",
-        "tid": "09:25",
-        "lenke": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Ukens Investtech: Kjøp disse aksjene før rekylen",
@@ -223,20 +333,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "\"Jeg vil ikke dø på salgsgulvet\": Jeg er 67 år og tjener $ 19,50 i timen i en stor butikk. Når kan jeg endelig pensjonere meg?",
-        "kilde": "MarketWatch",
-        "tid": "09:15",
-        "lenke": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Den berømte tidligere Boston Celtics-kommentatoren lister opp solfylte toppleiligheter i Boston for $ 1,5 millioner",
-        "kilde": "MarketWatch",
-        "tid": "08:59",
-        "lenke": "https://www.marketwatch.com/story/famed-former-boston-celtics-commentator-lists-sunny-boston-penthouse-for-1-5-million-dedfb48a?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Irene (61) håpte på ny sjanse – men ekspertane vender tommelen ned",
         "kilde": "NRK Nyheter",
         "tid": "08:56",
@@ -244,7 +340,7 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Solbakken etter direkte-avsløring: – Det er ikke sikkert jeg skulle gjort",
+        "tittel": "Solbakken etter direkteavsløring: – Det er ikke sikkert jeg skulle gjort",
         "kilde": "NRK Nyheter",
         "tid": "08:51",
         "lenke": "https://www.nrk.no/sport/solbakken-etter-direkte-avsloring___-det-er-ikke-sikkert-jeg-skulle-gjort-1.18043212",
@@ -265,73 +361,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Rysta over Haalands kroppsspråk: – Eg har sjeldan sett han så mør",
-        "kilde": "NRK Nyheter",
-        "tid": "07:27",
-        "lenke": "https://www.nrk.no/sport/nasjonsligaen_-ekspertar-reagerte-pa-sliten-erling-braut-haaland-i-wales-noreg-kampen-1.18042966",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Dømt etter dødsulykke: – Kameraten er borte",
-        "kilde": "NRK Nyheter",
-        "tid": "07:19",
-        "lenke": "https://www.nrk.no/sorlandet/dodsulykke-med-bat_-na-er-batforeren-domt-1.18043211",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Opptrapping av togstreiken: 434 togavganger rammes",
-        "kilde": "NRK Nyheter",
-        "tid": "07:15",
-        "lenke": "https://www.nrk.no/stor-oslo/opptrapping-av-togstreiken_-disse-avgangene-rammes-mandag-og-tirsdag-1.18043165",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Smykkegiganten Pandora gir seg i kast med laboratoriedyrkede diamanter og håper at en ny Vietnam-fabrikk hjelper veksten i Asia",
-        "kilde": "CNBC Top News",
-        "tid": "06:27",
-        "lenke": "https://www.cnbc.com/2026/10/02/-jewelry-giant-pandora-vietnam-asia-growth-.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Shimano sykkelmuseum anmeldelse",
         "kilde": "Hacker News",
         "tid": "05:12",
         "lenke": "https://inrng.com/2026/10/shimano-bicycle-museum/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "«Historisk» marked: Disse tankaksjene har doblet seg",
-        "kilde": "E24",
-        "tid": "04:23",
-        "lenke": "https://e24.no/boers-og-finans/i/rrBLye/historisk-marked-disse-tankaksjene-har-doblet-seg?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "DeepSeek Harness stasjonær PC for macOS og Windows",
-        "kilde": "Hacker News",
-        "tid": "03:11",
-        "lenke": "https://www.deepseek.com/en/harness/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Slik fungerer Singapores statlige datatjeneste",
-        "kilde": "Hacker News",
-        "tid": "01:56",
-        "lenke": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Jeg har $ 400 000 i egenkapital’: Jeg er 80. Skal jeg selge huset mitt på grunn av farlige trapper — eller bruke tusenvis på renovering?",
-        "kilde": "MarketWatch",
-        "tid": "01:00",
-        "lenke": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg er 71 og jobber fortsatt. Jeg tjener $ 108 000 i året. Gjør jeg det rette?",
-        "kilde": "MarketWatch",
-        "tid": "00:30",
-        "lenke": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -349,13 +382,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Sommerfugler bruker optiske illusjoner for å unngå rovdyr",
-        "kilde": "Hacker News",
-        "tid": "23:15",
-        "lenke": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "'Det kan koste meg £ 10 000, men jeg trenger pengene nå': Hvorfor Gen Z velger bort pensjoner",
         "kilde": "BBC Business",
         "tid": "23:00",
@@ -368,34 +394,6 @@
         "tid": "23:00",
         "lenke": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nike-aksjen sendes nedover i etterhandelen",
-        "kilde": "E24",
-        "tid": "20:22",
-        "lenke": "https://e24.no/boers-og-finans/i/QgRGX4/skuffende-nike-tall-faller-naer-seks-prosent-i-etterhandelen?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Svenske danseband puster lettet ut",
-        "kilde": "E24",
-        "tid": "19:32",
-        "lenke": "https://e24.no/naeringsliv/i/vr0Mxm/svenske-danseband-puster-lettet-ut?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Thames Water beklager etter £ 145 000 kundefaktureringsfeil",
-        "kilde": "BBC Business",
-        "tid": "18:09",
-        "lenke": "https://www.bbc.co.uk/news/articles/ck24j46424veo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Fortsetter angrepene på Powell",
-        "kilde": "E24",
-        "tid": "18:08",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/qypnrz/fortsetter-angrepene-paa-powell?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ]
   }
