@@ -1,21 +1,28 @@
 {
   "dato": "2026-10-03",
   "dato_norsk": "Lørdag 3. oktober 2026",
-  "generert_kl": "09:46",
+  "generert_kl": "12:53",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Fallende lønninger, skyhøye energipriser og inflasjon: Det begynner å ligne mye på 1970-tallet",
+      "tittel": "Etter hvert som treasury yields berører generasjonshøyder, forbereder investorer seg på nedfallet i markedet",
       "kilde": "MarketWatch",
-      "tid": "21:54",
-      "lenke": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+      "tid": "11:30",
+      "lenke": "https://www.marketwatch.com/story/as-treasury-yields-touch-generational-highs-investors-brace-for-the-market-fallout-0457e698?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Cerebras lager treffer post-IPO lav, tumbling 20% for uken på Nvidia trykk og lockup utløpsdato",
+      "tittel": "Jeg kjøpte en konsertbillett på $ 126 til søsteren min, og nå kan hun ikke dra. Vil jeg kunne tjene penger på å selge billetten?",
+      "kilde": "MarketWatch",
+      "tid": "12:00",
+      "lenke": "https://www.marketwatch.com/story/i-bought-a-126-concert-ticket-for-my-sister-and-now-she-cant-go-will-i-be-able-to-make-a-profit-selling-the-ticket-1dd5cbe9?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Teslas Cybercab hadde en steinete første måned i Austin. Nå kommer den vanskelige delen: utvidelse",
       "kilde": "CNBC Top News",
-      "tid": "22:38",
-      "lenke": "https://www.cnbc.com/2026/10/02/cerebras-stock-hits-post-ipo-low-on-nvidia-pressure-lockup-expiration.html",
+      "tid": "11:00",
+      "lenke": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
       "engelsk_kilde": true
     },
     {
@@ -31,30 +38,32 @@
       "tid": "04:38",
       "lenke": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
       "engelsk_kilde": true
-    },
-    {
-      "tittel": "Hvorfor Western Digital og Seagate opplever store fall i aksjene i dag",
-      "kilde": "MarketWatch",
-      "tid": "22:42",
-      "lenke": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
-      "engelsk_kilde": true
     }
   ],
   "kategorier": {
+    "NORGE": [
+      {
+        "tittel": "Slår tilbake mot Norway Cup-kommentar: – Hadde ingen betenkeligheter",
+        "kilde": "NRK Nyheter",
+        "tid": "09:40",
+        "lenke": "https://www.nrk.no/sport/pressekonferanse-med-stale-solbakken-for-portugal-kampen-1.18044310",
+        "engelsk_kilde": false
+      }
+    ],
     "MAKRO": [
+      {
+        "tittel": "Etter hvert som treasury yields berører generasjonshøyder, forbereder investorer seg på nedfallet i markedet",
+        "kilde": "MarketWatch",
+        "tid": "11:30",
+        "lenke": "https://www.marketwatch.com/story/as-treasury-yields-touch-generational-highs-investors-brace-for-the-market-fallout-0457e698?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "AI-hjelp til best rente: – Et problem for det finansielle systemet",
         "kilde": "E24",
         "tid": "05:29",
         "lenke": "https://e24.no/boers-og-finans/i/rrk25e/ai-hjelp-til-best-rente-et-problem-for-det-finansielle-systemet?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Fallende lønninger, skyhøye energipriser og inflasjon: Det begynner å ligne mye på 1970-tallet",
-        "kilde": "MarketWatch",
-        "tid": "21:54",
-        "lenke": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Federal Reserve Board kunngjør godkjenning av søknad fra Fleur Capital Corporation",
@@ -87,17 +96,17 @@
     ],
     "MARKEDER": [
       {
+        "tittel": "Jeg kjøpte en konsertbillett på $ 126 til søsteren min, og nå kan hun ikke dra. Vil jeg kunne tjene penger på å selge billetten?",
+        "kilde": "MarketWatch",
+        "tid": "12:00",
+        "lenke": "https://www.marketwatch.com/story/i-bought-a-126-concert-ticket-for-my-sister-and-now-she-cant-go-will-i-be-able-to-make-a-profit-selling-the-ticket-1dd5cbe9?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Hvorfor Western Digital og Seagate opplever store fall i aksjene i dag",
         "kilde": "MarketWatch",
         "tid": "22:42",
         "lenke": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Cerebras lager treffer post-IPO lav, tumbling 20% for uken på Nvidia trykk og lockup utløpsdato",
-        "kilde": "CNBC Top News",
-        "tid": "22:38",
-        "lenke": "https://www.cnbc.com/2026/10/02/cerebras-stock-hits-post-ipo-low-on-nvidia-pressure-lockup-expiration.html",
         "engelsk_kilde": true
       },
       {
@@ -108,42 +117,28 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hvorfor det kan koste deg penger å blande politikk med aksjeporteføljen din",
-        "kilde": "MarketWatch",
-        "tid": "20:43",
-        "lenke": "https://www.marketwatch.com/story/why-mixing-politics-with-your-stock-portfolio-might-be-costing-you-money-5b4aabfb?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Wall Street hever forventningene: – Musikken spilles fortsatt",
         "kilde": "E24",
         "tid": "18:24",
         "lenke": "https://e24.no/boers-og-finans/i/0BnLrA/wall-street-hever-forventningene-musikken-spilles-fortsatt?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Bredt Wall Street-hopp etter jobbtall",
-        "kilde": "E24",
-        "tid": "13:31",
-        "lenke": "https://e24.no/boers-og-finans/i/mKR5zl/bredt-wall-street-hopp-etter-jobbtall?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ],
     "ENERGI_RAAVARER": [
       {
-        "tittel": "Oljeprisene synker som G7-nasjoner for å frigjøre diesellager, saudiarabere planlegger angivelig angrep på houthier",
-        "kilde": "CNBC Top News",
-        "tid": "20:04",
-        "lenke": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
-        "engelsk_kilde": true
+        "tittel": "Dyrere strøm til vinteren",
+        "kilde": "E24",
+        "tid": "09:47",
+        "lenke": "https://e24.no/energi-og-klima/i/zl54G4/dyrere-stroem-til-vinteren?utm_medium=rss",
+        "engelsk_kilde": false
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "FAA sier at Boeing 737 Max-programvarefeil ikke er et flysikkerhetsproblem",
+        "tittel": "Teslas Cybercab hadde en steinete første måned i Austin. Nå kommer den vanskelige delen: utvidelse",
         "kilde": "CNBC Top News",
-        "tid": "19:19",
-        "lenke": "https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html",
+        "tid": "11:00",
+        "lenke": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
         "engelsk_kilde": true
       }
     ],
@@ -165,11 +160,116 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "Solbakken og Berg møter pressen før Portugal-kampen",
-        "kilde": "NRK Nyheter",
-        "tid": "09:40",
-        "lenke": "https://www.nrk.no/sport/pressekonferanse-med-stale-solbakken-for-portugal-kampen-1.18044310",
+        "tittel": "Amerikas datasenterkamp er en forhåndsvisning av hva som kommer for resten av verden",
+        "kilde": "CNBC Top News",
+        "tid": "12:39",
+        "lenke": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "FlyDubai flyangrep av andrepilot var et forsøk på en «terrorhandling», sier UAE",
+        "kilde": "CNBC Top News",
+        "tid": "12:34",
+        "lenke": "https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Den neste store AI-kampen handler om søthet",
+        "kilde": "MarketWatch",
+        "tid": "12:30",
+        "lenke": "https://www.marketwatch.com/story/the-next-big-ai-battle-is-all-about-cuteness-41f6f948?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Godt spørsmål (YC W21) er å ansette produktingeniører i Canada (ekstern)",
+        "kilde": "Hacker News",
+        "tid": "12:02",
+        "lenke": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Høyteknologiske kjøretøy øker reparasjonskostnadene for butikker og forbrukere",
+        "kilde": "CNBC Top News",
+        "tid": "12:00",
+        "lenke": "https://www.cnbc.com/2026/10/03/vehicle-repair-costs.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Privat kapital omformer Hollywoods filmskaping",
+        "kilde": "CNBC Top News",
+        "tid": "12:00",
+        "lenke": "https://www.cnbc.com/2026/10/03/private-capital-hollywood-film-financing.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kona mi begynte aldri å jobbe igjen etter å ha oppdratt barna våre. Må jeg dele min pensjonssparing 50/50?",
+        "kilde": "MarketWatch",
+        "tid": "12:00",
+        "lenke": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Dagligvaregigantens milliardgebyrer: – Fremstår oppsiktsvekkende",
+        "kilde": "E24",
+        "tid": "11:44",
+        "lenke": "https://e24.no/naeringsliv/i/Ar1ggE/dagligvaregigantens-milliardboeter-fremstaar-oppsiktsvekkende?utm_medium=rss",
         "engelsk_kilde": false
+      },
+      {
+        "tittel": "\"Jeg vil ikke dø på salgsgulvet\": Jeg er 67 år og tjener $ 19,50 i timen i en stor butikk. Når kan jeg endelig pensjonere meg?",
+        "kilde": "MarketWatch",
+        "tid": "11:30",
+        "lenke": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "David Ellison tok nettopp inn en co-CEO for å lede sitt nye imperium: Møt Ynon Kreiz",
+        "kilde": "CNBC Top News",
+        "tid": "11:00",
+        "lenke": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Disse selskapene ser ut til å møte høyprofilerte høringer og annen granskning hvis demokratene vinner Representantenes hus",
+        "kilde": "MarketWatch",
+        "tid": "11:00",
+        "lenke": "https://www.marketwatch.com/story/these-companies-look-set-to-face-high-profile-hearings-and-other-scrutiny-if-democrats-win-the-house-513fe8e7?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Regjeringa vil bevare flytilbodet og gjere det billigare -  dei lokale krev meir",
+        "kilde": "NRK Nyheter",
+        "tid": "10:45",
+        "lenke": "https://www.nrk.no/nordland/fot-rutene-i-nord-noreg_-treng-ikkje-billigare-billettar_-men-fleire-avgangar-1.18041946",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "GitHubs nye kontrollpanelopplevelse er nå standard",
+        "kilde": "Hacker News",
+        "tid": "09:59",
+        "lenke": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Cruisebåt-invasjonen",
+        "kilde": "NRK Nyheter",
+        "tid": "09:50",
+        "lenke": "https://www.nrk.no/mr/xl/cruisebat-trafikken-er-dobla-pa-ti-ar-i-noreg_-slepp-ut-meir-co_-enn-innanlands-flytrafikk-1.17853772",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Leverandører legger press på myndighetene over energiregninger",
+        "kilde": "BBC Business",
+        "tid": "08:58",
+        "lenke": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vis HN: Offrun – administrer alle kodingsagenter fra ett arbeidsområde",
+        "kilde": "Hacker News",
+        "tid": "08:40",
+        "lenke": "https://offrun.dev/",
+        "engelsk_kilde": true
       },
       {
         "tittel": "Nye regler gir deg rett til å vite kollegenes lønn",
@@ -186,10 +286,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Hvorfor skal jeg måtte betale mer for busser hvis jeg ikke bruker en smarttelefon?",
-        "kilde": "Hacker News",
-        "tid": "07:48",
-        "lenke": "https://www.theguardian.com/money/2026/oct/02/why-should-i-have-to-pay-more-for-buses-if-i-dont-use-a-smartphone",
+        "tittel": "Topp McKinsey-leder avslører asiatiske eier-direktørers hemmeligheter til suksess",
+        "kilde": "CNBC Top News",
+        "tid": "06:00",
+        "lenke": "https://www.cnbc.com/2026/10/03/mckinsey-asian-leaders-success-ambani-mahindra.html",
         "engelsk_kilde": true
       },
       {
@@ -214,13 +314,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Amerikas datasenterkamp er en forhåndsvisning av hva som kommer for resten av verden",
-        "kilde": "CNBC Top News",
-        "tid": "05:00",
-        "lenke": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "En oppdatering om Orion for Linux og Windows",
         "kilde": "Hacker News",
         "tid": "04:53",
@@ -235,25 +328,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Cloudflare OHTTP-gateway",
-        "kilde": "Hacker News",
-        "tid": "03:15",
-        "lenke": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Bil inn i folkemengde i Australia – flere skadet",
         "kilde": "NRK Nyheter",
         "tid": "02:52",
         "lenke": "https://www.nrk.no/nyheter/bil-inn-i-folkemengde-i-australia-_-flere-skadet-1.18044245",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "\"Jeg vil ikke dø på salgsgulvet\": Jeg er 67 år og tjener $ 19,50 i timen i en stor butikk. Når kan jeg endelig pensjonere meg?",
-        "kilde": "MarketWatch",
-        "tid": "02:16",
-        "lenke": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Mann til sykehus etter knivstikking på Sunnmøre",
@@ -263,13 +342,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Newgrounds.com – Et fellesskap av spill, musikk og kunst",
-        "kilde": "Hacker News",
-        "tid": "00:55",
-        "lenke": "https://www.newgrounds.com/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Mann til sykehus etter knivstikking på Sunnmøre",
         "kilde": "NRK Nyheter",
         "tid": "00:51",
@@ -277,52 +349,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Jeg er 71 og jobber fortsatt. Jeg tjener $ 108 000 i året. Gjør jeg det rette?",
-        "kilde": "MarketWatch",
-        "tid": "22:10",
-        "lenke": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Justisdepartementet sier det ikke vil gjenåpne kriminell sonde i tidligere Fed-leder Powell",
-        "kilde": "CNBC Top News",
-        "tid": "22:01",
-        "lenke": "https://www.cnbc.com/2026/10/02/doj-says-it-will-not-reopen-criminal-probe-into-former-fed-chair-powell.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Har AI en sjel? Pave Leo og antropisk sammenstøt.",
-        "kilde": "MarketWatch",
-        "tid": "20:40",
-        "lenke": "https://www.marketwatch.com/story/does-ai-have-a-soul-pope-leo-and-anthropic-clash-0c1669fb?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Tilbakekaller produkter med grønnkål",
         "kilde": "NRK Nyheter",
         "tid": "20:36",
         "lenke": "https://www.nrk.no/nyheter/tilbakekaller-produkter-med-gronnkal-1.18044207",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kong Haakon avlyser Sikt-konferansen",
-        "kilde": "NRK Nyheter",
-        "tid": "20:30",
-        "lenke": "https://www.nrk.no/nyheter/kong-haakon-avlyser-sikt-konferansen-1.18044202",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kona mi begynte aldri å jobbe igjen etter å ha oppdratt barna våre. Må jeg dele min pensjonssparing 50/50?",
-        "kilde": "MarketWatch",
-        "tid": "20:30",
-        "lenke": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Lotteritilsynet vurderer tiltak etter NRK-avsløring",
-        "kilde": "NRK Nyheter",
-        "tid": "20:18",
-        "lenke": "https://www.nrk.no/trondelag/reagerer_-_-betydelig-storre-sum-i-denne-nye-saken-1.18033967",
         "engelsk_kilde": false
       },
       {
@@ -333,24 +363,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Menn taper terreng på arbeidsmarkedet. Her er hvorfor",
-        "kilde": "CNBC Top News",
-        "tid": "17:38",
-        "lenke": "https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Ford avverger Hyundai for å beholde nr. 3 USAs salgsposisjon i tredje kvartal",
         "kilde": "CNBC Top News",
         "tid": "17:20",
         "lenke": "https://www.cnbc.com/2026/10/02/ford-q3-sales.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Helseforsikringspremiene dine kan ta et stort hopp i 2027 — her er hvorfor",
-        "kilde": "CNBC Top News",
-        "tid": "16:26",
-        "lenke": "https://www.cnbc.com/2026/10/02/health-insurance-premiums-2027-inflation-aca-obamacare.html",
         "engelsk_kilde": true
       },
       {
@@ -375,24 +391,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Slik får du opp farten i organisasjonen",
-        "kilde": "E24",
-        "tid": "14:09",
-        "lenke": "https://e24.no/karriere-og-ledelse/i/Arja4n/slik-faar-du-opp-farten-i-organisasjonen?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Hvorfor britiske dieselpriser har overskredet £ 2 per liter-merket",
         "kilde": "BBC Business",
         "tid": "13:38",
         "lenke": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Ikke mer frokostblanding i enden av midtgangen? Nye regler i Skottlands supermarkeder",
-        "kilde": "BBC Business",
-        "tid": "10:47",
-        "lenke": "https://www.bbc.co.uk/news/articles/cmwyzye21463o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ]
