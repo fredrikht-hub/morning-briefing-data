@@ -1,15 +1,15 @@
 {
   "dato": "2026-10-03",
   "dato_norsk": "Lørdag 3. oktober 2026",
-  "generert_kl": "15:54",
+  "generert_kl": "18:53",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Finansdepartementet startet Trump-kontoer for 60 millioner barn — men familier må fortsatt ta dette trinnet hvis de vil ha en",
-      "kilde": "MarketWatch",
-      "tid": "15:06",
-      "lenke": "https://www.marketwatch.com/story/the-treasury-department-started-trump-accounts-for-60-million-kids-but-families-still-have-to-take-this-step-if-they-want-one-003d9282?mod=mw_rss_topstories",
-      "engelsk_kilde": true
+      "tittel": "Flirer av Norge-spillernes hevn-uttalelser: – Jeg er ikke bekymret",
+      "kilde": "NRK Nyheter",
+      "tid": "16:52",
+      "lenke": "https://www.nrk.no/sport/flirer-av-norge-spillernes-hevn-uttalelser_-_-jeg-er-ikke-bekymret-1.18044550",
+      "engelsk_kilde": false
     },
     {
       "tittel": "Færre førstegangskjøpere i Oslo",
@@ -26,45 +26,38 @@
       "engelsk_kilde": true
     },
     {
-      "tittel": "Du kan bli sjokkert over hvor mange aksjer som er i et bjørnemarked akkurat nå",
-      "kilde": "MarketWatch",
-      "tid": "14:10",
-      "lenke": "https://www.marketwatch.com/story/you-might-be-shocked-by-how-many-stocks-are-in-a-bear-market-right-now-017c9cd8?mod=mw_rss_topstories",
+      "tittel": "Høye boliglånsrenter fanger huseiere på plass, og gjør renoveringer vanskeligere å ha råd til",
+      "kilde": "CNBC Top News",
+      "tid": "17:57",
+      "lenke": "https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "AI-hjelp til best rente: – Et problem for det finansielle systemet",
-      "kilde": "E24",
-      "tid": "05:29",
-      "lenke": "https://e24.no/boers-og-finans/i/rrk25e/ai-hjelp-til-best-rente-et-problem-for-det-finansielle-systemet?utm_medium=rss",
-      "engelsk_kilde": false
+      "tittel": "Disse obligasjonsstrategiene kan hjelpe deg med å få en trygg 5% avkastning på pengene dine",
+      "kilde": "MarketWatch",
+      "tid": "18:49",
+      "lenke": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
+      "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
+      {
+        "tittel": "Flirer av Norge-spillernes hevn-uttalelser: – Jeg er ikke bekymret",
+        "kilde": "NRK Nyheter",
+        "tid": "16:52",
+        "lenke": "https://www.nrk.no/sport/flirer-av-norge-spillernes-hevn-uttalelser_-_-jeg-er-ikke-bekymret-1.18044550",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Færre førstegangskjøpere i Oslo",
         "kilde": "E24",
         "tid": "14:25",
         "lenke": "https://e24.no/norsk-oekonomi/i/K8Jjx6/faerre-foerstegangskjoepere-i-oslo?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Slår tilbake mot Norway Cup-kommentar: – Hadde ingen betenkeligheter",
-        "kilde": "NRK Nyheter",
-        "tid": "09:40",
-        "lenke": "https://www.nrk.no/sport/pressekonferanse-med-stale-solbakken-for-portugal-kampen-1.18044310",
-        "engelsk_kilde": false
       }
     ],
     "MAKRO": [
-      {
-        "tittel": "Finansdepartementet startet Trump-kontoer for 60 millioner barn — men familier må fortsatt ta dette trinnet hvis de vil ha en",
-        "kilde": "MarketWatch",
-        "tid": "15:06",
-        "lenke": "https://www.marketwatch.com/story/the-treasury-department-started-trump-accounts-for-60-million-kids-but-families-still-have-to-take-this-step-if-they-want-one-003d9282?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
       {
         "tittel": "AI-hjelp til best rente: – Et problem for det finansielle systemet",
         "kilde": "E24",
@@ -89,25 +82,11 @@
     ],
     "MARKEDER": [
       {
-        "tittel": "Du kan bli sjokkert over hvor mange aksjer som er i et bjørnemarked akkurat nå",
-        "kilde": "MarketWatch",
-        "tid": "14:10",
-        "lenke": "https://www.marketwatch.com/story/you-might-be-shocked-by-how-many-stocks-are-in-a-bear-market-right-now-017c9cd8?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Lula eller Bolsonaro: Wall Street klammeparenteser for to vidt forskjellige resultater i valget i Brasil",
         "kilde": "CNBC Top News",
         "tid": "13:12",
         "lenke": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Wall Street hever forventningene: – Musikken spilles fortsatt",
-        "kilde": "E24",
-        "tid": "18:24",
-        "lenke": "https://e24.no/boers-og-finans/i/0BnLrA/wall-street-hever-forventningene-musikken-spilles-fortsatt?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ],
     "ENERGI_RAAVARER": [
@@ -126,23 +105,9 @@
         "tid": "11:00",
         "lenke": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kolibri er en åpen vekt LLM fra Aleph Alpha for tysk og engelsk",
-        "kilde": "Hacker News",
-        "tid": "10:43",
-        "lenke": "https://tej.as/blog/aleph-alpha-kolibri",
-        "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
-      {
-        "tittel": "Opptrappingen av krigen i Etiopia",
-        "kilde": "Hacker News",
-        "tid": "11:54",
-        "lenke": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
-        "engelsk_kilde": true
-      },
       {
         "tittel": "G7 slipper ut millioner av fat olje og diesel etter Trump-trussel",
         "kilde": "BBC Business",
@@ -152,6 +117,139 @@
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "Disse obligasjonsstrategiene kan hjelpe deg med å få en trygg 5% avkastning på pengene dine",
+        "kilde": "MarketWatch",
+        "tid": "18:49",
+        "lenke": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Jeg vil gjøre henne stolt’: Min mor, en fraskilt kvinne, døde og jeg er hennes eksekutor. Må jeg søke om skifte?",
+        "kilde": "MarketWatch",
+        "tid": "18:30",
+        "lenke": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nordmann løslatt etter dødsfall under jakt i Sverige",
+        "kilde": "NRK Nyheter",
+        "tid": "18:27",
+        "lenke": "https://www.nrk.no/nordland/nordmann-loslatt-etter-dodsfall-under-jakt-i-sverige-1.18044283",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Delta WiFi overlevelsesguide",
+        "kilde": "Hacker News",
+        "tid": "18:18",
+        "lenke": "https://dialta.adorellc.pro/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nordmann løslatt etter dødsfall under jakt",
+        "kilde": "NRK Nyheter",
+        "tid": "18:17",
+        "lenke": "https://www.nrk.no/nordland/nordmann-loslatt-etter-dodsfall-under-jakt-1.18044628",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "ADHD, autisme eller komplekse traumer? [pdf]",
+        "kilde": "Hacker News",
+        "tid": "18:08",
+        "lenke": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hullstans: Slyng romskipet ditt rundt gravitasjonsfelt",
+        "kilde": "Hacker News",
+        "tid": "18:06",
+        "lenke": "https://notoriousbfg.com/hole-punch/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Høye boliglånsrenter fanger huseiere på plass, og gjør renoveringer vanskeligere å ha råd til",
+        "kilde": "CNBC Top News",
+        "tid": "17:57",
+        "lenke": "https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Rystet etter engelsk lekestue: – En voksen mann som spiller mot barn",
+        "kilde": "NRK Nyheter",
+        "tid": "17:51",
+        "lenke": "https://www.nrk.no/sport/nasjonsligaen_-engelske-stjerner-herjet-med-kroatia-1.18044543",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Zalando holder fast på gratis retur",
+        "kilde": "E24",
+        "tid": "17:38",
+        "lenke": "https://e24.no/naeringsliv/i/pBqeK6/zalando-holder-fast-paa-gratis-retur?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Noah (13) bruker diagnosen som drivkraft: – Han kan bli en av de beste",
+        "kilde": "NRK Nyheter",
+        "tid": "17:36",
+        "lenke": "https://www.nrk.no/sport/friidrett_-noah-fronth-hoybo-bruker-adhd-diagnosen-som-en-drivkraft-1.18031292",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Voldshendelse på Jessheim: Kvinne i 50-årene pågrepet",
+        "kilde": "NRK Nyheter",
+        "tid": "17:36",
+        "lenke": "https://www.nrk.no/stor-oslo/voldshendelse-pa-jessheim_-kvinne-i-50-arene-pagrepet-1.18044483",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Et tøft arbeidsmarked presser flere unge amerikanere til å satse stort: på seg selv",
+        "kilde": "MarketWatch",
+        "tid": "17:24",
+        "lenke": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kolibri – Teknisk rapport [pdf]",
+        "kilde": "Hacker News",
+        "tid": "17:22",
+        "lenke": "https://aleph-alpha.com/downloads/tech-report.pdf",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "RetailReady (YC W24) ansetter",
+        "kilde": "Hacker News",
+        "tid": "17:00",
+        "lenke": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Å bytte jobb for å få høyere lønn fungerer best i disse bransjene",
+        "kilde": "MarketWatch",
+        "tid": "16:42",
+        "lenke": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kona mi begynte aldri å jobbe igjen etter å ha oppdratt barna våre. Må jeg dele min pensjonssparing 50/50?",
+        "kilde": "MarketWatch",
+        "tid": "16:30",
+        "lenke": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "NTNU-student omkom i fallulykke: – Våre tanker går til mannens familie",
+        "kilde": "NRK Nyheter",
+        "tid": "16:00",
+        "lenke": "https://www.nrk.no/trondelag/ntnu-student-omkom-etter-fall-i-gruvesjakt-i-holtalen_-_-vare-tanker-gar-til-mannens-familie-1.18044355",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "‘Jeg har $ 400 000 i egenkapital’: Jeg er 80. Skal jeg selge huset mitt på grunn av farlige trapper — eller bruke tusenvis på renovering?",
+        "kilde": "MarketWatch",
+        "tid": "16:00",
+        "lenke": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Den største feilen nybegynnere gjør med reisekort, ifølge The Points Guy",
         "kilde": "MarketWatch",
@@ -167,60 +265,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "FTL: Et nytt operativsystem for nettskyer",
-        "kilde": "Hacker News",
-        "tid": "15:02",
-        "lenke": "https://ftl-os.org/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Jeg vil heller være på en strand på Bali’: Mannen min misliker min nettoverdi på $ 8 millioner. Skal jeg betale for pensjonen hans?",
-        "kilde": "MarketWatch",
-        "tid": "15:00",
-        "lenke": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "\"Jeg vil ikke dø på salgsgulvet\": Jeg er 67 år og tjener $ 19,50 i timen i en stor butikk. Når kan jeg endelig pensjonere meg?",
-        "kilde": "MarketWatch",
-        "tid": "15:00",
-        "lenke": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Biler har blitt uoverkommelige for mange amerikanere. Her er hva tallene viser.",
-        "kilde": "MarketWatch",
-        "tid": "14:36",
-        "lenke": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Tømte sparegrisen og kjøpte sjark: – Alt som kunne gå galt, gikk galt",
         "kilde": "NRK Nyheter",
         "tid": "14:31",
         "lenke": "https://www.nrk.no/tromsogfinnmark/norge-rundt-50-ar_-_-et-slikt-program-hadde-blitt-sabla-ned-i-dag-1.18044414",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Desse bilda skapar heit debatt: – Dei hatar oss",
-        "kilde": "NRK Nyheter",
-        "tid": "14:31",
-        "lenke": "https://www.nrk.no/sport/fotballkamp-skapar-brennheit-debatt-i-irland_-_-dei-hatar-oss-1.18044455",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "\"Vi levde innenfor våre midler\": Jeg tjente $ 30 000 som pastor og pensjonerte meg fortsatt komfortabelt. Hvorfor forteller du ikke folk det?",
-        "kilde": "MarketWatch",
-        "tid": "14:31",
-        "lenke": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Den amerikanske drapsmannens dom ble opphevet på grunn av AI-video av offeret som ble vist i retten",
-        "kilde": "Hacker News",
-        "tid": "13:34",
-        "lenke": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Novig krediterer Sydney Sweeney-støttet kampanje for plattformens økning i vekst",
@@ -248,13 +297,6 @@
         "kilde": "CNBC Top News",
         "tid": "12:34",
         "lenke": "https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Godt spørsmål (YC W21) er å ansette produktingeniører i Canada (ekstern)",
-        "kilde": "Hacker News",
-        "tid": "12:02",
-        "lenke": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
         "engelsk_kilde": true
       },
       {
@@ -286,20 +328,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Regjeringa vil bevare flytilbodet og gjere det billigare -  dei lokale krev meir",
-        "kilde": "NRK Nyheter",
-        "tid": "10:45",
-        "lenke": "https://www.nrk.no/nordland/fot-rutene-i-nord-noreg_-treng-ikkje-billigare-billettar_-men-fleire-avgangar-1.18041946",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Cruisebåt-invasjonen",
-        "kilde": "NRK Nyheter",
-        "tid": "09:50",
-        "lenke": "https://www.nrk.no/mr/xl/cruisebat-trafikken-er-dobla-pa-ti-ar-i-noreg_-slepp-ut-meir-co_-enn-innanlands-flytrafikk-1.17853772",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Leverandører legger press på myndighetene over energiregninger",
         "kilde": "BBC Business",
         "tid": "08:58",
@@ -321,13 +349,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "23 (!) comeback for å redde klubben – ekspert trur dei rykker rett opp",
-        "kilde": "NRK Nyheter",
-        "tid": "05:59",
-        "lenke": "https://www.nrk.no/sport/23-spelarar-har-gjort-comeback-for-a-fa-sparta-sarpsborg-tilbake-til-toppen-1.18041614",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Gründeren gjør alt selv: – Jobber livet av meg",
         "kilde": "E24",
         "tid": "05:29",
@@ -342,32 +363,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Bil inn i folkemengde i Australia – flere skadet",
-        "kilde": "NRK Nyheter",
-        "tid": "02:52",
-        "lenke": "https://www.nrk.no/nyheter/bil-inn-i-folkemengde-i-australia-_-flere-skadet-1.18044245",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Mann til sykehus etter knivstikking på Sunnmøre",
-        "kilde": "NRK Nyheter",
-        "tid": "01:56",
-        "lenke": "https://www.nrk.no/norge/mann-til-sykehus-etter-knivstikking-pa-sunnmore-1.18044244",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "USA gjenåpner ikke Powell-etterforskning",
         "kilde": "E24",
         "tid": "19:59",
         "lenke": "https://e24.no/internasjonal-oekonomi/i/b857gg/usa-gjenaapner-ikke-powell-etterforskning?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Ford avverger Hyundai for å beholde nr. 3 USAs salgsposisjon i tredje kvartal",
-        "kilde": "CNBC Top News",
-        "tid": "17:20",
-        "lenke": "https://www.cnbc.com/2026/10/02/ford-q3-sales.html",
-        "engelsk_kilde": true
       }
     ]
   }
