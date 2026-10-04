@@ -1,42 +1,42 @@
 {
   "dato": "2026-10-04",
   "dato_norsk": "Søndag 4. oktober 2026",
-  "generert_kl": "10:29",
+  "generert_kl": "13:34",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
       "tittel": "Trump taper direktør for nasjonal etterretning Jay Clayton som AI-tsar",
       "kilde": "CNBC Top News",
-      "tid": "09:25",
+      "tid": "12:53",
       "lenke": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Fallende lønninger, skyhøye energipriser og inflasjon: Det begynner å ligne mye på 1970-tallet",
-      "kilde": "MarketWatch",
-      "tid": "23:58",
-      "lenke": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "I Ukraina hindrer distribusjon av fornybar energi Russlands angrep",
-      "kilde": "Hacker News",
-      "tid": "08:39",
-      "lenke": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "\"Tortur\" LLMs i et robotfengsel har utløst den dummeste debatten i AI ennå",
-      "kilde": "Hacker News",
-      "tid": "08:02",
-      "lenke": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Ukrainas overraskelsesrobotoffensiv avslører en sårbarhet i Putins krigsmaskin",
+      "tittel": "En \"rar\" IPO-trekk, et skitten rykte og det stoppede breakout-øyeblikket for AI wearables",
       "kilde": "CNBC Top News",
-      "tid": "05:00",
-      "lenke": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
+      "tid": "13:22",
+      "lenke": "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Topp Wall Street-analytikere er optimistiske om utsiktene for disse 3 aksjene",
+      "kilde": "CNBC Top News",
+      "tid": "13:24",
+      "lenke": "https://www.cnbc.com/2026/10/04/top-analysts-are-upbeat-about-the-prospects-for-these-3-stocks.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Oktober kan være en skummel måned for aksjer. Her er hva investorer trenger å se på i år.",
+      "kilde": "MarketWatch",
+      "tid": "13:00",
+      "lenke": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Flere tankskip rammet i Midtøsten da Iran gjentar betingelsene for å gjenåpne Hormuzstredet",
+      "kilde": "CNBC Top News",
+      "tid": "12:35",
+      "lenke": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
       "engelsk_kilde": true
     }
   ],
@@ -47,13 +47,6 @@
         "kilde": "E24",
         "tid": "03:00",
         "lenke": "https://e24.no/privatoekonomi/i/8pe32d/mistet-huset-i-storbrannen-krever-at-dnb-dekker-tapet?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Færre førstegangskjøpere i Oslo",
-        "kilde": "E24",
-        "tid": "14:25",
-        "lenke": "https://e24.no/norsk-oekonomi/i/K8Jjx6/faerre-foerstegangskjoepere-i-oslo?utm_medium=rss",
         "engelsk_kilde": false
       }
     ],
@@ -68,49 +61,49 @@
     ],
     "MARKEDER": [
       {
-        "tittel": "Lula eller Bolsonaro: Wall Street klammeparenteser for to vidt forskjellige resultater i valget i Brasil",
+        "tittel": "Topp Wall Street-analytikere er optimistiske om utsiktene for disse 3 aksjene",
         "kilde": "CNBC Top News",
-        "tid": "13:12",
-        "lenke": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
+        "tid": "13:24",
+        "lenke": "https://www.cnbc.com/2026/10/04/top-analysts-are-upbeat-about-the-prospects-for-these-3-stocks.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "En \"rar\" IPO-trekk, et skitten rykte og det stoppede breakout-øyeblikket for AI wearables",
+        "kilde": "CNBC Top News",
+        "tid": "13:22",
+        "lenke": "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Oktober kan være en skummel måned for aksjer. Her er hva investorer trenger å se på i år.",
+        "kilde": "MarketWatch",
+        "tid": "13:00",
+        "lenke": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories",
         "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
-      {
-        "tittel": "\"Tortur\" LLMs i et robotfengsel har utløst den dummeste debatten i AI ennå",
-        "kilde": "Hacker News",
-        "tid": "08:02",
-        "lenke": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
-        "engelsk_kilde": true
-      },
       {
         "tittel": "Tesla-aksjonær? Følg med på dette Musk-grepet",
         "kilde": "E24",
         "tid": "05:23",
         "lenke": "https://e24.no/boers-og-finans/i/58JO2b/tesla-aksjonaer-foelg-med-paa-dette-musk-grepet?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Teslas Cybercab hadde en steinete første måned i Austin. Nå kommer den vanskelige delen: utvidelse",
-        "kilde": "CNBC Top News",
-        "tid": "20:29",
-        "lenke": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
-        "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
         "tittel": "Trump taper direktør for nasjonal etterretning Jay Clayton som AI-tsar",
         "kilde": "CNBC Top News",
-        "tid": "09:25",
+        "tid": "12:53",
         "lenke": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "I Ukraina hindrer distribusjon av fornybar energi Russlands angrep",
-        "kilde": "Hacker News",
-        "tid": "08:39",
-        "lenke": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
+        "tittel": "Flere tankskip rammet i Midtøsten da Iran gjentar betingelsene for å gjenåpne Hormuzstredet",
+        "kilde": "CNBC Top News",
+        "tid": "12:35",
+        "lenke": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
         "engelsk_kilde": true
       },
       {
@@ -122,6 +115,69 @@
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "VM-gullet glapp i siste sving: – Det skal ikke være mulig",
+        "kilde": "NRK Nyheter",
+        "tid": "13:08",
+        "lenke": "https://www.nrk.no/sport/oliver-solberg-kjorte-ut-i-siste-sving-rally-vm-etter-vill-avslutning-1.18044856",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Sportsspill er i økende grad normen for Gen Z.  Her er hvorfor noen økonomiske og psykiske helseeksperter er bekymret",
+        "kilde": "CNBC Top News",
+        "tid": "12:57",
+        "lenke": "https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kjør Qwen 3.8 Flash Next (125B) på forbrukermaskinvare (RTX 4090) ved 100 T/s",
+        "kilde": "Hacker News",
+        "tid": "12:51",
+        "lenke": "https://github.com/Niko1221/Strata",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nye EU-regler om åpenhet rundt lønn: – Ser ikke behovet",
+        "kilde": "E24",
+        "tid": "12:46",
+        "lenke": "https://e24.no/karriere-og-ledelse/i/wroKgd/nye-eu-regler-om-aapenhet-rundt-loenn-ser-ikke-behovet?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Chick-fil-A ønsker å forbli en familiebedrift selv når den ekspanderer i USA og i utlandet",
+        "kilde": "CNBC Top News",
+        "tid": "12:08",
+        "lenke": "https://www.cnbc.com/2026/10/04/chick-fil-a-ceo-andrew-cathy-family-ownership-growth.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvorfor merker som E.l.f., Wendy's og Gap forgrener seg til originalmusikk",
+        "kilde": "CNBC Top News",
+        "tid": "12:00",
+        "lenke": "https://www.cnbc.com/2026/10/04/elf-wendys-gap-music-marketing.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fed-minutter som kommer denne uken kan gi markedene viktige ledetråder om fremtidige renteøkninger",
+        "kilde": "MarketWatch",
+        "tid": "12:00",
+        "lenke": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Avvisningsfølsomhet hos begavede og to ganger uvanlige barn",
+        "kilde": "Hacker News",
+        "tid": "11:58",
+        "lenke": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Høyre har vært i fremtiden",
+        "kilde": "E24",
+        "tid": "11:11",
+        "lenke": "https://e24.no/norsk-oekonomi/i/31jG69/hoeyre-har-vaert-i-fremtiden?utm_medium=rss",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Hva skal Tyskland gjøre med alle krisene?",
         "kilde": "E24",
@@ -141,6 +197,13 @@
         "kilde": "CNBC Top News",
         "tid": "09:33",
         "lenke": "https://www.cnbc.com/2026/10/03/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vis HN: AI-søk etter hvert bilde og hver videoramme på macOS",
+        "kilde": "Hacker News",
+        "tid": "09:24",
+        "lenke": "https://github.com/allenv0/SCM",
         "engelsk_kilde": true
       },
       {
@@ -179,13 +242,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "OpenBSD-utviklere avviser Uutils Coreutils",
-        "kilde": "Hacker News",
-        "tid": "07:55",
-        "lenke": "https://news.lavx.hu/article/openbsd-developers-reject-uutils-coreutils-port-over-licensing-and-compatibility-concerns",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Stavås Skistad melder forfall til samling – Slind syk",
         "kilde": "NRK Nyheter",
         "tid": "07:07",
@@ -207,24 +263,17 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Jaktlag angrepet: To personer skutt og drept",
+        "tittel": "Far og sønn drept da jaktlag ble beskutt",
         "kilde": "NRK Nyheter",
         "tid": "06:03",
         "lenke": "https://www.nrk.no/norge/to-personer-skutt-og-drept-i-halden-_-en-tredje-skadet-1.18044728",
         "engelsk_kilde": false
       },
       {
-        "tittel": "Singapore lanserer en statsstøttet dataprogram for unge regjeringsansatte som jobber for å bremse en demografisk krise",
-        "kilde": "CNBC Top News",
-        "tid": "05:09",
-        "lenke": "https://www.cnbc.com/2026/10/04/government-dating-app-fertility-singapore-asia.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Tre store skip kolliderte ved Ålesund",
+        "tittel": "Tre store skip kolliderte ved Ålesund - vet ennå ikke årsaken",
         "kilde": "NRK Nyheter",
         "tid": "01:38",
-        "lenke": "https://www.nrk.no/norge/tre-store-skip-har-kollidert-ved-alesund-1.18044704",
+        "lenke": "https://www.nrk.no/mr/tre-store-skip-har-kollidert-ved-alesund-1.18044704",
         "engelsk_kilde": false
       },
       {
@@ -232,13 +281,6 @@
         "kilde": "NRK Nyheter",
         "tid": "01:17",
         "lenke": "https://www.nrk.no/nyheter/tankbat-og-to-lasteskip-kolliderte-ved-alesund--1.18044700",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Person funnet bevisstløs etter vold i Arendal",
-        "kilde": "NRK Nyheter",
-        "tid": "00:19",
-        "lenke": "https://www.nrk.no/nyheter/person-funnet-bevisstlos-etter-vold-i-arendal-1.18044699",
         "engelsk_kilde": false
       },
       {
@@ -296,48 +338,6 @@
         "tid": "17:38",
         "lenke": "https://e24.no/naeringsliv/i/pBqeK6/zalando-holder-fast-paa-gratis-retur?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Et tøft arbeidsmarked presser flere unge amerikanere til å satse stort: på seg selv",
-        "kilde": "MarketWatch",
-        "tid": "17:24",
-        "lenke": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Å bytte jobb for å få høyere lønn fungerer best i disse bransjene",
-        "kilde": "MarketWatch",
-        "tid": "16:42",
-        "lenke": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "FlyDubai flyangrep av andrepilot var et forsøk på en «terrorhandling», sier UAE",
-        "kilde": "CNBC Top News",
-        "tid": "12:34",
-        "lenke": "https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Høyteknologiske kjøretøy øker reparasjonskostnadene for butikker og forbrukere",
-        "kilde": "CNBC Top News",
-        "tid": "12:00",
-        "lenke": "https://www.cnbc.com/2026/10/03/vehicle-repair-costs.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Dagligvaregigantens milliardgebyrer: – Fremstår oppsiktsvekkende",
-        "kilde": "E24",
-        "tid": "11:44",
-        "lenke": "https://e24.no/naeringsliv/i/Ar1ggE/dagligvaregigantens-milliardboeter-fremstaar-oppsiktsvekkende?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "David Ellison tok nettopp inn en co-CEO for å lede sitt nye imperium: Møt Ynon Kreiz",
-        "kilde": "CNBC Top News",
-        "tid": "11:00",
-        "lenke": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
-        "engelsk_kilde": true
       }
     ]
   }
