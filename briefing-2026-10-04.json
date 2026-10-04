@@ -1,7 +1,7 @@
 {
   "dato": "2026-10-04",
   "dato_norsk": "Søndag 4. oktober 2026",
-  "generert_kl": "16:37",
+  "generert_kl": "18:53",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
@@ -12,17 +12,17 @@
       "engelsk_kilde": false
     },
     {
-      "tittel": "Pareto bytter Kongsberg-aksjer: – Kan skuffe",
-      "kilde": "E24",
-      "tid": "14:04",
-      "lenke": "https://e24.no/boers-og-finans/i/0BjbKB/pareto-bytter-kongsberg-aksjer-kan-skuffe?utm_medium=rss",
-      "engelsk_kilde": false
+      "tittel": "Bygge en RAG Pipeline for semantisk kodesøk",
+      "kilde": "Hacker News",
+      "tid": "17:51",
+      "lenke": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/",
+      "engelsk_kilde": true
     },
     {
-      "tittel": "Denne NYC-oppstarten krever 4 dager på kontoret, men bare la alle jobbe eksternt i en hel måned",
-      "kilde": "CNBC Top News",
-      "tid": "14:00",
-      "lenke": "https://www.cnbc.com/2026/10/04/work-from-anywhere-month.html",
+      "tittel": "Programvareutvikling er død. Lenge leve produktteknikk",
+      "kilde": "Hacker News",
+      "tid": "18:13",
+      "lenke": "https://newsletter.chainofthought.show/p/software-engineering-is-dead-long",
       "engelsk_kilde": true
     },
     {
@@ -33,10 +33,10 @@
       "engelsk_kilde": true
     },
     {
-      "tittel": "Ukrainas overraskelsesrobotoffensiv avslører en sårbarhet i Putins krigsmaskin",
+      "tittel": "Høyesterettsdommer Alito sa at han har \"tenkt på\" pensjon ettersom Senatets kontroll henger i balanse",
       "kilde": "CNBC Top News",
-      "tid": "05:00",
-      "lenke": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
+      "tid": "17:53",
+      "lenke": "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
       "engelsk_kilde": true
     }
   ],
@@ -89,7 +89,23 @@
         "engelsk_kilde": true
       }
     ],
+    "ENERGI_RAAVARER": [
+      {
+        "tittel": "Bygge en RAG Pipeline for semantisk kodesøk",
+        "kilde": "Hacker News",
+        "tid": "17:51",
+        "lenke": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/",
+        "engelsk_kilde": true
+      }
+    ],
     "TEKNOLOGI": [
+      {
+        "tittel": "Programvareutvikling er død. Lenge leve produktteknikk",
+        "kilde": "Hacker News",
+        "tid": "18:13",
+        "lenke": "https://newsletter.chainofthought.show/p/software-engineering-is-dead-long",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Denne NYC-oppstarten krever 4 dager på kontoret, men bare la alle jobbe eksternt i en hel måned",
         "kilde": "CNBC Top News",
@@ -116,24 +132,45 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "Caffè Corretto",
+        "tittel": "CISA-varselet: Sikkerhet utover isolat",
         "kilde": "Hacker News",
-        "tid": "16:17",
-        "lenke": "https://en.wikipedia.org/wiki/Caff%C3%A8_corretto",
+        "tid": "18:19",
+        "lenke": "https://jnior.com/blog/the-cisa-alert-security-beyond-solitary-confinement/",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Bilen er en smarttelefon på hjul. Her er hvem som lytter",
+        "tittel": "Vis HN: Dataviz, rangert daglig fra GitHub, NPM, PyPI og CRAN",
         "kilde": "Hacker News",
-        "tid": "15:43",
-        "lenke": "https://automatictransmission.khoury.northeastern.edu/",
+        "tid": "17:54",
+        "lenke": "https://awesomedataviz.com/",
         "engelsk_kilde": true
       },
       {
-        "tittel": "RuneScapes posisjon på gen AI",
+        "tittel": "Høyesterettsdommer Alito sa at han har \"tenkt på\" pensjon ettersom Senatets kontroll henger i balanse",
+        "kilde": "CNBC Top News",
+        "tid": "17:53",
+        "lenke": "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nusa og Berg tilbake fra start – disse starter mot Portugal",
+        "kilde": "NRK Nyheter",
+        "tid": "17:24",
+        "lenke": "https://www.nrk.no/sport/portugal-_-norge_-stale-solbakken-gjor-fire-endringer-pa-laget-1.18044998",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Saksøker staten:  «Jon» meiner han fekk ME av covid-vaksine",
+        "kilde": "NRK Nyheter",
+        "tid": "17:01",
+        "lenke": "https://www.nrk.no/trondelag/saksoker-staten_-_jon_-meiner-han-fekk-me-av-covid-vaksine-1.18039679",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Blindsyn (wattroman)",
         "kilde": "Hacker News",
-        "tid": "15:29",
-        "lenke": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/",
+        "tid": "16:25",
+        "lenke": "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)",
         "engelsk_kilde": true
       },
       {
@@ -193,13 +230,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Kjør Qwen 3.8 Flash Next (125B) på forbrukermaskinvare (RTX 4090) ved 100 T/s",
-        "kilde": "Hacker News",
-        "tid": "12:51",
-        "lenke": "https://github.com/Niko1221/Strata",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Nye EU-regler om åpenhet rundt lønn: – Ser ikke behovet",
         "kilde": "E24",
         "tid": "12:46",
@@ -225,13 +255,6 @@
         "kilde": "MarketWatch",
         "tid": "12:00",
         "lenke": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Avvisningsfølsomhet hos begavede og to ganger uvanlige barn",
-        "kilde": "Hacker News",
-        "tid": "11:58",
-        "lenke": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
         "engelsk_kilde": true
       },
       {
@@ -291,20 +314,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Skuffa over Noreg-profilen: – Eit stort mysterium",
-        "kilde": "NRK Nyheter",
-        "tid": "06:14",
-        "lenke": "https://www.nrk.no/sport/skuffa-over-noreg-profilen_-_-eit-stort-mysterium-1.18044637",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Polititeori: Konflikt før jaktdobbeltdrap",
-        "kilde": "NRK Nyheter",
-        "tid": "06:03",
-        "lenke": "https://www.nrk.no/norge/to-personer-skutt-og-drept-i-halden-_-en-tredje-skadet-1.18044728",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Regjeringen kan ta 15% av trygdeytelsene for å tilbakebetale studielån. Disse forslagene forsøker å stoppe det.",
         "kilde": "MarketWatch",
         "tid": "00:02",
@@ -323,20 +332,6 @@
         "kilde": "MarketWatch",
         "tid": "19:30",
         "lenke": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Disse obligasjonsstrategiene kan hjelpe deg med å få en trygg 5% avkastning på pengene dine",
-        "kilde": "MarketWatch",
-        "tid": "18:49",
-        "lenke": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Høye boliglånsrenter fanger huseiere på plass, og gjør renoveringer vanskeligere å ha råd til",
-        "kilde": "CNBC Top News",
-        "tid": "17:57",
-        "lenke": "https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html",
         "engelsk_kilde": true
       }
     ]
