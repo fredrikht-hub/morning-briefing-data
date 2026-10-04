@@ -1,9 +1,30 @@
 {
   "dato": "2026-10-04",
   "dato_norsk": "Søndag 4. oktober 2026",
-  "generert_kl": "13:34",
+  "generert_kl": "16:37",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
+    {
+      "tittel": "Har ikke nådd målet på flere år: – Det tror jeg Norges Bank kjenner veldig på",
+      "kilde": "E24",
+      "tid": "16:01",
+      "lenke": "https://e24.no/norsk-oekonomi/i/gd7znk/har-ikke-naadd-maalet-paa-flere-aar-det-tror-jeg-norges-bank-kjenner-veldig-paa?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Pareto bytter Kongsberg-aksjer: – Kan skuffe",
+      "kilde": "E24",
+      "tid": "14:04",
+      "lenke": "https://e24.no/boers-og-finans/i/0BjbKB/pareto-bytter-kongsberg-aksjer-kan-skuffe?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Denne NYC-oppstarten krever 4 dager på kontoret, men bare la alle jobbe eksternt i en hel måned",
+      "kilde": "CNBC Top News",
+      "tid": "14:00",
+      "lenke": "https://www.cnbc.com/2026/10/04/work-from-anywhere-month.html",
+      "engelsk_kilde": true
+    },
     {
       "tittel": "Trump taper direktør for nasjonal etterretning Jay Clayton som AI-tsar",
       "kilde": "CNBC Top News",
@@ -12,41 +33,20 @@
       "engelsk_kilde": true
     },
     {
-      "tittel": "En \"rar\" IPO-trekk, et skitten rykte og det stoppede breakout-øyeblikket for AI wearables",
+      "tittel": "Ukrainas overraskelsesrobotoffensiv avslører en sårbarhet i Putins krigsmaskin",
       "kilde": "CNBC Top News",
-      "tid": "13:22",
-      "lenke": "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Topp Wall Street-analytikere er optimistiske om utsiktene for disse 3 aksjene",
-      "kilde": "CNBC Top News",
-      "tid": "13:24",
-      "lenke": "https://www.cnbc.com/2026/10/04/top-analysts-are-upbeat-about-the-prospects-for-these-3-stocks.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Oktober kan være en skummel måned for aksjer. Her er hva investorer trenger å se på i år.",
-      "kilde": "MarketWatch",
-      "tid": "13:00",
-      "lenke": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Flere tankskip rammet i Midtøsten da Iran gjentar betingelsene for å gjenåpne Hormuzstredet",
-      "kilde": "CNBC Top News",
-      "tid": "12:35",
-      "lenke": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
+      "tid": "05:00",
+      "lenke": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "Mistet huset i storbrannen: Krever at DNB dekker tapet",
+        "tittel": "Har ikke nådd målet på flere år: – Det tror jeg Norges Bank kjenner veldig på",
         "kilde": "E24",
-        "tid": "03:00",
-        "lenke": "https://e24.no/privatoekonomi/i/8pe32d/mistet-huset-i-storbrannen-krever-at-dnb-dekker-tapet?utm_medium=rss",
+        "tid": "16:01",
+        "lenke": "https://e24.no/norsk-oekonomi/i/gd7znk/har-ikke-naadd-maalet-paa-flere-aar-det-tror-jeg-norges-bank-kjenner-veldig-paa?utm_medium=rss",
         "engelsk_kilde": false
       }
     ],
@@ -60,6 +60,13 @@
       }
     ],
     "MARKEDER": [
+      {
+        "tittel": "Pareto bytter Kongsberg-aksjer: – Kan skuffe",
+        "kilde": "E24",
+        "tid": "14:04",
+        "lenke": "https://e24.no/boers-og-finans/i/0BjbKB/pareto-bytter-kongsberg-aksjer-kan-skuffe?utm_medium=rss",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Topp Wall Street-analytikere er optimistiske om utsiktene for disse 3 aksjene",
         "kilde": "CNBC Top News",
@@ -84,11 +91,11 @@
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Tesla-aksjonær? Følg med på dette Musk-grepet",
-        "kilde": "E24",
-        "tid": "05:23",
-        "lenke": "https://e24.no/boers-og-finans/i/58JO2b/tesla-aksjonaer-foelg-med-paa-dette-musk-grepet?utm_medium=rss",
-        "engelsk_kilde": false
+        "tittel": "Denne NYC-oppstarten krever 4 dager på kontoret, men bare la alle jobbe eksternt i en hel måned",
+        "kilde": "CNBC Top News",
+        "tid": "14:00",
+        "lenke": "https://www.cnbc.com/2026/10/04/work-from-anywhere-month.html",
+        "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
@@ -100,13 +107,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Flere tankskip rammet i Midtøsten da Iran gjentar betingelsene for å gjenåpne Hormuzstredet",
-        "kilde": "CNBC Top News",
-        "tid": "12:35",
-        "lenke": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Ukrainas overraskelsesrobotoffensiv avslører en sårbarhet i Putins krigsmaskin",
         "kilde": "CNBC Top News",
         "tid": "05:00",
@@ -115,6 +115,69 @@
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "Caffè Corretto",
+        "kilde": "Hacker News",
+        "tid": "16:17",
+        "lenke": "https://en.wikipedia.org/wiki/Caff%C3%A8_corretto",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bilen er en smarttelefon på hjul. Her er hvem som lytter",
+        "kilde": "Hacker News",
+        "tid": "15:43",
+        "lenke": "https://automatictransmission.khoury.northeastern.edu/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "RuneScapes posisjon på gen AI",
+        "kilde": "Hacker News",
+        "tid": "15:29",
+        "lenke": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bransjeorganisasjon: – Forsikringsselgere kan få ansvaret for manglende dekning",
+        "kilde": "E24",
+        "tid": "15:05",
+        "lenke": "https://e24.no/privatoekonomi/i/m02qxO/bransjeorganisasjon-forsikringsselgere-kan-faa-ansvaret-for-manglende-dekning?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Brann-trenaren raste etter regnkaoset: – Heilt absurd",
+        "kilde": "NRK Nyheter",
+        "tid": "15:00",
+        "lenke": "https://www.nrk.no/vestland/branns-lange-rekke-tok-slutt-_-aalesund-tente-gullhapet-1.18044951",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Corporate America har aldri vært så optimistisk om fremtidig fortjeneste",
+        "kilde": "MarketWatch",
+        "tid": "14:00",
+        "lenke": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Palantir-toppens eiendommer i Norden",
+        "kilde": "E24",
+        "tid": "13:57",
+        "lenke": "https://e24.no/boers-og-finans/i/8p6GGQ/palantir-toppens-eiendommer-i-norden?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Starte en klokkesamling? Hva nybegynnere bør vite før de kjøper",
+        "kilde": "CNBC Top News",
+        "tid": "13:44",
+        "lenke": "https://www.cnbc.com/2026/10/04/watch-collecting-beginners.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Joachim (24) nekta å følge straumen – enda livet på vegen i USA",
+        "kilde": "NRK Nyheter",
+        "tid": "13:35",
+        "lenke": "https://www.nrk.no/nordland/xl/joachim-lanham-dode-mens-han-skoytet-pa-rulleskoyter-usa-pa-tvers-1.18027252",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "VM-gullet glapp i siste sving: – Det skal ikke være mulig",
         "kilde": "NRK Nyheter",
@@ -193,20 +256,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Berkshire kjøper flere Lennar-aksjer, men kjøpstempoet avtar",
-        "kilde": "CNBC Top News",
-        "tid": "09:33",
-        "lenke": "https://www.cnbc.com/2026/10/03/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vis HN: AI-søk etter hvert bilde og hver videoramme på macOS",
-        "kilde": "Hacker News",
-        "tid": "09:24",
-        "lenke": "https://github.com/allenv0/SCM",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Er det dumt å oppgi at man søker flere jobber?",
         "kilde": "E24",
         "tid": "09:17",
@@ -219,13 +268,6 @@
         "tid": "09:13",
         "lenke": "https://e24.no/internasjonal-oekonomi/i/58J2rm/er-vi-ferdige-med-woke-naa?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "VGHF Digital Archive består av 5000 magasiner. Dette er det neste",
-        "kilde": "Hacker News",
-        "tid": "09:07",
-        "lenke": "https://gamehistory.org/5k-magazines/",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Mener Orkla og Tine slipper billig unna",
@@ -249,13 +291,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Utslipp av metadata tidlig gjør bygging/kontroll av Rust opptil dobbelt så raskt",
-        "kilde": "Hacker News",
-        "tid": "06:26",
-        "lenke": "https://github.com/PowderworksCode/headstart",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Skuffa over Noreg-profilen: – Eit stort mysterium",
         "kilde": "NRK Nyheter",
         "tid": "06:14",
@@ -263,24 +298,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Far og sønn drept da jaktlag ble beskutt",
+        "tittel": "Polititeori: Konflikt før jaktdobbeltdrap",
         "kilde": "NRK Nyheter",
         "tid": "06:03",
         "lenke": "https://www.nrk.no/norge/to-personer-skutt-og-drept-i-halden-_-en-tredje-skadet-1.18044728",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Tre store skip kolliderte ved Ålesund - vet ennå ikke årsaken",
-        "kilde": "NRK Nyheter",
-        "tid": "01:38",
-        "lenke": "https://www.nrk.no/mr/tre-store-skip-har-kollidert-ved-alesund-1.18044704",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Tankbåt og to lasteskip kolliderte ved Ålesund",
-        "kilde": "NRK Nyheter",
-        "tid": "01:17",
-        "lenke": "https://www.nrk.no/nyheter/tankbat-og-to-lasteskip-kolliderte-ved-alesund--1.18044700",
         "engelsk_kilde": false
       },
       {
@@ -305,24 +326,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "– Restvarmen må brukes",
-        "kilde": "E24",
-        "tid": "19:18",
-        "lenke": "https://e24.no/energi-og-klima/i/OkGQkA/restvarmen-maa-brukes?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Disse obligasjonsstrategiene kan hjelpe deg med å få en trygg 5% avkastning på pengene dine",
         "kilde": "MarketWatch",
         "tid": "18:49",
         "lenke": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Jeg vil gjøre henne stolt’: Min mor, en fraskilt kvinne, døde og jeg er hennes eksekutor. Må jeg søke om skifte?",
-        "kilde": "MarketWatch",
-        "tid": "18:30",
-        "lenke": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -331,13 +338,6 @@
         "tid": "17:57",
         "lenke": "https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Zalando holder fast på gratis retur",
-        "kilde": "E24",
-        "tid": "17:38",
-        "lenke": "https://e24.no/naeringsliv/i/pBqeK6/zalando-holder-fast-paa-gratis-retur?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ]
   }
