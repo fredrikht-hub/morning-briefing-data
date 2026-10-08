@@ -1,47 +1,61 @@
 {
   "dato": "2026-10-08",
   "dato_norsk": "Torsdag 8. oktober 2026",
-  "generert_kl": "18:35",
+  "generert_kl": "20:55",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Inflasjonen på mange dagligvarer skyldtes helt og holdent tariffer, sier NY Fed",
+      "tittel": "Federal Reserve Board kunngjør håndhevelsestiltak mot American Express Company for blant annet å adressere firmaets manglende evne til tilstrekkelig å oppdage og rapportere visse mistenkelige aktiviteter knyttet til hvitvasking av penger",
+      "kilde": "Federal Reserve",
+      "tid": "20:30",
+      "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Treasury yields are 'really, really high' but can come down soon, Bessent's new advisor says",
       "kilde": "CNBC Top News",
-      "tid": "17:31",
-      "lenke": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+      "tid": "20:06",
+      "lenke": "https://www.cnbc.com/2026/10/08/treasury-yields-david-zervos.html",
       "engelsk_kilde": true
     },
     {
       "tittel": "Treasury-renter er lavere etter å ha nådd flerårige høyder, handelsmenn veier siste obligasjonsauksjon",
       "kilde": "CNBC Top News",
-      "tid": "17:28",
+      "tid": "20:06",
       "lenke": "https://www.cnbc.com/2026/10/08/us-treasury-yields-30-year-bond-auction.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Obligasjonsrenter falt, da finansmarkedet passerte en avgjørende test av investortillit",
+      "tittel": "Skal jeg sette reiregget mitt i en 30-årig statsobligasjon?",
       "kilde": "MarketWatch",
-      "tid": "18:19",
-      "lenke": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories",
+      "tid": "20:32",
+      "lenke": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Trump sier USA ikke vil angripe Iran før midtveisvalget",
-      "kilde": "CNBC Top News",
-      "tid": "17:41",
-      "lenke": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Finansdepartementet sanksjoner 17 tankskip knyttet til Irans 'skyggeflåte' i økonomisk press kampanje",
-      "kilde": "CNBC Top News",
-      "tid": "17:13",
-      "lenke": "https://www.cnbc.com/2026/10/08/iran-treasury-sanctions-shadow-fleet.html",
-      "engelsk_kilde": true
+      "tittel": "Gaza etter tre år med krig",
+      "kilde": "NRK Nyheter",
+      "tid": "20:30",
+      "lenke": "https://www.nrk.no/urix/xl/dette-er-gaza-etter-tre-ar-med-krig-1.18047555",
+      "engelsk_kilde": false
     }
   ],
   "kategorier": {
     "NORGE": [
+      {
+        "tittel": "Kan miste 40.000 kroner: – Hadde nok funnet på noe annet",
+        "kilde": "NRK Nyheter",
+        "tid": "19:33",
+        "lenke": "https://www.nrk.no/sorlandet/vil-kutte-i-stipend-til-folkehoyskoler---kan-miste-40.000-kroner-1.18048385",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Øy-ordførere fikk sjokk av statsbudsjettet: – Henger ikke i hop",
+        "kilde": "NRK Nyheter",
+        "tid": "19:12",
+        "lenke": "https://www.nrk.no/nordland/statsbudsjettet_-ordforere-overrasket-over-lave-tall-1.18048562",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Skuffelse for norsk Parkinsons-forsking",
         "kilde": "NRK Nyheter",
@@ -66,10 +80,31 @@
     ],
     "MAKRO": [
       {
-        "tittel": "Obligasjonsrenter falt, da finansmarkedet passerte en avgjørende test av investortillit",
+        "tittel": "Skal jeg sette reiregget mitt i en 30-årig statsobligasjon?",
         "kilde": "MarketWatch",
-        "tid": "18:19",
-        "lenke": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories",
+        "tid": "20:32",
+        "lenke": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Federal Reserve Board kunngjør håndhevelsestiltak mot American Express Company for blant annet å adressere firmaets manglende evne til tilstrekkelig å oppdage og rapportere visse mistenkelige aktiviteter knyttet til hvitvasking av penger",
+        "kilde": "Federal Reserve",
+        "tid": "20:30",
+        "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Treasury-renter er lavere etter å ha nådd flerårige høyder, handelsmenn veier siste obligasjonsauksjon",
+        "kilde": "CNBC Top News",
+        "tid": "20:06",
+        "lenke": "https://www.cnbc.com/2026/10/08/us-treasury-yields-30-year-bond-auction.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Treasury yields are 'really, really high' but can come down soon, Bessent's new advisor says",
+        "kilde": "CNBC Top News",
+        "tid": "20:06",
+        "lenke": "https://www.cnbc.com/2026/10/08/treasury-yields-david-zervos.html",
         "engelsk_kilde": true
       },
       {
@@ -78,32 +113,18 @@
         "tid": "17:31",
         "lenke": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Treasury-renter er lavere etter å ha nådd flerårige høyder, handelsmenn veier siste obligasjonsauksjon",
-        "kilde": "CNBC Top News",
-        "tid": "17:28",
-        "lenke": "https://www.cnbc.com/2026/10/08/us-treasury-yields-30-year-bond-auction.html",
-        "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "Hvorfor en langvarig skeptiker av Palantirs aksjer endelig sier at det er på tide å kjøpe",
-        "kilde": "MarketWatch",
-        "tid": "16:32",
-        "lenke": "https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories",
-        "engelsk_kilde": true
+        "tittel": "Brikkeaksjer tynget Wall Street",
+        "kilde": "E24",
+        "tid": "13:31",
+        "lenke": "https://e24.no/boers-og-finans/i/644zgz/nedgang-paa-wall-street?utm_medium=rss",
+        "engelsk_kilde": false
       }
     ],
     "ENERGI_RAAVARER": [
-      {
-        "tittel": "Oljeprisene stiger mens Iran trapper opp tankskipangrepene, orkanen truer den amerikanske gulfproduksjonen",
-        "kilde": "CNBC Top News",
-        "tid": "16:50",
-        "lenke": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
-        "engelsk_kilde": true
-      },
       {
         "tittel": "Hvor oljerik Alberts økonomi kan bli hvis den bryter ut av Canada",
         "kilde": "BBC Business",
@@ -114,41 +135,48 @@
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Microsoft utestenges fra visumprogram",
-        "kilde": "E24",
-        "tid": "18:25",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/GrrQMq/microsoft-utestenges-fra-visumprogram?utm_medium=rss",
-        "engelsk_kilde": false
+        "tittel": "SpaceX avtale om å kjøpe spektrum lisens hammers aksjer i AT&T, Verizon og T-Mobile",
+        "kilde": "CNBC Top News",
+        "tid": "20:54",
+        "lenke": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
+        "engelsk_kilde": true
       },
       {
-        "tittel": "USA suspenderer Microsoft, Adobe fra Green Card Labor Program i utenlandske arbeidstakere",
-        "kilde": "CNBC Top News",
-        "tid": "18:23",
-        "lenke": "https://www.cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html",
+        "tittel": "Det hvite hus blokkerer Microsoft fra ansettelsesprogram for utenlandske arbeidere",
+        "kilde": "BBC Business",
+        "tid": "19:57",
+        "lenke": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
         "tittel": "Nvidia, Oracle, CoreWeave og andre AI-aksjer synker på OpenAI-inntektsrapporten",
         "kilde": "CNBC Top News",
-        "tid": "18:18",
+        "tid": "19:49",
         "lenke": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "OpenAI annualiserte inntekter $ 20B mindre enn tidligere signalisert",
-        "kilde": "Hacker News",
-        "tid": "16:45",
-        "lenke": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a",
+        "tittel": "USA suspenderer Microsoft, Adobe fra Green Card Labor Program i utenlandske arbeidstakere",
+        "kilde": "CNBC Top News",
+        "tid": "18:52",
+        "lenke": "https://www.cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Microsoft utestenges fra visumprogram",
+        "kilde": "E24",
+        "tid": "18:25",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/GrrQMq/microsoft-utestenges-fra-visumprogram?utm_medium=rss",
+        "engelsk_kilde": false
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Lite lettelse forventet for gassprisene før valgdagen, ifølge prediksjonsmarkedene",
-        "kilde": "CNBC Top News",
-        "tid": "17:51",
-        "lenke": "https://www.cnbc.com/2026/10/08/little-relief-expected-for-gas-prices-ahead-of-election-day.html",
-        "engelsk_kilde": true
+        "tittel": "Gaza etter tre år med krig",
+        "kilde": "NRK Nyheter",
+        "tid": "20:30",
+        "lenke": "https://www.nrk.no/urix/xl/dette-er-gaza-etter-tre-ar-med-krig-1.18047555",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Trump sier USA ikke vil angripe Iran før midtveisvalget",
@@ -174,24 +202,108 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "Jeg er en 68 år gammel enke og gir penger til mine to voksne barn. Setter jeg pensjonen min i fare?",
+        "tittel": "En stor AI-super-PAC prøvde å følge kryptoens spillebok for å påvirke midtveisvilkårene. Kritikere sier at det ikke fungerer.",
         "kilde": "MarketWatch",
-        "tid": "18:30",
-        "lenke": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+        "tid": "20:44",
+        "lenke": "https://www.marketwatch.com/story/a-big-ai-super-pac-tried-to-follow-cryptos-playbook-to-influence-the-midterms-critics-say-its-not-working-out-d27911e6?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Ken Paxton har rett. Skattelettelser vil bety kutt i trygden og Medicare.",
+        "tittel": "Motor Forum i Skien kaster inn håndkleet",
+        "kilde": "E24",
+        "tid": "20:32",
+        "lenke": "https://e24.no/naeringsliv/i/EllwWj/motor-forum-i-skien-kaster-inn-haandkleet?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Med boliglånsrenter som stiger over 7,5%, leier de smarte pengene i Amerika",
         "kilde": "MarketWatch",
-        "tid": "18:08",
-        "lenke": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
+        "tid": "20:30",
+        "lenke": "https://www.marketwatch.com/story/with-mortgage-rates-soaring-above-7-5-the-smart-money-rents-in-america-ef0eb5aa?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Amerika stengte kinesiske elbiler ute. Storbritannia ønsket dem velkommen — og står nå overfor et vanskelig valg",
+        "tittel": "Disse beslutningene du tar i 20-årene - ikke inntekten din — avgjør om du vil tilbringe flere tiår i gjeld eller pensjonere deg komfortabelt",
+        "kilde": "MarketWatch",
+        "tid": "20:25",
+        "lenke": "https://www.marketwatch.com/story/these-decisions-you-make-in-your-20s-not-your-income-determine-whether-youll-spend-decades-in-debt-or-retire-comfortably-7bbb28f9?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Major League Baseball foreslår å forkorte den ordinære sesongen mens de presser på for et lønnstak",
         "kilde": "CNBC Top News",
-        "tid": "18:04",
-        "lenke": "https://www.cnbc.com/2026/10/08/autos-china-evs-uk-tariffs-hybrid-cars.html",
+        "tid": "20:16",
+        "lenke": "https://www.cnbc.com/2026/10/08/major-league-baseball-proposes-shorter-season-amid-salary-cap-push.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvorfor en Starbucks-overtakelse av Chipotle ville — og ikke ville — være fornuftig for begge selskapene",
+        "kilde": "CNBC Top News",
+        "tid": "20:12",
+        "lenke": "https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvordan redusere størrelsen som en proff — og frigjøre deg fra å være en \"fange av dine eiendeler\"",
+        "kilde": "MarketWatch",
+        "tid": "19:47",
+        "lenke": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Florida stemmer om å kutte eiendomsskatt. Her er hvem det ville gagne — og skade.",
+        "kilde": "MarketWatch",
+        "tid": "19:41",
+        "lenke": "https://www.marketwatch.com/story/florida-is-voting-on-whether-to-slash-property-taxes-heres-who-it-would-benefit-and-hurt-6c34b470?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vitalik Buterin støtter krypto ‘bunkermodus’ midt i raske AI-matematiske fremskritt",
+        "kilde": "Hacker News",
+        "tid": "19:17",
+        "lenke": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "– Tegn til en lønns- og prisspiral",
+        "kilde": "E24",
+        "tid": "19:15",
+        "lenke": "https://e24.no/boers-og-finans/i/31J55L/tegn-til-en-loenns-og-prisspiral?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Min svoger overbeviste foreldrene sine om å overta hjemmet og sparepengene sine for å kjøpe et boligkompleks verdt $ 3 millioner. Skal jeg gripe inn?",
+        "kilde": "MarketWatch",
+        "tid": "19:15",
+        "lenke": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Verdien av ikke å komme til poenget (2015)",
+        "kilde": "Hacker News",
+        "tid": "19:04",
+        "lenke": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Mannen min arvet $ 3 millioner. Han vil ha feriebolig, men jeg vil spare til pensjonisttilværelsen. Hvem har rett?",
+        "kilde": "MarketWatch",
+        "tid": "19:00",
+        "lenke": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vis HN: K10s – A Clickable Kubernetes Tui (Go, Bubble Tea)",
+        "kilde": "Hacker News",
+        "tid": "18:29",
+        "lenke": "https://github.com/p10node/k10s",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Adidas saksøker den australske etiketten White Fox over fire striper design",
+        "kilde": "BBC Business",
+        "tid": "18:17",
+        "lenke": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
@@ -202,10 +314,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Stigende renter: De gode, de dårlige og de stygge for pensjonister",
-        "kilde": "MarketWatch",
-        "tid": "17:45",
-        "lenke": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
+        "tittel": "Theranos.World",
+        "kilde": "Hacker News",
+        "tid": "17:51",
+        "lenke": "https://www.theranos.world/",
         "engelsk_kilde": true
       },
       {
@@ -223,27 +335,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Den dypt upersonlige personlige rekrutteringsposten",
-        "kilde": "Hacker News",
-        "tid": "17:15",
-        "lenke": "https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vis HN: AI SRE Arena, en åpen referanse for AI SRE-agenter på Kubernetes",
-        "kilde": "Hacker News",
-        "tid": "17:13",
-        "lenke": "https://github.com/edgedelta/project-arena",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Planer om å stenge Marston's Brewery i Burton avslørt",
-        "kilde": "BBC Business",
-        "tid": "17:09",
-        "lenke": "https://www.bbc.co.uk/news/articles/ck8dzq095lj3o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Fløyte: tale til tekst i 16,9 MB",
         "kilde": "Hacker News",
         "tid": "16:59",
@@ -251,38 +342,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hvordan gi garanterte pensjonsinntekter mens du ikke betaler noen provisjoner",
-        "kilde": "MarketWatch",
-        "tid": "16:57",
-        "lenke": "https://www.marketwatch.com/story/how-to-provide-guaranteed-retirement-income-while-paying-no-commissions-b2085511?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg fortsetter å sammenligne meg med mine mer økonomisk vellykkede venner. Hvordan kan jeg stoppe?",
-        "kilde": "MarketWatch",
-        "tid": "16:52",
-        "lenke": "https://www.marketwatch.com/story/i-keep-comparing-myself-to-my-more-financially-successful-friends-how-can-i-stop-716a2009?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Asos-hackere tok flere personlige detaljer enn først avslørt, finner BBC",
         "kilde": "BBC Business",
         "tid": "16:29",
         "lenke": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trinn 5 Forhåndsvisning, en 1M-kontekst MoE fra StepFun, vises på OpenRouter",
-        "kilde": "Hacker News",
-        "tid": "16:20",
-        "lenke": "https://openrouter.ai/stepfun/step-5-preview",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Amerikas leietakere fremstår som en politisk bevegelse",
-        "kilde": "MarketWatch",
-        "tid": "16:11",
-        "lenke": "https://www.marketwatch.com/story/locked-out-of-home-ownership-renters-are-rallying-voters-for-affordable-housing-policies-bf946d70?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -307,41 +370,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Gen Zers er nå de største forbrukerne i kunstmarkedet, undersøkelsesfunn",
-        "kilde": "CNBC Top News",
-        "tid": "14:44",
-        "lenke": "https://www.cnbc.com/2026/10/08/gen-zers-are-now-the-biggest-spenders-in-the-art-market-survey-finds-.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kuben-siktet erkjenner straffskyld for bæring av kniv",
-        "kilde": "NRK Nyheter",
-        "tid": "14:23",
-        "lenke": "https://www.nrk.no/stor-oslo/kuben-siktet-erkjenner-straffskyld-for-baering-av-kniv-1.18049090",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kvinne i 20-årene funnet død i bolig i Stavanger – kjæresten siktet",
-        "kilde": "NRK Nyheter",
-        "tid": "14:21",
-        "lenke": "https://www.nrk.no/rogaland/kvinne-funnet-dod-i-bolig-pa-valand-_-mann-siktet-for-a-ha-unnlatt-a-hjelpe-1.18049661",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Ung kvinne funnet død i Stavanger",
-        "kilde": "NRK Nyheter",
-        "tid": "14:21",
-        "lenke": "https://www.nrk.no/nyheter/ung-kvinne-funnet-dod-i-stavanger-1.18049680",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Chipotle hopper på oppkjøpsrykter",
-        "kilde": "E24",
-        "tid": "13:31",
-        "lenke": "https://e24.no/boers-og-finans/i/644zgz/nedgang-paa-wall-street?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Chrysler Building for å få kronen restaurert etter å ha blitt solgt",
         "kilde": "BBC Business",
         "tid": "12:49",
@@ -356,20 +384,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Fjerde generasjon Hennig-Olsen tar over familiebedriften",
-        "kilde": "E24",
-        "tid": "10:53",
-        "lenke": "https://e24.no/naeringsliv/i/gddaAB/fjerde-generasjon-hennig-olsen-tar-over-familiebedriften?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Lotteritilsynet varsler blokkering av 62 nettsider",
-        "kilde": "E24",
-        "tid": "10:05",
-        "lenke": "https://e24.no/naeringsliv/i/77p9XB/lotteritilsynet-blokkerer-polymarket?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Vi brukte tusenvis på et Tui elvecruise, men endte opp på bussturer",
         "kilde": "BBC Business",
         "tid": "07:11",
@@ -381,13 +395,6 @@
         "kilde": "BBC Business",
         "tid": "04:02",
         "lenke": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vinnerne av dyrelivet som skal vises på pengesedlene dine, er avslørt",
-        "kilde": "BBC Business",
-        "tid": "23:01",
-        "lenke": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
