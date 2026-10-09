@@ -1,63 +1,84 @@
 {
   "dato": "2026-10-09",
   "dato_norsk": "Fredag 9. oktober 2026",
-  "generert_kl": "11:13",
+  "generert_kl": "14:49",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Sør-Afrikas advokat 'Navi' Pillay vinner Nobels fredspris for arbeidet med å straffeforfølge krigsforbrytelser, folkemord",
+      "tittel": "Amerikanernes gjeldsproblemer blinker en advarsel som ikke er sett siden den store resesjonen",
       "kilde": "CNBC Top News",
-      "tid": "11:11",
-      "lenke": "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
+      "tid": "14:30",
+      "lenke": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "OpenAI og Anthropic stjeler Trump-tjenestemenn mens industrien kjemper for Washingtons tillit",
+      "tittel": "Finansdepartementets Bessent ansetter Trumps kontroversielle tidligere Fed-styrevalg, Judy Shelton, som rådgiver",
       "kilde": "CNBC Top News",
-      "tid": "11:00",
-      "lenke": "https://www.cnbc.com/2026/10/09/openai-anthropic-poach-trump-officials.html",
+      "tid": "13:09",
+      "lenke": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Siktet for drapsforsøk etter voldshendelse i Oslo",
-      "kilde": "NRK Nyheter",
-      "tid": "08:29",
-      "lenke": "https://www.nrk.no/stor-oslo/siktet-for-drapsforsok-etter-voldshendelse-i-oslo-1.18050122",
+      "tittel": "Federal Reserve Board offentliggjør resultatene av 2025 Survey of Consumer Finances, som gir publikum og beslutningstakere detaljert innsikt i den økonomiske tilstanden til amerikanske familier",
+      "kilde": "Federal Reserve",
+      "tid": "14:00",
+      "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Solid oppgang på Oslo Børs",
+      "kilde": "E24",
+      "tid": "14:28",
+      "lenke": "https://e24.no/boers-og-finans/i/p11P76/oljeaksjer-faller-paa-flat-oslo-boers?utm_medium=rss",
       "engelsk_kilde": false
     },
     {
-      "tittel": "Delta Air Lines kutter prognosen for drivstofføkning i 2026, men administrerende direktør sier at etterspørselen fortsatt er sterk",
-      "kilde": "CNBC Top News",
-      "tid": "10:47",
-      "lenke": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Leve med mor og handle på margin. Den vanlige investoren kommer inn på Wall Streets rekordstore lånebinge",
-      "kilde": "CNBC Top News",
-      "tid": "11:00",
-      "lenke": "https://www.cnbc.com/2026/10/09/margin-debt-stock-market-risk.html",
+      "tittel": "Skal jeg sette reiregget mitt i en 30-årig statsobligasjon?",
+      "kilde": "MarketWatch",
+      "tid": "13:51",
+      "lenke": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "Siktet for drapsforsøk etter voldshendelse i Oslo",
-        "kilde": "NRK Nyheter",
-        "tid": "08:29",
-        "lenke": "https://www.nrk.no/stor-oslo/siktet-for-drapsforsok-etter-voldshendelse-i-oslo-1.18050122",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Gjensidige stiger på flat Oslo Børs",
+        "tittel": "Solid oppgang på Oslo Børs",
         "kilde": "E24",
-        "tid": "07:03",
+        "tid": "14:28",
         "lenke": "https://e24.no/boers-og-finans/i/p11P76/oljeaksjer-faller-paa-flat-oslo-boers?utm_medium=rss",
         "engelsk_kilde": false
       }
     ],
     "MAKRO": [
+      {
+        "tittel": "Amerikanernes gjeldsproblemer blinker en advarsel som ikke er sett siden den store resesjonen",
+        "kilde": "CNBC Top News",
+        "tid": "14:30",
+        "lenke": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Federal Reserve Board offentliggjør resultatene av 2025 Survey of Consumer Finances, som gir publikum og beslutningstakere detaljert innsikt i den økonomiske tilstanden til amerikanske familier",
+        "kilde": "Federal Reserve",
+        "tid": "14:00",
+        "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Skal jeg sette reiregget mitt i en 30-årig statsobligasjon?",
+        "kilde": "MarketWatch",
+        "tid": "13:51",
+        "lenke": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Finansdepartementets Bessent ansetter Trumps kontroversielle tidligere Fed-styrevalg, Judy Shelton, som rådgiver",
+        "kilde": "CNBC Top News",
+        "tid": "13:09",
+        "lenke": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Federal Reserve Board kunngjør håndhevelsestiltak mot American Express Company for blant annet å adressere firmaets manglende evne til tilstrekkelig å oppdage og rapportere visse mistenkelige aktiviteter knyttet til hvitvasking av penger",
         "kilde": "Federal Reserve",
@@ -68,120 +89,80 @@
     ],
     "MARKEDER": [
       {
-        "tittel": "Aldrende bull: Hvorfor fire år gamle aksjemarkedet rally kan fortsatt pakke en punch",
-        "kilde": "MarketWatch",
-        "tid": "11:02",
-        "lenke": "https://www.marketwatch.com/story/aging-bull-why-the-four-year-old-stock-market-rally-can-still-pack-a-punch-d1271631?mod=mw_rss_topstories",
+        "tittel": "Wall Street selger datasentre som en stor eiendomsinnsats. Risikoen hoper seg opp",
+        "kilde": "CNBC Top News",
+        "tid": "13:59",
+        "lenke": "https://www.cnbc.com/2026/10/09/ai-data-centers-investing.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Leve med mor og handle på margin. Den vanlige investoren kommer inn på Wall Streets rekordstore lånebinge",
-        "kilde": "CNBC Top News",
-        "tid": "11:00",
-        "lenke": "https://www.cnbc.com/2026/10/09/margin-debt-stock-market-risk.html",
+        "tittel": "Etter hvert som aksjene i AT&T, Verizon og T-Mobile faller, vurderer Wall Street den voksende SpaceX-trusselen",
+        "kilde": "MarketWatch",
+        "tid": "13:59",
+        "lenke": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
         "tittel": "Delta Air Lines kutter prognosen for drivstofføkning i 2026, men administrerende direktør sier at etterspørselen fortsatt er sterk",
         "kilde": "CNBC Top News",
-        "tid": "10:47",
+        "tid": "13:38",
         "lenke": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hvorfor prisen på denne ene ETF-en har gått eksponentielt",
-        "kilde": "MarketWatch",
-        "tid": "09:12",
-        "lenke": "https://www.marketwatch.com/story/why-the-price-of-this-one-exchange-traded-fund-has-suddenly-gone-exponential-7ef3d93d?mod=mw_rss_topstories",
-        "engelsk_kilde": true
+        "tittel": "Wall Street snur opp med comeback for tekgiganter",
+        "kilde": "E24",
+        "tid": "13:33",
+        "lenke": "https://e24.no/boers-og-finans/i/311opP/bred-oppgang-paa-wall-street-spacex-hopper-2-6-prosent?utm_medium=rss",
+        "engelsk_kilde": false
       },
       {
-        "tittel": "Hvorfor ett Wall Street-firma ser paralleller til slutten av 1970-tallet og anbefaler å korte amerikanske aksjer",
-        "kilde": "MarketWatch",
-        "tid": "08:49",
-        "lenke": "https://www.marketwatch.com/story/why-one-wall-street-firm-sees-parallels-to-the-late-1970s-and-recommends-shorting-u-s-stocks-bbd0ebd2?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nvidia-støttet datasenterfirma skraper IPO som AI-vurdering bekymringer utdype",
-        "kilde": "BBC Business",
-        "tid": "07:14",
-        "lenke": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Tokenisering kan frigjøre titalls milliarder dollar i fanget kapital, sier Nasdaq-sjef",
+        "tittel": "Teknologiske aksjers motstandskraft har forvirret investorer. Opsjonsmarkedet kan inneholde noen ledetråder",
         "kilde": "CNBC Top News",
-        "tid": "06:30",
-        "lenke": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
+        "tid": "13:07",
+        "lenke": "https://www.cnbc.com/2026/10/09/tech-stocks-resilience-has-puzzled-investors-the-options-market-could-hold-some-clues.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Leve med mor og handle på margin. Den vanlige investoren kommer inn på Wall Streets rekordstore lånebinge",
+        "kilde": "CNBC Top News",
+        "tid": "13:03",
+        "lenke": "https://www.cnbc.com/2026/10/09/margin-debt-stock-market-risk.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "ENERGI_RAAVARER": [
+      {
+        "tittel": "Orkanen Isaias forstyrrer amerikansk oljeproduksjon i Mexicogolfen, truer raffinerier",
+        "kilde": "CNBC Top News",
+        "tid": "14:13",
+        "lenke": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html",
         "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "OpenAI og Anthropic stjeler Trump-tjenestemenn mens industrien kjemper for Washingtons tillit",
-        "kilde": "CNBC Top News",
-        "tid": "11:00",
-        "lenke": "https://www.cnbc.com/2026/10/09/openai-anthropic-poach-trump-officials.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "OpenAI forsvarer beslutningen om å sparke forskere: 'Disse beslutningene handlet ikke om å heve sikkerhetsbekymringer eller snakke ut'",
-        "kilde": "CNBC Top News",
-        "tid": "10:12",
-        "lenke": "https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-concerns.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Har iPhone 18 behov for avkjøling? Her er hvor dypt Apple angivelig kutter komponentbestillinger",
-        "kilde": "MarketWatch",
-        "tid": "10:04",
-        "lenke": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "OpenAI sparker tre sikkerhetsforskere for «feilhåndtering av forskningsinformasjon»",
-        "kilde": "Hacker News",
-        "tid": "10:00",
-        "lenke": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "SpaceXs Starlink Mobile-planer presser AT&T og Verizon-aksjer",
-        "kilde": "MarketWatch",
-        "tid": "00:52",
-        "lenke": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "SpaceX avtale om å kjøpe spektrum lisens hammers aksjer i AT&T, Verizon og T-Mobile",
-        "kilde": "CNBC Top News",
-        "tid": "22:55",
-        "lenke": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Det hvite hus blokkerer Microsoft fra ansettelsesprogram for utenlandske arbeidere",
+        "tittel": "Sparket OpenAI-forskere sier de ble sluppet for å \"prioritere sikkerhet\"",
         "kilde": "BBC Business",
-        "tid": "21:37",
-        "lenke": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
+        "tid": "09:30",
+        "lenke": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Sør-Afrikas advokat 'Navi' Pillay vinner Nobels fredspris for arbeidet med å straffeforfølge krigsforbrytelser, folkemord",
+        "tittel": "Trump oppnevner komité for å undersøke uttalelser fra Feds Lisa Cook",
         "kilde": "CNBC Top News",
-        "tid": "11:11",
-        "lenke": "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
+        "tid": "14:29",
+        "lenke": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Pilot drept i angrep av Iran-støttede houthier på Riyadh flyplass; Saudi-ledet koalisjon lover 'fast' respons",
-        "kilde": "CNBC Top News",
-        "tid": "10:37",
-        "lenke": "https://www.cnbc.com/2026/10/09/saudi-us-iran-war-trump-hormuz.html",
-        "engelsk_kilde": true
+        "tittel": "Trump kritisk til fredsprisen",
+        "kilde": "NRK Nyheter",
+        "tid": "13:43",
+        "lenke": "https://www.nrk.no/nyheter/trump-kritisk-til-fredsprisen-1.18050903",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Trump ønsker å redusere kostnadene for drivstoff som midterms vevstol - vil det fungere?",
@@ -193,25 +174,158 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "India kaller JD Vances kommentarer om innvandrere «dypt støtende»",
-        "kilde": "CNBC Top News",
-        "tid": "10:38",
-        "lenke": "https://www.cnbc.com/2026/10/09/india-us-immigration-h1b-visa.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg er en 68 år gammel enke og gir penger til mine to voksne barn. Setter jeg pensjonen min i fare?",
+        "tittel": "GLP-1-medisiner kan lindre rygg- og knesmerter, men leger sier at det er risiko for eldre voksne",
         "kilde": "MarketWatch",
-        "tid": "10:15",
-        "lenke": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+        "tid": "14:38",
+        "lenke": "https://www.marketwatch.com/story/glp-1s-could-offer-unexpected-relief-from-back-and-knee-pain-but-doctors-urge-caution-b0de1609?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nobels fredspris for 2026 til Navanethem «NAVI» Pillay",
-        "kilde": "Hacker News",
-        "tid": "10:12",
-        "lenke": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+        "tittel": "Ex-Deutsche Bank trader fengslet for rigging priser har overbevisning veltet",
+        "kilde": "BBC Business",
+        "tid": "14:36",
+        "lenke": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ken Paxton har rett. Skattelettelser vil bety kutt i trygden og Medicare.",
+        "kilde": "MarketWatch",
+        "tid": "14:36",
+        "lenke": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kalshi kommer for \"Dancing with the Stars\" -fans",
+        "kilde": "MarketWatch",
+        "tid": "14:34",
+        "lenke": "https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Studenter må bruke kredittkort bare for å dekke grunnleggende levekostnader. Her er hva det koster dem.",
+        "kilde": "MarketWatch",
+        "tid": "14:33",
+        "lenke": "https://www.marketwatch.com/story/more-college-students-have-to-use-credit-cards-just-to-cover-basic-living-expenses-heres-what-its-costing-them-cfd82561?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Dette diagrammet viser den viktigste grunnen til at kostnadene ved å oppdra barn økte med 60% på åtte år",
+        "kilde": "MarketWatch",
+        "tid": "14:30",
+        "lenke": "https://www.marketwatch.com/story/this-chart-shows-the-no-1-reason-why-the-cost-of-raising-kids-jumped-60-in-eight-years-175a2309?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Florida stemmer om å kutte eiendomsskatt. Her er hvem det ville gagne — og skade.",
+        "kilde": "MarketWatch",
+        "tid": "14:28",
+        "lenke": "https://www.marketwatch.com/story/florida-is-voting-on-whether-to-slash-property-taxes-heres-who-it-would-benefit-and-hurt-6c34b470?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Yandex tar et nytt datasentertreff på 48 timer",
+        "kilde": "Hacker News",
+        "tid": "14:20",
+        "lenke": "https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Retten kaster ut drapsmannens dom etter at dommeren sa at han elsket AI-video av offeret",
+        "kilde": "Hacker News",
+        "tid": "14:14",
+        "lenke": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "NBA-kommissær sier at ligaen ønsker tilgang til prediksjonsmarkedsdata for å oppdage manipulasjon",
+        "kilde": "CNBC Top News",
+        "tid": "14:12",
+        "lenke": "https://www.cnbc.com/2026/10/09/nba-commissioner-says-league-wants-access-to-prediction-market-data-to-detect-manipulation.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "2,4 millioner over prisantydning",
+        "kilde": "E24",
+        "tid": "14:08",
+        "lenke": "https://e24.no/norsk-oekonomi/i/Ogg0bO/2-4-millioner-over-prisantydning?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "ICE vil ikke stoppe håndhevelsen i NY etter Bronx-skyting, sier DHSs Mullin",
+        "kilde": "CNBC Top News",
+        "tid": "13:59",
+        "lenke": "https://www.cnbc.com/2026/10/09/ice-bronx-shooting-mamdani-dhs.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Titalls ble syke: Omstridt offshore-helikopter settes på bakken igjen",
+        "kilde": "NRK Nyheter",
+        "tid": "13:40",
+        "lenke": "https://www.nrk.no/rogaland/equinor-setter-aw189-helikopteret-pa-bakken-1.18050767",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Enige om Mjøssykehuset i Moelv: – Nå skal vi klare å løse det",
+        "kilde": "NRK Nyheter",
+        "tid": "13:27",
+        "lenke": "https://www.nrk.no/innlandet/enige-om-mjossykehuset-i-moelv_-_-na-skal-vi-klare-a-lose-det-1.18050325",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vår $ 445M serie D",
+        "kilde": "Hacker News",
+        "tid": "13:12",
+        "lenke": "https://oxide.computer/blog/our-445m-series-d",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Deno blir med i Cloudflare",
+        "kilde": "Hacker News",
+        "tid": "13:03",
+        "lenke": "https://deno.com/blog/cloudflare",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Burnham lover å dempe konkurranseklausuler i jobbkontrakter",
+        "kilde": "BBC Business",
+        "tid": "13:02",
+        "lenke": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Studie: Trening øker kreftoverlevelsesraten",
+        "kilde": "Hacker News",
+        "tid": "12:49",
+        "lenke": "https://www.nejm.org/doi/10.1056/NEJMoa2502760",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Anthropic forbyr brukere fra å være «grusomme» mot sine AI-systemer",
+        "kilde": "BBC Business",
+        "tid": "12:34",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Høyre gir grønt lys: Sikrer framtiden til gigantisk havvindprosjekt",
+        "kilde": "NRK Nyheter",
+        "tid": "12:10",
+        "lenke": "https://www.nrk.no/rogaland/hoyre-gir-klarsignal-til-havvindprosjektet-utsira-nord-1.18050705",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Italiensk vinhus frastjålet 30.000 flasker vin",
+        "kilde": "E24",
+        "tid": "11:58",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/OggpJk/italiensk-vinhus-frastjaalet-30-000-flasker-vin?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "To menn skal ha valdteke mannleg kollega på brakkerigg – ein av dei erkjenner straff­skuld",
+        "kilde": "NRK Nyheter",
+        "tid": "11:19",
+        "lenke": "https://www.nrk.no/mr/to-menn-er-tiltalt-for-grov-valdtekt-pa-brakkerigg-_-no-ma-dei-mote-i-sunnmore-tingrett-1.18041252",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Mobiloperatør-fall etter Musk-nyhet",
@@ -256,13 +370,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "‘Jeg føler meg som en taper’: Mine ETF-er går opp en dag og krasjer den neste. Er dette et dårlig tegn?",
-        "kilde": "MarketWatch",
-        "tid": "09:15",
-        "lenke": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Steile fronter mellom Erling Braut Haaland og Norwegian",
         "kilde": "NRK Nyheter",
         "tid": "09:06",
@@ -270,18 +377,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Nobels fredspris går til Navi Pillay",
+        "tittel": "Nobels fredspris går til Navi Pillay: – Den største og fineste utmerkelsen jeg har mottatt",
         "kilde": "E24",
         "tid": "09:04",
         "lenke": "https://e24.no/naeringsliv/i/vllwrV/nobels-fredspris-gaar-til-navi-pillay?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Jelly Roll og Bunnie Xo skal selge $ 7 millioner hjem i Tennessee som han ga henne i skilsmisse",
-        "kilde": "MarketWatch",
-        "tid": "08:58",
-        "lenke": "https://www.marketwatch.com/story/jelly-roll-and-bunnie-xo-set-to-sell-7-million-tennessee-home-he-gave-her-in-divorce-85dcb7c3?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Rashid (18) omkom i samanstøyt med lastebil – no er saka lagd bort",
@@ -298,90 +398,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Kan bli flystreik",
-        "kilde": "E24",
-        "tid": "08:02",
-        "lenke": "https://e24.no/naeringsliv/i/Qggg0W/kan-bli-flystreik?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kritisk skadd etter fallulykke i tunnel",
-        "kilde": "NRK Nyheter",
-        "tid": "07:56",
-        "lenke": "https://www.nrk.no/buskerud/kritisk-skadd-etter-fallulykke-i-tunnel-1.18050290",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kristisk skadd etter fallulykke i tunnel",
-        "kilde": "NRK Nyheter",
-        "tid": "07:10",
-        "lenke": "https://www.nrk.no/buskerud/kristisk-skadd-etter-fallulykke-i-tunnel-1.18050217",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Konkurransetilsynet vil se nærmere på oppkjøp",
-        "kilde": "E24",
-        "tid": "07:06",
-        "lenke": "https://e24.no/naeringsliv/i/w33rKG/konkurransetilsynet-vil-se-naermere-paa-oppkjoep?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "OTel-innfødt etter design – Byggeprodukter som eksporteres til en hvilken som helst observasjonsstabel",
-        "kilde": "Hacker News",
-        "tid": "06:54",
-        "lenke": "https://opentelemetry.io/blog/2026/otel-native-by-design/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Slår alarm rundt fremtidig keeperproblem: – Prøv selv",
-        "kilde": "NRK Nyheter",
-        "tid": "06:48",
-        "lenke": "https://www.nrk.no/sport/landslagsprofilene-cecilie-fiskerstrand-og-jon-knudsen-er-bekymret-for-et-fremtidig-keeperproblem-1.18049819",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Gjorde plutselig Nobel-byks",
-        "kilde": "E24",
-        "tid": "06:19",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/JrrxGj/gjorde-plutselig-nobel-byks?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "MXC - et system for kjøring av sandkassekode",
-        "kilde": "Hacker News",
-        "tid": "05:51",
-        "lenke": "https://github.com/microsoft/mxc",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Unik Olav den hellige-mynt funnet i norgeshistoriens største vikingmyntskatt",
-        "kilde": "NRK Nyheter",
-        "tid": "05:36",
-        "lenke": "https://www.nrk.no/innlandet/unik-olav-den-hellige-mynt-funnet-i-norgeshistoriens-storste-vikingmyntskatt-1.18050132",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Vis HN: Quake portert til safe Rust, spillbar i nettleseren",
-        "kilde": "Hacker News",
-        "tid": "05:22",
-        "lenke": "https://quake-srp.pages.dev/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "\"Du kan ikke bygge denne bilen noe annet sted i verden\"",
-        "kilde": "BBC Business",
-        "tid": "05:11",
-        "lenke": "https://www.bbc.co.uk/news/articles/cmx2q7rlxxw8o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Mark Zuckerberg har et imageproblem - så hvorfor blomstrer Metas virksomhet?",
-        "kilde": "BBC Business",
-        "tid": "23:14",
-        "lenke": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Hvorfor er ikke flere tak laget av solfliser?",
         "kilde": "BBC Business",
         "tid": "23:09",
@@ -393,13 +409,6 @@
         "kilde": "BBC Business",
         "tid": "23:05",
         "lenke": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Major League Baseball foreslår å forkorte den ordinære sesongen mens de presser på for et lønnstak",
-        "kilde": "CNBC Top News",
-        "tid": "20:16",
-        "lenke": "https://www.cnbc.com/2026/10/08/major-league-baseball-proposes-shorter-season-amid-salary-cap-push.html",
         "engelsk_kilde": true
       }
     ]
