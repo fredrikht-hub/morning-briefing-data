@@ -1,9 +1,23 @@
 {
   "dato": "2026-10-10",
   "dato_norsk": "Lørdag 10. oktober 2026",
-  "generert_kl": "14:07",
+  "generert_kl": "17:06",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
+    {
+      "tittel": "Trump kunngjør avtale for russisk diesel som Zelenskyj kaller det en gave til Putin",
+      "kilde": "BBC Business",
+      "tid": "14:24",
+      "lenke": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "‘Jeg føler meg som en taper’: Aksjeporteføljen min svinger vilt. Er det endelig på tide å bekymre seg?",
+      "kilde": "MarketWatch",
+      "tid": "15:05",
+      "lenke": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
     {
       "tittel": "Putin videreformidlet Iran-krigsforslag til Trump, sier Kreml",
       "kilde": "CNBC Top News",
@@ -12,61 +26,45 @@
       "engelsk_kilde": true
     },
     {
-      "tittel": "Fredsprisvinneren om Trumps sanksjoner mot ICC: – Uhørt og uakseptabelt",
-      "kilde": "NRK Nyheter",
-      "tid": "12:52",
-      "lenke": "https://www.nrk.no/nyheter/fredsprisvinneren-om-trumps-sanksjoner-mot-icc_-_-uhort-og-uakseptabelt-1.18051372",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Hvorfor Nvidias aksjer unngår AI-kredittskrekken som knuser Broadcom og Oracle",
-      "kilde": "MarketWatch",
-      "tid": "12:30",
-      "lenke": "https://www.marketwatch.com/story/why-nvidias-stock-is-dodging-the-ai-credit-scare-that-is-crushing-broadcom-and-oracle-abc8f598?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Trumps dieselavtale med Putin anklaget for å være i strid med Russlands sanksjonslov",
+      "tittel": "Vance sier at Microsoft erstattet permitterte med utenlandske ansatte. Her er hva VISA-dataene viser",
       "kilde": "CNBC Top News",
-      "tid": "02:09",
-      "lenke": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
+      "tid": "14:22",
+      "lenke": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Trump kunngjør avtale for russisk diesel som Zelenskyj kaller det en gave til Putin",
-      "kilde": "BBC Business",
-      "tid": "04:38",
-      "lenke": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "tittel": "Tom Brown brukte GOP-bånd til å megle en $ 1,25B/måned SpaceX-beregningsavtale",
+      "kilde": "Hacker News",
+      "tid": "15:04",
+      "lenke": "https://wsj.com/tech/ai/tom-brown-athropic-669005ad",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "MARKEDER": [
       {
-        "tittel": "S&P 500 på 10 000 eller bust: Ny ETF tilbyr investorer alt-eller-ingenting-innsats på indeksen",
+        "tittel": "‘Jeg føler meg som en taper’: Aksjeporteføljen min svinger vilt. Er det endelig på tide å bekymre seg?",
         "kilde": "MarketWatch",
-        "tid": "11:00",
-        "lenke": "https://www.marketwatch.com/story/s-p-500-at-10-000-or-bust-new-etf-offers-investors-all-or-nothing-bet-on-the-index-c7d9269f?mod=mw_rss_topstories",
+        "tid": "15:05",
+        "lenke": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Cramers uke fremover: Inntektene starter når banker og brikkeprodusenter står overfor store tester",
-        "kilde": "CNBC Top News",
-        "tid": "22:22",
-        "lenke": "https://www.cnbc.com/2026/10/09/jim-cramer-week-ahead-bank-earnings-ai-chips.html",
-        "engelsk_kilde": true
-      }
-    ],
-    "ENERGI_RAAVARER": [
-      {
-        "tittel": "Varsler kamp for verna fosser: – Ingen strøm å avse til datasenter",
-        "kilde": "NRK Nyheter",
-        "tid": "08:51",
-        "lenke": "https://www.nrk.no/trondelag/vil-ha-kraftutbygging-i-verna-vassdrag-i-trondelag-og-troms-1.18038704",
-        "engelsk_kilde": false
       }
     ],
     "TEKNOLOGI": [
+      {
+        "tittel": "Tom Brown brukte GOP-bånd til å megle en $ 1,25B/måned SpaceX-beregningsavtale",
+        "kilde": "Hacker News",
+        "tid": "15:04",
+        "lenke": "https://wsj.com/tech/ai/tom-brown-athropic-669005ad",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vance sier at Microsoft erstattet permitterte med utenlandske ansatte. Her er hva VISA-dataene viser",
+        "kilde": "CNBC Top News",
+        "tid": "14:22",
+        "lenke": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Hvorfor Nvidias aksjer unngår AI-kredittskrekken som knuser Broadcom og Oracle",
         "kilde": "MarketWatch",
@@ -80,23 +78,16 @@
         "tid": "11:00",
         "lenke": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Apple/macOS fjernet lydløst fra det offisielle Unix-registeret",
-        "kilde": "Hacker News",
-        "tid": "10:57",
-        "lenke": "https://www.opengroup.org//openbrand/register/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "`123456' passord brukt i dansk HLR-datainnbrudd",
-        "kilde": "Hacker News",
-        "tid": "09:51",
-        "lenke": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-        "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
+      {
+        "tittel": "Trump kunngjør avtale for russisk diesel som Zelenskyj kaller det en gave til Putin",
+        "kilde": "BBC Business",
+        "tid": "14:24",
+        "lenke": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Putin videreformidlet Iran-krigsforslag til Trump, sier Kreml",
         "kilde": "CNBC Top News",
@@ -119,20 +110,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Verden trenger Ukrainas korn. Bøndene er i ferd med å gå tom for grunner til å plante",
-        "kilde": "CNBC Top News",
-        "tid": "05:00",
-        "lenke": "https://www.cnbc.com/2026/10/10/ukraine-grain-exports-russia-harvest.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trump kunngjør avtale for russisk diesel som Zelenskyj kaller det en gave til Putin",
-        "kilde": "BBC Business",
-        "tid": "04:38",
-        "lenke": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Trumps dieselavtale med Putin anklaget for å være i strid med Russlands sanksjonslov",
         "kilde": "CNBC Top News",
         "tid": "02:09",
@@ -152,22 +129,106 @@
         "tid": "19:32",
         "lenke": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trump: Russland skal levere diesel til USA og verdensmarkedet",
-        "kilde": "E24",
-        "tid": "19:02",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/d77x3B/trump-russland-skal-levere-diesel-til-usa-og-verdensmarkedet?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "Elon Musk er nå rikere enn noen amerikaner noensinne — og det er ikke engang i nærheten",
+        "kilde": "MarketWatch",
+        "tid": "16:50",
+        "lenke": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ni drept etter masseskyting i Pennsylvania",
+        "kilde": "NRK Nyheter",
+        "tid": "16:45",
+        "lenke": "https://www.nrk.no/nyheter/ni-drept-etter-masseskyting-i-pennsylvania-1.18051505",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Staten tar rekordutbytte i Bane Nor",
+        "kilde": "E24",
+        "tid": "16:42",
+        "lenke": "https://e24.no/norsk-oekonomi/i/R55Rea/staten-tar-rekordutbytte-i-bane-nor?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "AI kaster en piknik langs veien",
+        "kilde": "Hacker News",
+        "tid": "16:19",
+        "lenke": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "En venn i 80-årene falt ned kjellertrappen hennes. Er dette en skjult fare som lurer i folks hjem?",
+        "kilde": "MarketWatch",
+        "tid": "16:00",
+        "lenke": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Knuth belønningssjekk",
+        "kilde": "Hacker News",
+        "tid": "15:47",
+        "lenke": "https://www.thomas-huehn.com/knuth-reward-check",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvordan protein tok over verden",
+        "kilde": "Hacker News",
+        "tid": "15:40",
+        "lenke": "https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "\"Jeg har ingen barn\": Tanten min ga meg $ 50 000 for en forskuddsbetaling. Nå vil hun at jeg skal forlate hjemmet mitt til hennes to barn.",
+        "kilde": "MarketWatch",
+        "tid": "15:30",
+        "lenke": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Christa Pike skrevet ut fra sykehus",
+        "kilde": "NRK Nyheter",
+        "tid": "15:26",
+        "lenke": "https://www.nrk.no/nyheter/christa-pike-skrevet-ut-fra-sykehus-1.18051473",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Saudisk flyplass angrepet igjen, ifølge myndighetene",
+        "kilde": "NRK Nyheter",
+        "tid": "15:21",
+        "lenke": "https://www.nrk.no/nyheter/saudisk-flyplass-angrepet-igjen_-ifolge-myndighetene-1.18051422",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "PVX-001: åpen kildekode Covid-19-vaksine starter fase 1-studie",
+        "kilde": "Hacker News",
+        "tid": "15:10",
+        "lenke": "https://chronicles.popvax.com/p/popvax-goes-clinical",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "JPMorgan gjør bullish call i fast inntekt plass, antyder at det er en gang i en generasjon mulighet",
+        "kilde": "CNBC Top News",
+        "tid": "15:00",
+        "lenke": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Lanserer podkast: –  Bare 12 prosent er egentlig optimistiske til fremtiden",
         "kilde": "E24",
         "tid": "14:03",
         "lenke": "https://e24.no/naeringsliv/i/8Gq3aA/lanserer-podkast-bare-12-prosent-er-egentlig-optimistiske-til-fremtiden?utm_medium=rss",
         "engelsk_kilde": false
+      },
+      {
+        "tittel": "Hvordan utryddelse av stygge ulver og ullmammuter kan forlenge menneskelivet",
+        "kilde": "CNBC Top News",
+        "tid": "14:00",
+        "lenke": "https://www.cnbc.com/2026/10/10/de-extincting-dire-wolves-woolly-mammoths-help-humans.html",
+        "engelsk_kilde": true
       },
       {
         "tittel": "En skje om dagen?",
@@ -191,13 +252,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Jeg vil at verdien av hjemmet mitt skal stige, mens eiendomsskattene mine faller",
-        "kilde": "Hacker News",
-        "tid": "13:29",
-        "lenke": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Influensasesongen er allerede her. Her er hva du bør vite om årets influensavaksiner.",
         "kilde": "MarketWatch",
         "tid": "13:19",
@@ -209,20 +263,6 @@
         "kilde": "MarketWatch",
         "tid": "13:15",
         "lenke": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "\"Smerten var uutholdelig\": En venn i 80-årene falt ned kjellertrappen hennes. Hva kunne vi ha gjort for å forhindre det?",
-        "kilde": "MarketWatch",
-        "tid": "13:15",
-        "lenke": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Lobbyvirksomhet er korrupsjon",
-        "kilde": "Hacker News",
-        "tid": "13:05",
-        "lenke": "https://carette.xyz/posts/lobbying_and_corruption/",
         "engelsk_kilde": true
       },
       {
@@ -254,20 +294,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hollywood tar på seg Zuckerberg, Musk og Altman midt i utbredt angst over AI",
-        "kilde": "CNBC Top News",
-        "tid": "12:00",
-        "lenke": "https://www.cnbc.com/2026/10/10/ai-movies-tech-ceos-hollywood.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘What you don' t know is greater than anything you do know ’: Hvordan Ray Dalio ville bygge en portefølje for å motstå en popping AI-boble",
-        "kilde": "MarketWatch",
-        "tid": "12:00",
-        "lenke": "https://www.marketwatch.com/story/what-you-dont-know-is-greater-than-anything-you-do-know-how-ray-dalio-would-build-a-portfolio-to-withstand-a-popping-ai-bubble-2491ac6b?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Jaktlag trefte bustadhus: – Svært ubehageleg",
         "kilde": "NRK Nyheter",
         "tid": "11:55",
@@ -280,20 +306,6 @@
         "tid": "11:18",
         "lenke": "https://e24.no/energi-og-klima/i/w3dyWG/begynner-aa-bli-litt-desperat?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "\"Jeg har ingen barn\": Tanten min ga meg $ 50 000 for en forskuddsbetaling. Nå vil hun at jeg skal forlate hjemmet mitt til hennes to barn.",
-        "kilde": "MarketWatch",
-        "tid": "11:00",
-        "lenke": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Talorys – en personlig AI-agent som er vert for seg selv på Cloudflares gratisnivå",
-        "kilde": "Hacker News",
-        "tid": "10:52",
-        "lenke": "https://github.com/rociiu/talorys",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Nye forhandlinger i togstreiken: – Vi sitter i samtaler",
@@ -317,24 +329,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Han blei sett på som et monster. Hjemme hos Lise var han barnevakt",
-        "kilde": "NRK Nyheter",
-        "tid": "08:34",
-        "lenke": "https://www.nrk.no/trondelag/xl/_rottenikken_-blei-brukt-for-a-skremme-unger-i-hele-norge-_-men-endte-som-barnevakt-i-larvik-1.17795588",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Aqualis vil bytte markedsplass etter Jens-grep",
         "kilde": "E24",
         "tid": "08:17",
         "lenke": "https://e24.no/boers-og-finans/i/L3o7n4/aqualis-vil-bytte-markedsplass-etter-jens-grep?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Stopper togene igjen – men denne gang er det planlagt",
-        "kilde": "NRK Nyheter",
-        "tid": "08:04",
-        "lenke": "https://www.nrk.no/stor-oslo/oslo-s-helt-stengt-lordag-1.18050432",
         "engelsk_kilde": false
       },
       {
@@ -363,20 +361,6 @@
         "kilde": "BBC Business",
         "tid": "23:01",
         "lenke": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Burnham lover å dempe konkurranseklausuler i jobbkontrakter",
-        "kilde": "BBC Business",
-        "tid": "16:15",
-        "lenke": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Ex-Deutsche Bank trader fengslet for rigging priser har overbevisning veltet",
-        "kilde": "BBC Business",
-        "tid": "14:36",
-        "lenke": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ]
