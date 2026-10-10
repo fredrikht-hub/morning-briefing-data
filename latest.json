@@ -1,20 +1,34 @@
 {
   "dato": "2026-10-10",
   "dato_norsk": "Lørdag 10. oktober 2026",
-  "generert_kl": "17:06",
+  "generert_kl": "19:38",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Trump kunngjør avtale for russisk diesel som Zelenskyj kaller det en gave til Putin",
-      "kilde": "BBC Business",
-      "tid": "14:24",
-      "lenke": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "tittel": "Trump om ukrainske oljeangrep: – Bør stoppe",
+      "kilde": "E24",
+      "tid": "17:40",
+      "lenke": "https://e24.no/internasjonal-oekonomi/i/4Obv56/trump-om-ukrainske-oljeangrep-boer-stoppe?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Trump angriper Zelenskyj",
+      "kilde": "NRK Nyheter",
+      "tid": "17:01",
+      "lenke": "https://www.nrk.no/nyheter/trump-angriper-zelenskyj-1.18051512",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Nvidia i samtaler om å anskaffe oss 'åpen' modell oppstart Refleksjon AI",
+      "kilde": "Hacker News",
+      "tid": "18:48",
+      "lenke": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
       "engelsk_kilde": true
     },
     {
       "tittel": "‘Jeg føler meg som en taper’: Aksjeporteføljen min svinger vilt. Er det endelig på tide å bekymre seg?",
       "kilde": "MarketWatch",
-      "tid": "15:05",
+      "tid": "18:31",
       "lenke": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
@@ -24,20 +38,6 @@
       "tid": "13:42",
       "lenke": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
       "engelsk_kilde": true
-    },
-    {
-      "tittel": "Vance sier at Microsoft erstattet permitterte med utenlandske ansatte. Her er hva VISA-dataene viser",
-      "kilde": "CNBC Top News",
-      "tid": "14:22",
-      "lenke": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Tom Brown brukte GOP-bånd til å megle en $ 1,25B/måned SpaceX-beregningsavtale",
-      "kilde": "Hacker News",
-      "tid": "15:04",
-      "lenke": "https://wsj.com/tech/ai/tom-brown-athropic-669005ad",
-      "engelsk_kilde": true
     }
   ],
   "kategorier": {
@@ -45,17 +45,17 @@
       {
         "tittel": "‘Jeg føler meg som en taper’: Aksjeporteføljen min svinger vilt. Er det endelig på tide å bekymre seg?",
         "kilde": "MarketWatch",
-        "tid": "15:05",
+        "tid": "18:31",
         "lenke": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
         "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Tom Brown brukte GOP-bånd til å megle en $ 1,25B/måned SpaceX-beregningsavtale",
+        "tittel": "Nvidia i samtaler om å anskaffe oss 'åpen' modell oppstart Refleksjon AI",
         "kilde": "Hacker News",
-        "tid": "15:04",
-        "lenke": "https://wsj.com/tech/ai/tom-brown-athropic-669005ad",
+        "tid": "18:48",
+        "lenke": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
         "engelsk_kilde": true
       },
       {
@@ -82,6 +82,27 @@
     ],
     "GEOPOLITIKK": [
       {
+        "tittel": "Iran: Oljetankskip i brann i Hormuzstredet",
+        "kilde": "NRK Nyheter",
+        "tid": "17:54",
+        "lenke": "https://www.nrk.no/nyheter/iran_-oljetankskip-i-brann-i-hormuzstredet-1.18051514",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Trump om ukrainske oljeangrep: – Bør stoppe",
+        "kilde": "E24",
+        "tid": "17:40",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/4Obv56/trump-om-ukrainske-oljeangrep-boer-stoppe?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Trump angriper Zelenskyj",
+        "kilde": "NRK Nyheter",
+        "tid": "17:01",
+        "lenke": "https://www.nrk.no/nyheter/trump-angriper-zelenskyj-1.18051512",
+        "engelsk_kilde": false
+      },
+      {
         "tittel": "Trump kunngjør avtale for russisk diesel som Zelenskyj kaller det en gave til Putin",
         "kilde": "BBC Business",
         "tid": "14:24",
@@ -94,13 +115,6 @@
         "tid": "13:42",
         "lenke": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Fredsprisvinneren om Trumps sanksjoner mot ICC: – Uhørt og uakseptabelt",
-        "kilde": "NRK Nyheter",
-        "tid": "12:52",
-        "lenke": "https://www.nrk.no/nyheter/fredsprisvinneren-om-trumps-sanksjoner-mot-icc_-_-uhort-og-uakseptabelt-1.18051372",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Nobelprisen: – Trump sjokkerer en hel verden",
@@ -122,16 +136,58 @@
         "tid": "22:30",
         "lenke": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trump ønsker å redusere kostnadene for drivstoff som midterms vevstol - vil det fungere?",
-        "kilde": "BBC Business",
-        "tid": "19:32",
-        "lenke": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "Takeshi's Castle",
+        "kilde": "Hacker News",
+        "tid": "19:12",
+        "lenke": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "UD ber nordmenn unngå flyplass i Saudi-Arabia",
+        "kilde": "NRK Nyheter",
+        "tid": "18:47",
+        "lenke": "https://www.nrk.no/nyheter/ud-ber-nordmenn-unnga-flyplass-i-saudi-arabia-1.18051370",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Uenighet om hvorvidt julen er velkommen i oktober",
+        "kilde": "E24",
+        "tid": "18:38",
+        "lenke": "https://e24.no/naeringsliv/i/Grrjrx/uenighet-om-hvorvidt-julen-er-velkommen-i-oktober?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Reagerer på Tottenham-utvisning: - Det er ren galskap",
+        "kilde": "NRK Nyheter",
+        "tid": "18:26",
+        "lenke": "https://www.nrk.no/sport/manchester-united-_-tottenham-1.18051522",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vibe-kodede nettleserporter i Halo, The Simpsons: Hit And Run, GTA fungerer godt",
+        "kilde": "Hacker News",
+        "tid": "18:11",
+        "lenke": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Våpenmelding ved moské i Porsgrunn – en person pågrepet",
+        "kilde": "NRK Nyheter",
+        "tid": "18:09",
+        "lenke": "https://www.nrk.no/vestfoldogtelemark/politiet-soker-etter-person-med-mulig-skytevapen-i-porsgrunn-1.18051529",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Hvorfor DuckDB 2.0 er raskere",
+        "kilde": "Hacker News",
+        "tid": "18:08",
+        "lenke": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Elon Musk er nå rikere enn noen amerikaner noensinne — og det er ikke engang i nærheten",
         "kilde": "MarketWatch",
@@ -154,13 +210,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "AI kaster en piknik langs veien",
-        "kilde": "Hacker News",
-        "tid": "16:19",
-        "lenke": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "En venn i 80-årene falt ned kjellertrappen hennes. Er dette en skjult fare som lurer i folks hjem?",
         "kilde": "MarketWatch",
         "tid": "16:00",
@@ -171,14 +220,7 @@
         "tittel": "Knuth belønningssjekk",
         "kilde": "Hacker News",
         "tid": "15:47",
-        "lenke": "https://www.thomas-huehn.com/knuth-reward-check",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvordan protein tok over verden",
-        "kilde": "Hacker News",
-        "tid": "15:40",
-        "lenke": "https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd",
+        "lenke": "https://www.thomas-huehn.com/knuth-reward-check/",
         "engelsk_kilde": true
       },
       {
@@ -203,13 +245,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "PVX-001: åpen kildekode Covid-19-vaksine starter fase 1-studie",
-        "kilde": "Hacker News",
-        "tid": "15:10",
-        "lenke": "https://chronicles.popvax.com/p/popvax-goes-clinical",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "JPMorgan gjør bullish call i fast inntekt plass, antyder at det er en gang i en generasjon mulighet",
         "kilde": "CNBC Top News",
         "tid": "15:00",
@@ -229,20 +264,6 @@
         "tid": "14:00",
         "lenke": "https://www.cnbc.com/2026/10/10/de-extincting-dire-wolves-woolly-mammoths-help-humans.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "En skje om dagen?",
-        "kilde": "NRK Nyheter",
-        "tid": "13:45",
-        "lenke": "https://www.nrk.no/sport/xl/helene-bakkejord-tar-en-skje-med-kreatin-daglig.-men-virker-det_-1.18025865",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Blummenfelt og Idens ville hardkøyr: – Ganske ekstreme økter",
-        "kilde": "NRK Nyheter",
-        "tid": "13:44",
-        "lenke": "https://www.nrk.no/sport/kristian-blummenfelt-og-gustav-idens-ekstreme-opplading-til-ironman-vm-2026-1.18048853",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Pokémon-kortverdiene er skyhøye. Hva samlere bør vite før de kjøper eller selger",
@@ -294,13 +315,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Jaktlag trefte bustadhus: – Svært ubehageleg",
-        "kilde": "NRK Nyheter",
-        "tid": "11:55",
-        "lenke": "https://www.nrk.no/trondelag/fekk-prosjektil-fra-jaktlag-gjennom-ruta-i-trondheim-_-politiet-gjer-krimtekniske-undersokingar-1.18051337",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "– Begynner å bli litt desperat",
         "kilde": "E24",
         "tid": "11:18",
@@ -312,13 +326,6 @@
         "kilde": "E24",
         "tid": "09:36",
         "lenke": "https://e24.no/boers-og-finans/i/2VvRgv/nye-forhandlinger-i-togstreiken-vi-sitter-i-samtaler?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Skadebonanza i Premier League – forskar åtvarar om «våpenkappløp»",
-        "kilde": "NRK Nyheter",
-        "tid": "08:51",
-        "lenke": "https://www.nrk.no/sport/skadebonanza-i-premier-league-_-forskar-atvarar-om-_vapenkapplop_-1.18049443",
         "engelsk_kilde": false
       },
       {
@@ -340,20 +347,6 @@
         "kilde": "E24",
         "tid": "06:37",
         "lenke": "https://e24.no/boers-og-finans/i/zllgMv/oekt-risiko-i-hoeyrentefond-blitt-mer-som-aksjefond?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Mennesket mot maskinen",
-        "kilde": "E24",
-        "tid": "05:32",
-        "lenke": "https://e24.no/teknologi/i/d77O8B/mennesket-mot-maskinen?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Slår Temu-alarm: – Vi har ikke kontroll",
-        "kilde": "E24",
-        "tid": "04:00",
-        "lenke": "https://e24.no/naeringsliv/i/9kvK9d/slaar-temu-alarm-vi-har-ikke-kontroll?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
