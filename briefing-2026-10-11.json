@@ -1,0 +1,351 @@
+{
+  "dato": "2026-10-11",
+  "dato_norsk": "Søndag 11. oktober 2026",
+  "generert_kl": "10:42",
+  "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
+  "dagens_fokus": [
+    {
+      "tittel": "AI-rallyet løper fra norske forvaltere",
+      "kilde": "E24",
+      "tid": "07:46",
+      "lenke": "https://e24.no/boers-og-finans/i/lKKWby/ai-rallyet-loeper-fra-norske-forvaltere?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "SAS-streik avverget",
+      "kilde": "E24",
+      "tid": "05:10",
+      "lenke": "https://e24.no/naeringsliv/i/AbEpxn/sas-streik-avverget?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Stortinget skal selge pendlerboliger for 100 millioner",
+      "kilde": "E24",
+      "tid": "04:00",
+      "lenke": "https://e24.no/norsk-oekonomi/i/X9jk4m/helg-stortinget-skal-selge-pendlerboliger-for-100-millioner?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "IRCv3",
+      "kilde": "Hacker News",
+      "tid": "10:11",
+      "lenke": "https://ircv3.net/",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Jeg ønsker deg det beste i frakoblet modus",
+      "kilde": "Hacker News",
+      "tid": "07:53",
+      "lenke": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
+      "engelsk_kilde": true
+    }
+  ],
+  "kategorier": {
+    "NORGE": [
+      {
+        "tittel": "AI-rallyet løper fra norske forvaltere",
+        "kilde": "E24",
+        "tid": "07:46",
+        "lenke": "https://e24.no/boers-og-finans/i/lKKWby/ai-rallyet-loeper-fra-norske-forvaltere?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "SAS-streik avverget",
+        "kilde": "E24",
+        "tid": "05:10",
+        "lenke": "https://e24.no/naeringsliv/i/AbEpxn/sas-streik-avverget?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Stortinget skal selge pendlerboliger for 100 millioner",
+        "kilde": "E24",
+        "tid": "04:00",
+        "lenke": "https://e24.no/norsk-oekonomi/i/X9jk4m/helg-stortinget-skal-selge-pendlerboliger-for-100-millioner?utm_medium=rss",
+        "engelsk_kilde": false
+      }
+    ],
+    "MAKRO": [
+      {
+        "tittel": "Skal jeg sette reiregget mitt i en 30-årig statsobligasjon?",
+        "kilde": "MarketWatch",
+        "tid": "19:44",
+        "lenke": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      }
+    ],
+    "MARKEDER": [
+      {
+        "tittel": "Beskatning av aksjer, eiendommer og ytelser til ansatte kan hindre at trygden går tom for penger. Her er hvem som kan betale mest.",
+        "kilde": "MarketWatch",
+        "tid": "19:44",
+        "lenke": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Millioner av amerikanere vil ha færre alternativer under Medicare åpen innmelding i år",
+        "kilde": "MarketWatch",
+        "tid": "19:44",
+        "lenke": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      }
+    ],
+    "TEKNOLOGI": [
+      {
+        "tittel": "Microsofts Nadella sier at kunstig intelligens trenger en «nødbrems» som mennesker kontrollerer",
+        "kilde": "CNBC Top News",
+        "tid": "20:59",
+        "lenke": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vance sier at Microsoft erstattet permitterte med utenlandske ansatte. Her er hva VISA-dataene viser",
+        "kilde": "CNBC Top News",
+        "tid": "14:22",
+        "lenke": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "NVIDIA-grafikkprosessorer er overalt. Her er måtene bedrifter får tilgang til dem på",
+        "kilde": "CNBC Top News",
+        "tid": "11:00",
+        "lenke": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "GEOPOLITIKK": [
+      {
+        "tittel": "Trump om ukrainske oljeangrep: – Bør stoppe",
+        "kilde": "E24",
+        "tid": "17:40",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/4Obv56/trump-om-ukrainske-oljeangrep-boer-stoppe?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Trump kunngjør avtale for russisk diesel som Zelenskyj kaller det en gave til Putin",
+        "kilde": "BBC Business",
+        "tid": "14:24",
+        "lenke": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Putin videreformidlet Iran-krigsforslag til Trump, sier Kreml",
+        "kilde": "CNBC Top News",
+        "tid": "13:42",
+        "lenke": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "VILLKORT": [
+      {
+        "tittel": "Reuters: Paven må opereres – oppdaget lungeknute",
+        "kilde": "NRK Nyheter",
+        "tid": "10:25",
+        "lenke": "https://www.nrk.no/nyheter/reuters_-paven-ma-opereres-_-oppdaget-lungeknute-1.18051758",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Høyre og Manpower frir til Nav",
+        "kilde": "E24",
+        "tid": "10:21",
+        "lenke": "https://e24.no/norsk-oekonomi/i/n9amdL/hoeyre-og-manpower-frir-til-nav?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "IRCv3",
+        "kilde": "Hacker News",
+        "tid": "10:11",
+        "lenke": "https://ircv3.net/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Minnes klubblegende: – Du vil alltid ha en plass i hjertet til den gule og blå familien",
+        "kilde": "NRK Nyheter",
+        "tid": "10:02",
+        "lenke": "https://www.nrk.no/innlandet/storhamar-hockey-med-folelsesladd-minnemarkering-for-eirik-skadsdammen-1.18051727",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kjøpte maleri for 290 kroner – solgt for 12,9 millioner",
+        "kilde": "E24",
+        "tid": "09:13",
+        "lenke": "https://e24.no/naeringsliv/i/mKLnxq/kjoepte-maleri-for-290-kroner-solgt-for-12-9-millioner?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Blir hylla som helt etter skandalen: – Eg synest det er litt spesielt",
+        "kilde": "NRK Nyheter",
+        "tid": "09:00",
+        "lenke": "https://www.nrk.no/sport/fotball_-southampton-trenar-tonda-eckert-slepper-_billig_-unna-etter-spionskandalen-1.18049231",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Nå vakler Trumps skanse i Iowa",
+        "kilde": "NRK Nyheter",
+        "tid": "09:00",
+        "lenke": "https://www.nrk.no/urix/na-vakler-donald-trumps-skanse-i-iowa-1.18050801",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Bare menn i Oljefondets AI-team: 12 av 116 søkere var kvinner",
+        "kilde": "E24",
+        "tid": "08:09",
+        "lenke": "https://e24.no/teknologi/i/Oggpm3/bare-menn-i-oljefondets-ai-team-12-av-116-soekerne-var-kvinner?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Jeg ønsker deg det beste i frakoblet modus",
+        "kilde": "Hacker News",
+        "tid": "07:53",
+        "lenke": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tredje Yandex Cloud-datasenter ble truffet",
+        "kilde": "Hacker News",
+        "tid": "07:34",
+        "lenke": "https://status.yandex.cloud/en/incidents/2136",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Derfor er starten på joggeturen alltid så slitsom",
+        "kilde": "NRK Nyheter",
+        "tid": "06:45",
+        "lenke": "https://www.nrk.no/trondelag/dette-gjor-starten-pa-joggeturen-sa-toff-_-handler-ikke-om-at-man-er-i-darlig-form-1.18043184",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Er «muskismen» fremtidens ideologi?",
+        "kilde": "E24",
+        "tid": "06:36",
+        "lenke": "https://e24.no/teknologi/i/Abbpdz/er-muskismen-fremtidens-ideologi?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Må kutte en halv milliard i helse – reagerer på at Helse Nord vil ansette ny rådgiver",
+        "kilde": "NRK Nyheter",
+        "tid": "06:25",
+        "lenke": "https://www.nrk.no/nordland/skal-spare-millioner-_-ansetter-ny-radgiver-1.18047725",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "LineageOS 24.0",
+        "kilde": "Hacker News",
+        "tid": "06:18",
+        "lenke": "https://lineageos.org/Changelog-32/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "FIS-topp om VM-anlegget i Narvik: – Ingenting er klart",
+        "kilde": "NRK Nyheter",
+        "tid": "05:56",
+        "lenke": "https://www.nrk.no/nordland/verdenscup-om-fa-maneder_-ingenting-er-klart-1.18050173",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "AI kan endre prisen på Big Mac og dagligvarer — hva dette betyr for kundene",
+        "kilde": "CNBC Top News",
+        "tid": "05:00",
+        "lenke": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nå får Frankrike regningen",
+        "kilde": "E24",
+        "tid": "04:54",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/8GP2LG/naa-faar-frankrike-regningen?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "GameBoy på E-Paper ESP32 med 30 bps [video]",
+        "kilde": "Hacker News",
+        "tid": "03:21",
+        "lenke": "https://www.youtube.com/watch?v=XiZmM6hwwAU",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Løvseth mistet VM-gullet etter kjempekollaps: – Fælt å se på",
+        "kilde": "NRK Nyheter",
+        "tid": "20:29",
+        "lenke": "https://www.nrk.no/sport/ironman-vm-2026_-solveig-lovseth-med-utrolig-kollaps-og-gustav-iden-tok-solv-1.18051483",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Verre enn å ta foreldrenes bilnøkler? Tar fra dem mobilen. Hvordan beskytte dine aldrende foreldre.",
+        "kilde": "MarketWatch",
+        "tid": "19:44",
+        "lenke": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Disse beslutningene du tar i 20-årene - ikke inntekten din — avgjør om du vil tilbringe flere tiår i gjeld eller pensjonere deg komfortabelt",
+        "kilde": "MarketWatch",
+        "tid": "19:44",
+        "lenke": "https://www.marketwatch.com/story/these-decisions-you-make-in-your-20s-not-your-income-determine-whether-youll-spend-decades-in-debt-or-retire-comfortably-7bbb28f9?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvordan redusere størrelsen som en proff — og frigjøre deg fra å være en \"fange av dine eiendeler\"",
+        "kilde": "MarketWatch",
+        "tid": "19:44",
+        "lenke": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Stigende renter: De gode, de dårlige og de stygge for pensjonister",
+        "kilde": "MarketWatch",
+        "tid": "19:44",
+        "lenke": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ken Paxton har rett. Skattelettelser vil bety kutt i trygden og Medicare.",
+        "kilde": "MarketWatch",
+        "tid": "19:44",
+        "lenke": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Uenighet om hvorvidt julen er velkommen i oktober",
+        "kilde": "E24",
+        "tid": "18:38",
+        "lenke": "https://e24.no/naeringsliv/i/Grrjrx/uenighet-om-hvorvidt-julen-er-velkommen-i-oktober?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "JPMorgan gjør bullish call i fast inntekt plass, antyder at det er en gang i en generasjon mulighet",
+        "kilde": "CNBC Top News",
+        "tid": "15:00",
+        "lenke": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Pokémon-kortverdiene er skyhøye. Hva samlere bør vite før de kjøper eller selger",
+        "kilde": "CNBC Top News",
+        "tid": "13:30",
+        "lenke": "https://www.cnbc.com/2026/10/10/pokemon-card-values-grading-guide.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvordan høyesterettsdommere lener seg i store 401(k) -saker over private midler og underprestasjon",
+        "kilde": "CNBC Top News",
+        "tid": "13:00",
+        "lenke": "https://www.cnbc.com/2026/10/10/supreme-court-case-401k-private-funds-intel.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Buffetts «trips down YouTube rabbit hole» avslørt",
+        "kilde": "CNBC Top News",
+        "tid": "12:01",
+        "lenke": "https://www.cnbc.com/2026/10/10/buffetts-trips-down-youtube-rabbit-hole-revealed.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fra BJ-er til Lululemon, forhandlere trimmer sortiment for å øke virksomheten",
+        "kilde": "CNBC Top News",
+        "tid": "12:00",
+        "lenke": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html",
+        "engelsk_kilde": true
+      }
+    ]
+  }
+}
