@@ -1,35 +1,21 @@
 {
   "dato": "2026-10-11",
   "dato_norsk": "Søndag 11. oktober 2026",
-  "generert_kl": "17:29",
+  "generert_kl": "19:48",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Trump sier han «kommer til å se på» å bli med Saudi-Arabia i kampen mot Iran-støttede houthier etter dødelig flystreik",
+      "tittel": "Trump erklærer 'energi våpenhvile' mellom Russland og Ukraina; Zelenskyy venter på detaljer",
       "kilde": "CNBC Top News",
-      "tid": "16:29",
-      "lenke": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
+      "tid": "19:33",
+      "lenke": "https://www.cnbc.com/2026/10/11/trump-energy-ceasefire-russia-ukraine-zelenskyy.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Norsk influenser påkjørt under ekstrem­triatlon – pådro seg flere brudd",
-      "kilde": "NRK Nyheter",
-      "tid": "16:45",
-      "lenke": "https://www.nrk.no/sport/treningsinfluenser-grunde-myhrer-krasjet-med-lastebil-under-ekstremtriatlon-1.18051564",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Millioner av amerikanere vil ha færre alternativer under Medicare åpen innmelding i år",
-      "kilde": "MarketWatch",
-      "tid": "16:35",
-      "lenke": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Ukraina angriper Yandex datasenter i tredje angrep på russisk teknologigigant",
-      "kilde": "BBC Business",
-      "tid": "14:38",
-      "lenke": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "tittel": "Justisdepartementet åpner antitrustsonde etter hvert som pressetilgangskampen i Det hvite hus eskalerer",
+      "kilde": "CNBC Top News",
+      "tid": "19:15",
+      "lenke": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html",
       "engelsk_kilde": true
     },
     {
@@ -38,6 +24,20 @@
       "tid": "13:00",
       "lenke": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories",
       "engelsk_kilde": true
+    },
+    {
+      "tittel": "Trump sier han «kommer til å se på» å bli med Saudi-Arabia i kampen mot Iran-støttede houthier etter dødelig flystreik",
+      "kilde": "CNBC Top News",
+      "tid": "16:29",
+      "lenke": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Trump: Enige om stans i energi-angrep",
+      "kilde": "E24",
+      "tid": "14:25",
+      "lenke": "https://e24.no/internasjonal-oekonomi/i/Elj4Ba/zelenskyj-sier-han-vil-gjennomfoere-valg-i-ukraina-dersom-putin-gaar-med-paa-60-dagers-vaapenhvile?utm_medium=rss",
+      "engelsk_kilde": false
     }
   ],
   "kategorier": {
@@ -55,15 +55,6 @@
         "tid": "11:36",
         "lenke": "https://e24.no/norsk-oekonomi/i/kvvPbj/abid-raja-vil-ha-1000-nye-trainee-stillinger-i-statsbudsjettet?utm_medium=rss",
         "engelsk_kilde": false
-      }
-    ],
-    "MAKRO": [
-      {
-        "tittel": "Skal jeg sette reiregget mitt i en 30-årig statsobligasjon?",
-        "kilde": "MarketWatch",
-        "tid": "19:44",
-        "lenke": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
@@ -123,6 +114,20 @@
     ],
     "GEOPOLITIKK": [
       {
+        "tittel": "Trump erklærer 'energi våpenhvile' mellom Russland og Ukraina; Zelenskyy venter på detaljer",
+        "kilde": "CNBC Top News",
+        "tid": "19:33",
+        "lenke": "https://www.cnbc.com/2026/10/11/trump-energy-ceasefire-russia-ukraine-zelenskyy.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Justisdepartementet åpner antitrustsonde etter hvert som pressetilgangskampen i Det hvite hus eskalerer",
+        "kilde": "CNBC Top News",
+        "tid": "19:15",
+        "lenke": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Trump sier han «kommer til å se på» å bli med Saudi-Arabia i kampen mot Iran-støttede houthier etter dødelig flystreik",
         "kilde": "CNBC Top News",
         "tid": "16:29",
@@ -153,6 +158,62 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "Vær løkens helt for en gangs skyld",
+        "kilde": "Hacker News",
+        "tid": "19:43",
+        "lenke": "https://mailchi.mp/email.theonion.com/archivehunt",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Min svoger overbeviste foreldrene sine om å overta hjemmet og sparepengene sine for å kjøpe et boligkompleks verdt $ 3 millioner. Skal jeg gripe inn?",
+        "kilde": "MarketWatch",
+        "tid": "19:32",
+        "lenke": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg er en 68 år gammel enke og gir penger til mine to voksne barn. Setter jeg pensjonen min i fare?",
+        "kilde": "MarketWatch",
+        "tid": "19:32",
+        "lenke": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vil ikke ha elektriske mopedbiler: – Bensin og diesel til jeg dør",
+        "kilde": "NRK Nyheter",
+        "tid": "19:26",
+        "lenke": "https://www.nrk.no/vestfoldogtelemark/vil-ikke-ha-elektriske-mopedbiler_-nesten-9-av-10-gar-pa-bensin-og-diesel-1.18032499",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Resultatrush: – Kommer til å levere bra",
+        "kilde": "E24",
+        "tid": "19:06",
+        "lenke": "https://e24.no/boers-og-finans/i/zl0ojr/resultatrush-kommer-til-aa-levere-bra?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kapittel 1 av Ways of Seeing av John Berger",
+        "kilde": "Hacker News",
+        "tid": "18:26",
+        "lenke": "https://www.ways-of-seeing.com/ch1",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Total utslettelse, ombygd for moderne datamaskiner",
+        "kilde": "Hacker News",
+        "tid": "18:04",
+        "lenke": "https://nanolathe.gg",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "NYCs \"Klikk for å kansellere\" -regel er nå i kraft",
+        "kilde": "Hacker News",
+        "tid": "18:01",
+        "lenke": "https://www.nyc.gov/main/click-to-cancel",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Fra BJ-er til Lululemon, forhandlere trimmer sortiment for å øke virksomheten",
         "kilde": "CNBC Top News",
         "tid": "17:08",
@@ -174,32 +235,18 @@
         "engelsk_kilde": true
       },
       {
+        "tittel": "apsw: En annen Python SQLite-wrapper",
+        "kilde": "Hacker News",
+        "tid": "16:58",
+        "lenke": "https://github.com/rogerbinns/apsw",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Dagligvare­kjedenes advokater: – En klar overmakt",
         "kilde": "E24",
         "tid": "16:44",
         "lenke": "https://e24.no/naeringsliv/i/pBaMzX/dagligvarekjedenes-advokater-en-klar-overmakt?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Bedriftens lykke tredemølle og saken for å gjøre mindre",
-        "kilde": "Hacker News",
-        "tid": "16:06",
-        "lenke": "https://0xff.nu/corp-burnout/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvordan bygge rikdom som karriereperson",
-        "kilde": "Hacker News",
-        "tid": "16:03",
-        "lenke": "https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvordan jeg omvendt konstruerte en kommersiell romlig lydeffekt",
-        "kilde": "Hacker News",
-        "tid": "15:21",
-        "lenke": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
-        "engelsk_kilde": true
       },
       {
         "tittel": "– Kan trekke i retning av høyere prisvekst",
@@ -209,7 +256,7 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Haaland og City herjet etter Liverpool-protester: – De leker seg på Anfield",
+        "tittel": "Haaland og City herjet etter Liverpool-protester: – Et nydelig øyeblikk",
         "kilde": "NRK Nyheter",
         "tid": "14:51",
         "lenke": "https://www.nrk.no/sport/premier-league_-manchester-city-og-haaland-ble-hanet-_-deretter-valset-de-over-liverpool-1.18051883",
@@ -230,20 +277,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Beklager, men du må fortsatt tenke",
-        "kilde": "Hacker News",
-        "tid": "14:29",
-        "lenke": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Dokumenter legger til bevis i klimasaken mot ExxonMobil",
-        "kilde": "Hacker News",
-        "tid": "14:28",
-        "lenke": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "AIs stillegående sikkerhetsportvoktere går inn i rampelyset",
         "kilde": "CNBC Top News",
         "tid": "14:08",
@@ -255,13 +288,6 @@
         "kilde": "E24",
         "tid": "13:20",
         "lenke": "https://e24.no/energi-og-klima/i/4OL9ma/iea-ber-land-vurdere-nye-diesel-slipp?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Nye regler skaper hodebry - slik er veien videre i City-saken",
-        "kilde": "NRK Nyheter",
-        "tid": "13:19",
-        "lenke": "https://www.nrk.no/sport/manchester-city-skandalen_-nye-regler-skaper-hodebry---slik-er-veien-videre-i-city-saken-1.18046597",
         "engelsk_kilde": false
       },
       {
@@ -305,27 +331,6 @@
         "tid": "10:21",
         "lenke": "https://e24.no/norsk-oekonomi/i/n9amdL/hoeyre-og-manpower-frir-til-nav?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kjøpte maleri for 290 kroner – solgt for 12,9 millioner",
-        "kilde": "E24",
-        "tid": "09:13",
-        "lenke": "https://e24.no/naeringsliv/i/mKLnxq/kjoepte-maleri-for-290-kroner-solgt-for-12-9-millioner?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "AI kan endre prisen på Big Mac og dagligvarer — hva dette betyr for kundene",
-        "kilde": "CNBC Top News",
-        "tid": "05:00",
-        "lenke": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Verre enn å ta foreldrenes bilnøkler? Tar fra dem mobilen. Hvordan beskytte dine aldrende foreldre.",
-        "kilde": "MarketWatch",
-        "tid": "19:44",
-        "lenke": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       }
     ]
   }
