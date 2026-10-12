@@ -1,42 +1,42 @@
 {
   "dato": "2026-10-12",
   "dato_norsk": "Mandag 12. oktober 2026",
-  "generert_kl": "17:10",
+  "generert_kl": "21:02",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
       "tittel": "Trump forsvarer Russland diesel avtale etter bipartisan pushback: 'Jeg gjorde det riktige valget'",
       "kilde": "CNBC Top News",
-      "tid": "15:55",
+      "tid": "18:32",
       "lenke": "https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Norske forhold fikk giganten til å snu: – Blir snakket mye om det",
-      "kilde": "NRK Nyheter",
-      "tid": "15:38",
-      "lenke": "https://www.nrk.no/sport/norske-kunstgressforhold-far-bayern-munchen-til-a-snu_-_-blir-snakket-mye-om-det-1.18052753",
-      "engelsk_kilde": false
+      "tittel": "Trumps \"energi våpenhvile\" kolliderer med virkelige problemer med minkende drivstoffforsyninger",
+      "kilde": "MarketWatch",
+      "tid": "18:36",
+      "lenke": "https://www.marketwatch.com/story/trumps-energy-ceasefire-collides-with-real-world-problems-of-dwindling-fuel-supplies-8ba3993b?mod=mw_rss_topstories",
+      "engelsk_kilde": true
     },
     {
-      "tittel": "UnitedHealth-aksjer gjør noe uvanlig i forkant av inntjeningen",
+      "tittel": "Inntektsslag er nå normen. Hva aksjemarkedet trenger for å fortsette å samle seg",
       "kilde": "CNBC Top News",
-      "tid": "16:42",
-      "lenke": "https://www.cnbc.com/2026/10/12/unitedhealth-shares-are-doing-something-unusual-ahead-of-earnings.html",
+      "tid": "20:35",
+      "lenke": "https://www.cnbc.com/2026/10/07/here-comes-third-quarter-earnings-season-booming-profits-could-propel-the-sp-500-to-new-heights.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Disse aksjene kan bli fremtidige vinnere — og tapere — av et massivt skifte i IT-utgifter",
+      "tittel": "Hvorfor Ciena, Lumentum og andre optiske aksjer var blant markedets største tapere på mandag",
       "kilde": "MarketWatch",
-      "tid": "16:47",
-      "lenke": "https://www.marketwatch.com/story/these-stocks-could-be-the-future-winners-and-losers-of-a-massive-shift-in-it-spending-bfc88c05?mod=mw_rss_topstories",
+      "tid": "20:46",
+      "lenke": "https://www.marketwatch.com/story/why-ciena-lumentum-and-other-optical-stocks-were-among-the-markets-biggest-losers-on-monday-b3e53f6a?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Kjøp disse aksjene mens du spiller på Googles store utgifter, sier analytikeren",
-      "kilde": "MarketWatch",
-      "tid": "16:31",
-      "lenke": "https://www.marketwatch.com/story/buy-these-stocks-as-plays-on-googles-big-spending-analyst-says-a159c170?mod=mw_rss_topstories",
+      "tittel": "IonQ kjøper cybersikkerhetsfirmaet Elisity i en all-stock-avtale for opptil $ 1,3 milliarder",
+      "kilde": "CNBC Top News",
+      "tid": "19:35",
+      "lenke": "https://www.cnbc.com/2026/10/12/ionq-elisity-acquisition-cybersecurity.html",
       "engelsk_kilde": true
     }
   ],
@@ -47,13 +47,6 @@
         "kilde": "NRK Nyheter",
         "tid": "15:38",
         "lenke": "https://www.nrk.no/sport/norske-kunstgressforhold-far-bayern-munchen-til-a-snu_-_-blir-snakket-mye-om-det-1.18052753",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Fastlåst i Midtøsten: – Kan nok vedvare et halvt år til",
-        "kilde": "E24",
-        "tid": "09:32",
-        "lenke": "https://e24.no/energi-og-klima/i/d7v4vA/fastlaast-i-midtoesten-kan-nok-vedvare-et-halvt-aar-til?utm_medium=rss",
         "engelsk_kilde": false
       }
     ],
@@ -67,6 +60,20 @@
       }
     ],
     "MARKEDER": [
+      {
+        "tittel": "Hvorfor Ciena, Lumentum og andre optiske aksjer var blant markedets største tapere på mandag",
+        "kilde": "MarketWatch",
+        "tid": "20:46",
+        "lenke": "https://www.marketwatch.com/story/why-ciena-lumentum-and-other-optical-stocks-were-among-the-markets-biggest-losers-on-monday-b3e53f6a?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Inntektsslag er nå normen. Hva aksjemarkedet trenger for å fortsette å samle seg",
+        "kilde": "CNBC Top News",
+        "tid": "20:35",
+        "lenke": "https://www.cnbc.com/2026/10/07/here-comes-third-quarter-earnings-season-booming-profits-could-propel-the-sp-500-to-new-heights.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Disse aksjene kan bli fremtidige vinnere — og tapere — av et massivt skifte i IT-utgifter",
         "kilde": "MarketWatch",
@@ -94,38 +101,22 @@
         "tid": "16:30",
         "lenke": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Burrito-aksje faller på Wall Street etter Starbucks-nei",
-        "kilde": "E24",
-        "tid": "13:31",
-        "lenke": "https://e24.no/boers-og-finans/i/Jrvgam/blandet-aapning-paa-wall-street?utm_medium=rss",
-        "engelsk_kilde": false
-      }
-    ],
-    "ENERGI_RAAVARER": [
-      {
-        "tittel": "Hvorfor Kina importerer en rekordmengde gull - og hva det betyr for prisene",
-        "kilde": "CNBC Top News",
-        "tid": "00:51",
-        "lenke": "https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html",
-        "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
         "tittel": "Microsoft treffer en stor milepæl som styrker fornyelsen",
         "kilde": "MarketWatch",
-        "tid": "14:18",
+        "tid": "20:40",
         "lenke": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Google må stanse datasenterbygging: – Områdene er redusert til sand",
-        "kilde": "E24",
-        "tid": "11:55",
-        "lenke": "https://e24.no/boers-og-finans/i/kvme1k/google-maa-stanse-datasenterbygging-omraadene-er-redusert-til-sand?utm_medium=rss",
-        "engelsk_kilde": false
+        "tittel": "IonQ kjøper cybersikkerhetsfirmaet Elisity i en all-stock-avtale for opptil $ 1,3 milliarder",
+        "kilde": "CNBC Top News",
+        "tid": "19:35",
+        "lenke": "https://www.cnbc.com/2026/10/12/ionq-elisity-acquisition-cybersecurity.html",
+        "engelsk_kilde": true
       },
       {
         "tittel": "AI er mindre regulert enn melk, sier Microsoft-sjef",
@@ -137,26 +128,187 @@
     ],
     "GEOPOLITIKK": [
       {
+        "tittel": "Trumps \"energi våpenhvile\" kolliderer med virkelige problemer med minkende drivstoffforsyninger",
+        "kilde": "MarketWatch",
+        "tid": "18:36",
+        "lenke": "https://www.marketwatch.com/story/trumps-energy-ceasefire-collides-with-real-world-problems-of-dwindling-fuel-supplies-8ba3993b?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Trump forsvarer Russland diesel avtale etter bipartisan pushback: 'Jeg gjorde det riktige valget'",
         "kilde": "CNBC Top News",
-        "tid": "15:55",
+        "tid": "18:32",
         "lenke": "https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html",
         "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
       {
-        "tittel": "Feds Hammack sier at høyere satser kan være nødvendig etter hvert som risikoen for \"inflasjonstankesett\" vokser",
-        "kilde": "CNBC Top News",
-        "tid": "17:08",
-        "lenke": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
+        "tittel": "‘Prospektet ser imponerende ut’: Min finansielle rådgiver vil at jeg skal investere $ 350 000 i et UAE-datasenter. Er dette risikabelt?",
+        "kilde": "MarketWatch",
+        "tid": "20:45",
+        "lenke": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vil ikke godta Posten-kutt: – Brutalt",
+        "kilde": "E24",
+        "tid": "20:20",
+        "lenke": "https://e24.no/norsk-oekonomi/i/64lVve/vil-ikke-godta-posten-kutt-brutalt?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Epic Games ber ansatte om å bruke kunstig intelligens for å få Disney-spill gjort",
+        "kilde": "Hacker News",
+        "tid": "20:07",
+        "lenke": "https://www.avclub.com/epic-games-disney-ai-delay",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Meta er tilbake på AI-lederlisten med sin nye familie av Wonder-modeller",
+        "kilde": "MarketWatch",
+        "tid": "19:43",
+        "lenke": "https://www.marketwatch.com/story/meta-is-back-on-the-ai-leaderboard-with-its-new-family-of-wonder-models-a704b6cc?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Skrive en Demoscene-intro for ZX Spectrum",
+        "kilde": "Hacker News",
+        "tid": "19:40",
+        "lenke": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fleire tatt for ulovleg vidaresal",
+        "kilde": "NRK Nyheter",
+        "tid": "19:35",
+        "lenke": "https://www.nrk.no/rogaland/selde-viking-billettar-til-elleville-prisar-pa-svarteborsen_-no-mistar-dei-sesongkortet-1.18052381",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Trumps energivåpenhvile: Luftslott som tjener Putin",
+        "kilde": "NRK Nyheter",
+        "tid": "19:17",
+        "lenke": "https://www.nrk.no/ytring/trumps-energivapenhvile_-luftslott-som-tjener-putin-1.18052304",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vi introduserer OpenFatigue",
+        "kilde": "Hacker News",
+        "tid": "19:08",
+        "lenke": "https://openfatigue.ai/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vålerengas skrekkrekke fortsetter – tapte mot KFUM",
+        "kilde": "NRK Nyheter",
+        "tid": "18:55",
+        "lenke": "https://www.nrk.no/sport/valerengas-skrekkrekke-fortsetter-_-tapte-mot-kfum-1.18052919",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Regnskapsfører mener gründere kan spare tusenvis",
+        "kilde": "E24",
+        "tid": "18:46",
+        "lenke": "https://e24.no/naeringsliv/i/V6KpR6/regnskapsfoerer-mener-grundere-kan-spare-tusenvis?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kutter prisen for Geilo-luksus med 4 mill.",
+        "kilde": "E24",
+        "tid": "18:45",
+        "lenke": "https://e24.no/naeringsliv/i/R55m3d/kutter-prisen-for-geilo-luksus-med-4-mill?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "En massiv handel har nettopp skjedd med økende aksjer i Snap",
+        "kilde": "CNBC Top News",
+        "tid": "18:43",
+        "lenke": "https://www.cnbc.com/2026/10/12/a-massive-trade-just-happens-in-surging-shares-of-snap.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nå kommer Haakon VIII til byen som ikke ville ha Haakon VII",
+        "kilde": "NRK Nyheter",
+        "tid": "18:36",
+        "lenke": "https://www.nrk.no/nordland/na-kommer-haakon-viii-til-narvik-som-ikke-ville-ha-haakon-vii-1.18051019",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kjøleskap i franske supermarkeder rammet av cyberangrep",
+        "kilde": "BBC Business",
+        "tid": "18:31",
+        "lenke": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Rep. Ilhan Omar sprenger føderalt kriminelt raid på hjemmet: 'Jeg vil ikke bli brakt til taushet'",
+        "kilde": "CNBC Top News",
+        "tid": "18:29",
+        "lenke": "https://www.cnbc.com/2026/10/12/ilhan-omar-home-raided-dhs-immigration-investigation.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Codex CLI installerer en vedvarende, selvoppdaterende bakgrunnsdemon som standard",
+        "kilde": "Hacker News",
+        "tid": "18:29",
+        "lenke": "https://github.com/openai/codex/issues/48195",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Utgivere drepte paperbacken, så la de skylden på leserne",
+        "kilde": "Hacker News",
+        "tid": "18:27",
+        "lenke": "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Livet ble snudd på hodet etter sjokkbeskjed: – Shit, hva betyr det?",
+        "kilde": "NRK Nyheter",
+        "tid": "18:01",
+        "lenke": "https://www.nrk.no/sport/silje-opseth-apner-opp_-gravid-og-hopper-ikke-neste-sesong-1.18051743",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Må jeg skrive jobbsøknad for maskiner?",
+        "kilde": "E24",
+        "tid": "17:55",
+        "lenke": "https://e24.no/karriere-og-ledelse/i/vllVvB/maa-jeg-skrive-jobbsoeknad-for-maskiner?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Spytter inn 2,6 milliarder i mellomvalget",
+        "kilde": "E24",
+        "tid": "17:47",
+        "lenke": "https://e24.no/boers-og-finans/i/d7qgpX/elon-musk-har-poest-ut-276-millioner-dollar-for-aa-redde-republikanerne?utm_medium=rss",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Meta debuterer Muse Wonder AI-modellen i den siste testen av brukernes betalingsvilje",
         "kilde": "CNBC Top News",
-        "tid": "17:05",
+        "tid": "17:34",
         "lenke": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "DN: Anette Ringnes står frem som Epstein-varsler",
+        "kilde": "E24",
+        "tid": "17:27",
+        "lenke": "https://e24.no/naeringsliv/i/2Vqrxv/dn-anette-ringnes-staar-frem-som-epstein-varsler?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Mark Zuckerberg: Meta har tatt igjen AI-rivaler med ny modell",
+        "kilde": "E24",
+        "tid": "17:16",
+        "lenke": "https://e24.no/boers-og-finans/i/OgWGWE/mark-zuckerberg-meta-har-tatt-igjen-ai-rivaler-med-ny-modell?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Høyere satser kan være nødvendig for å unngå at «inflasjonstanker» får fotfeste, sier Feds Hammack",
+        "kilde": "CNBC Top News",
+        "tid": "17:15",
+        "lenke": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
         "engelsk_kilde": true
       },
       {
@@ -164,13 +316,6 @@
         "kilde": "CNBC Top News",
         "tid": "16:50",
         "lenke": "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Muse Wonder",
-        "kilde": "Hacker News",
-        "tid": "16:48",
-        "lenke": "https://research.meta.ai/blog/muse-wonder",
         "engelsk_kilde": true
       },
       {
@@ -188,76 +333,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "‘Huset er verdt $ 925 000’: Søsteren min flyttet inn hos moren vår, 78, og sier at hun fortjener familiens hjem. Har hun rett?",
-        "kilde": "MarketWatch",
-        "tid": "16:30",
-        "lenke": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kjøleskap i franske supermarkeder rammet av cyberangrep",
-        "kilde": "BBC Business",
-        "tid": "16:17",
-        "lenke": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Rep. Ilhan Omars hjem raidet i føderal kriminell etterforskning",
-        "kilde": "CNBC Top News",
-        "tid": "16:16",
-        "lenke": "https://www.cnbc.com/2026/10/12/ilhan-omar-home-raided-dhs-immigration-investigation.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "En moderne nettapp i C",
-        "kilde": "Hacker News",
-        "tid": "16:13",
-        "lenke": "https://prophitt.me/writing/a-modern-web-app-in-c",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "GLM-Legal: Advancing Agentic Legal Intelligence",
-        "kilde": "Hacker News",
-        "tid": "16:11",
-        "lenke": "https://z.ai/blog/glm-legal",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Delta utsetter Saudi-Arabias debut til mars etter angrepene på Riyadh-flyplassen",
-        "kilde": "CNBC Top News",
-        "tid": "15:48",
-        "lenke": "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Her er hvor mye ekstra penger som kan være i din månedlige trygdesjekk neste år",
-        "kilde": "MarketWatch",
-        "tid": "15:47",
-        "lenke": "https://www.marketwatch.com/story/heres-how-much-extra-money-could-be-in-your-monthly-social-security-check-next-year-2e0c4eb8?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Franske supermarkeder lider av nedstengning av kjøleskapet etter \"enestående\" cyberangrep",
-        "kilde": "Hacker News",
-        "tid": "15:36",
-        "lenke": "https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kjøleskap i franske supermarkeder rammet av cyberangrep",
-        "kilde": "Hacker News",
-        "tid": "15:08",
-        "lenke": "https://www.bbc.com/news/articles/crq5nzxv9q4yo",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Micron kommer med en uttalelse med det siste hintet om kontantfallet",
-        "kilde": "MarketWatch",
-        "tid": "15:06",
-        "lenke": "https://www.marketwatch.com/story/micron-makes-a-statement-with-the-latest-clue-about-its-cash-windfall-c9e33f7d?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "AI-minister advarer om «sannsynlig» at Storbritannias cyberforsvar vil bli brutt",
         "kilde": "BBC Business",
         "tid": "15:03",
@@ -270,13 +345,6 @@
         "tid": "14:59",
         "lenke": "https://www.nrk.no/sport/hangeland-reagerte-pa-klapping-pa-norges-vm-hotell_-_-ganske-patetisk-1.18052556",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "McDonald's lener seg på kylling og drikke for å vokse. Nye data viser at det kan være en tøff oppgave",
-        "kilde": "CNBC Top News",
-        "tid": "14:56",
-        "lenke": "https://www.cnbc.com/2026/10/12/mcdonalds-chicken-beverage-growth.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Starbucks sier de ikke kjøper Chipotle etter spekulasjoner om oppkjøp",
@@ -293,59 +361,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Savner svar rundt turistskatt: – Det er umulig å forberede seg",
-        "kilde": "NRK Nyheter",
-        "tid": "14:05",
-        "lenke": "https://www.nrk.no/nordland/besoksavgift-eller-turistskatt-om-du-vil.-det-skjer-om-tre-maneder_-men-ingenting-er-sikkert-enna-1.18045905",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Vinteroppvarmingskostnadene forventes å være 8,3% høyere enn i fjor. Men kan El Niño hjelpe?",
-        "kilde": "MarketWatch",
-        "tid": "13:54",
-        "lenke": "https://www.marketwatch.com/story/winter-is-coming-and-energy-bills-are-climbing-everything-just-keeps-going-up-983cfd2d?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Det er én løsning",
         "kilde": "E24",
         "tid": "13:41",
         "lenke": "https://e24.no/privatoekonomi/i/Vgj513/det-er-en-loesning?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Slottet: Dronning Sonja fjernet fra Kongehuset",
-        "kilde": "NRK Nyheter",
-        "tid": "13:38",
-        "lenke": "https://www.nrk.no/nyheter/slottet_-dronning-sonja-fjernet-fra-kongehuset-1.18052755",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Tvungen mekling i togstreiken fredag",
-        "kilde": "NRK Nyheter",
-        "tid": "12:57",
-        "lenke": "https://www.nrk.no/nyheter/tvungen-mekling-i-togstreiken-fredag-1.18052702",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Sjekk din kommune eller bydel: Her stiger boligprisene mest og minst",
-        "kilde": "E24",
-        "tid": "12:39",
-        "lenke": "https://e24.no/norsk-oekonomi/i/kvmeEA/sjekk-din-kommune-eller-bydel-her-stiger-boligprisene-mest-og-minst?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Drepte fem på Kongsberg: – Det har vært fem gode år i psykiatrien",
-        "kilde": "NRK Nyheter",
-        "tid": "11:44",
-        "lenke": "https://www.nrk.no/buskerud/drepte-fem-pa-kongsberg_-_-det-har-vaert-fem-gode-ar-i-psykiatrien-1.18052220",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Ikke så enkelt",
-        "kilde": "NRK Nyheter",
-        "tid": "11:39",
-        "lenke": "https://www.nrk.no/ytring/ikke-sa-enkelt-1.18052018",
         "engelsk_kilde": false
       },
       {
@@ -356,32 +375,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Robert E. Hall og Michael Woodford får nobelprisen i økonomi",
-        "kilde": "E24",
-        "tid": "10:11",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/JrvRO8/robert-e-hall-og-michael-woodford-faar-nobelprisen-i-oekonomi?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Shippingvinner: – Eksepsjonelt",
-        "kilde": "E24",
-        "tid": "09:37",
-        "lenke": "https://e24.no/boers-og-finans/i/KrWaLe/shippingvinner-eksepsjonelt?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Slik unngår du å bli stukket hvis du går glipp av kredittkortbetalinger",
         "kilde": "BBC Business",
         "tid": "09:11",
         "lenke": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "VGs sjefredaktør Gard Steiro (50) gir seg",
-        "kilde": "E24",
-        "tid": "08:57",
-        "lenke": "https://e24.no/naeringsliv/i/4ORrmq/gard-steiro-blir-ny-sjef-for-schibsteds-medier?utm_medium=rss",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Dokumenter forfalsket for å unngå skatt på Abramovichs formue, finner BBC",
