@@ -1,0 +1,402 @@
+{
+  "dato": "2026-10-12",
+  "dato_norsk": "Mandag 12. oktober 2026",
+  "generert_kl": "11:47",
+  "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
+  "dagens_fokus": [
+    {
+      "tittel": "Fed-tjenestemenn ønsker å utsette en renteøkning denne måneden. Vil denne ukens inflasjonsdata la dem gjøre det?",
+      "kilde": "MarketWatch",
+      "tid": "11:00",
+      "lenke": "https://www.marketwatch.com/story/fed-officials-want-to-hold-off-a-rate-hike-this-month-will-this-weeks-inflation-data-let-them-a82754d1?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Små tak kan være den beste måten for investorer å spille viktige KPI-data på, fastlåst i sin verste tapsstrekk på mange år.",
+      "kilde": "MarketWatch",
+      "tid": "11:30",
+      "lenke": "https://www.marketwatch.com/story/mired-in-their-worst-losing-streak-in-years-small-caps-could-be-the-best-way-for-investors-to-play-crucial-cpi-data-40e2f716?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Healey står overfor en budsjettutfordring på £ 35 milliarder for å møte utgiftsløfter, sier tenketanken",
+      "kilde": "BBC Business",
+      "tid": "08:50",
+      "lenke": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Brent topper $ 105 som tvil vokser over forsyningsøkning fra Trumps ‘energi våpenhvile’",
+      "kilde": "CNBC Top News",
+      "tid": "11:37",
+      "lenke": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Trump vender seg til russisk diesel i forkant av midterms, men analytikere ser lite prisavlastning",
+      "kilde": "CNBC Top News",
+      "tid": "09:31",
+      "lenke": "https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-diesel-prices.html",
+      "engelsk_kilde": true
+    }
+  ],
+  "kategorier": {
+    "NORGE": [
+      {
+        "tittel": "No kan du kjøpe VM-tromma: – Eit unikt stykke norsk historie",
+        "kilde": "NRK Nyheter",
+        "tid": "09:59",
+        "lenke": "https://www.nrk.no/tvaksjonen/no-kan-du-kjope-vm-tromma-til-inntekt-for-tv-aksjonen-1.18040718",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Fastlåst i Midtøsten: – Kan nok vedvare et halvt år til",
+        "kilde": "E24",
+        "tid": "09:32",
+        "lenke": "https://e24.no/energi-og-klima/i/d7v4vA/fastlaast-i-midtoesten-kan-nok-vedvare-et-halvt-aar-til?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Rederier stiger på Oslo Børs",
+        "kilde": "E24",
+        "tid": "07:01",
+        "lenke": "https://e24.no/boers-og-finans/i/Vgjzx6/nedgang-paa-oslo-boers-oljeaksjer-faller?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Telia nedbemanner – kutter 150 stillinger i Norge",
+        "kilde": "E24",
+        "tid": "05:46",
+        "lenke": "https://e24.no/naeringsliv/i/9kopl5/telia-nedbemanner-kutter-150-stillinger-i-norge?utm_medium=rss",
+        "engelsk_kilde": false
+      }
+    ],
+    "MAKRO": [
+      {
+        "tittel": "Små tak kan være den beste måten for investorer å spille viktige KPI-data på, fastlåst i sin verste tapsstrekk på mange år.",
+        "kilde": "MarketWatch",
+        "tid": "11:30",
+        "lenke": "https://www.marketwatch.com/story/mired-in-their-worst-losing-streak-in-years-small-caps-could-be-the-best-way-for-investors-to-play-crucial-cpi-data-40e2f716?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fed-tjenestemenn ønsker å utsette en renteøkning denne måneden. Vil denne ukens inflasjonsdata la dem gjøre det?",
+        "kilde": "MarketWatch",
+        "tid": "11:00",
+        "lenke": "https://www.marketwatch.com/story/fed-officials-want-to-hold-off-a-rate-hike-this-month-will-this-weeks-inflation-data-let-them-a82754d1?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Healey står overfor en budsjettutfordring på £ 35 milliarder for å møte utgiftsløfter, sier tenketanken",
+        "kilde": "BBC Business",
+        "tid": "08:50",
+        "lenke": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      }
+    ],
+    "MARKEDER": [
+      {
+        "tittel": "Denne femstjerners pengeforvalteren deler tre aksjevalg, inkludert ett spill på døende amerikanske kjøpesentre",
+        "kilde": "MarketWatch",
+        "tid": "11:34",
+        "lenke": "https://www.marketwatch.com/story/this-five-star-money-manager-shares-three-stock-picks-including-one-betting-on-dying-american-malls-9253a787?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bankinntekter for å kaste det første lyset på hvordan høyere avkastning påvirker økonomien",
+        "kilde": "MarketWatch",
+        "tid": "11:07",
+        "lenke": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Obligasjonsmarkedet gjør Feds jobb, og det kan være gode nyheter for aksjer, sier Morgan Stanley strateg",
+        "kilde": "MarketWatch",
+        "tid": "09:23",
+        "lenke": "https://www.marketwatch.com/story/the-bond-market-is-doing-the-feds-job-and-that-could-be-good-news-for-stocks-says-morgan-stanley-strategist-ec57b81a?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Her er grunnen til at Goldman Sachs bare snudde aksjer for resten av året",
+        "kilde": "MarketWatch",
+        "tid": "09:14",
+        "lenke": "https://www.marketwatch.com/story/heres-why-goldman-sachs-just-flipped-bullish-on-stocks-for-the-rest-of-the-year-dfa3b0af?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      }
+    ],
+    "ENERGI_RAAVARER": [
+      {
+        "tittel": "Hvorfor noen ikke har noe annet valg enn å betale dyre oljepriser",
+        "kilde": "BBC Business",
+        "tid": "05:27",
+        "lenke": "https://www.bbc.co.uk/news/articles/cqgm09xvlvjeo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvorfor Kina importerer en rekordmengde gull - og hva det betyr for prisene",
+        "kilde": "CNBC Top News",
+        "tid": "00:51",
+        "lenke": "https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "NBA-kommissær Adam Silver sier at ligaen kan introdusere \"smart ball\" -teknologi så snart som neste år",
+        "kilde": "CNBC Top News",
+        "tid": "12:54",
+        "lenke": "https://www.cnbc.com/2026/10/11/commissioner-adam-silver-nba-could-launch-smart-ball-tech-next-year.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "TEKNOLOGI": [
+      {
+        "tittel": "Vance sier at Microsoft erstattet permitterte med utenlandske ansatte. Her er hva VISA-dataene viser",
+        "kilde": "CNBC Top News",
+        "tid": "11:32",
+        "lenke": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ledger bekrefter skjult brikke i kryptolommeboken blant $ 92 MILLIONER TYVERIKRAV",
+        "kilde": "Hacker News",
+        "tid": "10:09",
+        "lenke": "https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Intel, Broadcoms administrerende direktører advarer om at kapitalkrisen kan bli AIs største flaskehals",
+        "kilde": "CNBC Top News",
+        "tid": "08:27",
+        "lenke": "https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "AI er mindre regulert enn melk, sier Microsoft-sjef",
+        "kilde": "BBC Business",
+        "tid": "07:47",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      }
+    ],
+    "GEOPOLITIKK": [
+      {
+        "tittel": "Brent topper $ 105 som tvil vokser over forsyningsøkning fra Trumps ‘energi våpenhvile’",
+        "kilde": "CNBC Top News",
+        "tid": "11:37",
+        "lenke": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Globale reiseadvarsler etter at Iran-støttede Houthi-militante angrep Riyadh flyplass",
+        "kilde": "CNBC Top News",
+        "tid": "11:27",
+        "lenke": "https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump vender seg til russisk diesel i forkant av midterms, men analytikere ser lite prisavlastning",
+        "kilde": "CNBC Top News",
+        "tid": "09:31",
+        "lenke": "https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-diesel-prices.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump står overfor økende tilbakeslag over planer om å importere diesel fra Russland",
+        "kilde": "BBC Business",
+        "tid": "23:18",
+        "lenke": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trumps medierådgiver Katie Zacharia utnevnes til pressesekretær i Det hvite hus",
+        "kilde": "CNBC Top News",
+        "tid": "22:16",
+        "lenke": "https://www.cnbc.com/2026/10/11/trump-katie-zacharia-white-house-press-secretary.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "VILLKORT": [
+      {
+        "tittel": "Ikke så enkelt",
+        "kilde": "NRK Nyheter",
+        "tid": "11:39",
+        "lenke": "https://www.nrk.no/ytring/ikke-sa-enkelt-1.18052018",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Nobelprisen i økonomi tildeles Robert E. Hall og Michael Woodford",
+        "kilde": "CNBC Top News",
+        "tid": "11:30",
+        "lenke": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Dronning Sonja så hilsener og tegninger fra Slottsplassen: – Rørende",
+        "kilde": "NRK Nyheter",
+        "tid": "11:25",
+        "lenke": "https://www.nrk.no/nyheter/dronning-sonja-sa-hilsener-og-tegninger-fra-slottsplassen_-_-rorende-1.18052465",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Minibuss mot bil i Fredrikstad",
+        "kilde": "NRK Nyheter",
+        "tid": "11:24",
+        "lenke": "https://www.nrk.no/ostfold/minibuss-mot-bil-i-fredrikstad-1.18052580",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "QGIS forbyr AI-assisterte bidrag",
+        "kilde": "Hacker News",
+        "tid": "11:22",
+        "lenke": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "BankID-trøbbel: – Vi har noen tekniske utfordringer",
+        "kilde": "NRK Nyheter",
+        "tid": "10:27",
+        "lenke": "https://www.nrk.no/nyheter/bankid-trobbel_-_-vi-har-noen-tekniske-utfordringer-1.18052413",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Deloitte forfalsket dokumenter for å unngå skatt på Abramovitsjs formue",
+        "kilde": "Hacker News",
+        "tid": "10:21",
+        "lenke": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Prospektet ser imponerende ut’: Min finansielle rådgiver vil at jeg skal investere $ 350 000 i et UAE-datasenter. Er dette risikabelt?",
+        "kilde": "MarketWatch",
+        "tid": "10:15",
+        "lenke": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Robert E. Hall og Michael Woodford får nobelprisen i økonomi",
+        "kilde": "E24",
+        "tid": "10:11",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/JrvRO8/robert-e-hall-og-michael-woodford-faar-nobelprisen-i-oekonomi?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "På jakt etter noko unikt? – Dette kan du by på i TV-aksjonen 2026",
+        "kilde": "NRK Nyheter",
+        "tid": "10:00",
+        "lenke": "https://www.nrk.no/tvaksjonen/pa-jakt-etter-noko-unikt_-_-dette-kan-du-by-pa-i-tv-aksjonen-2026-1.18016731",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Viking-kapteinen før storkampen mot Bayern München : – Me skal angripa",
+        "kilde": "NRK Nyheter",
+        "tid": "09:43",
+        "lenke": "https://www.nrk.no/rogaland/viking-held-pressekonferanse-for-mote-med-bayern-munchen-i-meisterligaen-1.18052209",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Shippingvinner: – Eksepsjonelt",
+        "kilde": "E24",
+        "tid": "09:37",
+        "lenke": "https://e24.no/boers-og-finans/i/KrWaLe/shippingvinner-eksepsjonelt?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Søsteren min flyttet inn hos vår enkemor, 78, og sier at hun fortjener familiens hjem. Har hun rett?",
+        "kilde": "MarketWatch",
+        "tid": "09:15",
+        "lenke": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Slik unngår du å bli stukket hvis du går glipp av kredittkortbetalinger",
+        "kilde": "BBC Business",
+        "tid": "09:11",
+        "lenke": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "VGs sjefredaktør Gard Steiro (50) gir seg",
+        "kilde": "E24",
+        "tid": "08:57",
+        "lenke": "https://e24.no/naeringsliv/i/4ORrmq/gard-steiro-blir-ny-sjef-for-schibsteds-medier?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Gard Steiro slutter som sjefredaktør i VG",
+        "kilde": "NRK Nyheter",
+        "tid": "08:56",
+        "lenke": "https://www.nrk.no/nyheter/gard-steiro-slutter-som-sjefredaktor-i-vg-1.18052299",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Milliardveddemål mot bilaksje",
+        "kilde": "E24",
+        "tid": "08:31",
+        "lenke": "https://e24.no/boers-og-finans/i/OgW6nq/milliardveddemaal-mot-bilaksje?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "– Den største konkurranse­rettssaken noensinne",
+        "kilde": "E24",
+        "tid": "08:10",
+        "lenke": "https://e24.no/naeringsliv/i/Jrv6xj/den-stoerste-konkurranserettssaken-noensinne?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Zod 4.6.6 kompromittert av skadelig programvare?",
+        "kilde": "Hacker News",
+        "tid": "07:47",
+        "lenke": "https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Sara Midtgaard slutter i Nordea Markets",
+        "kilde": "E24",
+        "tid": "07:45",
+        "lenke": "https://e24.no/norsk-oekonomi/i/GrBze6/sara-midtgaard-slutter-i-nordea-markets?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vis HN: PS2-spill som er statisk rekompilert til WebAsċ",
+        "kilde": "Hacker News",
+        "tid": "06:46",
+        "lenke": "https://github.com/snuri00/ps2-web-recomp",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "AI kan endre prisen på Big Mac og dagligvarer — hva dette betyr for kundene",
+        "kilde": "CNBC Top News",
+        "tid": "06:02",
+        "lenke": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Dokumenter forfalsket for å unngå skatt på Abramovichs formue, finner BBC",
+        "kilde": "BBC Business",
+        "tid": "05:00",
+        "lenke": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Senatorer mot Trumps avtale: – Bryter loven",
+        "kilde": "E24",
+        "tid": "04:05",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/mK3R1l/senatorer-mot-trumps-avtale-bryter-loven?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Taksvindlere lurer huseiere ut av tusenvis av pund",
+        "kilde": "BBC Business",
+        "tid": "23:19",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Citroën gjenoppliver 2CV for en elektrisk tidsalder",
+        "kilde": "BBC Business",
+        "tid": "17:00",
+        "lenke": "https://www.bbc.co.uk/news/articles/c620r33plgppo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      }
+    ]
+  }
+}
