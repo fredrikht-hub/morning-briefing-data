@@ -1,0 +1,409 @@
+{
+  "dato": "2026-10-14",
+  "dato_norsk": "Onsdag 14. oktober 2026",
+  "generert_kl": "09:23",
+  "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
+  "dagens_fokus": [
+    {
+      "tittel": "US Treasury yields inch lower as investors await key inflation report",
+      "kilde": "CNBC Top News",
+      "tid": "07:21",
+      "lenke": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "‘Jeg tjener $ 110 000 i året’: Jeg mistet hjemmet mitt i den store resesjonen. Jeg leier i 50-årene. Hvorfor dømmes det som fiasko?",
+      "kilde": "MarketWatch",
+      "tid": "09:15",
+      "lenke": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Oljeaksjer opp på Oslo Børs – gruveaksje stuper",
+      "kilde": "E24",
+      "tid": "07:01",
+      "lenke": "https://e24.no/boers-og-finans/i/b8eMdB/oppgang-paa-oslo-boers-aker-bp-stiger?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Scott Bessents vekstplaner er ikke nok til å temme økende underskudd og gjeldshaug, sier IMF-sjef",
+      "kilde": "CNBC Top News",
+      "tid": "08:53",
+      "lenke": "https://www.cnbc.com/2026/10/14/bond-yields-debt-deficit-treasury.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "ASML sier at det får ordreinteresse gjennom 2030 ettersom overskuddet knuser forventningene",
+      "kilde": "CNBC Top News",
+      "tid": "08:45",
+      "lenke": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
+      "engelsk_kilde": true
+    }
+  ],
+  "kategorier": {
+    "NORGE": [
+      {
+        "tittel": "Oljeaksjer opp på Oslo Børs – gruveaksje stuper",
+        "kilde": "E24",
+        "tid": "07:01",
+        "lenke": "https://e24.no/boers-og-finans/i/b8eMdB/oppgang-paa-oslo-boers-aker-bp-stiger?utm_medium=rss",
+        "engelsk_kilde": false
+      }
+    ],
+    "MAKRO": [
+      {
+        "tittel": "‘Jeg tjener $ 110 000 i året’: Jeg mistet hjemmet mitt i den store resesjonen. Jeg leier i 50-årene. Hvorfor dømmes det som fiasko?",
+        "kilde": "MarketWatch",
+        "tid": "09:15",
+        "lenke": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Scott Bessents vekstplaner er ikke nok til å temme økende underskudd og gjeldshaug, sier IMF-sjef",
+        "kilde": "CNBC Top News",
+        "tid": "08:53",
+        "lenke": "https://www.cnbc.com/2026/10/14/bond-yields-debt-deficit-treasury.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "US Treasury yields inch lower as investors await key inflation report",
+        "kilde": "CNBC Top News",
+        "tid": "07:21",
+        "lenke": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "MARKEDER": [
+      {
+        "tittel": "ASML sier at det får ordreinteresse gjennom 2030 ettersom overskuddet knuser forventningene",
+        "kilde": "CNBC Top News",
+        "tid": "08:45",
+        "lenke": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "SpaceX-trusselen kan komme over AT&Ts aksjer i en lengre periode, advarer analytikeren",
+        "kilde": "MarketWatch",
+        "tid": "20:42",
+        "lenke": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Six Flags lagernedgang nær 17 års lav etter dødelig hendelse",
+        "kilde": "MarketWatch",
+        "tid": "20:41",
+        "lenke": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      }
+    ],
+    "ENERGI_RAAVARER": [
+      {
+        "tittel": "Oljeprisene hakket etter at IEA advarte om markedsbegrensninger; saudiske tjenestemenn sier at Aramco-fasiliteter ble angrepet",
+        "kilde": "CNBC Top News",
+        "tid": "08:53",
+        "lenke": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "TEKNOLOGI": [
+      {
+        "tittel": "Chip bellwether ASML sier at kundene allerede ber om å legge inn bestillinger — for 2030",
+        "kilde": "MarketWatch",
+        "tid": "08:41",
+        "lenke": "https://www.marketwatch.com/story/chip-bellwether-asml-says-customers-are-already-asking-to-place-orders-for-2030-b3aa1a90?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "FBI arresterer saudiarabisk OpenAI-ansatt som angivelig plantet opptaksenhet i konferanserom",
+        "kilde": "CNBC Top News",
+        "tid": "00:13",
+        "lenke": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Saudiarabisk ansatt siktet for å plante opptaksenhet på OpenAI-kontoret",
+        "kilde": "BBC Business",
+        "tid": "21:42",
+        "lenke": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Chip aksjer lider verste strekk i 16 måneder som AI tretthet grep markedet",
+        "kilde": "MarketWatch",
+        "tid": "21:02",
+        "lenke": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      }
+    ],
+    "GEOPOLITIKK": [
+      {
+        "tittel": "Ukraina advarer om at Starlink-grensene forstyrrer militære operasjoner ettersom Russland pund sin energiinfrastruktur",
+        "kilde": "CNBC Top News",
+        "tid": "09:18",
+        "lenke": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Dommer forlenger blokkeringen av Trumps forbud mot MS NOW, CNN og Politico i Det hvite hus",
+        "kilde": "CNBC Top News",
+        "tid": "05:19",
+        "lenke": "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kinas produsentpriser stiger i raskeste tempo siden juni 2022, og slår forventningene",
+        "kilde": "CNBC Top News",
+        "tid": "03:14",
+        "lenke": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Taiwan går med på å kjøpe 30% av gassen fra Alaska LNG-prosjektet, sier Trump",
+        "kilde": "CNBC Top News",
+        "tid": "02:09",
+        "lenke": "https://www.cnbc.com/2026/10/14/taiwan-alaska-lng-project-trump-.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "VILLKORT": [
+      {
+        "tittel": "‘Sopranos’ -stjernen Steven Van Zandt selger sin Greenwich Village-penthouse for $ 19 millioner",
+        "kilde": "MarketWatch",
+        "tid": "09:03",
+        "lenke": "https://www.marketwatch.com/story/sopranos-star-steven-van-zandt-is-selling-his-greenwich-village-penthouse-for-19-million-ad250720?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Investtech-analyse: Selg disse tallkandidatene",
+        "kilde": "E24",
+        "tid": "09:00",
+        "lenke": "https://e24.no/boers-og-finans/i/kveRwQ/investtech-analyse-selg-disse-tallkandidatene?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Rema 1000 kutter 130 ansatte",
+        "kilde": "E24",
+        "tid": "09:00",
+        "lenke": "https://e24.no/naeringsliv/i/Ogm8qA/rema-1000-kutter-130-ansatte?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kongen blir bøsseberar for årets TV-aksjon",
+        "kilde": "NRK Nyheter",
+        "tid": "08:59",
+        "lenke": "https://www.nrk.no/tvaksjonen/kong-haakon-viii-blir-bosseberar-for-tv-aksjonen-2026-1.18042171",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Nå starter priskrigen på juleklassikeren: – Ville gripe sjansen",
+        "kilde": "NRK Nyheter",
+        "tid": "08:56",
+        "lenke": "https://www.nrk.no/sorlandet/priskrig-pa-pepperkaker-i-oktober-1.18053403",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "NHH-student tiltalt i omfattande narkotikasak i Bergen",
+        "kilde": "NRK Nyheter",
+        "tid": "08:37",
+        "lenke": "https://www.nrk.no/vestland/fire-menn-tiltalt-for-omfattande-narkotikaverksemd-i-bergen-1.18054518",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Iosevka er en åpen kildekode, sans-serif og slab-serif, monospace font",
+        "kilde": "Hacker News",
+        "tid": "08:27",
+        "lenke": "https://typeof.net/Iosevka/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "\"Jeg søkte på 200 jobber\" - Hvordan \"spray og be\" AI-jobbsøknader kan slå tilbake",
+        "kilde": "BBC Business",
+        "tid": "08:27",
+        "lenke": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vil ha forvaringsstraff for Steinar Wangen",
+        "kilde": "NRK Nyheter",
+        "tid": "08:11",
+        "lenke": "https://www.nrk.no/vestfoldogtelemark/vil-ha-forvaringsstraff-for-steinar-wangen-1.18054503",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Rykter sender Trøim-aksje videre oppover",
+        "kilde": "E24",
+        "tid": "08:05",
+        "lenke": "https://e24.no/boers-og-finans/i/Jr3xeP/rykter-sender-troeim-aksje-videre-oppover?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "IEA jekker ned utsiktene igjen",
+        "kilde": "E24",
+        "tid": "07:59",
+        "lenke": "https://e24.no/energi-og-klima/i/Elm4Aj/iea-jekker-ned-utsiktene-igjen?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Uværet i natt: Campingvogn i vannet og bil knust av container",
+        "kilde": "NRK Nyheter",
+        "tid": "07:51",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/uvaeret-i-natt_-campingvogn-i-vannet-og-bil-knust-av-container-1.18054336",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Manchester United-stjerne blir hudfletta etter frontalangrep på eigen klubb",
+        "kilde": "NRK Nyheter",
+        "tid": "07:28",
+        "lenke": "https://www.nrk.no/sport/manchester-united_-lisandro-martinez-med-frontalangrep-pa-eiga-klubbleiing-1.18054303",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Hundrevis av Royal Mail-ansatte slutter hver uke under nye effektivitetsplaner",
+        "kilde": "BBC Business",
+        "tid": "07:18",
+        "lenke": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ingen kom på 3 av 4 visninger",
+        "kilde": "E24",
+        "tid": "06:55",
+        "lenke": "https://e24.no/naeringsliv/i/KrbMm4/ingen-kom-paa-3-av-4-visninger?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "AOSP-kildeutgivelser er så sene at utviklere demonterer biblioteker for å rapportere feil",
+        "kilde": "Hacker News",
+        "tid": "06:18",
+        "lenke": "https://github.com/android/ndk/issues/2260",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Lågare fråværstal for første gong sidan pandemien: – Pusher deg jo til å møte opp",
+        "kilde": "NRK Nyheter",
+        "tid": "05:29",
+        "lenke": "https://www.nrk.no/trondelag/lagare-fravaerstal-for-forste-gong-sidan-pandemien_-_-pusher-deg-jo-til-a-mote-opp-1.18053997",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Tyrkisk politi med aksjon mot opposisjonell TV-kanal",
+        "kilde": "NRK Nyheter",
+        "tid": "05:17",
+        "lenke": "https://www.nrk.no/nyheter/tyrkisk-politi-med-aksjon-mot-opposisjonell-tv-kanal-1.18054315",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Å ikke bygge den tredje rullebanen ville være en \"stor tapt mulighet\", advarer Heathrow-sjefen",
+        "kilde": "BBC Business",
+        "tid": "04:59",
+        "lenke": "https://www.bbc.co.uk/news/articles/ckdd8egder5ro?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Felix Rieseberg Hjemmeside",
+        "kilde": "Hacker News",
+        "tid": "04:42",
+        "lenke": "https://felixrieseberg.com/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Pressesekretær slaktes etter debuten: – Bisarr",
+        "kilde": "E24",
+        "tid": "04:23",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/xlVLoQ/trumps-nye-pressesekretaer-slaktes-etter-debuten?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Ny statsminister­måling: – Ine synker som en stein",
+        "kilde": "E24",
+        "tid": "04:22",
+        "lenke": "https://e24.no/norsk-oekonomi/i/Gr5kmB/statsministermaaling-ine-eriksen-soereide-synker-som-en-stein?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Meta-brillene er det minste problemet",
+        "kilde": "E24",
+        "tid": "04:07",
+        "lenke": "https://e24.no/teknologi/i/w39OlL/jeg-har-staatt-paa-store-scener-og-solgt-fremtiden-naa-ser-jeg-en-moerk-sky?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Åpner for å bla opp nye millioner til Bellona",
+        "kilde": "E24",
+        "tid": "04:05",
+        "lenke": "https://e24.no/naeringsliv/i/rM9GOe/aapner-for-aa-bla-opp-nye-millioner-til-bellona?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Strafe: Et nytt åpen kildekode, E2E-kryptert og føderert alternativ til Discord",
+        "kilde": "Hacker News",
+        "tid": "03:28",
+        "lenke": "https://strafe.chat/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bank of America fikk $ 1,2 milliarder i bot for sviktende hvitvasking av penger",
+        "kilde": "BBC Business",
+        "tid": "02:05",
+        "lenke": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Jeg er en ganske forsiktig person’: Min finansielle rådgiver vil at jeg skal investere $ 350 000 i et UAE-datasenter. Er dette risikabelt?",
+        "kilde": "MarketWatch",
+        "tid": "01:31",
+        "lenke": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Min kone sier at vi ikke har råd til å pensjonere oss, men hun ønsker å ta en $ 8000 tur til Italia. Vi har $ 4 millioner. Fortsetter jeg å jobbe?",
+        "kilde": "MarketWatch",
+        "tid": "01:25",
+        "lenke": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvor lenge vil det være behov for mennesker for oversettelse?",
+        "kilde": "BBC Business",
+        "tid": "23:05",
+        "lenke": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Grace Hopper-feiring avlyst",
+        "kilde": "Hacker News",
+        "tid": "22:46",
+        "lenke": "https://anitab.org/press-release",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Protokoll fra styrets diskonteringsrente 17. august, 9. september og 16. september 2026",
+        "kilde": "Federal Reserve",
+        "tid": "18:00",
+        "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bumble kjøpt for $ 1,3 milliarder i \"satse på menneskehetens fremtid\"",
+        "kilde": "BBC Business",
+        "tid": "15:59",
+        "lenke": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Franske supermarkedkjøleskap blir hacket, varmes opp til 122° F og gnister branner",
+        "kilde": "CNBC Top News",
+        "tid": "12:22",
+        "lenke": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tre ting vi har lært om den britiske økonomien fra IMF",
+        "kilde": "BBC Business",
+        "tid": "11:58",
+        "lenke": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      }
+    ]
+  }
+}
