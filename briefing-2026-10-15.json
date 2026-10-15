@@ -1,14 +1,35 @@
 {
   "dato": "2026-10-15",
   "dato_norsk": "Torsdag 15. oktober 2026",
-  "generert_kl": "12:58",
+  "generert_kl": "16:32",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "‘Noen mennesker gjorde alt riktig’: Jeg mistet hjemmet mitt i den store resesjonen. Jeg leier i 50-årene. Hvorfor dømmes det som fiasko?",
-      "kilde": "MarketWatch",
-      "tid": "10:15",
-      "lenke": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "tittel": "Oslo Børs tynget av tekuro og oljeprisfall",
+      "kilde": "E24",
+      "tid": "14:27",
+      "lenke": "https://e24.no/boers-og-finans/i/2VJ1vy/nedgang-paa-oslo-boers-bw-energy-faller?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Nvidia, AMD, Dell selger seg ut i den globale teknologiruten for AI-finansieringsbekymringer",
+      "kilde": "CNBC Top News",
+      "tid": "16:19",
+      "lenke": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "USA vurderer angivelig bruk av «alle bombers mor» når Iran sverger å kjempe videre",
+      "kilde": "CNBC Top News",
+      "tid": "14:51",
+      "lenke": "https://www.cnbc.com/2026/10/15/us-iran-war-trump-hormuz.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "TSMC-brikkekapasitet er en «hard» slagmark for AI-kunder, midt i et rekordkvartal",
+      "kilde": "CNBC Top News",
+      "tid": "15:51",
+      "lenke": "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html",
       "engelsk_kilde": true
     },
     {
@@ -17,98 +38,28 @@
       "tid": "12:15",
       "lenke": "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html",
       "engelsk_kilde": true
-    },
-    {
-      "tittel": "Treasury yields slide as investors escape to safety of bonds amid tech rout",
-      "kilde": "CNBC Top News",
-      "tid": "12:56",
-      "lenke": "https://www.cnbc.com/2026/10/15/us-treasury-yields-investors-economic-data-.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Det amerikanske finansdepartementet avviser IMFs gjeldsvarsel og «rotete» prognoser",
-      "kilde": "CNBC Top News",
-      "tid": "12:40",
-      "lenke": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Analyse: Hvorfor et underskudd på $ 2 billioner og avkastning på 5% blir Amerikas største økonomiske utfordring",
-      "kilde": "CNBC Top News",
-      "tid": "12:11",
-      "lenke": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-      "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "Norsk 19-åring får dom på fredag – forsvareren frykter livstid",
-        "kilde": "NRK Nyheter",
-        "tid": "09:16",
-        "lenke": "https://www.nrk.no/rogaland/norsk-19-aring-venter-pa-straffen-for-drapsplanlegging-_-forsvareren-frykter-livstid-1.18053572",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Dei norske bragdene skaper tyske reaksjonar: «Flause ved polarsirkelen»",
-        "kilde": "NRK Nyheter",
-        "tid": "07:47",
-        "lenke": "https://www.nrk.no/sport/viking-og-bodo_glimt-skapte-sjokkbolger_-_kva-er-det-som-skjer__-1.18054165",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Nedgang på Oslo Børs – Aker faller",
+        "tittel": "Oslo Børs tynget av tekuro og oljeprisfall",
         "kilde": "E24",
-        "tid": "07:02",
+        "tid": "14:27",
         "lenke": "https://e24.no/boers-og-finans/i/2VJ1vy/nedgang-paa-oslo-boers-bw-energy-faller?utm_medium=rss",
         "engelsk_kilde": false
       }
     ],
     "MAKRO": [
       {
-        "tittel": "Treasury yields slide as investors escape to safety of bonds amid tech rout",
-        "kilde": "CNBC Top News",
-        "tid": "12:56",
-        "lenke": "https://www.cnbc.com/2026/10/15/us-treasury-yields-investors-economic-data-.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Det amerikanske finansdepartementet avviser IMFs gjeldsvarsel og «rotete» prognoser",
-        "kilde": "CNBC Top News",
-        "tid": "12:40",
-        "lenke": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Analyse: Hvorfor et underskudd på $ 2 billioner og avkastning på 5% blir Amerikas største økonomiske utfordring",
-        "kilde": "CNBC Top News",
-        "tid": "12:11",
-        "lenke": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Noen mennesker gjorde alt riktig’: Jeg mistet hjemmet mitt i den store resesjonen. Jeg leier i 50-årene. Hvorfor dømmes det som fiasko?",
-        "kilde": "MarketWatch",
-        "tid": "10:15",
-        "lenke": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Healey sier at overraskende britisk vekst er \"tegn på motstandskraft\" foran budsjettet",
         "kilde": "BBC Business",
-        "tid": "09:29",
+        "tid": "13:25",
         "lenke": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
-      {
-        "tittel": "Denne 30-årige markedsveteranen er skremt av en rekordjegende S&P 500. Her investerer han i stedet.",
-        "kilde": "MarketWatch",
-        "tid": "12:40",
-        "lenke": "https://www.marketwatch.com/story/this-30-year-market-veteran-is-alarmed-by-a-near-record-s-p-500-heres-where-hes-investing-instead-c6611143?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
       {
         "tittel": "Minnebeholdningene er i ferd med å bli knust. Kina og en overforsyning i 2029 er de store bekymringene",
         "kilde": "CNBC Top News",
@@ -124,47 +75,33 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Det er et \"uhyrlig oksemarked\" som utvikler seg under overflaten av S&P 500. Denne hedgefondforvalteren forteller deg hvor den er.",
-        "kilde": "MarketWatch",
-        "tid": "12:08",
-        "lenke": "https://www.marketwatch.com/story/theres-a-monstrous-bull-market-developing-under-the-surface-of-the-s-p-500-this-hedge-fund-manager-tells-you-where-its-at-98450ef4?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "CBOE for å utvide åpningstider for opsjoner for store aksjer og ETF-er",
-        "kilde": "CNBC Top News",
-        "tid": "12:01",
-        "lenke": "https://www.cnbc.com/2026/10/15/cboe-stock-etf-options-extended-hours.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "AI-giganten Anthropic lokker potensielle investorer i forkant av børsdebuten",
         "kilde": "BBC Business",
         "tid": "11:34",
         "lenke": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tek-fallet på Wall Street demper seg",
+        "kilde": "E24",
+        "tid": "09:33",
+        "lenke": "https://e24.no/boers-og-finans/i/kvbMRQ/tek-uro-paa-verdens-boerser?utm_medium=rss",
+        "engelsk_kilde": false
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Nvidia, AMD, Micron faller etter hvert som salget av AI-aksjer øker",
+        "tittel": "Nvidia, AMD, Dell selger seg ut i den globale teknologiruten for AI-finansieringsbekymringer",
         "kilde": "CNBC Top News",
-        "tid": "12:52",
+        "tid": "16:19",
         "lenke": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Mikron-, Nvidia- og andre brikkeaksjer står overfor fornyet press etter hvert som AI frykter at svulmer opp",
-        "kilde": "MarketWatch",
-        "tid": "12:43",
-        "lenke": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Amazon lanserer nye Bee 'personlige AI' -enheter som lytter til samtaler",
+        "tittel": "TSMC-brikkekapasitet er en «hard» slagmark for AI-kunder, midt i et rekordkvartal",
         "kilde": "CNBC Top News",
-        "tid": "12:00",
-        "lenke": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
+        "tid": "15:51",
+        "lenke": "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html",
         "engelsk_kilde": true
       }
     ],
@@ -172,18 +109,158 @@
       {
         "tittel": "USA vurderer angivelig bruk av «alle bombers mor» når Iran sverger å kjempe videre",
         "kilde": "CNBC Top News",
-        "tid": "10:44",
+        "tid": "14:51",
         "lenke": "https://www.cnbc.com/2026/10/15/us-iran-war-trump-hormuz.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Når julen rush vevner, hvordan finner Kina-laget leker veien til USA?",
+        "kilde": "BBC Business",
+        "tid": "23:01",
+        "lenke": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
       {
+        "tittel": "Kulturministeren om Curaçao-avsløringer: – Alvorlig",
+        "kilde": "NRK Nyheter",
+        "tid": "16:17",
+        "lenke": "https://www.nrk.no/trondelag/kulturminister-lubna-jaffery-om-curacao-avsloringer_-_-alvorlig-1.18038941",
+        "engelsk_kilde": false
+      },
+      {
         "tittel": "Engrosprisene hoppet 6,3% årlig i september, den største gevinsten siden 2022",
         "kilde": "CNBC Top News",
-        "tid": "12:55",
+        "tid": "16:15",
         "lenke": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "JetBlues nye innenlandske førsteklasse, BlueFirst, er nå i salg",
+        "kilde": "CNBC Top News",
+        "tid": "16:13",
+        "lenke": "https://www.cnbc.com/2026/10/15/jetblue-bluefirst-first-class.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Steam-klienten er nå raskere enn Epics nye Vibe Coded Launcher",
+        "kilde": "Hacker News",
+        "tid": "16:03",
+        "lenke": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg designet en nesebeskyttelse for hunden min og ga den bort. Nå bærer 500 hunder en",
+        "kilde": "Hacker News",
+        "tid": "15:44",
+        "lenke": "https://snoutcover.com/one-year",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "TV2: FHI må kutte 100 millioner i 2027",
+        "kilde": "NRK Nyheter",
+        "tid": "15:37",
+        "lenke": "https://www.nrk.no/nyheter/tv2_-fhi-ma-kutte-100-millioner-i-2027--1.18056154",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Banker med Jeffrey Epstein-slips sett av demokratene Warren og Garcia",
+        "kilde": "CNBC Top News",
+        "tid": "15:30",
+        "lenke": "https://www.cnbc.com/2026/10/15/banks-congress-jeffrey-epstein-oversight.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "KrF-Askjer angrer etter TV 2-dokumentar: – Har gjort ganske vondt å lære den leksa",
+        "kilde": "NRK Nyheter",
+        "tid": "15:28",
+        "lenke": "https://www.nrk.no/vestfoldogtelemark/krf-askjer-angrer-etter-tv-2-dokumentar_-_-har-gjort-ganske-vondt-a-laere-den-leksa-1.18055904",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Han er Noregs ukjende landslagsstjerne: Jaktar vill målrekord",
+        "kilde": "NRK Nyheter",
+        "tid": "15:14",
+        "lenke": "https://www.nrk.no/sport/bjorn-martin-kristensen-er-noregs-ukjende-landslagsstjerne_-_-ein-merkar-trykket-1.18053159",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Pekes ut som mulig WEF-leder",
+        "kilde": "E24",
+        "tid": "15:12",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/GrqjW4/pekes-ut-som-mulig-wef-leder?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Feirer 70 år med Fortran",
+        "kilde": "Hacker News",
+        "tid": "15:03",
+        "lenke": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Simons Foundation lanserer $ 15 MILLIONER innsats for å hjelpe matematikere med å navigere i AI-æraen",
+        "kilde": "Hacker News",
+        "tid": "14:58",
+        "lenke": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nandy 'innstilt på å gripe inn' i Skys overtakelse av ITV-underholdningsarmen på £ 1,6 milliarder",
+        "kilde": "BBC Business",
+        "tid": "14:55",
+        "lenke": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Skuddsekundet skrotes: Problemet utsettes i tusen år",
+        "kilde": "NRK Nyheter",
+        "tid": "14:40",
+        "lenke": "https://www.nrk.no/nyheter/skuddsekundet-skrotes_-problemet-utsettes-i-tusen-ar--1.18056098",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Rask injeksjon i HTTP-overskrifter: hva 217 millioner nettresponser viser",
+        "kilde": "Hacker News",
+        "tid": "14:36",
+        "lenke": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Southwest er i ferd med å revidere sitt frequent flyer-program. Her er hva som endrer seg",
+        "kilde": "CNBC Top News",
+        "tid": "14:25",
+        "lenke": "https://www.cnbc.com/2026/10/15/southwest-rapid-rewards-tiers-a-list.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fifa-styremedlem langer ut mot Infantino: – Vi må restarte alt",
+        "kilde": "NRK Nyheter",
+        "tid": "14:23",
+        "lenke": "https://www.nrk.no/sport/flere-fifa-styremedlemmer-ut-mot-gianni-infantino_-_-vi-ma-restarte-alt-pa-nytt-1.18056044",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Advokater om overtidsdom: – En tydelig innstramming",
+        "kilde": "E24",
+        "tid": "13:51",
+        "lenke": "https://e24.no/naeringsliv/i/n9bv8J/advokater-om-overtidsdom-en-tydelig-innstramming?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kvæfjord mister 120 millioner kroner: – Jeg er regelrett forbannet",
+        "kilde": "NRK Nyheter",
+        "tid": "13:21",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/kvaefjord-mister-120-millioner-kroner-_-ordforeren-er-forbannet-1.18054429",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kilde røk akillessenen under trening: – Man frykter jo at sesongen ryker",
+        "kilde": "NRK Nyheter",
+        "tid": "13:01",
+        "lenke": "https://www.nrk.no/sport/aleksander-aamodt-kilde-rok-akillessenen-under-trening-1.18055989",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Ekspertene om børsuroen: – Har surnet siden juni",
@@ -193,67 +270,18 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Problemet med \"god gjeld\": Hvorfor låntakere bør tenke to ganger om etiketten",
+        "tittel": "Hun gjorde college til \"god gjeld\" for seg selv. Kan hun gjøre det samme for datteren sin?",
         "kilde": "CNBC Top News",
-        "tid": "12:30",
-        "lenke": "https://www.cnbc.com/2026/10/15/good-debt-vs-bad-debt-why-experts-say-rethink-labels.html",
+        "tid": "12:31",
+        "lenke": "https://www.cnbc.com/2026/10/15/college-good-debt-cfp-daughter.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Viken Park: Departementet omgjør vedtak",
-        "kilde": "NRK Nyheter",
-        "tid": "12:12",
-        "lenke": "https://www.nrk.no/ostfold/kommunalministeren-omgjor-viken-park-avslag-1.18054769",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Ubuntu 26.10 (Stonking Stingray) utgitt",
-        "kilde": "Hacker News",
-        "tid": "11:59",
-        "lenke": "https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html",
+        "tittel": "Hvem får ha «god gjeld»? En sosiolog, teolog, filosof og andre eksperter veier inn",
+        "kilde": "CNBC Top News",
+        "tid": "12:31",
+        "lenke": "https://www.cnbc.com/2026/10/15/good-debt-access.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hertugpar sammen på oppdrag",
-        "kilde": "NRK Nyheter",
-        "tid": "11:43",
-        "lenke": "https://www.nrk.no/nyheter/hertugpar-sammen-pa-oppdrag---1.18055599",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Risikerer å måtte betale erstatning på flere 100.000 kroner",
-        "kilde": "NRK Nyheter",
-        "tid": "11:39",
-        "lenke": "https://www.nrk.no/nordland/fem-sidaandeler-politianmeldt-for-bedrageri.-risikerer-flere-100.000-kroner-i-bot-1.18055814",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Vis HN: Unfenced – Tomter til salgs som grenser til offentlig land",
-        "kilde": "Hacker News",
-        "tid": "11:38",
-        "lenke": "https://unfenced.land/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "CoreWeaves AI-obligasjoner faller, og hever røde flagg for det bredere markedet",
-        "kilde": "MarketWatch",
-        "tid": "11:17",
-        "lenke": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Magdalena Andersson stemt ned i Riksdagen",
-        "kilde": "NRK Nyheter",
-        "tid": "10:50",
-        "lenke": "https://www.nrk.no/nyheter/magdalena-andersson-stemt-ned-i-riksdagen-1.18055807",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Forfatter og programleder Eli Rygg er død, 71 år gammel",
-        "kilde": "NRK Nyheter",
-        "tid": "10:20",
-        "lenke": "https://www.nrk.no/nyheter/forfatter-og-programleder-eli-rygg-er-dod_-71-ar-gammel-1.18055767",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Vil investere i atomvåpen: – Sjokkerende linjeskifte",
@@ -263,34 +291,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Tek-uro på verdens børser",
-        "kilde": "E24",
-        "tid": "09:33",
-        "lenke": "https://e24.no/boers-og-finans/i/kvbMRQ/tek-uro-paa-verdens-boerser?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Jeg er 64 år gammel, med to sønner, men bare en jobber i familiefirmaet. Skal jeg overlate 70% av virksomheten til ham?",
-        "kilde": "MarketWatch",
-        "tid": "09:15",
-        "lenke": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘New Girl’ -stjernen Jake Johnson viser frodige og private eiendommer i Pasadena for $ 3,3 millioner",
-        "kilde": "MarketWatch",
-        "tid": "09:01",
-        "lenke": "https://www.marketwatch.com/story/new-girl-star-jake-johnson-lists-lush-and-private-pasadena-estate-for-3-3-million-b6788838?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvorfor AI-handelen ikke er satt opp for en rebound som i juli, ifølge JPMorgan",
-        "kilde": "MarketWatch",
-        "tid": "08:53",
-        "lenke": "https://www.marketwatch.com/story/why-the-ai-trade-is-not-set-up-for-a-rebound-like-julys-according-to-jpmorgan-5ae511db?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Klar melding til bolig­selgere: – Helt natt og dag",
         "kilde": "E24",
         "tid": "07:35",
@@ -298,24 +298,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Aidlc: Adaptive arbeidsflyt styringsregler for AI kodende agenter",
-        "kilde": "Hacker News",
-        "tid": "07:20",
-        "lenke": "https://github.com/awslabs/aidlc-workflows",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Glem nullrenta: Slik ser det nye normalrentenivået ut",
         "kilde": "E24",
         "tid": "07:14",
         "lenke": "https://e24.no/norsk-oekonomi/i/64K6kQ/glem-nullrenta-slik-ser-det-nye-normalrentenivaaet-ut?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Sametinget tapte mot staten – igjen",
-        "kilde": "NRK Nyheter",
-        "tid": "07:07",
-        "lenke": "https://www.nrk.no/sapmi/sametinget-tapte-mot-staten-_-igjen-1.18055489",
         "engelsk_kilde": false
       },
       {
@@ -326,13 +312,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Ny rapport: Slik vil de endre oljefondets etikkråd",
-        "kilde": "E24",
-        "tid": "06:30",
-        "lenke": "https://e24.no/norsk-oekonomi/i/xlb39Q/ny-rapport-slik-vil-de-endre-oljefondets-etikkraad?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "\"Jeg betalte tusenvis til et selskap for jobber som aldri kom\"",
         "kilde": "BBC Business",
         "tid": "05:02",
@@ -340,38 +319,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Børsras i Asia",
-        "kilde": "E24",
-        "tid": "04:37",
-        "lenke": "https://e24.no/boers-og-finans/i/ylKa4a/boersras-i-asia?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Vis HN: Flipflop, Iroh-drevne vedvarende tunneler for fildeling",
-        "kilde": "Hacker News",
-        "tid": "04:25",
-        "lenke": "https://github.com/andunieee/flipflop",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Double Headed Stack Allocator",
-        "kilde": "Hacker News",
-        "tid": "02:06",
-        "lenke": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Hvordan tilbakeslag mot datasentre kan forme det amerikanske midtveisvalget",
         "kilde": "BBC Business",
         "tid": "23:02",
         "lenke": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvordan et kinesisk leketøy kommer til en amerikansk forhandler",
-        "kilde": "BBC Business",
-        "tid": "23:01",
-        "lenke": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
@@ -386,13 +337,6 @@
         "kilde": "BBC Business",
         "tid": "17:46",
         "lenke": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Netflix kutter 1000 jobber i de bratteste kuttene siden 2022",
-        "kilde": "BBC Business",
-        "tid": "16:47",
-        "lenke": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ]
