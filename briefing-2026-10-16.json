@@ -1,0 +1,395 @@
+{
+  "dato": "2026-10-16",
+  "dato_norsk": "Fredag 16. oktober 2026",
+  "generert_kl": "08:54",
+  "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
+  "dagens_fokus": [
+    {
+      "tittel": "Bruton faller på Oslo Børs etter melding om sammenslåing",
+      "kilde": "E24",
+      "tid": "07:01",
+      "lenke": "https://e24.no/boers-og-finans/i/b8oQB3/bruton-faller-6-prosent-paa-oslo-boers-etter-melding-om-sammenslaaing?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Feds Warsh tilbakeholder prissignal, roser nylig global innstramming med «ingen gratisturister»",
+      "kilde": "CNBC Top News",
+      "tid": "07:11",
+      "lenke": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Bankene sier at Healey planlegger å øke skatten på overskuddet i budsjettet",
+      "kilde": "BBC Business",
+      "tid": "07:13",
+      "lenke": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Trump sier han ikke vil bruke atomvåpen eller sende bakkestyrker til Iran",
+      "kilde": "CNBC Top News",
+      "tid": "07:56",
+      "lenke": "https://www.cnbc.com/2026/10/16/us-iran-war-trump-hormuz.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Zelenskyj roser 'ekte ledere' i Europa, ettersom hans anstrengte forhold til Trump overskygger EU-toppmøtet",
+      "kilde": "CNBC Top News",
+      "tid": "08:52",
+      "lenke": "https://www.cnbc.com/2026/10/16/zelenskyy-trump-eu-summit-russia-ukraine.html",
+      "engelsk_kilde": true
+    }
+  ],
+  "kategorier": {
+    "NORGE": [
+      {
+        "tittel": "Bruton faller på Oslo Børs etter melding om sammenslåing",
+        "kilde": "E24",
+        "tid": "07:01",
+        "lenke": "https://e24.no/boers-og-finans/i/b8oQB3/bruton-faller-6-prosent-paa-oslo-boers-etter-melding-om-sammenslaaing?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vil merke all mat i norske butikkar sunn eller usunn",
+        "kilde": "NRK Nyheter",
+        "tid": "05:29",
+        "lenke": "https://www.nrk.no/trondelag/forbrukarradet-vil-ha-ny-merking-av-mat-i-noreg-_-meiner-nokkelhullet-ikkje-er-godt-nok-1.18045463",
+        "engelsk_kilde": false
+      }
+    ],
+    "MAKRO": [
+      {
+        "tittel": "Bankene sier at Healey planlegger å øke skatten på overskuddet i budsjettet",
+        "kilde": "BBC Business",
+        "tid": "07:13",
+        "lenke": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Feds Warsh tilbakeholder prissignal, roser nylig global innstramming med «ingen gratisturister»",
+        "kilde": "CNBC Top News",
+        "tid": "07:11",
+        "lenke": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Noen mennesker gjorde alt riktig’: Jeg mistet hjemmet mitt i den store resesjonen. Jeg leier i 50-årene. Hvorfor dømmes det som fiasko?",
+        "kilde": "MarketWatch",
+        "tid": "22:31",
+        "lenke": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Healey sier at overraskende britisk vekst er \"tegn på motstandskraft\" foran budsjettet",
+        "kilde": "BBC Business",
+        "tid": "13:25",
+        "lenke": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      }
+    ],
+    "MARKEDER": [
+      {
+        "tittel": "Børsnoteringstørken driver privateide selskaper til gjeldsmarkedet for å betale investorer",
+        "kilde": "CNBC Top News",
+        "tid": "05:00",
+        "lenke": "https://www.cnbc.com/2026/10/16/private-equity-portfolios-ipo-debt.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hybe aksjer hopper 10% som K-pop sensasjon BTS' tur løfter inntjeningshåp",
+        "kilde": "CNBC Top News",
+        "tid": "03:53",
+        "lenke": "https://www.cnbc.com/2026/10/16/bts-concerts-hybe-katseye-cortis.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvordan et midterm-sveip av demokrater kunne snu dette teknologiselget til et teknologikrasj",
+        "kilde": "MarketWatch",
+        "tid": "21:56",
+        "lenke": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ikke dropp tech-aksjer ennå. Gjør disse trekkene for å dra nytte av den nyeste AI-tilbakestillingen.",
+        "kilde": "MarketWatch",
+        "tid": "21:21",
+        "lenke": "https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "AI-giganten Anthropic lokker potensielle investorer i forkant av børsdebuten",
+        "kilde": "BBC Business",
+        "tid": "11:34",
+        "lenke": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      }
+    ],
+    "ENERGI_RAAVARER": [
+      {
+        "tittel": "Marco Rubio besøker den indiske milliardæren Ambanis raffineri i Gujarat mens amerikanske dieselpriser stiger",
+        "kilde": "CNBC Top News",
+        "tid": "06:45",
+        "lenke": "https://www.cnbc.com/2026/10/16/marco-rubio-reliance-jamnagar-refinery.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "TEKNOLOGI": [
+      {
+        "tittel": "Hva du bør vite om Starshield, SpaceXs militærfokuserte Starlink-tjeneste",
+        "kilde": "CNBC Top News",
+        "tid": "06:25",
+        "lenke": "https://www.cnbc.com/2026/10/15/what-is-starshield-spacex-starlink-military.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tesla holder endelig sitt løfte om å skape en flyvende bil",
+        "kilde": "MarketWatch",
+        "tid": "02:42",
+        "lenke": "https://www.marketwatch.com/story/tesla-may-finally-debut-a-flying-car-today-after-testing-fans-patience-for-nearly-a-decade-9a23c8e8?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Sammenligning av kromutvikling hos Google og Igalia",
+        "kilde": "Hacker News",
+        "tid": "01:56",
+        "lenke": "https://lwn.net/Articles/1094721/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nvidia og andre brikkeaksjer står overfor fornyet press etter hvert som AI frykter at svulmer opp",
+        "kilde": "MarketWatch",
+        "tid": "21:23",
+        "lenke": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      }
+    ],
+    "GEOPOLITIKK": [
+      {
+        "tittel": "Zelenskyj roser 'ekte ledere' i Europa, ettersom hans anstrengte forhold til Trump overskygger EU-toppmøtet",
+        "kilde": "CNBC Top News",
+        "tid": "08:52",
+        "lenke": "https://www.cnbc.com/2026/10/16/zelenskyy-trump-eu-summit-russia-ukraine.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump sier han ikke vil bruke atomvåpen eller sende bakkestyrker til Iran",
+        "kilde": "CNBC Top News",
+        "tid": "07:56",
+        "lenke": "https://www.cnbc.com/2026/10/16/us-iran-war-trump-hormuz.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Russland vender tilbake til G20-bordet i Bangkok på amerikansk invitasjon som irriterer Europa",
+        "kilde": "CNBC Top News",
+        "tid": "06:11",
+        "lenke": "https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "VILLKORT": [
+      {
+        "tittel": "Bruker gigantsum på å sende atomavfallet vårt til Sverige",
+        "kilde": "NRK Nyheter",
+        "tid": "08:30",
+        "lenke": "https://www.nrk.no/ostfold/norge-sender-atomavfall-til-sverige-i-ny-milliardavtale-1.18054484",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Store mengder skum stenger vei: – Kan ta dager å rydde opp",
+        "kilde": "NRK Nyheter",
+        "tid": "08:05",
+        "lenke": "https://www.nrk.no/trondelag/brannvarslingssystem-pa-vianor-stjordal-utlost-_-store-mengder-skum-1.18056610",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Budrunden tok helt av",
+        "kilde": "E24",
+        "tid": "07:47",
+        "lenke": "https://e24.no/naeringsliv/i/d7G3Jq/villa-solgt-4-1-millioner-over-prisantydning?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Innsidehandelen du har lov til å gjøre",
+        "kilde": "Hacker News",
+        "tid": "07:12",
+        "lenke": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Her er de viktigste tingene som Fed-styreformann Kevin Warsh sa — og ikke sa — mens amerikanerne sov torsdag kveld",
+        "kilde": "MarketWatch",
+        "tid": "07:07",
+        "lenke": "https://www.marketwatch.com/story/here-are-the-key-things-fed-chairman-kevin-warsh-said-and-didnt-say-while-americans-were-sleeping-thursday-night-b82238a1?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fredriksen-rederi kjøper Trøims tanksatsing",
+        "kilde": "E24",
+        "tid": "06:33",
+        "lenke": "https://e24.no/boers-og-finans/i/9peQRW/troeim-rederiet-bruton-skal-slaa-seg-sammen-med-international-seaways?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Ett Singapore-skip ble senket, men her er grunnen til at andre fortsatt seiler gjennom Hormuzstredet",
+        "kilde": "CNBC Top News",
+        "tid": "05:56",
+        "lenke": "https://www.cnbc.com/2026/10/16/strait-hormuz-singapore-ships-attacked.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Aksjetrøbbel for Indonesia: Kan havne på kriseliste",
+        "kilde": "E24",
+        "tid": "05:37",
+        "lenke": "https://e24.no/boers-og-finans/i/8GvOj1/aksjetroebbel-for-indonesia-kan-havne-paa-kriseliste?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Siste ritualer for Gentoo's Chromium-pakke",
+        "kilde": "Hacker News",
+        "tid": "05:14",
+        "lenke": "https://lwn.net/Articles/1097760/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Programmeringsspråket for mapper",
+        "kilde": "Hacker News",
+        "tid": "05:11",
+        "lenke": "https://danieltemkin.com/esolangs/folders",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "To nye hyttebrannar i Ålesund i natt:  – Det er mistenkeleg",
+        "kilde": "NRK Nyheter",
+        "tid": "04:28",
+        "lenke": "https://www.nrk.no/mr/brann-i-fritidsbustad-pa-emblemsfjellet-i-alesund-1.18056442",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Dette kan sende Norwegian-aksjen til himmels",
+        "kilde": "E24",
+        "tid": "04:09",
+        "lenke": "https://e24.no/boers-og-finans/i/Ogqgzl/dette-kan-sende-norwegian-aksjen-til-himmels?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Mann alvorlig skadd etter ulykke med jaktvåpen på hytte i Trøndelag",
+        "kilde": "NRK Nyheter",
+        "tid": "03:32",
+        "lenke": "https://www.nrk.no/trondelag/mann-alvorlig-skadd-etter-ulykke-med-jaktvapen-pa-hytte-i-trondelag-1.18056411",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Merker «Airbnb-skam»: Nå rygger utleiere unna",
+        "kilde": "NRK Nyheter",
+        "tid": "03:32",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/merker-_airbnb-skam__-na-rygger-flere-utleiere-unna-1.18056152",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Åtvarar mot premien i reklamekonkurranse: – Eg ville ikkje tatt risikoen",
+        "kilde": "NRK Nyheter",
+        "tid": "03:24",
+        "lenke": "https://www.nrk.no/trondelag/atvarar-mot-a-takka-ja-til-premie-i-stratos-sin-konkurranse_-_-eg-ville-ikkje-tatt-risikoen-1.18052805",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Ny flåttart oppdaga i Noreg – stor og med stripete bein",
+        "kilde": "NRK Nyheter",
+        "tid": "03:12",
+        "lenke": "https://www.nrk.no/sorlandet/ny-flattart-oppdaga-i-noreg-_-stor-og-med-stripete-bein-1.18053686",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Porsche Mission S",
+        "kilde": "Hacker News",
+        "tid": "03:09",
+        "lenke": "https://www.porsche.com/international/models/mission-s/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bankene skylder på konkurranse: – Helt «Komiske Ali»",
+        "kilde": "E24",
+        "tid": "03:00",
+        "lenke": "https://e24.no/boers-og-finans/i/R5E5RJ/bankene-skylder-paa-konkurranse-helt-komiske-ali?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Pepsi taper mer terreng i bruskrigene, ettersom KFC bytter til cola",
+        "kilde": "MarketWatch",
+        "tid": "23:29",
+        "lenke": "https://www.marketwatch.com/story/pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to-coke-49b1ef53?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Å leve med stank? Teknologi kan hjelpe",
+        "kilde": "BBC Business",
+        "tid": "23:18",
+        "lenke": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg synes det er ganske demoraliserende i butikken - hvorfor jeg handler på nettet",
+        "kilde": "BBC Business",
+        "tid": "23:16",
+        "lenke": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg er 64 med to sønner, men bare en jobber i familiefirmaet. Skal jeg overlate 70% av virksomheten til ham?",
+        "kilde": "MarketWatch",
+        "tid": "22:15",
+        "lenke": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "– Noen helt åpenbare dilemmaer",
+        "kilde": "E24",
+        "tid": "20:00",
+        "lenke": "https://e24.no/boers-og-finans/i/8G9jgG/noen-helt-aapenbare-dilemmaer?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Problemet med \"god gjeld\": Hvorfor låntakere bør tenke to ganger om etiketten",
+        "kilde": "CNBC Top News",
+        "tid": "17:52",
+        "lenke": "https://www.cnbc.com/2026/10/15/good-debt-vs-bad-debt-why-experts-say-rethink-labels.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Dårligere sparerente: Du får mindre igjen - bankene tjener mer",
+        "kilde": "E24",
+        "tid": "17:47",
+        "lenke": "https://e24.no/norsk-oekonomi/i/lKeX0M/daarligere-sparerente-du-faar-mindre-igjen-bankene-tjener-mer?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "\"Jeg betalte tusenvis til et selskap for jobber som aldri kom\"",
+        "kilde": "BBC Business",
+        "tid": "17:19",
+        "lenke": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kjennelse: Manipulerte fakturaer for arbeid på kongeskipet",
+        "kilde": "E24",
+        "tid": "16:39",
+        "lenke": "https://e24.no/naeringsliv/i/Abxyvz/kjennelse-manipulerte-fakturaer-for-arbeid-paa-kongeskipet?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Pekes ut som mulig WEF-leder",
+        "kilde": "E24",
+        "tid": "15:12",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/GrqjW4/pekes-ut-som-mulig-wef-leder?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Nandy 'innstilt på å gripe inn' i Skys overtakelse av ITV-underholdningsarmen på £ 1,6 milliarder",
+        "kilde": "BBC Business",
+        "tid": "14:55",
+        "lenke": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      }
+    ]
+  }
+}
