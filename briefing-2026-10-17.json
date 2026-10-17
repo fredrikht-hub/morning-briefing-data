@@ -1,42 +1,42 @@
 {
   "dato": "2026-10-17",
   "dato_norsk": "Lørdag 17. oktober 2026",
-  "generert_kl": "15:11",
+  "generert_kl": "18:02",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
       "tittel": "‘Noen mennesker gjorde alt riktig’: Jeg mistet hjemmet mitt i den store resesjonen. Jeg leier i 50-årene. Hvorfor dømmes det som fiasko?",
       "kilde": "MarketWatch",
-      "tid": "13:00",
+      "tid": "16:47",
       "lenke": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Trumps overhaling av studielån kan føre til flere konkursdeklarasjoner, sier tidligere dommer",
+      "tittel": "Trump fraskriver seg brede nye russiske sanksjoner og tariffer under Graham-loven, med henvisning til nasjonale interesser",
       "kilde": "CNBC Top News",
-      "tid": "13:30",
-      "lenke": "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
+      "tid": "10:20",
+      "lenke": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Berkshire aksjer buck markedet salg, rally til høyeste siden Buffett sa at han ville gå av som administrerende direktør",
+      "tittel": "Trump fjerner Russland-sanksjoner",
+      "kilde": "E24",
+      "tid": "07:23",
+      "lenke": "https://e24.no/boers-og-finans/i/kvxJgB/trump-fjerner-russland-sanksjoner-hoester-kraftig-kritikk?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Programvarens nye konsolidator får stor tillit fra Berkshire",
       "kilde": "CNBC Top News",
-      "tid": "12:46",
-      "lenke": "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html",
+      "tid": "15:11",
+      "lenke": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "'Døde penger’ i et tiår: Hvorfor denne hedgefond-tilnærmingen kan gi en fordel i forhold til obligasjoner",
+      "tittel": "Halvledermarkedet skal forbli solid ‘i hvert fall gjennom neste år’, sier Sør-Koreas finansminister",
       "kilde": "CNBC Top News",
-      "tid": "15:00",
-      "lenke": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Silver's siste 50% fall fra et rekordhøyt hint om at en økonomisk nedgang truer",
-      "kilde": "MarketWatch",
-      "tid": "12:30",
-      "lenke": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
+      "tid": "16:45",
+      "lenke": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
       "engelsk_kilde": true
     }
   ],
@@ -48,20 +48,13 @@
         "tid": "10:55",
         "lenke": "https://www.nrk.no/sport/haaland-og-walle-egeli-kan-motes-til-norsk-spissduell-i-premier-league-_-nrk-ekspert-med-beskjed-1.18057149",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Norge forlot salen da Russland talte",
-        "kilde": "NRK Nyheter",
-        "tid": "09:32",
-        "lenke": "https://www.nrk.no/nyheter/norge-forlot-salen-da-russland-talte-1.18057401",
-        "engelsk_kilde": false
       }
     ],
     "MAKRO": [
       {
         "tittel": "‘Noen mennesker gjorde alt riktig’: Jeg mistet hjemmet mitt i den store resesjonen. Jeg leier i 50-årene. Hvorfor dømmes det som fiasko?",
         "kilde": "MarketWatch",
-        "tid": "13:00",
+        "tid": "16:47",
         "lenke": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
@@ -114,28 +107,35 @@
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Bending Spoons ønsker å gjenopplive programvareregistreringer. Berkshire støtter planen",
+        "tittel": "Halvledermarkedet skal forbli solid ‘i hvert fall gjennom neste år’, sier Sør-Koreas finansminister",
         "kilde": "CNBC Top News",
-        "tid": "12:00",
-        "lenke": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+        "tid": "16:45",
+        "lenke": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "SpaceX + Tesla: – Det kommer nok til å skje",
-        "kilde": "E24",
-        "tid": "17:16",
-        "lenke": "https://e24.no/boers-og-finans/i/AbkGqq/spacex-tesla-det-kommer-nok-til-aa-skje?utm_medium=rss",
-        "engelsk_kilde": false
+        "tittel": "OpenAI avslører ytterligere fire falske hendelser",
+        "kilde": "Hacker News",
+        "tid": "16:31",
+        "lenke": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Amazon bruker AI til å overvåke fagforeningsrisiko i britiske varehus",
+        "kilde": "Hacker News",
+        "tid": "16:04",
+        "lenke": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Programvarens nye konsolidator får stor tillit fra Berkshire",
+        "kilde": "CNBC Top News",
+        "tid": "15:11",
+        "lenke": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+        "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
-      {
-        "tittel": "Solenergi overgår kjernekraft globalt for første gang – pv magazine Global",
-        "kilde": "Hacker News",
-        "tid": "14:01",
-        "lenke": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-        "engelsk_kilde": true
-      },
       {
         "tittel": "Trumps overhaling av studielån kan føre til flere konkursdeklarasjoner, sier tidligere dommer",
         "kilde": "CNBC Top News",
@@ -160,25 +160,81 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "Krever Temu-gebyr",
+        "kilde": "E24",
+        "tid": "17:52",
+        "lenke": "https://e24.no/naeringsliv/i/KrbLjG/krever-temu-gebyr?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Lederens fem grep mot ensomhet",
+        "kilde": "E24",
+        "tid": "17:49",
+        "lenke": "https://e24.no/karriere-og-ledelse/i/1odKqG/lederens-fem-grep-mot-ensomhet?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Linux-feil fikset per utgivelse over tid: >2× økning siden 2026-04",
+        "kilde": "Hacker News",
+        "tid": "17:14",
+        "lenke": "https://lwn.net/Articles/1088776/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Artie (YC S23) ansetter Enterprise AES og Senior Engineers",
+        "kilde": "Hacker News",
+        "tid": "17:02",
+        "lenke": "https://www.artie.com/careers",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fire personer siktet for medvirkning til frihetsberøvelse i Bergen",
+        "kilde": "NRK Nyheter",
+        "tid": "17:02",
+        "lenke": "https://www.nrk.no/nyheter/fire-personer-siktet-for-medvirkning-til-frihetsberovelse-i-bergen-1.18057582",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Investorer kjøper opp store områder av timberland over hele USA i en av markedets lengste satsinger",
+        "kilde": "CNBC Top News",
+        "tid": "16:31",
+        "lenke": "https://www.cnbc.com/2026/10/17/timberland-investing-returns-risk.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "GLP-1 kan bremse biologisk aldring",
+        "kilde": "Hacker News",
+        "tid": "16:10",
+        "lenke": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ikkje berre for å vere snill",
+        "kilde": "NRK Nyheter",
+        "tid": "16:06",
+        "lenke": "https://www.nrk.no/trondelag/xl/natteramnar-kan-ikkje-gripe-inn-mot-vald_-men-synet-av-dei-kan-trygge-og-sikre-alle-som-ser-dei.-1.18016692",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Irritert etter Haaland-smell: – Føler de er tvunget",
+        "kilde": "NRK Nyheter",
+        "tid": "16:03",
+        "lenke": "https://www.nrk.no/sport/premier-league_-haaland-med-ny-mal-dobbel-for-manchester-city-1.18057595",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Sexklubb-grunnlegger er siktet for hallikvirksomhet igjen",
+        "kilde": "NRK Nyheter",
+        "tid": "15:26",
+        "lenke": "https://www.nrk.no/trondelag/to-menn-siktet-for-hallikvirksomhet-i-trondelag-1.18057586",
+        "engelsk_kilde": false
+      },
+      {
         "tittel": "Stordalen tror AI vil føre til investeringer for «hundrevis av millioner»",
         "kilde": "E24",
         "tid": "14:40",
         "lenke": "https://e24.no/naeringsliv/i/w3bKzo/stordalen-tror-ai-vil-foere-til-investeringer-for-hundrevis-av-millioner?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Gjøre kyllingen gjennomsiktig ved hjelp av doritostøv",
-        "kilde": "Hacker News",
-        "tid": "13:55",
-        "lenke": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Investorer kjøper opp store områder av timberland over hele USA i en av markedets lengste satsinger",
-        "kilde": "CNBC Top News",
-        "tid": "13:47",
-        "lenke": "https://www.cnbc.com/2026/10/17/timberland-investing-returns-risk.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "\"Alle lo\" da han startet en gresskarfarm - nå tjener den 2 millioner $ i året",
@@ -237,13 +293,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "MapQuest vil nå vise deg hvor Flock-kameraer er i nabolaget ditt",
-        "kilde": "Hacker News",
-        "tid": "10:59",
-        "lenke": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Fant død person på Andenes",
         "kilde": "NRK Nyheter",
         "tid": "10:30",
@@ -251,45 +300,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Vårteikn i heile landet: – Plantane trur det har blitt vår igjen",
-        "kilde": "NRK Nyheter",
-        "tid": "09:41",
-        "lenke": "https://www.nrk.no/nordland/forvirra-planter-trur-det-er-var-igjen-pa-grunn-av-klimaendringane-1.18056572",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "15-åring satt i fengsel for barn: Kranglet først om kveldsmat – endte opp i isolasjon",
-        "kilde": "NRK Nyheter",
-        "tid": "09:24",
-        "lenke": "https://www.nrk.no/stor-oslo/xl/15-aring-isolert-i-ungdomsfengsel_-foreldre-kritiserer-behandlingen-1.18033063",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Tusenvis av plakater mot norskeid oppdrettslaks i London",
         "kilde": "E24",
         "tid": "08:48",
         "lenke": "https://e24.no/hav-og-sjoemat/i/n9m4MQ/tusenvis-av-plakater-mot-norskeid-oppdrettslaks-i-london?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "DeepSeek: DeepSeek v4.1 Flash 1017",
-        "kilde": "Hacker News",
-        "tid": "08:37",
-        "lenke": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "DeepSeek-v4.1-Flash-1017",
-        "kilde": "Hacker News",
-        "tid": "08:21",
-        "lenke": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Graver i ruinene til folk: – Jeg må sone ut",
-        "kilde": "NRK Nyheter",
-        "tid": "07:52",
-        "lenke": "https://www.nrk.no/buskerud/graver-i-brannruinene-i-krokstadelva_-_-jeg-ma-sone-ut-1.18055535",
         "engelsk_kilde": false
       },
       {
@@ -312,13 +326,6 @@
         "tid": "05:39",
         "lenke": "https://e24.no/boers-og-finans/i/58w5xK/er-et-kursfall-en-mulighet-eller-en-felle?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Noen selskaper gir AI til alle. Denne administrerende direktøren gjør det motsatte",
-        "kilde": "CNBC Top News",
-        "tid": "05:00",
-        "lenke": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Her vet alle hva kollegene tjener: – For oss er det en selvfølge",
