@@ -1,0 +1,367 @@
+{
+  "dato": "2026-10-17",
+  "dato_norsk": "Lørdag 17. oktober 2026",
+  "generert_kl": "08:26",
+  "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
+  "dagens_fokus": [
+    {
+      "tittel": "Trump fjerner Russland-sanksjoner",
+      "kilde": "E24",
+      "tid": "07:23",
+      "lenke": "https://e24.no/boers-og-finans/i/kvxJgB/trump-fjerner-russland-sanksjoner-hoester-kraftig-kritikk?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Trumps Russland-dieselavtale kan tilby Putin mer enn penger — og skape problemer for Ukraina",
+      "kilde": "CNBC Top News",
+      "tid": "05:46",
+      "lenke": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Russisk oligark saksøker norske journalister",
+      "kilde": "NRK Nyheter",
+      "tid": "06:20",
+      "lenke": "https://www.nrk.no/tromsogfinnmark/eier-av-russisk-fiskeriselskap-vitalij-orlov-saksoker-norske-journalister-og-norge-1.18053461",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Trump fjerner flere sanksjoner mot Russland",
+      "kilde": "NRK Nyheter",
+      "tid": "00:50",
+      "lenke": "https://www.nrk.no/nyheter/trump-fjerner-flere-sanksjoner-mot-russland-1.18057320",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Obligasjonsmarkedet trakk seg fra to inflasjonssjokk. Hvorfor aksjeinvestorer bør være oppmerksomme.",
+      "kilde": "MarketWatch",
+      "tid": "21:30",
+      "lenke": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    }
+  ],
+  "kategorier": {
+    "NORGE": [
+      {
+        "tittel": "Russisk oligark saksøker norske journalister",
+        "kilde": "NRK Nyheter",
+        "tid": "06:20",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/eier-av-russisk-fiskeriselskap-vitalij-orlov-saksoker-norske-journalister-og-norge-1.18053461",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kollisjon mellom trikk og taxi i Oslo",
+        "kilde": "NRK Nyheter",
+        "tid": "20:58",
+        "lenke": "https://www.nrk.no/nyheter/kollisjon-mellom-trikk-og-taxi-i-oslo-1.18057294",
+        "engelsk_kilde": false
+      }
+    ],
+    "MAKRO": [
+      {
+        "tittel": "USAs budsjettunderskudd svulmer opp til nesten $ 2 billioner for budsjettåret 2026, en økning på 12% i løpet av ett år",
+        "kilde": "CNBC Top News",
+        "tid": "22:34",
+        "lenke": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Federal Reserve Board kunngjør opphør av tvangshandlinger med Gardner Bancshares, Inc. og Small Business Bank",
+        "kilde": "Federal Reserve",
+        "tid": "15:00",
+        "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bankene forventer å bli rammet av høyere skatter i budsjettet",
+        "kilde": "BBC Business",
+        "tid": "10:16",
+        "lenke": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      }
+    ],
+    "MARKEDER": [
+      {
+        "tittel": "Kan en antropisk børsnotering sette din 401(k) i fare? Sikkerhetsdebatten om kunstig intelligens treffer en ny dimensjon.",
+        "kilde": "MarketWatch",
+        "tid": "21:35",
+        "lenke": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Obligasjonsmarkedet trakk seg fra to inflasjonssjokk. Hvorfor aksjeinvestorer bør være oppmerksomme.",
+        "kilde": "MarketWatch",
+        "tid": "21:30",
+        "lenke": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nye SEC-REGLER vil gi hverdagslige investorer lyst til å berike Wall Street",
+        "kilde": "MarketWatch",
+        "tid": "21:21",
+        "lenke": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ikke kjøp denne dukkerten: Flere tegn tyder på at det er mer smerte i vente for tech-aksjer",
+        "kilde": "MarketWatch",
+        "tid": "20:58",
+        "lenke": "https://www.marketwatch.com/story/dont-buy-this-dip-several-signs-suggest-theres-more-pain-ahead-for-tech-stocks-83f971d7?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Wall Streets fryktmåler er i ferd med å revne. Næringsdrivende ser at det går enda høyere",
+        "kilde": "CNBC Top News",
+        "tid": "19:28",
+        "lenke": "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Verste dag for Nasdaq siden juli",
+        "kilde": "E24",
+        "tid": "13:31",
+        "lenke": "https://e24.no/boers-og-finans/i/4Ov7E6/flyvende-bil-loefter-tesla?utm_medium=rss",
+        "engelsk_kilde": false
+      }
+    ],
+    "ENERGI_RAAVARER": [
+      {
+        "tittel": "Brentolje berører $ 110 som Iran eskalerer Hormuz-angrepene, Ukraina lover å treffe russiske raffinerier",
+        "kilde": "CNBC Top News",
+        "tid": "20:02",
+        "lenke": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "TEKNOLOGI": [
+      {
+        "tittel": "Vis HN: Llmspeed – føl hvor raskt en lokal LLM kjører før du kjøper maskinvaren",
+        "kilde": "Hacker News",
+        "tid": "04:36",
+        "lenke": "https://llmspeed.dev/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Apples $ 1,999 iPhone Duo setter selskapets statussymbol på prøve",
+        "kilde": "CNBC Top News",
+        "tid": "22:31",
+        "lenke": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ingen steder å gjemme seg: Teknologisalg treffer både programvare- og brikkeaksjer",
+        "kilde": "MarketWatch",
+        "tid": "21:59",
+        "lenke": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "EchoStars aksjer ser ut som en snikende måte å ri SpaceX-bølgen på, sier J.P. Morgan",
+        "kilde": "MarketWatch",
+        "tid": "20:05",
+        "lenke": "https://www.marketwatch.com/story/echostars-stock-looks-like-a-stealthy-way-to-ride-the-spacex-wave-j-p-morgan-says-c4effa5d?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "SpaceX + Tesla: – Det kommer nok til å skje",
+        "kilde": "E24",
+        "tid": "17:16",
+        "lenke": "https://e24.no/boers-og-finans/i/AbkGqq/spacex-tesla-det-kommer-nok-til-aa-skje?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Forutsigelsesmarkedsoddsene for Tesla-SpaceX-sammenslåingen er over 50% for tidlig 2027",
+        "kilde": "CNBC Top News",
+        "tid": "17:02",
+        "lenke": "https://www.cnbc.com/2026/10/16/tesla-spacex-merger-odds-rise-on-kalshi.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tesla avduker lang forsinket Roadster utviklet med SpaceX, drivstoff fusjon spekulasjoner",
+        "kilde": "CNBC Top News",
+        "tid": "15:52",
+        "lenke": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Se: Har Tesla virkelig nettopp avduket en flyvende bil?",
+        "kilde": "BBC Business",
+        "tid": "12:32",
+        "lenke": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      }
+    ],
+    "GEOPOLITIKK": [
+      {
+        "tittel": "Trump fjerner Russland-sanksjoner",
+        "kilde": "E24",
+        "tid": "07:23",
+        "lenke": "https://e24.no/boers-og-finans/i/kvxJgB/trump-fjerner-russland-sanksjoner-hoester-kraftig-kritikk?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Trumps Russland-dieselavtale kan tilby Putin mer enn penger — og skape problemer for Ukraina",
+        "kilde": "CNBC Top News",
+        "tid": "05:46",
+        "lenke": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump fjerner flere sanksjoner mot Russland",
+        "kilde": "NRK Nyheter",
+        "tid": "00:50",
+        "lenke": "https://www.nrk.no/nyheter/trump-fjerner-flere-sanksjoner-mot-russland-1.18057320",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Katie Zacharia ute som Trumps pressesekretær i Det hvite hus",
+        "kilde": "CNBC Top News",
+        "tid": "21:26",
+        "lenke": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvorfor Trump og GOPs milliard-dollar midtveisblitz ikke fungerer",
+        "kilde": "CNBC Top News",
+        "tid": "17:55",
+        "lenke": "https://www.cnbc.com/2026/10/16/republicans-midterms-spending-trump-musk-2026.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "– Trump er veldig redd",
+        "kilde": "E24",
+        "tid": "15:02",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/QgqJ9J/trump-er-veldig-redd?utm_medium=rss",
+        "engelsk_kilde": false
+      }
+    ],
+    "VILLKORT": [
+      {
+        "tittel": "Graver i ruinene til folk: – Jeg må sone ut",
+        "kilde": "NRK Nyheter",
+        "tid": "07:52",
+        "lenke": "https://www.nrk.no/buskerud/graver-i-brannruinene-i-krokstadelva_-_-jeg-ma-sone-ut-1.18055535",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "AI-uro: Vedder milliarder på aksjeras",
+        "kilde": "E24",
+        "tid": "07:31",
+        "lenke": "https://e24.no/boers-og-finans/i/0BkGdB/ai-uro-vedder-milliarder-paa-aksjeras?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Hvilket ytre høyre får vi?",
+        "kilde": "E24",
+        "tid": "07:25",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/77yPX4/hvilket-ytre-hoeyre-faar-vi?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Glimt-helten i praktslag før intens gullkamp: – Nesten mistet tellingen",
+        "kilde": "NRK Nyheter",
+        "tid": "06:41",
+        "lenke": "https://www.nrk.no/sport/nikita-haikin-hylles-av-kjetil-knutsen-og-lagkameratene-1.18055412",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Bedrageritiltalt: Skal ha simulert syk for å slippe unna soning",
+        "kilde": "NRK Nyheter",
+        "tid": "05:42",
+        "lenke": "https://www.nrk.no/stor-oslo/ektepar-i-drobak-svindlet-for-minst-31-millioner-_-to-personer-tiltalt-1.18052280",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Er et kursfall en mulighet eller en felle?",
+        "kilde": "E24",
+        "tid": "05:39",
+        "lenke": "https://e24.no/boers-og-finans/i/58w5xK/er-et-kursfall-en-mulighet-eller-en-felle?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Noen selskaper gir AI til alle. Denne administrerende direktøren gjør det motsatte",
+        "kilde": "CNBC Top News",
+        "tid": "05:00",
+        "lenke": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Her vet alle hva kollegene tjener: – For oss er det en selvfølge",
+        "kilde": "E24",
+        "tid": "03:00",
+        "lenke": "https://e24.no/karriere-og-ledelse/i/58r7p1/her-vet-alle-hva-kollegene-tjener-for-oss-er-det-en-selvfoelge?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Butlerjihad",
+        "kilde": "Hacker News",
+        "tid": "02:21",
+        "lenke": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Person savnet etter vannscooter-ulykke i Bodø",
+        "kilde": "NRK Nyheter",
+        "tid": "01:05",
+        "lenke": "https://www.nrk.no/nyheter/person-savnet-etter-vannscooter-ulykke-i-bodo-1.18057322",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Flexport ansetter en Biz Ops-leder som administrerende direktør",
+        "kilde": "Hacker News",
+        "tid": "01:01",
+        "lenke": "https://www.flexport.com/company/careers/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "9-tommers snegler",
+        "kilde": "Hacker News",
+        "tid": "22:21",
+        "lenke": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Dette senatsløpet der datasentre er et viktig problem, har flere utgifter enn noen annen midtveiskonflikt",
+        "kilde": "MarketWatch",
+        "tid": "21:43",
+        "lenke": "https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg er 63 og diagnostisert med lymfom. Skal jeg ta trygden min neste år?",
+        "kilde": "MarketWatch",
+        "tid": "21:15",
+        "lenke": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "FLUX 3 Image Klein",
+        "kilde": "Hacker News",
+        "tid": "19:47",
+        "lenke": "https://bfl.ai/blog/flux-3-image-klein",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Slik ble tenåringen styrt fra villastrøk til britisk storfengsel",
+        "kilde": "NRK Nyheter",
+        "tid": "19:46",
+        "lenke": "https://www.nrk.no/rogaland/xl/19-aring-fra-stavanger-domt-til-20-ar-i-fengsel-for-drapsplanlegging-_-slik-ble-han-styrt-1.18049202",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Børsuken: 6 spørsmål og svar",
+        "kilde": "E24",
+        "tid": "14:45",
+        "lenke": "https://e24.no/boers-og-finans/i/eGeJJO/boersuken-6-spoersmaal-og-svar?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Boligbygger konkurs",
+        "kilde": "E24",
+        "tid": "11:13",
+        "lenke": "https://e24.no/naeringsliv/i/2VJwmG/boligbygger-konkurs?utm_medium=rss",
+        "engelsk_kilde": false
+      }
+    ]
+  }
+}
