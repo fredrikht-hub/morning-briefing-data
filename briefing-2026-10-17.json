@@ -1,59 +1,66 @@
 {
   "dato": "2026-10-17",
   "dato_norsk": "Lørdag 17. oktober 2026",
-  "generert_kl": "08:26",
+  "generert_kl": "11:53",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
+    {
+      "tittel": "Trump fraskriver seg brede nye russiske sanksjoner og tariffer under Graham-loven, med henvisning til nasjonale interesser",
+      "kilde": "CNBC Top News",
+      "tid": "10:20",
+      "lenke": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Duket for norsk spissduell – ekspert advarer mot for høye forventninger",
+      "kilde": "NRK Nyheter",
+      "tid": "10:55",
+      "lenke": "https://www.nrk.no/sport/haaland-og-walle-egeli-kan-motes-til-norsk-spissduell-i-premier-league-_-nrk-ekspert-med-beskjed-1.18057149",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Norge forlot salen da Russland talte",
+      "kilde": "NRK Nyheter",
+      "tid": "09:32",
+      "lenke": "https://www.nrk.no/nyheter/norge-forlot-salen-da-russland-talte-1.18057401",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Det var nok en flott uke for den gjennomsnittlige aksjen ettersom markedsledelsen skifter bort fra teknologi",
+      "kilde": "MarketWatch",
+      "tid": "11:30",
+      "lenke": "https://www.marketwatch.com/story/it-was-another-great-week-for-the-average-stock-as-market-leadership-shifts-away-from-tech-8e8516da?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
     {
       "tittel": "Trump fjerner Russland-sanksjoner",
       "kilde": "E24",
       "tid": "07:23",
       "lenke": "https://e24.no/boers-og-finans/i/kvxJgB/trump-fjerner-russland-sanksjoner-hoester-kraftig-kritikk?utm_medium=rss",
       "engelsk_kilde": false
-    },
-    {
-      "tittel": "Trumps Russland-dieselavtale kan tilby Putin mer enn penger — og skape problemer for Ukraina",
-      "kilde": "CNBC Top News",
-      "tid": "05:46",
-      "lenke": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Russisk oligark saksøker norske journalister",
-      "kilde": "NRK Nyheter",
-      "tid": "06:20",
-      "lenke": "https://www.nrk.no/tromsogfinnmark/eier-av-russisk-fiskeriselskap-vitalij-orlov-saksoker-norske-journalister-og-norge-1.18053461",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Trump fjerner flere sanksjoner mot Russland",
-      "kilde": "NRK Nyheter",
-      "tid": "00:50",
-      "lenke": "https://www.nrk.no/nyheter/trump-fjerner-flere-sanksjoner-mot-russland-1.18057320",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Obligasjonsmarkedet trakk seg fra to inflasjonssjokk. Hvorfor aksjeinvestorer bør være oppmerksomme.",
-      "kilde": "MarketWatch",
-      "tid": "21:30",
-      "lenke": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
-      "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
+        "tittel": "Duket for norsk spissduell – ekspert advarer mot for høye forventninger",
+        "kilde": "NRK Nyheter",
+        "tid": "10:55",
+        "lenke": "https://www.nrk.no/sport/haaland-og-walle-egeli-kan-motes-til-norsk-spissduell-i-premier-league-_-nrk-ekspert-med-beskjed-1.18057149",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Norge forlot salen da Russland talte",
+        "kilde": "NRK Nyheter",
+        "tid": "09:32",
+        "lenke": "https://www.nrk.no/nyheter/norge-forlot-salen-da-russland-talte-1.18057401",
+        "engelsk_kilde": false
+      },
+      {
         "tittel": "Russisk oligark saksøker norske journalister",
         "kilde": "NRK Nyheter",
         "tid": "06:20",
         "lenke": "https://www.nrk.no/tromsogfinnmark/eier-av-russisk-fiskeriselskap-vitalij-orlov-saksoker-norske-journalister-og-norge-1.18053461",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kollisjon mellom trikk og taxi i Oslo",
-        "kilde": "NRK Nyheter",
-        "tid": "20:58",
-        "lenke": "https://www.nrk.no/nyheter/kollisjon-mellom-trikk-og-taxi-i-oslo-1.18057294",
         "engelsk_kilde": false
       }
     ],
@@ -71,16 +78,16 @@
         "tid": "15:00",
         "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Bankene forventer å bli rammet av høyere skatter i budsjettet",
-        "kilde": "BBC Business",
-        "tid": "10:16",
-        "lenke": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
+      {
+        "tittel": "Det var nok en flott uke for den gjennomsnittlige aksjen ettersom markedsledelsen skifter bort fra teknologi",
+        "kilde": "MarketWatch",
+        "tid": "11:30",
+        "lenke": "https://www.marketwatch.com/story/it-was-another-great-week-for-the-average-stock-as-market-leadership-shifts-away-from-tech-8e8516da?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Kan en antropisk børsnotering sette din 401(k) i fare? Sikkerhetsdebatten om kunstig intelligens treffer en ny dimensjon.",
         "kilde": "MarketWatch",
@@ -103,37 +110,21 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Ikke kjøp denne dukkerten: Flere tegn tyder på at det er mer smerte i vente for tech-aksjer",
-        "kilde": "MarketWatch",
-        "tid": "20:58",
-        "lenke": "https://www.marketwatch.com/story/dont-buy-this-dip-several-signs-suggest-theres-more-pain-ahead-for-tech-stocks-83f971d7?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Wall Streets fryktmåler er i ferd med å revne. Næringsdrivende ser at det går enda høyere",
         "kilde": "CNBC Top News",
         "tid": "19:28",
         "lenke": "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Verste dag for Nasdaq siden juli",
-        "kilde": "E24",
-        "tid": "13:31",
-        "lenke": "https://e24.no/boers-og-finans/i/4Ov7E6/flyvende-bil-loefter-tesla?utm_medium=rss",
-        "engelsk_kilde": false
-      }
-    ],
-    "ENERGI_RAAVARER": [
-      {
-        "tittel": "Brentolje berører $ 110 som Iran eskalerer Hormuz-angrepene, Ukraina lover å treffe russiske raffinerier",
-        "kilde": "CNBC Top News",
-        "tid": "20:02",
-        "lenke": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
-        "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
+      {
+        "tittel": "Vis HN: Jeg ble lei av at btop ikke så Mac-brikken min, så jeg bygde siltop",
+        "kilde": "Hacker News",
+        "tid": "07:01",
+        "lenke": "https://github.com/CLoaKY233/siltop",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Vis HN: Llmspeed – føl hvor raskt en lokal LLM kjører før du kjøper maskinvaren",
         "kilde": "Hacker News",
@@ -153,13 +144,6 @@
         "kilde": "MarketWatch",
         "tid": "21:59",
         "lenke": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "EchoStars aksjer ser ut som en snikende måte å ri SpaceX-bølgen på, sier J.P. Morgan",
-        "kilde": "MarketWatch",
-        "tid": "20:05",
-        "lenke": "https://www.marketwatch.com/story/echostars-stock-looks-like-a-stealthy-way-to-ride-the-spacex-wave-j-p-morgan-says-c4effa5d?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -193,24 +177,17 @@
     ],
     "GEOPOLITIKK": [
       {
+        "tittel": "Trump fraskriver seg brede nye russiske sanksjoner og tariffer under Graham-loven, med henvisning til nasjonale interesser",
+        "kilde": "CNBC Top News",
+        "tid": "10:20",
+        "lenke": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Trump fjerner Russland-sanksjoner",
         "kilde": "E24",
         "tid": "07:23",
         "lenke": "https://e24.no/boers-og-finans/i/kvxJgB/trump-fjerner-russland-sanksjoner-hoester-kraftig-kritikk?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Trumps Russland-dieselavtale kan tilby Putin mer enn penger — og skape problemer for Ukraina",
-        "kilde": "CNBC Top News",
-        "tid": "05:46",
-        "lenke": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trump fjerner flere sanksjoner mot Russland",
-        "kilde": "NRK Nyheter",
-        "tid": "00:50",
-        "lenke": "https://www.nrk.no/nyheter/trump-fjerner-flere-sanksjoner-mot-russland-1.18057320",
         "engelsk_kilde": false
       },
       {
@@ -237,6 +214,69 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "Nordic Mining: – Da blir det dyrt og vanskelig",
+        "kilde": "E24",
+        "tid": "11:30",
+        "lenke": "https://e24.no/naeringsliv/i/gdj631/nordic-mining-da-blir-det-dyrt-og-vanskelig?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Jeg er 63 og diagnostisert med lymfom. Skal jeg ta trygden min neste år?",
+        "kilde": "MarketWatch",
+        "tid": "11:00",
+        "lenke": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fed rentebeslutning denne måneden er en nærmere samtale enn markedene tror",
+        "kilde": "MarketWatch",
+        "tid": "11:00",
+        "lenke": "https://www.marketwatch.com/story/fed-interest-rate-decision-this-month-is-a-closer-call-than-markets-think-f96ccf95?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fant død person på Andenes",
+        "kilde": "NRK Nyheter",
+        "tid": "10:30",
+        "lenke": "https://www.nrk.no/nordland/fant-dod-person-pa-andenes-1.18057425",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vårteikn i heile landet: – Plantane trur det har blitt vår igjen",
+        "kilde": "NRK Nyheter",
+        "tid": "09:41",
+        "lenke": "https://www.nrk.no/nordland/forvirra-planter-trur-det-er-var-igjen-pa-grunn-av-klimaendringane-1.18056572",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "15-åring satt i fengsel for barn: Kranglet først om kveldsmat – endte opp i isolasjon",
+        "kilde": "NRK Nyheter",
+        "tid": "09:24",
+        "lenke": "https://www.nrk.no/stor-oslo/xl/15-aring-isolert-i-ungdomsfengsel_-foreldre-kritiserer-behandlingen-1.18033063",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Tusenvis av plakater mot norskeid oppdrettslaks i London",
+        "kilde": "E24",
+        "tid": "08:48",
+        "lenke": "https://e24.no/hav-og-sjoemat/i/n9m4MQ/tusenvis-av-plakater-mot-norskeid-oppdrettslaks-i-london?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "DeepSeek: DeepSeek v4.1 Flash 1017",
+        "kilde": "Hacker News",
+        "tid": "08:37",
+        "lenke": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "DeepSeek-v4.1-Flash-1017",
+        "kilde": "Hacker News",
+        "tid": "08:21",
+        "lenke": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Graver i ruinene til folk: – Jeg må sone ut",
         "kilde": "NRK Nyheter",
         "tid": "07:52",
@@ -262,13 +302,6 @@
         "kilde": "NRK Nyheter",
         "tid": "06:41",
         "lenke": "https://www.nrk.no/sport/nikita-haikin-hylles-av-kjetil-knutsen-og-lagkameratene-1.18055412",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Bedrageritiltalt: Skal ha simulert syk for å slippe unna soning",
-        "kilde": "NRK Nyheter",
-        "tid": "05:42",
-        "lenke": "https://www.nrk.no/stor-oslo/ektepar-i-drobak-svindlet-for-minst-31-millioner-_-to-personer-tiltalt-1.18052280",
         "engelsk_kilde": false
       },
       {
@@ -300,24 +333,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Person savnet etter vannscooter-ulykke i Bodø",
-        "kilde": "NRK Nyheter",
-        "tid": "01:05",
-        "lenke": "https://www.nrk.no/nyheter/person-savnet-etter-vannscooter-ulykke-i-bodo-1.18057322",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Flexport ansetter en Biz Ops-leder som administrerende direktør",
-        "kilde": "Hacker News",
-        "tid": "01:01",
-        "lenke": "https://www.flexport.com/company/careers/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "9-tommers snegler",
-        "kilde": "Hacker News",
-        "tid": "22:21",
-        "lenke": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+        "tittel": "5 midterm money takeaways: Demokratene har kandidatpenger. Republikanerne har Elon Musk",
+        "kilde": "CNBC Top News",
+        "tid": "21:49",
+        "lenke": "https://www.cnbc.com/2026/10/16/midterm-election-fundraising-elon-musk.html",
         "engelsk_kilde": true
       },
       {
@@ -328,38 +347,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Jeg er 63 og diagnostisert med lymfom. Skal jeg ta trygden min neste år?",
-        "kilde": "MarketWatch",
-        "tid": "21:15",
-        "lenke": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "FLUX 3 Image Klein",
-        "kilde": "Hacker News",
-        "tid": "19:47",
-        "lenke": "https://bfl.ai/blog/flux-3-image-klein",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Slik ble tenåringen styrt fra villastrøk til britisk storfengsel",
-        "kilde": "NRK Nyheter",
-        "tid": "19:46",
-        "lenke": "https://www.nrk.no/rogaland/xl/19-aring-fra-stavanger-domt-til-20-ar-i-fengsel-for-drapsplanlegging-_-slik-ble-han-styrt-1.18049202",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Børsuken: 6 spørsmål og svar",
         "kilde": "E24",
         "tid": "14:45",
         "lenke": "https://e24.no/boers-og-finans/i/eGeJJO/boersuken-6-spoersmaal-og-svar?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Boligbygger konkurs",
-        "kilde": "E24",
-        "tid": "11:13",
-        "lenke": "https://e24.no/naeringsliv/i/2VJwmG/boligbygger-konkurs?utm_medium=rss",
         "engelsk_kilde": false
       }
     ]
