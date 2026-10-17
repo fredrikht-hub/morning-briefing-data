@@ -1,9 +1,16 @@
 {
   "dato": "2026-10-17",
   "dato_norsk": "Lørdag 17. oktober 2026",
-  "generert_kl": "18:02",
+  "generert_kl": "21:58",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
+    {
+      "tittel": "Trump frafaller brede nye Russland-sanksjoner, Zelenskyy fordømmer det som \"feil\"",
+      "kilde": "CNBC Top News",
+      "tid": "19:35",
+      "lenke": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+      "engelsk_kilde": true
+    },
     {
       "tittel": "‘Noen mennesker gjorde alt riktig’: Jeg mistet hjemmet mitt i den store resesjonen. Jeg leier i 50-årene. Hvorfor dømmes det som fiasko?",
       "kilde": "MarketWatch",
@@ -12,32 +19,25 @@
       "engelsk_kilde": true
     },
     {
-      "tittel": "Trump fraskriver seg brede nye russiske sanksjoner og tariffer under Graham-loven, med henvisning til nasjonale interesser",
-      "kilde": "CNBC Top News",
-      "tid": "10:20",
-      "lenke": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+      "tittel": "Kan en $ 55 000-robot fylle oppvaskmaskinen? Inne i min ettermiddag med to humanoide hushjelper.",
+      "kilde": "MarketWatch",
+      "tid": "20:53",
+      "lenke": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Trump fjerner Russland-sanksjoner",
-      "kilde": "E24",
-      "tid": "07:23",
-      "lenke": "https://e24.no/boers-og-finans/i/kvxJgB/trump-fjerner-russland-sanksjoner-hoester-kraftig-kritikk?utm_medium=rss",
+      "tittel": "Trumps overhaling av studielån kan føre til flere konkursdeklarasjoner, sier tidligere dommer",
+      "kilde": "CNBC Top News",
+      "tid": "13:30",
+      "lenke": "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Norsk spisstalent ute i kulden – NRK-ekspert kommer med klar beskjed",
+      "kilde": "NRK Nyheter",
+      "tid": "10:55",
+      "lenke": "https://www.nrk.no/sport/haaland-og-walle-egeli-kan-motes-til-norsk-spissduell-i-premier-league-_-nrk-ekspert-med-beskjed-1.18057149",
       "engelsk_kilde": false
-    },
-    {
-      "tittel": "Programvarens nye konsolidator får stor tillit fra Berkshire",
-      "kilde": "CNBC Top News",
-      "tid": "15:11",
-      "lenke": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Halvledermarkedet skal forbli solid ‘i hvert fall gjennom neste år’, sier Sør-Koreas finansminister",
-      "kilde": "CNBC Top News",
-      "tid": "16:45",
-      "lenke": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
-      "engelsk_kilde": true
     }
   ],
   "kategorier": {
@@ -80,20 +80,6 @@
         "tid": "12:46",
         "lenke": "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Microsoft, Shopify og tre andre AI-aksjer som er Wall Streets favorittspill",
-        "kilde": "MarketWatch",
-        "tid": "12:01",
-        "lenke": "https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Det var nok en flott uke for den gjennomsnittlige aksjen ettersom markedsledelsen skifter bort fra teknologi",
-        "kilde": "MarketWatch",
-        "tid": "11:30",
-        "lenke": "https://www.marketwatch.com/story/it-was-another-great-week-for-the-average-stock-as-market-leadership-shifts-away-from-tech-8e8516da?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       }
     ],
     "ENERGI_RAAVARER": [
@@ -107,24 +93,31 @@
     ],
     "TEKNOLOGI": [
       {
+        "tittel": "Kan en $ 55 000-robot fylle oppvaskmaskinen? Inne i min ettermiddag med to humanoide hushjelper.",
+        "kilde": "MarketWatch",
+        "tid": "20:53",
+        "lenke": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Microsoft og CMU samarbeider for å utdanne programvareingeniører for tidlig karriere",
+        "kilde": "Hacker News",
+        "tid": "18:45",
+        "lenke": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Er Apples sammenleggbare iPhone Duo verdt $ 2000? Se hvordan den står seg mot andre sammenleggbare telefoner.",
+        "kilde": "MarketWatch",
+        "tid": "18:40",
+        "lenke": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Halvledermarkedet skal forbli solid ‘i hvert fall gjennom neste år’, sier Sør-Koreas finansminister",
         "kilde": "CNBC Top News",
         "tid": "16:45",
         "lenke": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "OpenAI avslører ytterligere fire falske hendelser",
-        "kilde": "Hacker News",
-        "tid": "16:31",
-        "lenke": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Amazon bruker AI til å overvåke fagforeningsrisiko i britiske varehus",
-        "kilde": "Hacker News",
-        "tid": "16:04",
-        "lenke": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
         "engelsk_kilde": true
       },
       {
@@ -137,17 +130,17 @@
     ],
     "GEOPOLITIKK": [
       {
+        "tittel": "Trump frafaller brede nye Russland-sanksjoner, Zelenskyy fordømmer det som \"feil\"",
+        "kilde": "CNBC Top News",
+        "tid": "19:35",
+        "lenke": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Trumps overhaling av studielån kan føre til flere konkursdeklarasjoner, sier tidligere dommer",
         "kilde": "CNBC Top News",
         "tid": "13:30",
         "lenke": "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trump fraskriver seg brede nye russiske sanksjoner og tariffer under Graham-loven, med henvisning til nasjonale interesser",
-        "kilde": "CNBC Top News",
-        "tid": "10:20",
-        "lenke": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
         "engelsk_kilde": true
       },
       {
@@ -159,6 +152,55 @@
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "Chrome og Edge fjerner XSLT: hva som går i stykker og hva som ikke gjør det",
+        "kilde": "Hacker News",
+        "tid": "20:07",
+        "lenke": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Sol og strømsparing: – Fullstendig stillstand",
+        "kilde": "E24",
+        "tid": "19:22",
+        "lenke": "https://e24.no/energi-og-klima/i/b8eowe/sol-og-stroemsparing-fullstendig-stillstand?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Falsk shopping og \"lykkeforsikring\": De nyeste fintech-appene avslører våre økonomiske bekymringer",
+        "kilde": "MarketWatch",
+        "tid": "18:52",
+        "lenke": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Investering, ikke huseierskap, er den første milepælen som gjør at Gen Z-leiere føler seg vellykkede",
+        "kilde": "MarketWatch",
+        "tid": "18:40",
+        "lenke": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Mønstermatchende beats narrativ resonnement",
+        "kilde": "Hacker News",
+        "tid": "18:34",
+        "lenke": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fire personar pågripne etter politiaksjon i Bergen: Sikta for medverknad til fridomsberøving",
+        "kilde": "NRK Nyheter",
+        "tid": "18:07",
+        "lenke": "https://www.nrk.no/vestland/fire-personar-pagripne-etter-politiaksjon-i-bergen_-sikta-for-medverknad-til-fridomsberoving-1.18057668",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "OpenCode-hacket: Brukerlegitimasjon lekket",
+        "kilde": "Hacker News",
+        "tid": "18:01",
+        "lenke": "https://twitter.com/opencode/status/2111516673953935833",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Krever Temu-gebyr",
         "kilde": "E24",
@@ -174,17 +216,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Linux-feil fikset per utgivelse over tid: >2× økning siden 2026-04",
+        "tittel": "Codex SPISER OPP diskplassen på Macen min",
         "kilde": "Hacker News",
-        "tid": "17:14",
-        "lenke": "https://lwn.net/Articles/1088776/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Artie (YC S23) ansetter Enterprise AES og Senior Engineers",
-        "kilde": "Hacker News",
-        "tid": "17:02",
-        "lenke": "https://www.artie.com/careers",
+        "tid": "17:45",
+        "lenke": "https://github.com/openai/codex/issues/25921",
         "engelsk_kilde": true
       },
       {
@@ -199,13 +234,6 @@
         "kilde": "CNBC Top News",
         "tid": "16:31",
         "lenke": "https://www.cnbc.com/2026/10/17/timberland-investing-returns-risk.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "GLP-1 kan bremse biologisk aldring",
-        "kilde": "Hacker News",
-        "tid": "16:10",
-        "lenke": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging",
         "engelsk_kilde": true
       },
       {
@@ -272,31 +300,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Jeg er 64 med to sønner, men bare en jobber i familiefirmaet. Skal jeg overlate 70% av virksomheten til ham?",
-        "kilde": "MarketWatch",
-        "tid": "12:00",
-        "lenke": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Nordic Mining: – Da blir det dyrt og vanskelig",
         "kilde": "E24",
         "tid": "11:30",
         "lenke": "https://e24.no/naeringsliv/i/gdj631/nordic-mining-da-blir-det-dyrt-og-vanskelig?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Jeg er 63 og diagnostisert med lymfom. Skal jeg ta trygden min neste år?",
-        "kilde": "MarketWatch",
-        "tid": "11:00",
-        "lenke": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Fant død person på Andenes",
-        "kilde": "NRK Nyheter",
-        "tid": "10:30",
-        "lenke": "https://www.nrk.no/nordland/fant-dod-person-pa-andenes-1.18057425",
         "engelsk_kilde": false
       },
       {
@@ -328,17 +335,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Her vet alle hva kollegene tjener: – For oss er det en selvfølge",
-        "kilde": "E24",
-        "tid": "03:00",
-        "lenke": "https://e24.no/karriere-og-ledelse/i/58r7p1/her-vet-alle-hva-kollegene-tjener-for-oss-er-det-en-selvfoelge?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "5 midterm money takeaways: Demokratene har kandidatpenger. Republikanerne har Elon Musk",
+        "tittel": "Noen selskaper gir AI til alle. Denne administrerende direktøren gjør det motsatte",
         "kilde": "CNBC Top News",
-        "tid": "21:49",
-        "lenke": "https://www.cnbc.com/2026/10/16/midterm-election-fundraising-elon-musk.html",
+        "tid": "05:00",
+        "lenke": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
         "engelsk_kilde": true
       }
     ]
