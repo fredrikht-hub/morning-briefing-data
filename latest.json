@@ -1,52 +1,59 @@
 {
-  "dato": "2026-10-17",
-  "dato_norsk": "Lørdag 17. oktober 2026",
-  "generert_kl": "21:58",
+  "dato": "2026-10-18",
+  "dato_norsk": "Søndag 18. oktober 2026",
+  "generert_kl": "08:44",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Trump frafaller brede nye Russland-sanksjoner, Zelenskyy fordømmer det som \"feil\"",
+      "tittel": "Trumps Russland-dieselavtale kan tilby Putin mer enn penger — og skape problemer for Ukraina",
       "kilde": "CNBC Top News",
-      "tid": "19:35",
-      "lenke": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+      "tid": "07:22",
+      "lenke": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "‘Noen mennesker gjorde alt riktig’: Jeg mistet hjemmet mitt i den store resesjonen. Jeg leier i 50-årene. Hvorfor dømmes det som fiasko?",
-      "kilde": "MarketWatch",
-      "tid": "16:47",
-      "lenke": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Kan en $ 55 000-robot fylle oppvaskmaskinen? Inne i min ettermiddag med to humanoide hushjelper.",
-      "kilde": "MarketWatch",
-      "tid": "20:53",
-      "lenke": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Trumps overhaling av studielån kan føre til flere konkursdeklarasjoner, sier tidligere dommer",
-      "kilde": "CNBC Top News",
-      "tid": "13:30",
-      "lenke": "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Norsk spisstalent ute i kulden – NRK-ekspert kommer med klar beskjed",
-      "kilde": "NRK Nyheter",
-      "tid": "10:55",
-      "lenke": "https://www.nrk.no/sport/haaland-og-walle-egeli-kan-motes-til-norsk-spissduell-i-premier-league-_-nrk-ekspert-med-beskjed-1.18057149",
+      "tittel": "Tiktok vurderer nytt datasenter i Norge",
+      "kilde": "E24",
+      "tid": "08:19",
+      "lenke": "https://e24.no/naeringsliv/i/Ab0483/tiktok-vurderer-nytt-datasenter-i-norge?utm_medium=rss",
       "engelsk_kilde": false
+    },
+    {
+      "tittel": "Telenor anker i Myanmar-saken. Hyklersk, mener saksøkerne",
+      "kilde": "NRK Nyheter",
+      "tid": "07:11",
+      "lenke": "https://www.nrk.no/dokumentar/telenor-kjemper-for-a-unnga-soksmalet-fra-kundene-i-myanmar-1.18057745",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Hvorfor hedgefond kan gjøre et sjokk i obligasjonsmarkedet mer sannsynlig",
+      "kilde": "CNBC Top News",
+      "tid": "06:13",
+      "lenke": "https://www.cnbc.com/2026/10/18/hedge-funds-bond-market-turmoil.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "DeepSeek søk og hent – $ 0,75 per 1000 vellykkede forespørsler",
+      "kilde": "Hacker News",
+      "tid": "06:50",
+      "lenke": "https://api-docs.deepseek.com/guides/search/",
+      "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "Norsk spisstalent ute i kulden – NRK-ekspert kommer med klar beskjed",
+        "tittel": "Tiktok vurderer nytt datasenter i Norge",
+        "kilde": "E24",
+        "tid": "08:19",
+        "lenke": "https://e24.no/naeringsliv/i/Ab0483/tiktok-vurderer-nytt-datasenter-i-norge?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Telenor anker i Myanmar-saken. Hyklersk, mener saksøkerne",
         "kilde": "NRK Nyheter",
-        "tid": "10:55",
-        "lenke": "https://www.nrk.no/sport/haaland-og-walle-egeli-kan-motes-til-norsk-spissduell-i-premier-league-_-nrk-ekspert-med-beskjed-1.18057149",
+        "tid": "07:11",
+        "lenke": "https://www.nrk.no/dokumentar/telenor-kjemper-for-a-unnga-soksmalet-fra-kundene-i-myanmar-1.18057745",
         "engelsk_kilde": false
       }
     ],
@@ -57,16 +64,16 @@
         "tid": "16:47",
         "lenke": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "USAs budsjettunderskudd svulmer opp til nesten $ 2 billioner for budsjettåret 2026, en økning på 12% i løpet av ett år",
-        "kilde": "CNBC Top News",
-        "tid": "22:34",
-        "lenke": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
-        "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
+      {
+        "tittel": "Hvorfor hedgefond kan gjøre et sjokk i obligasjonsmarkedet mer sannsynlig",
+        "kilde": "CNBC Top News",
+        "tid": "06:13",
+        "lenke": "https://www.cnbc.com/2026/10/18/hedge-funds-bond-market-turmoil.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "'Døde penger’ i et tiår: Hvorfor denne hedgefond-tilnærmingen kan gi en fordel i forhold til obligasjoner",
         "kilde": "CNBC Top News",
@@ -100,13 +107,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Microsoft og CMU samarbeider for å utdanne programvareingeniører for tidlig karriere",
-        "kilde": "Hacker News",
-        "tid": "18:45",
-        "lenke": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Er Apples sammenleggbare iPhone Duo verdt $ 2000? Se hvordan den står seg mot andre sammenleggbare telefoner.",
         "kilde": "MarketWatch",
         "tid": "18:40",
@@ -130,6 +130,13 @@
     ],
     "GEOPOLITIKK": [
       {
+        "tittel": "Trumps Russland-dieselavtale kan tilby Putin mer enn penger — og skape problemer for Ukraina",
+        "kilde": "CNBC Top News",
+        "tid": "07:22",
+        "lenke": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Trump frafaller brede nye Russland-sanksjoner, Zelenskyy fordømmer det som \"feil\"",
         "kilde": "CNBC Top News",
         "tid": "19:35",
@@ -142,22 +149,127 @@
         "tid": "13:30",
         "lenke": "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trump fjerner Russland-sanksjoner",
-        "kilde": "E24",
-        "tid": "07:23",
-        "lenke": "https://e24.no/boers-og-finans/i/kvxJgB/trump-fjerner-russland-sanksjoner-hoester-kraftig-kritikk?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ],
     "VILLKORT": [
       {
-        "tittel": "Chrome og Edge fjerner XSLT: hva som går i stykker og hva som ikke gjør det",
+        "tittel": "Bengt vil forby jordklumpen som kommer med planten din",
+        "kilde": "NRK Nyheter",
+        "tid": "07:56",
+        "lenke": "https://www.nrk.no/sorlandet/krever-strengere-lovverk-for-jordklumpene-i-importerte-planter-1.18052544",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "AI-festen skjelver",
+        "kilde": "E24",
+        "tid": "06:51",
+        "lenke": "https://e24.no/boers-og-finans/i/BMqQ2Q/ai-festen-skjelver?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "DeepSeek søk og hent – $ 0,75 per 1000 vellykkede forespørsler",
         "kilde": "Hacker News",
-        "tid": "20:07",
-        "lenke": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
+        "tid": "06:50",
+        "lenke": "https://api-docs.deepseek.com/guides/search/",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "En Princeton PhD anvendt på 2300 jobber. Han kan fortsatt ikke få en",
+        "kilde": "Hacker News",
+        "tid": "06:36",
+        "lenke": "https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Har vi avslørt alle Epstein-løgnene nå?",
+        "kilde": "E24",
+        "tid": "06:29",
+        "lenke": "https://e24.no/naeringsliv/i/jvX5q9/soendag-morgen-har-vi-avsloert-alle-epstein-loegnene-naa?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vannskuterulykken: Søker nå etter antatt omkommet også på land",
+        "kilde": "NRK Nyheter",
+        "tid": "06:23",
+        "lenke": "https://www.nrk.no/nordland/vannskuterulykken_-soker-na-etter-antatt-omkommet-ogsa-pa-land-1.18057772",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Gikk fra binders til dette",
+        "kilde": "NRK Nyheter",
+        "tid": "06:20",
+        "lenke": "https://www.nrk.no/stor-oslo/bytta-seg-fra-binders-til-bord-og-gamolle-til-25.000-kroner-1.18056990",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Fleire sikrer heimen med kamera: Nina  fanga tjuven på film",
+        "kilde": "NRK Nyheter",
+        "tid": "05:40",
+        "lenke": "https://www.nrk.no/sorlandet/fleire-har-private-kamera_-klagene-renn-inn-til-datatilsynet-1.18054528",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "«Alle» vil ha KI, men «ingen» vil ha datasenter",
+        "kilde": "NRK Nyheter",
+        "tid": "05:39",
+        "lenke": "https://www.nrk.no/rogaland/bruken-av-kunstig-intelligens-forer-til-datasenter-vekst-1.18051734",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Matthew Prince om hvorfor Cloudflare tilbyr en gratis versjon og alltid vil gjøre det (2016)",
+        "kilde": "Hacker News",
+        "tid": "05:09",
+        "lenke": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Slik kan boblesprekk i AI gi kryptorally",
+        "kilde": "E24",
+        "tid": "05:02",
+        "lenke": "https://e24.no/boers-og-finans/i/w3bmAG/slik-kan-boblesprekk-i-ai-gi-kryptorally?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "En muldvarp infiltrerte de høyeste gradene av amerikanske militser (2025)",
+        "kilde": "Hacker News",
+        "tid": "04:59",
+        "lenke": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Merknader om enhetens komplekse røtter",
+        "kilde": "Hacker News",
+        "tid": "04:49",
+        "lenke": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tvinges til å ha butikk uten kunder",
+        "kilde": "E24",
+        "tid": "03:00",
+        "lenke": "https://e24.no/naeringsliv/i/Jrq7d7/tvinges-til-aa-ha-butikk-uten-kunder?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Canada: Flere døde og skadede i brann på militærbase",
+        "kilde": "NRK Nyheter",
+        "tid": "01:48",
+        "lenke": "https://www.nrk.no/nyheter/canada_-flere-dode-og-skadede-i-brann-pa-militaerbase-1.18057740",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Det er et tilslag mot piratkopiering av sport - men er det allerede ute av kontroll?",
+        "kilde": "BBC Business",
+        "tid": "00:11",
+        "lenke": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Mann til Ullevål etter elsparkesykkelulykke i Sandefjord",
+        "kilde": "NRK Nyheter",
+        "tid": "23:14",
+        "lenke": "https://www.nrk.no/nyheter/mann-til-ulleval-etter-elsparkesykkelulykke-i-sandefjord-1.18057729",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Sol og strømsparing: – Fullstendig stillstand",
@@ -181,27 +293,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Mønstermatchende beats narrativ resonnement",
-        "kilde": "Hacker News",
-        "tid": "18:34",
-        "lenke": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Fire personar pågripne etter politiaksjon i Bergen: Sikta for medverknad til fridomsberøving",
-        "kilde": "NRK Nyheter",
-        "tid": "18:07",
-        "lenke": "https://www.nrk.no/vestland/fire-personar-pagripne-etter-politiaksjon-i-bergen_-sikta-for-medverknad-til-fridomsberoving-1.18057668",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "OpenCode-hacket: Brukerlegitimasjon lekket",
-        "kilde": "Hacker News",
-        "tid": "18:01",
-        "lenke": "https://twitter.com/opencode/status/2111516673953935833",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Krever Temu-gebyr",
         "kilde": "E24",
         "tid": "17:52",
@@ -216,46 +307,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Codex SPISER OPP diskplassen på Macen min",
-        "kilde": "Hacker News",
-        "tid": "17:45",
-        "lenke": "https://github.com/openai/codex/issues/25921",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Fire personer siktet for medvirkning til frihetsberøvelse i Bergen",
-        "kilde": "NRK Nyheter",
-        "tid": "17:02",
-        "lenke": "https://www.nrk.no/nyheter/fire-personer-siktet-for-medvirkning-til-frihetsberovelse-i-bergen-1.18057582",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Investorer kjøper opp store områder av timberland over hele USA i en av markedets lengste satsinger",
         "kilde": "CNBC Top News",
         "tid": "16:31",
         "lenke": "https://www.cnbc.com/2026/10/17/timberland-investing-returns-risk.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Ikkje berre for å vere snill",
-        "kilde": "NRK Nyheter",
-        "tid": "16:06",
-        "lenke": "https://www.nrk.no/trondelag/xl/natteramnar-kan-ikkje-gripe-inn-mot-vald_-men-synet-av-dei-kan-trygge-og-sikre-alle-som-ser-dei.-1.18016692",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Irritert etter Haaland-smell: – Føler de er tvunget",
-        "kilde": "NRK Nyheter",
-        "tid": "16:03",
-        "lenke": "https://www.nrk.no/sport/premier-league_-haaland-med-ny-mal-dobbel-for-manchester-city-1.18057595",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Sexklubb-grunnlegger er siktet for hallikvirksomhet igjen",
-        "kilde": "NRK Nyheter",
-        "tid": "15:26",
-        "lenke": "https://www.nrk.no/trondelag/to-menn-siktet-for-hallikvirksomhet-i-trondelag-1.18057586",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Stordalen tror AI vil føre til investeringer for «hundrevis av millioner»",
@@ -279,20 +335,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Svømte 200 meter uten redningsvest da vannskuter veltet: – En voldsom prøvelse",
-        "kilde": "NRK Nyheter",
-        "tid": "12:35",
-        "lenke": "https://www.nrk.no/nordland/svomte-200-meter-i-iskaldt-vann-_-berget-seg-inn-pa-ulast-forskningsstasjon-1.18057453",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Johaugs superløp setter fart i OL-drømmen: – Nå hater jeg snø",
-        "kilde": "NRK Nyheter",
-        "tid": "12:31",
-        "lenke": "https://www.nrk.no/sport/therese-johaug-lop-inn-til-supertiden-30.51-i-hytteplanmila-1.18057404",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Påvirkere og biohackere sverger ved å faste. Her er hva vitenskapen sier.",
         "kilde": "MarketWatch",
         "tid": "12:31",
@@ -305,41 +347,6 @@
         "tid": "11:30",
         "lenke": "https://e24.no/naeringsliv/i/gdj631/nordic-mining-da-blir-det-dyrt-og-vanskelig?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Tusenvis av plakater mot norskeid oppdrettslaks i London",
-        "kilde": "E24",
-        "tid": "08:48",
-        "lenke": "https://e24.no/hav-og-sjoemat/i/n9m4MQ/tusenvis-av-plakater-mot-norskeid-oppdrettslaks-i-london?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "AI-uro: Vedder milliarder på aksjeras",
-        "kilde": "E24",
-        "tid": "07:31",
-        "lenke": "https://e24.no/boers-og-finans/i/0BkGdB/ai-uro-vedder-milliarder-paa-aksjeras?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Hvilket ytre høyre får vi?",
-        "kilde": "E24",
-        "tid": "07:25",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/77yPX4/hvilket-ytre-hoeyre-faar-vi?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Er et kursfall en mulighet eller en felle?",
-        "kilde": "E24",
-        "tid": "05:39",
-        "lenke": "https://e24.no/boers-og-finans/i/58w5xK/er-et-kursfall-en-mulighet-eller-en-felle?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Noen selskaper gir AI til alle. Denne administrerende direktøren gjør det motsatte",
-        "kilde": "CNBC Top News",
-        "tid": "05:00",
-        "lenke": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
-        "engelsk_kilde": true
       }
     ]
   }
