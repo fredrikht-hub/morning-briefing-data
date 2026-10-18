@@ -1,42 +1,42 @@
 {
   "dato": "2026-10-18",
   "dato_norsk": "Søndag 18. oktober 2026",
-  "generert_kl": "08:44",
+  "generert_kl": "12:19",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
+    {
+      "tittel": "Hva er budsjettet og hva kan det inneholde?",
+      "kilde": "BBC Business",
+      "tid": "10:22",
+      "lenke": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Det er en stille markedsrotasjon inne i S&P 500 som advarer om mer svakhet fremover",
+      "kilde": "MarketWatch",
+      "tid": "12:00",
+      "lenke": "https://www.marketwatch.com/story/there-is-a-silent-market-rotation-inside-the-s-p-500-thats-warning-of-more-weakness-ahead-549e7650?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Har hamstret Norwegian-aksjer siden Iran-krigen startet",
+      "kilde": "E24",
+      "tid": "11:09",
+      "lenke": "https://e24.no/boers-og-finans/i/64Km53/espedal-har-hamstret-norwegian-aksjer-siden-iran-krigen-startet?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Halvledermarkedet skal forbli solid ‘i hvert fall gjennom neste år’, sier Sør-Koreas finansminister",
+      "kilde": "CNBC Top News",
+      "tid": "11:10",
+      "lenke": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
+      "engelsk_kilde": true
+    },
     {
       "tittel": "Trumps Russland-dieselavtale kan tilby Putin mer enn penger — og skape problemer for Ukraina",
       "kilde": "CNBC Top News",
       "tid": "07:22",
       "lenke": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Tiktok vurderer nytt datasenter i Norge",
-      "kilde": "E24",
-      "tid": "08:19",
-      "lenke": "https://e24.no/naeringsliv/i/Ab0483/tiktok-vurderer-nytt-datasenter-i-norge?utm_medium=rss",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Telenor anker i Myanmar-saken. Hyklersk, mener saksøkerne",
-      "kilde": "NRK Nyheter",
-      "tid": "07:11",
-      "lenke": "https://www.nrk.no/dokumentar/telenor-kjemper-for-a-unnga-soksmalet-fra-kundene-i-myanmar-1.18057745",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Hvorfor hedgefond kan gjøre et sjokk i obligasjonsmarkedet mer sannsynlig",
-      "kilde": "CNBC Top News",
-      "tid": "06:13",
-      "lenke": "https://www.cnbc.com/2026/10/18/hedge-funds-bond-market-turmoil.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "DeepSeek søk og hent – $ 0,75 per 1000 vellykkede forespørsler",
-      "kilde": "Hacker News",
-      "tid": "06:50",
-      "lenke": "https://api-docs.deepseek.com/guides/search/",
       "engelsk_kilde": true
     }
   ],
@@ -59,14 +59,42 @@
     ],
     "MAKRO": [
       {
+        "tittel": "Hva er budsjettet og hva kan det inneholde?",
+        "kilde": "BBC Business",
+        "tid": "10:22",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "‘Noen mennesker gjorde alt riktig’: Jeg mistet hjemmet mitt i den store resesjonen. Jeg leier i 50-årene. Hvorfor dømmes det som fiasko?",
         "kilde": "MarketWatch",
         "tid": "16:47",
         "lenke": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "AI-aksjer stuper. Inflasjonen varmes opp. Hvor vi fortsatt finner muligheter",
+        "kilde": "CNBC Top News",
+        "tid": "15:42",
+        "lenke": "https://www.cnbc.com/investingclub/2026/10/17/ai-stocks-plunge-inflation-heats-up-where-were-still-finding-opportunities.html",
+        "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
+      {
+        "tittel": "Det er en stille markedsrotasjon inne i S&P 500 som advarer om mer svakhet fremover",
+        "kilde": "MarketWatch",
+        "tid": "12:00",
+        "lenke": "https://www.marketwatch.com/story/there-is-a-silent-market-rotation-inside-the-s-p-500-thats-warning-of-more-weakness-ahead-549e7650?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Har hamstret Norwegian-aksjer siden Iran-krigen startet",
+        "kilde": "E24",
+        "tid": "11:09",
+        "lenke": "https://e24.no/boers-og-finans/i/64Km53/espedal-har-hamstret-norwegian-aksjer-siden-iran-krigen-startet?utm_medium=rss",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Hvorfor hedgefond kan gjøre et sjokk i obligasjonsmarkedet mer sannsynlig",
         "kilde": "CNBC Top News",
@@ -89,16 +117,14 @@
         "engelsk_kilde": true
       }
     ],
-    "ENERGI_RAAVARER": [
-      {
-        "tittel": "Silver's siste 50% fall fra et rekordhøyt hint om at en økonomisk nedgang truer",
-        "kilde": "MarketWatch",
-        "tid": "12:30",
-        "lenke": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      }
-    ],
     "TEKNOLOGI": [
+      {
+        "tittel": "Halvledermarkedet skal forbli solid ‘i hvert fall gjennom neste år’, sier Sør-Koreas finansminister",
+        "kilde": "CNBC Top News",
+        "tid": "11:10",
+        "lenke": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Kan en $ 55 000-robot fylle oppvaskmaskinen? Inne i min ettermiddag med to humanoide hushjelper.",
         "kilde": "MarketWatch",
@@ -111,13 +137,6 @@
         "kilde": "MarketWatch",
         "tid": "18:40",
         "lenke": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Halvledermarkedet skal forbli solid ‘i hvert fall gjennom neste år’, sier Sør-Koreas finansminister",
-        "kilde": "CNBC Top News",
-        "tid": "16:45",
-        "lenke": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
         "engelsk_kilde": true
       },
       {
@@ -142,16 +161,93 @@
         "tid": "19:35",
         "lenke": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trumps overhaling av studielån kan føre til flere konkursdeklarasjoner, sier tidligere dommer",
-        "kilde": "CNBC Top News",
-        "tid": "13:30",
-        "lenke": "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
-        "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "Alltid på, alltid lytting: Nye AI-enheter presser juridiske grenser og kan sette brukerne i fare",
+        "kilde": "CNBC Top News",
+        "tid": "12:00",
+        "lenke": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bedrifter om fossilforbud: – Risikosport",
+        "kilde": "E24",
+        "tid": "11:13",
+        "lenke": "https://e24.no/energi-og-klima/i/oKlgpV/bedrifter-om-fossilforbud-risikosport?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Barn utkonkurrerer forbud på sosiale medier. Det er ikke et problem vi må løse",
+        "kilde": "Hacker News",
+        "tid": "11:02",
+        "lenke": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvordan sysselsettingen endrer seg hos Anthropic",
+        "kilde": "Hacker News",
+        "tid": "10:49",
+        "lenke": "https://www.anthropic.com/research/employment-at-anthropic",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Humor, hets og håp",
+        "kilde": "NRK Nyheter",
+        "tid": "10:42",
+        "lenke": "https://www.nrk.no/norge/xl/fawzi-warsame-er-ny-auf-leder-_-men-politiker-vil-han-ikke-kalle-seg-1.18049293",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "AUF har valgt ny leder",
+        "kilde": "NRK Nyheter",
+        "tid": "10:32",
+        "lenke": "https://www.nrk.no/nyheter/auf-har-valgt-ny-leder-1.18057853",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Juridiske eksperter advarer om at Metas nye vilkår fortsatt gir brede skrapetillatelser",
+        "kilde": "Hacker News",
+        "tid": "10:21",
+        "lenke": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Mann i 50-årene bekreftet omkommet etter dykkerulykke",
+        "kilde": "NRK Nyheter",
+        "tid": "08:53",
+        "lenke": "https://www.nrk.no/sorlandet/luftambulanse-kalt-ut-_-dykker-skal-ha-fatt-problemer-1.18057833",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Banket opp på perrongen: – Nå dør jeg",
+        "kilde": "NRK Nyheter",
+        "tid": "08:53",
+        "lenke": "https://www.nrk.no/sport/xl/supporterkoordinatoren-i-lyn-fikk-brutalt-mote-med-fotballvolden_-_-nar-slutter-de-a-sla_-1.18003380",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Parserkombinatorer",
+        "kilde": "Hacker News",
+        "tid": "08:19",
+        "lenke": "https://t3.at/blog/2026-10-17-parser-combinators/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Snu tidevannet: Kan skjult sjøkraft gi energi til kystbyene våre?",
+        "kilde": "BBC Business",
+        "tid": "08:12",
+        "lenke": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "\"Jeg tok en sjanse på whiskyindustrien, og jeg har ikke sett meg tilbake\"",
+        "kilde": "BBC Business",
+        "tid": "08:12",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6y8ln9831v3o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Bengt vil forby jordklumpen som kommer med planten din",
         "kilde": "NRK Nyheter",
@@ -174,13 +270,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "En Princeton PhD anvendt på 2300 jobber. Han kan fortsatt ikke få en",
-        "kilde": "Hacker News",
-        "tid": "06:36",
-        "lenke": "https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Har vi avslørt alle Epstein-løgnene nå?",
         "kilde": "E24",
         "tid": "06:29",
@@ -188,10 +277,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Vannskuterulykken: Søker nå etter antatt omkommet også på land",
+        "tittel": "Vannskuterulykken: Savnet mann i 30-årene funnet omkommet",
         "kilde": "NRK Nyheter",
         "tid": "06:23",
-        "lenke": "https://www.nrk.no/nordland/vannskuterulykken_-soker-na-etter-antatt-omkommet-ogsa-pa-land-1.18057772",
+        "lenke": "https://www.nrk.no/nordland/vannskuterulykken_-savnet-mann-i-30-arene-funnet-omkommet-1.18057772",
         "engelsk_kilde": false
       },
       {
@@ -202,46 +291,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Fleire sikrer heimen med kamera: Nina  fanga tjuven på film",
-        "kilde": "NRK Nyheter",
-        "tid": "05:40",
-        "lenke": "https://www.nrk.no/sorlandet/fleire-har-private-kamera_-klagene-renn-inn-til-datatilsynet-1.18054528",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "«Alle» vil ha KI, men «ingen» vil ha datasenter",
-        "kilde": "NRK Nyheter",
-        "tid": "05:39",
-        "lenke": "https://www.nrk.no/rogaland/bruken-av-kunstig-intelligens-forer-til-datasenter-vekst-1.18051734",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Matthew Prince om hvorfor Cloudflare tilbyr en gratis versjon og alltid vil gjøre det (2016)",
-        "kilde": "Hacker News",
-        "tid": "05:09",
-        "lenke": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Slik kan boblesprekk i AI gi kryptorally",
         "kilde": "E24",
         "tid": "05:02",
         "lenke": "https://e24.no/boers-og-finans/i/w3bmAG/slik-kan-boblesprekk-i-ai-gi-kryptorally?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "En muldvarp infiltrerte de høyeste gradene av amerikanske militser (2025)",
-        "kilde": "Hacker News",
-        "tid": "04:59",
-        "lenke": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Merknader om enhetens komplekse røtter",
-        "kilde": "Hacker News",
-        "tid": "04:49",
-        "lenke": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Tvinges til å ha butikk uten kunder",
@@ -251,25 +305,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Canada: Flere døde og skadede i brann på militærbase",
-        "kilde": "NRK Nyheter",
-        "tid": "01:48",
-        "lenke": "https://www.nrk.no/nyheter/canada_-flere-dode-og-skadede-i-brann-pa-militaerbase-1.18057740",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Det er et tilslag mot piratkopiering av sport - men er det allerede ute av kontroll?",
         "kilde": "BBC Business",
         "tid": "00:11",
         "lenke": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Mann til Ullevål etter elsparkesykkelulykke i Sandefjord",
-        "kilde": "NRK Nyheter",
-        "tid": "23:14",
-        "lenke": "https://www.nrk.no/nyheter/mann-til-ulleval-etter-elsparkesykkelulykke-i-sandefjord-1.18057729",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Sol og strømsparing: – Fullstendig stillstand",
@@ -307,20 +347,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Investorer kjøper opp store områder av timberland over hele USA i en av markedets lengste satsinger",
-        "kilde": "CNBC Top News",
-        "tid": "16:31",
-        "lenke": "https://www.cnbc.com/2026/10/17/timberland-investing-returns-risk.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Stordalen tror AI vil føre til investeringer for «hundrevis av millioner»",
-        "kilde": "E24",
-        "tid": "14:40",
-        "lenke": "https://e24.no/naeringsliv/i/w3bKzo/stordalen-tror-ai-vil-foere-til-investeringer-for-hundrevis-av-millioner?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "\"Alle lo\" da han startet en gresskarfarm - nå tjener den 2 millioner $ i året",
         "kilde": "CNBC Top News",
         "tid": "13:00",
@@ -340,13 +366,6 @@
         "tid": "12:31",
         "lenke": "https://www.marketwatch.com/story/influencers-and-biohackers-swear-by-fasting-heres-what-the-science-says-3318191f?mod=mw_rss_topstories",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nordic Mining: – Da blir det dyrt og vanskelig",
-        "kilde": "E24",
-        "tid": "11:30",
-        "lenke": "https://e24.no/naeringsliv/i/gdj631/nordic-mining-da-blir-det-dyrt-og-vanskelig?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ]
   }
