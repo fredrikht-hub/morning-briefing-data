@@ -1,74 +1,102 @@
 {
-  "dato": "2026-10-18",
-  "dato_norsk": "Søndag 18. oktober 2026",
-  "generert_kl": "18:21",
+  "dato": "2026-10-19",
+  "dato_norsk": "Mandag 19. oktober 2026",
+  "generert_kl": "09:45",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "‘Noen mennesker gjorde alt riktig’: Jeg mistet hjemmet mitt i den store resesjonen. Jeg leier i 50-årene. Hvorfor dømmes det som fiasko?",
-      "kilde": "MarketWatch",
-      "tid": "16:15",
-      "lenke": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Bessent advarer Zelenskyj om å 'være veldig forsiktig' med påstander om at USA struper Starlink",
+      "tittel": "Fransk uro øker frykten for gjeldskrisen. Paris-børsnoterte aksjer, obligasjoner og euroen faller",
       "kilde": "CNBC Top News",
-      "tid": "16:44",
-      "lenke": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
+      "tid": "09:07",
+      "lenke": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Aker satser på AI-startups: – Tok fem sekunder",
+      "tittel": "Putin foreslår angivelig treveistoppmøte med Trump og Xi om Ukraina-krigen — uten Zelenskyj",
+      "kilde": "CNBC Top News",
+      "tid": "09:05",
+      "lenke": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Mowi-hopp på negativ Oslo Børs",
       "kilde": "E24",
-      "tid": "17:44",
-      "lenke": "https://e24.no/naeringsliv/i/8GGL8r/aker-satser-paa-ai-startups-tok-fem-sekunder?utm_medium=rss",
+      "tid": "07:00",
+      "lenke": "https://e24.no/boers-og-finans/i/eGv7la/oppgang-paa-oslo-boers?utm_medium=rss",
       "engelsk_kilde": false
     },
     {
-      "tittel": "Norge inngår frihandelsavtale med Vietnam",
-      "kilde": "E24",
-      "tid": "15:29",
-      "lenke": "https://e24.no/hav-og-sjoemat/i/31KMg9/norge-inngaar-frihandelsavtale-med-vietnam?utm_medium=rss",
-      "engelsk_kilde": false
+      "tittel": "Hva er budsjettet og hva kan det inneholde?",
+      "kilde": "BBC Business",
+      "tid": "09:01",
+      "lenke": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "engelsk_kilde": true
     },
     {
-      "tittel": "Her er de 3 store tingene vi ser på aksjemarkedet denne uken",
-      "kilde": "CNBC Top News",
-      "tid": "15:24",
-      "lenke": "https://www.cnbc.com/investingclub/2026/10/18/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
-      "engelsk_kilde": true
+      "tittel": "SpaceX solgte Starlink-nett for 831 millioner i Norge",
+      "kilde": "E24",
+      "tid": "09:03",
+      "lenke": "https://e24.no/boers-og-finans/i/6qV9Ar/spacex-solgte-starlink-nett-for-831-millioner-i-norge?utm_medium=rss",
+      "engelsk_kilde": false
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "Aker satser på AI-startups: – Tok fem sekunder",
+        "tittel": "SpaceX solgte Starlink-nett for 831 millioner i Norge",
         "kilde": "E24",
-        "tid": "17:44",
-        "lenke": "https://e24.no/naeringsliv/i/8GGL8r/aker-satser-paa-ai-startups-tok-fem-sekunder?utm_medium=rss",
+        "tid": "09:03",
+        "lenke": "https://e24.no/boers-og-finans/i/6qV9Ar/spacex-solgte-starlink-nett-for-831-millioner-i-norge?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
-        "tittel": "Norge inngår frihandelsavtale med Vietnam",
-        "kilde": "E24",
-        "tid": "15:29",
-        "lenke": "https://e24.no/hav-og-sjoemat/i/31KMg9/norge-inngaar-frihandelsavtale-med-vietnam?utm_medium=rss",
+        "tittel": "Vil ha ny norsk EU-debatt: – Mye har skjedd siden 1994",
+        "kilde": "NRK Nyheter",
+        "tid": "08:43",
+        "lenke": "https://www.nrk.no/stor-oslo/vil-ha-ny-norsk-eu-debatt_-_-mye-har-skjedd-siden-1994-1.17994600",
         "engelsk_kilde": false
       },
       {
-        "tittel": "Tiktok vurderer nytt datasenter i Norge",
+        "tittel": "DNB-kundar har problem med nettbanken",
+        "kilde": "NRK Nyheter",
+        "tid": "08:18",
+        "lenke": "https://www.nrk.no/nyheter/dnb-kundar-har-problem-med-nettbanken-1.18058332",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Aker-aksjen faller etter rykter om lavere verdsettelse av Nscale",
         "kilde": "E24",
-        "tid": "08:19",
-        "lenke": "https://e24.no/naeringsliv/i/Ab0483/tiktok-vurderer-nytt-datasenter-i-norge?utm_medium=rss",
+        "tid": "07:01",
+        "lenke": "https://e24.no/boers-og-finans/i/zlwORq/aker-aksjen-faller-3-8-prosent-etter-rykter-om-lavere-verdsettelse-av-nscale?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Mowi-hopp på negativ Oslo Børs",
+        "kilde": "E24",
+        "tid": "07:00",
+        "lenke": "https://e24.no/boers-og-finans/i/eGv7la/oppgang-paa-oslo-boers?utm_medium=rss",
         "engelsk_kilde": false
       }
     ],
     "MAKRO": [
       {
+        "tittel": "Fransk uro øker frykten for gjeldskrisen. Paris-børsnoterte aksjer, obligasjoner og euroen faller",
+        "kilde": "CNBC Top News",
+        "tid": "09:07",
+        "lenke": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hva er budsjettet og hva kan det inneholde?",
+        "kilde": "BBC Business",
+        "tid": "09:01",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Bessent advarer Zelenskyj om å 'være veldig forsiktig' med påstander om at USA struper Starlink",
         "kilde": "CNBC Top News",
-        "tid": "16:44",
+        "tid": "19:37",
         "lenke": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
         "engelsk_kilde": true
       },
@@ -78,112 +106,254 @@
         "tid": "16:15",
         "lenke": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hva er budsjettet og hva kan det inneholde?",
-        "kilde": "BBC Business",
-        "tid": "10:22",
-        "lenke": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
-      {
-        "tittel": "Her er de 3 store tingene vi ser på aksjemarkedet denne uken",
-        "kilde": "CNBC Top News",
-        "tid": "15:24",
-        "lenke": "https://www.cnbc.com/investingclub/2026/10/18/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Disse overraskende aksjene kan være noen av de største driverne for S&P 500 inntjeningsvekst",
-        "kilde": "MarketWatch",
-        "tid": "14:00",
-        "lenke": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
       {
         "tittel": "Boomers kjøper seg inn i løftet om månedlig inntekt fra opsjoner ETFer, men det er en skattefangst",
         "kilde": "CNBC Top News",
         "tid": "13:10",
         "lenke": "https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html",
         "engelsk_kilde": true
-      },
+      }
+    ],
+    "ENERGI_RAAVARER": [
       {
-        "tittel": "Aksjer er på vei mot et oppgjør med høye innsatser, ettersom sterk inntjening kolliderer med stigende lånekostnader",
-        "kilde": "MarketWatch",
-        "tid": "13:00",
-        "lenke": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Topp Wall Street-analytikere er bullish på vekstpotensialet til disse 3 aksjene",
-        "kilde": "CNBC Top News",
-        "tid": "12:34",
-        "lenke": "https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Det er en stille markedsrotasjon inne i S&P 500 som advarer om mer svakhet fremover",
-        "kilde": "MarketWatch",
-        "tid": "12:00",
-        "lenke": "https://www.marketwatch.com/story/there-is-a-silent-market-rotation-inside-the-s-p-500-thats-warning-of-more-weakness-ahead-549e7650?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Har hamstret Norwegian-aksjer siden Iran-krigen startet",
+        "tittel": "Jekker ned kraft-utsiktene: Venter lavere priser",
         "kilde": "E24",
-        "tid": "11:09",
-        "lenke": "https://e24.no/boers-og-finans/i/64Km53/espedal-har-hamstret-norwegian-aksjer-siden-iran-krigen-startet?utm_medium=rss",
+        "tid": "08:03",
+        "lenke": "https://e24.no/energi-og-klima/i/JrwrE4/jekker-ned-kraft-utsiktene-venter-lavere-priser?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Hvorfor hedgefond kan gjøre et sjokk i obligasjonsmarkedet mer sannsynlig",
-        "kilde": "CNBC Top News",
-        "tid": "06:13",
-        "lenke": "https://www.cnbc.com/2026/10/18/hedge-funds-bond-market-turmoil.html",
-        "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Noen bak programvaren",
-        "kilde": "Hacker News",
-        "tid": "16:32",
-        "lenke": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+        "tittel": "Elon Musk sier han vil gi en SpaceX-andel til hvert barn i Amerika neste år",
+        "kilde": "CNBC Top News",
+        "tid": "09:14",
+        "lenke": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Intel 8087-brikken: flyttallstillegg og -subtraksjon",
-        "kilde": "Hacker News",
-        "tid": "16:20",
-        "lenke": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+        "tittel": "OpenAI avlytter mistenkt WhatsApp'ed saudiarabiske kongelige dager før arrestasjon, avslører FBI",
+        "kilde": "CNBC Top News",
+        "tid": "06:06",
+        "lenke": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Microsoft trekker seg ut av Storbritannias største AI-datasenter",
+        "kilde": "BBC Business",
+        "tid": "16:46",
+        "lenke": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Iran sier de har en «ny operativ plan» hvis USA gjenopptar angrep, ettersom skip rapporterer angrep",
+        "tittel": "Putin foreslår angivelig treveistoppmøte med Trump og Xi om Ukraina-krigen — uten Zelenskyj",
         "kilde": "CNBC Top News",
-        "tid": "13:52",
-        "lenke": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
+        "tid": "09:05",
+        "lenke": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kinas vekst akselererer etter hvert som AI-boomen bidrar til å øke eksporten",
+        "kilde": "BBC Business",
+        "tid": "06:08",
+        "lenke": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "EUs tariffer rettet mot Kina rammer Ukraina, sier stålsjef",
+        "kilde": "BBC Business",
+        "tid": "23:28",
+        "lenke": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
       {
-        "tittel": "British Airways: Filming Crew W Meta Glasses kan få billettene dine kansellert",
-        "kilde": "Hacker News",
-        "tid": "17:27",
-        "lenke": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
+        "tittel": "Musk og Anthropic pantsetter offentlige delte gaver",
+        "kilde": "BBC Business",
+        "tid": "09:38",
+        "lenke": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Mitos editor er en gaffel av Helix",
-        "kilde": "Hacker News",
-        "tid": "17:19",
-        "lenke": "https://mitos.computer/",
+        "tittel": "Frankrike og USA deler samme gjeldsfelle. Bare én har en global livline.",
+        "kilde": "MarketWatch",
+        "tid": "09:30",
+        "lenke": "https://www.marketwatch.com/story/france-and-the-u-s-share-the-same-debt-trap-only-one-has-a-global-lifeline-3ae61b42?mod=mw_rss_topstories",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "På eitt punkt meiner dei Premier League er akterutsegla: – Heilt absurd",
+        "kilde": "NRK Nyheter",
+        "tid": "09:14",
+        "lenke": "https://www.nrk.no/sport/hardt-ut-mot-engelsk-supporterkultur-for-viking-mote_-_-rett-og-slett-avleggs-1.18050007",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kelly Clarksons dyre kjøp: En eiendomsportefølje på flere millioner dollar som spenner over hele landet",
+        "kilde": "MarketWatch",
+        "tid": "09:03",
+        "lenke": "https://www.marketwatch.com/story/kelly-clarksons-expensive-purchases-a-multi-million-dollar-real-estate-portfolio-that-spans-the-country-fe1d3bc7?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Beach Boys ’Mike Love går den ekstra milen for å beskytte landet rundt $ 43 millioner Lake Tahoe-eiendommen",
+        "kilde": "MarketWatch",
+        "tid": "09:01",
+        "lenke": "https://www.marketwatch.com/story/the-beach-boys-mike-love-goes-the-extra-mile-to-protect-the-land-around-43-million-lake-tahoe-estate-06c5606e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Folk som spiller høy musikk på busser kan få £ 100 i bot",
+        "kilde": "BBC Business",
+        "tid": "09:00",
+        "lenke": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Rakettdelar hamnar i havet – ingen har ryddeansvar",
+        "kilde": "NRK Nyheter",
+        "tid": "08:59",
+        "lenke": "https://www.nrk.no/nordland/rakettdelar-hamnar-i-havet_-utgjer-minimal-miljoskade_-ifolgje-andoya-space-1.18017139",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Solgte i landets tyngste boligmarked: – Som å vinne i lotto",
+        "kilde": "E24",
+        "tid": "08:40",
+        "lenke": "https://e24.no/norsk-oekonomi/i/BMdjl7/solgte-i-landets-tyngste-boligmarked-som-aa-vinne-i-lotto?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "I bilder: Mer enn 500 000 tok til gatene da franske protester brøt ut i vold",
+        "kilde": "CNBC Top News",
+        "tid": "08:10",
+        "lenke": "https://www.cnbc.com/2026/10/19/france-protests-paris-violence-pictures.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Slik lokker spillselskapene problemspillerne tilbake",
+        "kilde": "NRK Nyheter",
+        "tid": "07:26",
+        "lenke": "https://www.nrk.no/trondelag/xl/nrk-undersokelse_-spillavhengige-blir-kontaktet-av-nettkasino-daglig-1.18052335",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Linux 7.3 lansert",
+        "kilde": "Hacker News",
+        "tid": "07:23",
+        "lenke": "https://lwn.net/Articles/1101143/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Berg advarer før Napoli-kampen",
+        "kilde": "NRK Nyheter",
+        "tid": "06:25",
+        "lenke": "https://www.nrk.no/nordland/berg-advarer-for-napoli-kampen-1.18058275",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Uvær i Troms: – Vær forsiktig",
+        "kilde": "NRK Nyheter",
+        "tid": "06:09",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/slik-blir-troms-pavirket-av-uvaeret-1.18058208",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Tmux- og Claude-kode: økter, sendetaster og taket",
+        "kilde": "Hacker News",
+        "tid": "05:55",
+        "lenke": "https://crystl.dev/guides/tmux-for-ai-agents/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Macron nekter innenriksministeren å gå av",
+        "kilde": "NRK Nyheter",
+        "tid": "05:23",
+        "lenke": "https://www.nrk.no/nyheter/macron-nekter-innenriksministeren-a-ga-av-1.18058212",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Flatpak – Et usikkert mareritt",
+        "kilde": "Hacker News",
+        "tid": "05:11",
+        "lenke": "https://oro.gay/posts/flatpak-an-insecurity-nightmare/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "DeepSeek V4.1 Flash 1017 (maks.)",
+        "kilde": "Hacker News",
+        "tid": "04:41",
+        "lenke": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Verisign .com domenenavnsregister forbrukerklassehandling",
+        "kilde": "Hacker News",
+        "tid": "04:40",
+        "lenke": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Mowi dro inn tre mrd.",
+        "kilde": "E24",
+        "tid": "04:35",
+        "lenke": "https://e24.no/boers-og-finans/i/xlzr6V/mowi-dro-inn-tre-mrd?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Tidligere partnere i millionkrangel med Deloitte",
+        "kilde": "E24",
+        "tid": "04:27",
+        "lenke": "https://e24.no/boers-og-finans/i/gdpj91/tidligere-partnere-i-millionkrangel-med-deloitte?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Dette må du vite før NOD-tall: – De færreste har forstått",
+        "kilde": "E24",
+        "tid": "04:17",
+        "lenke": "https://e24.no/boers-og-finans/i/d7pzKj/dette-maa-du-vite-foer-nod-tall-de-faerreste-har-forstaatt?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Avinor varsler milliardsprekk i nord",
+        "kilde": "E24",
+        "tid": "03:00",
+        "lenke": "https://e24.no/norsk-oekonomi/i/kvbGWL/avinor-varsler-milliardsprekk-i-nord?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Anthropic forplikter 5% av aksjene til nytt allmennyttig fond som kan håndtere AI-jobbforstyrrelser",
+        "kilde": "CNBC Top News",
+        "tid": "23:36",
+        "lenke": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ikke fall for dette - hvordan du beskytter deg mot AI-svindel",
+        "kilde": "BBC Business",
+        "tid": "23:24",
+        "lenke": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Boligselgere kutter anbudspriser på 3000 eiendommer per dag",
+        "kilde": "BBC Business",
+        "tid": "23:00",
+        "lenke": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Makrofasiter: – Kan bekrefte risikoen for høyere renter",
+        "kilde": "E24",
+        "tid": "19:22",
+        "lenke": "https://e24.no/norsk-oekonomi/i/0BzQxJ/makrofasiter-kan-bekrefte-risikoen-for-hoeyere-renter?utm_medium=rss",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Min kone sier at vi ikke har råd til å pensjonere oss. Jeg la ned veto mot hennes $ 8000 tur til Italia. Vi er i 60-årene og har 4 millioner $. Fortsetter jeg å jobbe?",
@@ -193,39 +363,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Straffebom, drømmescoring og matchvinner: – Det er hevnen sin",
-        "kilde": "NRK Nyheter",
-        "tid": "16:57",
-        "lenke": "https://www.nrk.no/sport/straffebom_-drommescoring-og-matchvinner_-_-det-er-hevnen-sin-1.18057999",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Namecheap har nettopp beslaglagt og deaktivert alle domenene mine",
-        "kilde": "Hacker News",
-        "tid": "16:56",
-        "lenke": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Fleire vil overvake hyttene etter uoppklarte brannar: – Vi er bekymra",
-        "kilde": "NRK Nyheter",
-        "tid": "16:25",
-        "lenke": "https://www.nrk.no/mr/mange-er-uroa-etter-to-hyttebrannar-pa-emblemsfjellet-i-alesund-_-vil-sette-opp-kamera-1.18057795",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Søsteren min flyttet inn hos moren vår, 78, og sier at hun fortjener familiens hjem verdt $ 925 000. Har hun rett?",
         "kilde": "MarketWatch",
         "tid": "16:00",
         "lenke": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Giftmysteriet: Hemmeligheten i pappesken",
-        "kilde": "NRK Nyheter",
-        "tid": "15:34",
-        "lenke": "https://www.nrk.no/innlandet/xl/hamar_-aasta-midtbo-tiltales-for-mordforsok-med-arsenikk-mot-overlege-christian-voss-1.17847634",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Jeg er 64 med to sønner, men bare en jobber i familiebedriften. Er det etisk å forlate ham 70% av selskapet?",
@@ -242,27 +384,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Lavere innskuddsrente:",
-        "kilde": "E24",
-        "tid": "14:47",
-        "lenke": "https://e24.no/boers-og-finans/i/kvbK7Q/faa-er-prisbevisste?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Den oppblåste arbeidsuken kommer for søndager - som noen omfavner fleksibilitet, andre bekymrer seg for jobbsikkerhet",
-        "kilde": "CNBC Top News",
-        "tid": "14:00",
-        "lenke": "https://www.cnbc.com/make-it/2026/10/18/why-people-are-working-sundays.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg har studert over 200 barn - foreldre som oppdrar motstandsdyktige, vellykkede barn, lærer dem disse 6 leksjonene tidlig",
-        "kilde": "CNBC Top News",
-        "tid": "13:37",
-        "lenke": "https://www.cnbc.com/make-it/2026/10/18/parenting-lessons-resilient-successful-well-adjusted.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Roth-konverteringer: Når ‘juicen egentlig ikke er verdt presset’, ifølge en topprangerte rådgiver",
         "kilde": "CNBC Top News",
         "tid": "13:30",
@@ -270,101 +391,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "To biler frontkolliderte i Trysil – en person var fastklemt",
-        "kilde": "NRK Nyheter",
-        "tid": "13:25",
-        "lenke": "https://www.nrk.no/innlandet/alvorlig-trafikkulykke-i-trysil-_-trafikken-star-i-begge-retninger-1.18057948",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Nødsignal fra fiskebåt: Fire personer var ombord",
-        "kilde": "NRK Nyheter",
-        "tid": "13:15",
-        "lenke": "https://www.nrk.no/sorlandet/nodsignal-fra-fiskebat_-fire-personer-var-ombord-1.18057946",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Alvorlig trafikkulykke i Trysil",
-        "kilde": "NRK Nyheter",
-        "tid": "13:12",
-        "lenke": "https://www.nrk.no/innlandet/alvorlig-trafikkulykke-i-trysil-1.18057942",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Spørsmål om TV-aksjonen 2026? Vi svarar!",
-        "kilde": "NRK Nyheter",
-        "tid": "12:22",
-        "lenke": "https://www.nrk.no/tvaksjonen/desse-svarar-pa-sporsmal-om-tv-aksjonen-2026_-nrc-flyktninghjelpen_-tv-aksjonen-og-nrk-1.18014233",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Alltid på, alltid lytting: Nye AI-enheter presser juridiske grenser og kan sette brukerne i fare",
         "kilde": "CNBC Top News",
         "tid": "12:00",
         "lenke": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Bedrifter om fossilforbud: – Risikosport",
-        "kilde": "E24",
-        "tid": "11:13",
-        "lenke": "https://e24.no/energi-og-klima/i/oKlgpV/bedrifter-om-fossilforbud-risikosport?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Humor, hets og håp",
-        "kilde": "NRK Nyheter",
-        "tid": "10:42",
-        "lenke": "https://www.nrk.no/norge/xl/fawzi-warsame-er-ny-auf-leder-_-men-politiker-vil-han-ikke-kalle-seg-1.18049293",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Snu tidevannet: Kan skjult sjøkraft gi energi til kystbyene våre?",
-        "kilde": "BBC Business",
-        "tid": "08:12",
-        "lenke": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "\"Jeg tok en sjanse på whiskyindustrien, og jeg har ikke sett meg tilbake\"",
-        "kilde": "BBC Business",
-        "tid": "08:12",
-        "lenke": "https://www.bbc.co.uk/news/articles/c6y8ln9831v3o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "AI-festen skjelver",
-        "kilde": "E24",
-        "tid": "06:51",
-        "lenke": "https://e24.no/boers-og-finans/i/BMqQ2Q/ai-festen-skjelver?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Har vi avslørt alle Epstein-løgnene nå?",
-        "kilde": "E24",
-        "tid": "06:29",
-        "lenke": "https://e24.no/naeringsliv/i/jvX5q9/soendag-morgen-har-vi-avsloert-alle-epstein-loegnene-naa?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Slik kan boblesprekk i AI gi kryptorally",
-        "kilde": "E24",
-        "tid": "05:02",
-        "lenke": "https://e24.no/boers-og-finans/i/w3bmAG/slik-kan-boblesprekk-i-ai-gi-kryptorally?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Tvinges til å ha butikk uten kunder",
-        "kilde": "E24",
-        "tid": "03:00",
-        "lenke": "https://e24.no/naeringsliv/i/Jrq7d7/tvinges-til-aa-ha-butikk-uten-kunder?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Det er et tilslag mot piratkopiering av sport - men er det allerede ute av kontroll?",
-        "kilde": "BBC Business",
-        "tid": "00:11",
-        "lenke": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ]
