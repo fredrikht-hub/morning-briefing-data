@@ -1,0 +1,402 @@
+{
+  "dato": "2026-10-20",
+  "dato_norsk": "Tirsdag 20. oktober 2026",
+  "generert_kl": "09:18",
+  "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
+  "dagens_fokus": [
+    {
+      "tittel": "Flatt på Oslo Børs – Aker stiger etter avtalerykter",
+      "kilde": "E24",
+      "tid": "07:00",
+      "lenke": "https://e24.no/boers-og-finans/i/gdQvrB/flatt-paa-oslo-boers?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "US Treasury yields move lower as investors await housing, employment data",
+      "kilde": "CNBC Top News",
+      "tid": "07:43",
+      "lenke": "https://www.cnbc.com/2026/10/20/us-treasury-yields-investors-economy.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Kansleren avviser oppfordringer om å øke kapitalgevinstskatten i budsjettet",
+      "kilde": "BBC Business",
+      "tid": "08:44",
+      "lenke": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "USA forbyr DeepSeek fra offentlige byråsystemer midt i AI-revolusjonen med Kina",
+      "kilde": "CNBC Top News",
+      "tid": "08:17",
+      "lenke": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "USA og Ukraina møtes i Oslo for samtaler",
+      "kilde": "E24",
+      "tid": "06:38",
+      "lenke": "https://e24.no/internasjonal-oekonomi/i/BM263e/zelenskyj-til-norge-i-forbindelse-med-usa-moete?utm_medium=rss",
+      "engelsk_kilde": false
+    }
+  ],
+  "kategorier": {
+    "NORGE": [
+      {
+        "tittel": "Flatt på Oslo Børs – Aker stiger etter avtalerykter",
+        "kilde": "E24",
+        "tid": "07:00",
+        "lenke": "https://e24.no/boers-og-finans/i/gdQvrB/flatt-paa-oslo-boers?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "USA og Ukraina møtes i Oslo for samtaler",
+        "kilde": "E24",
+        "tid": "06:38",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/BM263e/zelenskyj-til-norge-i-forbindelse-med-usa-moete?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Oslo vest uten offentlig bad – mistillitsforslag mot Høyre-byråd",
+        "kilde": "NRK Nyheter",
+        "tid": "05:23",
+        "lenke": "https://www.nrk.no/stor-oslo/mistillitsforslag-mot-byrad-anita-leirvik-north-1.18053442",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Mulig Nscale-gigantavtale: – Aker-aksjen fortjener rekyl",
+        "kilde": "E24",
+        "tid": "20:32",
+        "lenke": "https://e24.no/boers-og-finans/i/GrJm8V/mulig-nscale-gigantavtale-aker-aksjen-fortjener-rekyl?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Zelenskyj varsler USA-møte i Norge",
+        "kilde": "E24",
+        "tid": "19:44",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/w3Jjxn/zelenskyj-ukraina-og-amerikanske-forhandlere-kan-moetes-i-oslo?utm_medium=rss",
+        "engelsk_kilde": false
+      }
+    ],
+    "MAKRO": [
+      {
+        "tittel": "Kansleren avviser oppfordringer om å øke kapitalgevinstskatten i budsjettet",
+        "kilde": "BBC Business",
+        "tid": "08:44",
+        "lenke": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "US Treasury yields move lower as investors await housing, employment data",
+        "kilde": "CNBC Top News",
+        "tid": "07:43",
+        "lenke": "https://www.cnbc.com/2026/10/20/us-treasury-yields-investors-economy.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "MARKEDER": [
+      {
+        "tittel": "General Motors er satt til å rapportere inntekter før klokken ringer. Dette er hva Wall Street forventer",
+        "kilde": "CNBC Top News",
+        "tid": "04:01",
+        "lenke": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "BlackRock, GIC blant investorer som jager den indiske telekommunikasjonsdirektøren Jios børsnotering som ankerbud over $ 26 milliarder",
+        "kilde": "CNBC Top News",
+        "tid": "02:44",
+        "lenke": "https://www.cnbc.com/2026/10/20/jio-ipo-gic-blackrock-.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Mikron og andre brikkeaksjer våkner til live igjen etter salg av blåmerker",
+        "kilde": "MarketWatch",
+        "tid": "21:06",
+        "lenke": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      }
+    ],
+    "ENERGI_RAAVARER": [
+      {
+        "tittel": "Kobber skinner mer enn gull i år. Investorer sier at rallyet kan overleve en AI-korreksjon",
+        "kilde": "CNBC Top News",
+        "tid": "05:57",
+        "lenke": "https://www.cnbc.com/2026/10/20/copper-prices-ai-spending-demand.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "TEKNOLOGI": [
+      {
+        "tittel": "MicroG: Free-libre re-implementering av Googles proprietære Android-brukerplass",
+        "kilde": "Hacker News",
+        "tid": "06:37",
+        "lenke": "https://github.com/microg/GmsCore/wiki",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Dette tror analytikerne om SpaceX og Tesla",
+        "kilde": "E24",
+        "tid": "05:25",
+        "lenke": "https://e24.no/boers-og-finans/i/vldl45/dette-tror-analytikerne-om-spacex-og-tesla?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Eks-OpenAI-arbeider anklaget for å ha plantet insekter hadde saudiarabisk støtte, hevder påtalem",
+        "kilde": "BBC Business",
+        "tid": "21:12",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Apple kunngjør produktlanseringsarrangement for oktober. 28. Analytikere forventer bærbare PC-er med berøringsskjerm",
+        "kilde": "CNBC Top News",
+        "tid": "19:46",
+        "lenke": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "GEOPOLITIKK": [
+      {
+        "tittel": "USA forbyr DeepSeek fra offentlige byråsystemer midt i AI-revolusjonen med Kina",
+        "kilde": "CNBC Top News",
+        "tid": "08:17",
+        "lenke": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvordan går det egentlig med den amerikanske økonomien under president Trump?",
+        "kilde": "BBC Business",
+        "tid": "05:00",
+        "lenke": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "JD Vance avstår fra å støtte den israelske lederen Netanyahu da Trump tilbyr ros",
+        "kilde": "CNBC Top News",
+        "tid": "01:53",
+        "lenke": "https://www.cnbc.com/2026/10/20/vance-israel-netanyahu-midterms-election-.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump sier han vil møte Putin og Xi, kritiserer Zelenskyy",
+        "kilde": "CNBC Top News",
+        "tid": "21:00",
+        "lenke": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "USA forbyr Kinas DeepSeek fra regjeringen i kappløp om AI-dominans",
+        "kilde": "BBC Business",
+        "tid": "18:21",
+        "lenke": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      }
+    ],
+    "VILLKORT": [
+      {
+        "tittel": "Kan si opp 1 av 5 i Danmark",
+        "kilde": "E24",
+        "tid": "09:15",
+        "lenke": "https://e24.no/boers-og-finans/i/kvLe9j/kan-si-opp-1-av-5-i-danmark?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Eiendomsmeglerporteføljen til Buffalo Bills QB Josh Allen og skuespillerinnen Hailee Steinfeld",
+        "kilde": "MarketWatch",
+        "tid": "09:02",
+        "lenke": "https://www.marketwatch.com/story/the-multi-million-dollar-real-estate-portfolio-of-buffalo-bills-qb-josh-allen-and-actress-hailee-steinfeld-58a9bd62?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Burnham lover å avslutte 'rip-off parkeringsavgifter' under nye regler",
+        "kilde": "BBC Business",
+        "tid": "08:55",
+        "lenke": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ledige stillinger faller etter hvert som små bedrifter reduserer rekrutteringen",
+        "kilde": "BBC Business",
+        "tid": "08:49",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Frankrike forbyr rolige uroligheter mens Macron møter kritikk over Gulf-turen",
+        "kilde": "CNBC Top News",
+        "tid": "08:48",
+        "lenke": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Det var bare en spøk...",
+        "kilde": "E24",
+        "tid": "08:47",
+        "lenke": "https://e24.no/karriere-og-ledelse/i/n9bzbQ/det-var-bare-en-spoek?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Alt går galt for Muhammad bin Salman",
+        "kilde": "Hacker News",
+        "tid": "08:16",
+        "lenke": "https://www.economist.com/middle-east-and-africa/2026/10/19/everything-is-going-wrong-for-muhammad-bin-salman",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Det er et tøft boligmarked, og Goldman Sachs forventer at det blir verre",
+        "kilde": "MarketWatch",
+        "tid": "08:13",
+        "lenke": "https://www.marketwatch.com/story/its-a-rough-housing-market-and-goldman-sachs-expects-it-to-get-worse-be2c5aac?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Her blir barnefamilie holdt innesperret og ranet i hjemmet sitt",
+        "kilde": "NRK Nyheter",
+        "tid": "08:07",
+        "lenke": "https://www.nrk.no/stor-oslo/her-blir-familie-ranet-og-holdt-innesperret-i-sitt-eget-hjem-1.18032690",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Hva er det som gjør Europa så sint? Frustrasjonen bak protestene",
+        "kilde": "CNBC Top News",
+        "tid": "07:19",
+        "lenke": "https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Glatt og isete på E18: To biler har kjørt av veien",
+        "kilde": "NRK Nyheter",
+        "tid": "07:02",
+        "lenke": "https://www.nrk.no/ostfold/advarer-mot-svaert-glatt-e18-i-ostfold_-bil-har-snurret-1.18059360",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Zelenskyj: Har snakka med Rubio om Starlink",
+        "kilde": "NRK Nyheter",
+        "tid": "07:01",
+        "lenke": "https://www.nrk.no/nyheter/zelenskyj_-har-snakka-med-rubio-om-starlink-1.18059370",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Frp vil kreve at datasentre investerer i kraftproduksjon",
+        "kilde": "E24",
+        "tid": "06:28",
+        "lenke": "https://e24.no/boers-og-finans/i/4OQEG9/frp-vil-kreve-at-datasentre-investerer-i-kraftproduksjon?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Svindal får ny trenarjobb: – Ting var veldig lite planlagd",
+        "kilde": "NRK Nyheter",
+        "tid": "06:00",
+        "lenke": "https://www.nrk.no/sport/aksel-lund-svindal-far-trenarrolle-pa-alpinlandslaget-1.18058606",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vis HN: Death Plan Switch, en selvbetjent dødmannsbryter for soloutviklere",
+        "kilde": "Hacker News",
+        "tid": "04:37",
+        "lenke": "https://deathplanswitch.com/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Leiligheten har stått usolgt siden mai: – Totalt umulig å selge",
+        "kilde": "E24",
+        "tid": "04:00",
+        "lenke": "https://e24.no/norsk-oekonomi/i/JrwnOJ/leiligheten-har-staatt-usolgt-siden-mai-totalt-umulig-aa-selge?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Denne dagen er minst populær, viser undersøking. PS: Det er ikkje måndag",
+        "kilde": "NRK Nyheter",
+        "tid": "03:55",
+        "lenke": "https://www.nrk.no/rogaland/tysdag-er-den-mest-upopulaere-dagen_-viser-undersoking-fra-norstat-1.18045557",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Go vil avvise sertifikatkjeder som inneholder åtte mistrodde SPKI-er",
+        "kilde": "Hacker News",
+        "tid": "03:05",
+        "lenke": "https://github.com/golang/go/issues/82345",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "OpenBSD 8.0",
+        "kilde": "Hacker News",
+        "tid": "02:06",
+        "lenke": "https://www.openbsd.org/80.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "'Jeg er lei av å sveipe': Hvorfor single nå ønsker å møte IRL",
+        "kilde": "BBC Business",
+        "tid": "23:00",
+        "lenke": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Blodpropp er \"utrolig vanlig\", selv for profesjonelle idrettsutøvere som Jalen Hurts. Her er hva du bør vite.",
+        "kilde": "MarketWatch",
+        "tid": "21:58",
+        "lenke": "https://www.marketwatch.com/story/blood-clots-are-incredibly-common-even-for-pro-athletes-like-jalen-hurts-heres-what-to-know-e20071ef?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Når bør du dumpe måldato-midlene dine?",
+        "kilde": "MarketWatch",
+        "tid": "21:37",
+        "lenke": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kredittmarkedene har gått inn i ukjent territorium ettersom de mest risikofylte søppelobligasjonene sender en advarsel til investorer",
+        "kilde": "MarketWatch",
+        "tid": "21:36",
+        "lenke": "https://www.marketwatch.com/story/credit-markets-have-entered-uncharted-territory-as-the-riskiest-junk-bonds-send-a-warning-to-investors-816a05d5?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "\"Jeg synes ikke synd på meg selv\": Jeg er 64 og kommer til å leie resten av livet — men her er jeg fortsatt håpefull",
+        "kilde": "MarketWatch",
+        "tid": "21:30",
+        "lenke": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Jeg er naturlig skeptisk’: Jeg mottar 10 anrop om dagen som tilbyr meg $ 15 000 lån med 8% rente. Er dette svindel?",
+        "kilde": "MarketWatch",
+        "tid": "21:15",
+        "lenke": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fløymer over i Vesterålen: – Alle mann til pumpene",
+        "kilde": "NRK Nyheter",
+        "tid": "20:28",
+        "lenke": "https://www.nrk.no/nordland/floymer-over-i-sortland-1.18059148",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Boikottes av fagforening: – SAS må forstå alvoret",
+        "kilde": "E24",
+        "tid": "19:40",
+        "lenke": "https://e24.no/naeringsliv/i/4OQOW9/boikottes-av-fagforening-sas-maa-forstaa-alvoret?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vinted blokkerer franske plyndrere som annonserer stjålne varer for salg",
+        "kilde": "BBC Business",
+        "tid": "16:46",
+        "lenke": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Savnet mann i 80-årene funnet i live",
+        "kilde": "NRK Nyheter",
+        "tid": "15:51",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/mann-i-80-arene-savnet-i-tana-1.18059031",
+        "engelsk_kilde": false
+      }
+    ]
+  }
+}
