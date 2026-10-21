@@ -1,0 +1,400 @@
+{
+  "dato": "2026-10-21",
+  "dato_norsk": "Onsdag 21. oktober 2026",
+  "generert_kl": "09:14",
+  "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
+  "dagens_fokus": [
+    {
+      "tittel": "Stigende drivstoffpriser presser den britiske inflasjonen til 3,5% foran budsjettet",
+      "kilde": "BBC Business",
+      "tid": "08:07",
+      "lenke": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Investtech-analyse: Tre langsiktige kjøp på Oslo Børs",
+      "kilde": "E24",
+      "tid": "09:02",
+      "lenke": "https://e24.no/boers-og-finans/i/lK0zXy/investtech-analyse-tre-langsiktige-kjoep-paa-oslo-boers?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Spetalen kjøper Equinor-aksjer",
+      "kilde": "E24",
+      "tid": "07:08",
+      "lenke": "https://e24.no/boers-og-finans/i/vlPWyw/spetalen-kjoeper-equinor-for-40-millioner?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "DNB stiger på Oslo Børs etter tallslipp",
+      "kilde": "E24",
+      "tid": "07:01",
+      "lenke": "https://e24.no/boers-og-finans/i/4OgnLG/dnb-stiger-2-5-prosent-paa-oslo-boers-etter-tallslipp?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "'INNGÅ AVTALER': Trump sier at datasentre bør betale lokalsamfunn et 'utbytte' for å vinne støtte",
+      "kilde": "CNBC Top News",
+      "tid": "08:53",
+      "lenke": "https://www.cnbc.com/2026/10/21/trump-data-centers-community-dividend.html",
+      "engelsk_kilde": true
+    }
+  ],
+  "kategorier": {
+    "NORGE": [
+      {
+        "tittel": "Investtech-analyse: Tre langsiktige kjøp på Oslo Børs",
+        "kilde": "E24",
+        "tid": "09:02",
+        "lenke": "https://e24.no/boers-og-finans/i/lK0zXy/investtech-analyse-tre-langsiktige-kjoep-paa-oslo-boers?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Oljefondet satser 16 mrd. på eiendom",
+        "kilde": "E24",
+        "tid": "07:40",
+        "lenke": "https://e24.no/boers-og-finans/i/eG48V9/oljefondet-satser-16-mrd-paa-eiendom?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Spetalen kjøper Equinor-aksjer",
+        "kilde": "E24",
+        "tid": "07:08",
+        "lenke": "https://e24.no/boers-og-finans/i/vlPWyw/spetalen-kjoeper-equinor-for-40-millioner?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "DNB stiger på Oslo Børs etter tallslipp",
+        "kilde": "E24",
+        "tid": "07:01",
+        "lenke": "https://e24.no/boers-og-finans/i/4OgnLG/dnb-stiger-2-5-prosent-paa-oslo-boers-etter-tallslipp?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Equinor: Venter sterkeste tall siden 2022",
+        "kilde": "E24",
+        "tid": "06:12",
+        "lenke": "https://e24.no/energi-og-klima/i/kvG4XX/equinor-venter-sterkeste-tall-siden-2022?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Witkoff kommer tilbake til Oslo etter at han har hatt samtaler med Putin",
+        "kilde": "NRK Nyheter",
+        "tid": "06:02",
+        "lenke": "https://www.nrk.no/nyheter/witkoff-kommer-tilbake-til-oslo-etter-at-han-har-hatt-samtaler-med-putin-1.18060399",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "DNB tjente 12,5 milliarder i tredje kvartal",
+        "kilde": "E24",
+        "tid": "05:31",
+        "lenke": "https://e24.no/boers-og-finans/i/2V0Azv/resultatfall-for-dnb-tjente-12-5-milliarder-foer-skatt-i-tredje-kvartal?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Rubio kaller møtet mellom Zelenskyj og Witkoff i Oslo «positivt»",
+        "kilde": "NRK Nyheter",
+        "tid": "04:51",
+        "lenke": "https://www.nrk.no/nyheter/rubio-kaller-motet-mellom-zelenskyj-og-witkoff-i-oslo-_positivt_-1.18060335",
+        "engelsk_kilde": false
+      }
+    ],
+    "MAKRO": [
+      {
+        "tittel": "Stigende drivstoffpriser presser den britiske inflasjonen til 3,5% foran budsjettet",
+        "kilde": "BBC Business",
+        "tid": "08:07",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Boliger blinker advarselsskilt akkurat som Fed veier flere renteøkninger",
+        "kilde": "CNBC Top News",
+        "tid": "19:28",
+        "lenke": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "MARKEDER": [
+      {
+        "tittel": "'INNGÅ AVTALER': Trump sier at datasentre bør betale lokalsamfunn et 'utbytte' for å vinne støtte",
+        "kilde": "CNBC Top News",
+        "tid": "08:53",
+        "lenke": "https://www.cnbc.com/2026/10/21/trump-data-centers-community-dividend.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "AI-aksjer er sannsynligvis i en boble — men kan være verdt å holde fast på, sier Citadel's Ken Griffin",
+        "kilde": "MarketWatch",
+        "tid": "08:50",
+        "lenke": "https://www.marketwatch.com/story/ai-stocks-are-probably-in-a-bubble-but-might-be-worth-holding-onto-says-citadels-ken-griffin-87f535ce?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bull markeder har en tendens til å toppe seg med et klynke, ikke et smell — men en 15% korreksjon for S&P 500 kan være neste",
+        "kilde": "MarketWatch",
+        "tid": "00:24",
+        "lenke": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Super Micros lager øker etter overraskelsesoppdatering - med Dell- og HPE-aksjer som blir med i rallyet",
+        "kilde": "MarketWatch",
+        "tid": "00:15",
+        "lenke": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Netflix lover å gjenopplive seertrender, men investorer treffer «selg» på aksjen",
+        "kilde": "MarketWatch",
+        "tid": "00:12",
+        "lenke": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Netflix legger ut inntektsslag for tredje kvartal, men aksjene faller på annonsering og inntektsveiledning",
+        "kilde": "CNBC Top News",
+        "tid": "22:29",
+        "lenke": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "United Airlines reduserer overskuddsutsiktene for drivstoffprisene i 2026, men reisende fortsetter å bestille til tross for høyere priser",
+        "kilde": "CNBC Top News",
+        "tid": "20:23",
+        "lenke": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Investorer ser på inntekter for å nullstille bullmarkedet. Nøkkelnivået som skal overvåkes på S&P 500",
+        "kilde": "CNBC Top News",
+        "tid": "12:52",
+        "lenke": "https://www.cnbc.com/2026/10/20/santoli-key-sp-500-level-to-watch.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "TEKNOLOGI": [
+      {
+        "tittel": "Hvorfor SpaceXs aksjer øker — og løfter det bredere AI-universet sammen med det",
+        "kilde": "MarketWatch",
+        "tid": "08:55",
+        "lenke": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "SpaceX opp 10% i premarket etter inntjeningsslag og Musk hint om Tesla tie-up",
+        "kilde": "CNBC Top News",
+        "tid": "08:52",
+        "lenke": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Elon Musk bekrefter at han vurderer å slå sammen Tesla og SpaceX",
+        "kilde": "BBC Business",
+        "tid": "08:42",
+        "lenke": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "OpenAIs kraftigste AI-modeller deaktiverte sin egen sikkerhetsovervåking — og en løy om det",
+        "kilde": "CNBC Top News",
+        "tid": "07:49",
+        "lenke": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvorfor planlegger Elon Musk en megasammenslåing av SpaceX og Tesla?",
+        "kilde": "BBC Business",
+        "tid": "06:36",
+        "lenke": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Teslas aksjer stiger etter hvert som Elon Musk slipper nye ledetråder om en mulig SpaceX-fusjon",
+        "kilde": "MarketWatch",
+        "tid": "00:14",
+        "lenke": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvis Elon Musk gir SpaceX-aksjer gjennom Trump-kontoer, vil det komme med en fangst",
+        "kilde": "CNBC Top News",
+        "tid": "19:11",
+        "lenke": "https://www.cnbc.com/2026/10/20/musk-spacex-trump-account-stock-rules.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Google løser nettskybrudd som påvirker banker og nettsteder i Storbritannia",
+        "kilde": "BBC Business",
+        "tid": "18:03",
+        "lenke": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      }
+    ],
+    "GEOPOLITIKK": [
+      {
+        "tittel": "Trump saksøkte over kanadiske tariffer i den siste rettslige utfordringen",
+        "kilde": "BBC Business",
+        "tid": "19:30",
+        "lenke": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump saksøkte over 50% toll på Canada i den siste handelsutfordringen",
+        "kilde": "CNBC Top News",
+        "tid": "18:06",
+        "lenke": "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "VILLKORT": [
+      {
+        "tittel": "George Foremans overdådige Texas-eiendom med 50-bilers garasje er oppført for $ 6 millioner",
+        "kilde": "MarketWatch",
+        "tid": "09:04",
+        "lenke": "https://www.marketwatch.com/story/george-foremans-lavish-texas-estate-with-50-car-garage-is-listed-for-6-million-d464b764?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Søsteren min flyttet inn hos moren vår, 78, og sier at hun fortjener familiens hjem verdt $ 925 000. Har hun rett?",
+        "kilde": "MarketWatch",
+        "tid": "09:00",
+        "lenke": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Sexdukke-sjokk i veikanten: – Trodde først jeg fant et lik",
+        "kilde": "NRK Nyheter",
+        "tid": "08:48",
+        "lenke": "https://www.nrk.no/ostfold/finner-dildoer-og-undertoy-langs-motorveien_-_-ikke-noe-som-overrasker-lenger-1.18057107",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Hva skjer med britiske priser?",
+        "kilde": "BBC Business",
+        "tid": "08:35",
+        "lenke": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Boligbygging: – Vil fortsatt falle",
+        "kilde": "E24",
+        "tid": "07:52",
+        "lenke": "https://e24.no/norsk-oekonomi/i/Jrgk1R/boligbygging-vil-fortsatt-falle?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Syv biler har kollidert på E6 ved Rygge",
+        "kilde": "NRK Nyheter",
+        "tid": "06:30",
+        "lenke": "https://www.nrk.no/ostfold/syv-biler-har-kollidert-pa-e6-1.18060429",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Latterliggjøres etter disse bildene",
+        "kilde": "NRK Nyheter",
+        "tid": "06:10",
+        "lenke": "https://www.nrk.no/sport/manchester-city-latterliggjores-etter-bilder-av-tomme-tribuner-i-mesterligaen-1.18060277",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Reagerer på nazimøte – vil hindre rekruttering av unge",
+        "kilde": "NRK Nyheter",
+        "tid": "05:55",
+        "lenke": "https://www.nrk.no/buskerud/ordforere-reagerer-pa-nazifest-i-drammen-og-hokksund-_-vil-hindre-rekruttering-av-unge-1.18059610",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Resultatnedgang for Storebrand",
+        "kilde": "E24",
+        "tid": "05:17",
+        "lenke": "https://e24.no/boers-og-finans/i/aOd9JO/resultatnedgang-for-storebrand?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Pillowfort lukkes",
+        "kilde": "Hacker News",
+        "tid": "05:05",
+        "lenke": "https://www.pillowfort.social/posts/8413273",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Battlezone Online: BZFlag i nettleseren",
+        "kilde": "Hacker News",
+        "tid": "05:05",
+        "lenke": "https://github.com/timriker/bzo",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Sterkere fra Vår Energi",
+        "kilde": "E24",
+        "tid": "05:03",
+        "lenke": "https://e24.no/energi-og-klima/i/Qg2qoQ/sterkere-fra-vaar-energi?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Fleire tusen år gamalt støv dukkar opp på nattehimmelen",
+        "kilde": "NRK Nyheter",
+        "tid": "04:59",
+        "lenke": "https://www.nrk.no/vestland/no-kan-du-sja-stovet-fra-halleys-komet-1.18060344",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Ekspertene avslører: Disse aksjene bør du følge med på nå",
+        "kilde": "E24",
+        "tid": "04:35",
+        "lenke": "https://e24.no/boers-og-finans/i/9kWXOp/ekspertene-avsloerer-disse-aksjene-boer-du-foelge-med-paa-naa?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Konfigurere SSH-taster på macOS med Touch ID",
+        "kilde": "Hacker News",
+        "tid": "03:51",
+        "lenke": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ellen bur rett ved spreningsfeltet for VM:– Heile blokka ristar",
+        "kilde": "NRK Nyheter",
+        "tid": "03:39",
+        "lenke": "https://www.nrk.no/nordland/mista-verdscupen-_-no-merkar-naboane-kampen-mot-klokka-i-narvikfjellet-1.18052244",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Bruke Claude til å redusere angrepsoverflaten til koden",
+        "kilde": "Hacker News",
+        "tid": "03:36",
+        "lenke": "https://www.anthropic.com/research/attack-surface-reduction",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "C# slår nå Rust på WASM-størrelse",
+        "kilde": "Hacker News",
+        "tid": "02:53",
+        "lenke": "https://github.com/zion-sati/NetWasm",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Teknologien som hjelper til med å knekke tiår gamle kofferter",
+        "kilde": "BBC Business",
+        "tid": "23:13",
+        "lenke": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Boeing vinner FAA-godkjenning for 737 Max 10 etter år med forsinkelser, ettersom Duffy sier at sertifiseringsprosessen bør være raskere",
+        "kilde": "CNBC Top News",
+        "tid": "22:01",
+        "lenke": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Revisjonsmyndighet som ser på Manchester Citys regnskap",
+        "kilde": "BBC Business",
+        "tid": "20:56",
+        "lenke": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      }
+    ]
+  }
+}
