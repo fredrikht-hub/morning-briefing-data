@@ -1,102 +1,65 @@
 {
   "dato": "2026-10-22",
   "dato_norsk": "Torsdag 22. oktober 2026",
-  "generert_kl": "16:49",
+  "generert_kl": "19:38",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
       "tittel": "Bill Ackman sier 2027 vil bli et fantastisk år for aksjer som kriger, inflasjon letthet",
       "kilde": "CNBC Top News",
-      "tid": "16:33",
+      "tid": "17:53",
       "lenke": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Vi har et boliglån på $ 300 000 med en rente på 2,75%. Jeg vil betale det av. Mannen min sier at jeg er gal. Hvem har rett?",
+      "tittel": "Trump forsvarer Ramaswamy-annonse med Actons fremmedgjorte mor etter tverrpolitisk kritikk",
+      "kilde": "CNBC Top News",
+      "tid": "19:34",
+      "lenke": "https://www.cnbc.com/2026/10/22/trump-ramaswamy-ad-acton-mother-ad.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Trump ba Musk om å heve Starlink-nedgangen, rapporterer WSJ",
+      "kilde": "CNBC Top News",
+      "tid": "19:05",
+      "lenke": "https://www.cnbc.com/2026/10/22/trump-musk-starlink-ukraine.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Social Security Administration vil ha flere babyer registrert for ‘Trump-kontoer.’ Men det er fortsatt en hake.",
       "kilde": "MarketWatch",
-      "tid": "14:30",
-      "lenke": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+      "tid": "17:24",
+      "lenke": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Dommeren beordrer Trump til å sitte for avhør i BBCs ærekrenkende søksmål innen 11. desember: Rapporter",
-      "kilde": "CNBC Top News",
-      "tid": "16:34",
-      "lenke": "https://www.cnbc.com/2026/10/22/trump-deposition-bbc-defamation-lawsuit.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Meta lager synker 6% som AI utgifter skyver fri kontantstrøm negativ",
-      "kilde": "CNBC Top News",
-      "tid": "15:45",
-      "lenke": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "CoreWeaves markedstillit svekkes etter hvert som obligasjonsrenten øker og aksjen synker",
-      "kilde": "CNBC Top News",
-      "tid": "15:35",
-      "lenke": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
-      "engelsk_kilde": true
+      "tittel": "WSJ: Trump skal ha ringt Musk og bedt ham oppheve Starlink-begrensning",
+      "kilde": "NRK Nyheter",
+      "tid": "18:12",
+      "lenke": "https://www.nrk.no/nyheter/wsj_-trump-skal-ha-ringt-musk-og-bedt-ham-oppheve-starlink-begrensning--1.18062240",
+      "engelsk_kilde": false
     }
   ],
   "kategorier": {
-    "NORGE": [
-      {
-        "tittel": "Fall på Oslo Børs – skrekkdag for Scatec",
-        "kilde": "E24",
-        "tid": "07:02",
-        "lenke": "https://e24.no/boers-og-finans/i/GrA2Wx/komplett-og-yara-faller-kraftig-paa-oslo-boers-etter-tallslipp?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Svakere fra Yara",
-        "kilde": "E24",
-        "tid": "06:07",
-        "lenke": "https://e24.no/boers-og-finans/i/9kA0eM/sterkere-fra-yara?utm_medium=rss",
-        "engelsk_kilde": false
-      }
-    ],
     "MAKRO": [
       {
         "tittel": "Bill Ackman sier 2027 vil bli et fantastisk år for aksjer som kriger, inflasjon letthet",
         "kilde": "CNBC Top News",
-        "tid": "16:33",
+        "tid": "17:53",
         "lenke": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vi har et boliglån på $ 300 000 med en rente på 2,75%. Jeg vil betale det av. Mannen min sier at jeg er gal. Hvem har rett?",
-        "kilde": "MarketWatch",
-        "tid": "14:30",
-        "lenke": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
         "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "Meta lager synker 6% som AI utgifter skyver fri kontantstrøm negativ",
-        "kilde": "CNBC Top News",
-        "tid": "15:45",
-        "lenke": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "CoreWeaves markedstillit svekkes etter hvert som obligasjonsrenten øker og aksjen synker",
-        "kilde": "CNBC Top News",
-        "tid": "15:35",
-        "lenke": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
+        "tittel": "Moderna's kreftvaksine treffer sine mål, men en embargo brudd rasler investorer og aksjen tumbles",
+        "kilde": "MarketWatch",
+        "tid": "19:31",
+        "lenke": "https://www.marketwatch.com/story/modernas-stock-tumbles-after-reported-leak-of-data-for-cancer-vaccine-dcc897c1?mod=mw_rss_topstories",
         "engelsk_kilde": true
       }
     ],
     "ENERGI_RAAVARER": [
-      {
-        "tittel": "Under-radar aksjer for å spille neste etappe av energibransjen med oljepriser som hopper igjen",
-        "kilde": "CNBC Top News",
-        "tid": "15:16",
-        "lenke": "https://www.cnbc.com/2026/10/22/under-the-radar-stocks-to-play-the-next-leg-of-the-energy-trade-with-oil-prices-jumping-again.html",
-        "engelsk_kilde": true
-      },
       {
         "tittel": "Oljefondet på «billioner pund» som regjeringen mener Storbritannia kunne ha bygget",
         "kilde": "BBC Business",
@@ -107,40 +70,54 @@
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "To store grunner til at Micron og andre brikkeaksjer faller på torsdag",
+        "tittel": "SpaceX og Tesla har høy valginnsats da Elon Musk øser inn $ 366 millioner i kampanjer",
+        "kilde": "CNBC Top News",
+        "tid": "19:09",
+        "lenke": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Elon Musk lovet en SpaceX-aksje til alle barn i Amerika — ikke hold pusten",
         "kilde": "MarketWatch",
-        "tid": "15:33",
-        "lenke": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
+        "tid": "17:29",
+        "lenke": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Google ryddet 300 hektar finsk skog",
-        "kilde": "Hacker News",
-        "tid": "15:32",
-        "lenke": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Sterkere fra Nordic Semiconductor",
-        "kilde": "E24",
-        "tid": "05:04",
-        "lenke": "https://e24.no/boers-og-finans/i/oKQwwW/sterkere-fra-nordic-semiconductor?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Dommeren beordrer Trump til å sitte for avhør i BBCs ærekrenkende søksmål innen 11. desember: Rapporter",
+        "tittel": "Trump forsvarer Ramaswamy-annonse med Actons fremmedgjorte mor etter tverrpolitisk kritikk",
         "kilde": "CNBC Top News",
-        "tid": "16:34",
-        "lenke": "https://www.cnbc.com/2026/10/22/trump-deposition-bbc-defamation-lawsuit.html",
+        "tid": "19:34",
+        "lenke": "https://www.cnbc.com/2026/10/22/trump-ramaswamy-ad-acton-mother-ad.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump ba Musk om å heve Starlink-nedgangen, rapporterer WSJ",
+        "kilde": "CNBC Top News",
+        "tid": "19:05",
+        "lenke": "https://www.cnbc.com/2026/10/22/trump-musk-starlink-ukraine.html",
         "engelsk_kilde": true
       },
       {
         "tittel": "Musks sammenstøt med Ukraina akselererer etterspørselen etter Starlink-alternativer. Få eksisterer",
         "kilde": "CNBC Top News",
-        "tid": "15:08",
+        "tid": "18:55",
         "lenke": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "WSJ: Trump skal ha ringt Musk og bedt ham oppheve Starlink-begrensning",
+        "kilde": "NRK Nyheter",
+        "tid": "18:12",
+        "lenke": "https://www.nrk.no/nyheter/wsj_-trump-skal-ha-ringt-musk-og-bedt-ham-oppheve-starlink-begrensning--1.18062240",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Social Security Administration vil ha flere babyer registrert for ‘Trump-kontoer.’ Men det er fortsatt en hake.",
+        "kilde": "MarketWatch",
+        "tid": "17:24",
+        "lenke": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -148,13 +125,6 @@
         "kilde": "CNBC Top News",
         "tid": "13:18",
         "lenke": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kompliserer en AI-krig jobbsøkingen din?",
-        "kilde": "BBC Business",
-        "tid": "05:01",
-        "lenke": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
@@ -167,38 +137,129 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "Cruiserederier jager luksusreisende med suiter for opptil $ 25 000 per natt",
+        "tittel": "Elon Musk investerer om lag $ 1 milliard i Skydance",
         "kilde": "CNBC Top News",
-        "tid": "16:46",
-        "lenke": "https://www.cnbc.com/2026/10/22/luxury-cruise-suites-regent-seven-seas.html",
+        "tid": "19:34",
+        "lenke": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Arbeidsløse krav nær de laveste siden 1960-tallet, ettersom lavbranntrenden fortsetter",
+        "tittel": "Moderna aksjer stuper etter lekkasje av kreftvaksinedata til tross for positive resultater",
         "kilde": "CNBC Top News",
-        "tid": "16:40",
-        "lenke": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
+        "tid": "19:26",
+        "lenke": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Er det en dårlig idé å få en vielsesring fra Quince? \"Det er en tredjedel av prisen.\"",
+        "kilde": "MarketWatch",
+        "tid": "19:25",
+        "lenke": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bobilkonkurs: 21 ansatte rammes",
+        "kilde": "E24",
+        "tid": "18:57",
+        "lenke": "https://e24.no/naeringsliv/i/b84n8q/bobilkonkurs-21-ansatte-rammes?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Hedra er et 3D åpen verden-spill jeg skrev fra bunnen av mens jeg gikk på videregående skole",
+        "kilde": "Hacker News",
+        "tid": "18:44",
+        "lenke": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vis HN: Bygg en verden på telefonen, utforsk den i XR på Vision Pro og Quest",
+        "kilde": "Hacker News",
+        "tid": "18:39",
+        "lenke": "https://3d.camilleworld.com/play/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vis ledetekster for HN: UI-mikrointeraksjoner for AI",
+        "kilde": "Hacker News",
+        "tid": "18:32",
+        "lenke": "https://www.typeui.sh/micro-interactions",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Prisbelønt AI-litteratur",
+        "kilde": "Hacker News",
+        "tid": "18:28",
+        "lenke": "https://jamesyu.org/award-winning-ai-literature/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "AI og vedlegget til Scientific Commons",
+        "kilde": "Hacker News",
+        "tid": "18:28",
+        "lenke": "https://arxiv.org/abs/2610.27251",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Zuckerberg vinner Meta-avtale for å hjelpe ham med å betale regningen for mulig California-milliardærskatt",
+        "kilde": "BBC Business",
+        "tid": "18:26",
+        "lenke": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "AI gjeld og franske obligasjoner står overfor en stresstest — hvorfor det kanskje ikke er over",
+        "kilde": "CNBC Top News",
+        "tid": "18:13",
+        "lenke": "https://www.cnbc.com/2026/10/22/ai-debt-and-french-bonds-stress-test.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Moderna-aksjen stuper etter lekkasje",
+        "kilde": "E24",
+        "tid": "17:44",
+        "lenke": "https://e24.no/boers-og-finans/i/MAraAJ/moderna-aksjen-stuper-etter-mulig-lekkasje?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Unge investorer satser på prediksjonsmarkeder og krypto. Men denne bestselgende forfatteren sier at de kjedelige pengebevegelsene fortsatt fungerer.",
+        "kilde": "MarketWatch",
+        "tid": "17:21",
+        "lenke": "https://www.marketwatch.com/story/young-investors-are-betting-on-prediction-markets-and-crypto-but-this-bestselling-author-says-the-boring-money-moves-still-work-cd9d350a?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
         "tittel": "‘AI er på prøve’: Obligasjonsrenter synker under 5% når investorer ser etter sikkerhet",
         "kilde": "MarketWatch",
-        "tid": "16:35",
+        "tid": "17:16",
         "lenke": "https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hvor rikdom beveger seg i Amerika",
-        "kilde": "Hacker News",
-        "tid": "16:22",
-        "lenke": "https://thestatedtruth.com/?p=28732",
+        "tittel": "Svindlere lurer folk til å gjemme gull i skogen",
+        "kilde": "E24",
+        "tid": "16:52",
+        "lenke": "https://e24.no/privatoekonomi/i/X9QmLn/svindlere-lurer-folk-til-aa-gjemme-gull-i-skogen?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Unge amerikanere gir fra seg bilene sine. Det er en vei til økonomisk frihet, for noen.",
+        "kilde": "MarketWatch",
+        "tid": "16:48",
+        "lenke": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Pepsi fornyer kontrakten med Taco Bell dager etter at KFC bytter til Coke i USA",
+        "tittel": "Zuckerbergs skatteflytting i California er en seier for Meta — og for ham",
+        "kilde": "MarketWatch",
+        "tid": "16:48",
+        "lenke": "https://www.marketwatch.com/story/zuckerbergs-california-tax-move-is-a-win-for-meta-and-for-him-aa049c94?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Cruiserederier jager luksusreisende med suiter for opptil $ 25 000 per natt",
         "kilde": "CNBC Top News",
-        "tid": "15:52",
-        "lenke": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
+        "tid": "16:46",
+        "lenke": "https://www.cnbc.com/2026/10/22/luxury-cruise-suites-regent-seven-seas.html",
         "engelsk_kilde": true
       },
       {
@@ -209,38 +270,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Vis HN: Kjør full fastvare for iOS 16.5 på Android-enheter",
-        "kilde": "Hacker News",
-        "tid": "15:26",
-        "lenke": "https://github.com/oosexgang/hackios-xnu-kernel",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Investorenes nylige pengebevegelser viser en preferanse for å redusere risiko fremfor å øke belønninger",
-        "kilde": "MarketWatch",
-        "tid": "15:10",
-        "lenke": "https://www.marketwatch.com/story/investors-recent-money-moves-show-a-preference-for-quality-over-momentum-within-the-s-p-500-ed6b5149?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "\"Jeg tenkte ikke klart\", sier fem tjenestemenn",
         "kilde": "BBC Business",
         "tid": "15:05",
         "lenke": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Moderna har en plan om å revolusjonere hvordan visse kreftformer behandles. Vi er i ferd med å finne ut potensialet i melanom.",
-        "kilde": "MarketWatch",
-        "tid": "15:03",
-        "lenke": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Partneren min i 17 år etterlot meg sitt hjem verdt $ 1 million. Hans barn gråter fult. Er jeg forpliktet til å dele det med dem?",
-        "kilde": "MarketWatch",
-        "tid": "15:00",
-        "lenke": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -258,31 +291,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Quad9 (DNS Resolver) for å avslutte Frankrike",
-        "kilde": "Hacker News",
-        "tid": "14:32",
-        "lenke": "https://quad9.net/news/blog/au-revoir-france/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Barclays kutter 5000 jobber da det øker avhengigheten av AI",
         "kilde": "BBC Business",
         "tid": "14:28",
         "lenke": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "MPS flytting for å begrense gambling annonser i Canada midt montering skader",
-        "kilde": "Hacker News",
-        "tid": "14:26",
-        "lenke": "https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Min svigerfar, 81, solgte sitt hjem på $ 75 000 for å betale datterens gjeld på $ 50 000. Hvordan kan jeg holde ham fra å bli fattig?",
-        "kilde": "MarketWatch",
-        "tid": "14:15",
-        "lenke": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -291,13 +303,6 @@
         "tid": "14:02",
         "lenke": "https://www.nrk.no/tromsogfinnmark/lengst-ventetid-i-landet_-no-tar-unn-grep-1.18061967",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Jeg er 58 og hater livrenter. Hvordan kan jeg få en pålitelig inntekt som pensjonist?",
-        "kilde": "MarketWatch",
-        "tid": "14:00",
-        "lenke": "https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       },
       {
         "tittel": "– Europa kommer litt til kort",
@@ -332,13 +337,6 @@
         "kilde": "NRK Nyheter",
         "tid": "12:30",
         "lenke": "https://www.nrk.no/ostfold/dobbeltdrapet-i-halden_-tok-farvel-med-far-og-sonn-bjorn-rune-og-per-ove-engebretsen-1.18061496",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Barn bak lås og slå",
-        "kilde": "NRK Nyheter",
-        "tid": "12:13",
-        "lenke": "https://www.nrk.no/ytring/barn-bak-las-og-sla-1.18059586",
         "engelsk_kilde": false
       },
       {
