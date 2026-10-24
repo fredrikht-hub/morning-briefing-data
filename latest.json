@@ -1,7 +1,7 @@
 {
   "dato": "2026-10-24",
   "dato_norsk": "Lørdag 24. oktober 2026",
-  "generert_kl": "15:34",
+  "generert_kl": "18:27",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
@@ -12,31 +12,31 @@
       "engelsk_kilde": true
     },
     {
-      "tittel": "Stormvarsel i Sør-Norge – frykter ikke «Amy»-tilstander",
-      "kilde": "NRK Nyheter",
-      "tid": "13:37",
-      "lenke": "https://www.nrk.no/vestfoldogtelemark/stormvarsel-pa-ostlandet-_-frykter-ikke-_amy_-tilstander-1.18063720",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Ser du etter AI-aksjer som fortsatt er billige? Tenk på disse to under-radarvalgene.",
+      "tittel": "Social Security Administration vil ha flere babyer registrert for ‘Trump-kontoer.’ Men det er fortsatt en hake.",
       "kilde": "MarketWatch",
-      "tid": "14:40",
-      "lenke": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
+      "tid": "16:46",
+      "lenke": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Ukraina sier at Starlink og Starshields høyhastighetsbegrensninger er opphevet",
+      "tittel": "Amerikanske ambassader stramme sikkerheten som Iran trussel advarsler intensivere i forkant av amerikanske midtveisvalg",
       "kilde": "CNBC Top News",
-      "tid": "13:00",
-      "lenke": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+      "tid": "17:22",
+      "lenke": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Google kuttet ulovlig 250 000 trær i Finland for datasenter",
+      "tittel": "Elon Musk lovet en SpaceX-aksje til alle barn i Amerika — ikke hold pusten",
+      "kilde": "MarketWatch",
+      "tid": "16:59",
+      "lenke": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Nevral chip dekoder interaksjoner mellom hjerneregioner",
       "kilde": "Hacker News",
-      "tid": "14:38",
-      "lenke": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/",
+      "tid": "15:57",
+      "lenke": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
       "engelsk_kilde": true
     }
   ],
@@ -62,13 +62,6 @@
         "tid": "12:18",
         "lenke": "https://e24.no/hav-og-sjoemat/i/PgLgn6/lakseoppdretter-slipper-nok-en-gang-mulkt-for-plastsoel?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "NRK avslører: Telefonsvindlerne ringer fra norske nummer",
-        "kilde": "NRK Nyheter",
-        "tid": "09:33",
-        "lenke": "https://www.nrk.no/dokumentar/nrk-avslorer_-telefonsvindlerne-ringer-fra-norske-nummer-1.18040432",
-        "engelsk_kilde": false
       }
     ],
     "MAKRO": [
@@ -82,17 +75,10 @@
     ],
     "MARKEDER": [
       {
-        "tittel": "Ser du etter AI-aksjer som fortsatt er billige? Tenk på disse to under-radarvalgene.",
-        "kilde": "MarketWatch",
-        "tid": "14:40",
-        "lenke": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Uro treffer AI-utbygging når neoclouds står overfor press, kredittrisikoen øker og Solidigm trekker børsnotering",
+        "tittel": "Detaljinvestorer er ikke mer sofistikerte enn for 30 år siden, sier tidligere hedgefondsforvalter",
         "kilde": "CNBC Top News",
-        "tid": "06:41",
-        "lenke": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+        "tid": "15:00",
+        "lenke": "https://www.cnbc.com/2026/10/24/stock-picking-could-hurt-investors-warns-former-hedge-fund-manager.html",
         "engelsk_kilde": true
       }
     ],
@@ -107,10 +93,24 @@
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Google kuttet ulovlig 250 000 trær i Finland for datasenter",
+        "tittel": "Elon Musk lovet en SpaceX-aksje til alle barn i Amerika — ikke hold pusten",
+        "kilde": "MarketWatch",
+        "tid": "16:59",
+        "lenke": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nevral chip dekoder interaksjoner mellom hjerneregioner",
         "kilde": "Hacker News",
-        "tid": "14:38",
-        "lenke": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/",
+        "tid": "15:57",
+        "lenke": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Oai-math-revidert: et fellesskapshub for å revidere OpenAIs matteoppskrivninger",
+        "kilde": "Hacker News",
+        "tid": "15:35",
+        "lenke": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
         "engelsk_kilde": true
       },
       {
@@ -119,21 +119,21 @@
         "tid": "11:00",
         "lenke": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "GPU-opplåsing: FP/BF16 instruksjonsutstedelsesfrekvens på Nvidia 3000-kort",
-        "kilde": "Hacker News",
-        "tid": "09:58",
-        "lenke": "https://github.com/Zagitta/gpu-unlock",
-        "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Ukraina sier at Starlink og Starshields høyhastighetsbegrensninger er opphevet",
+        "tittel": "Amerikanske ambassader stramme sikkerheten som Iran trussel advarsler intensivere i forkant av amerikanske midtveisvalg",
         "kilde": "CNBC Top News",
-        "tid": "13:00",
-        "lenke": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+        "tid": "17:22",
+        "lenke": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Social Security Administration vil ha flere babyer registrert for ‘Trump-kontoer.’ Men det er fortsatt en hake.",
+        "kilde": "MarketWatch",
+        "tid": "16:46",
+        "lenke": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -153,10 +153,101 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "Pengebesparende vaner for å takle høyere priser — fra våre lesere",
+        "tittel": "Superrike sliter med båtplass til luksusyachtene sine",
+        "kilde": "E24",
+        "tid": "18:23",
+        "lenke": "https://e24.no/boers-og-finans/i/R5B9lW/superrike-sliter-med-baatplass-til-luksusyachtene-sine?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Jeg er 58 og hater livrenter. Hvordan kan jeg få en pålitelig inntekt som pensjonist?",
         "kilde": "MarketWatch",
-        "tid": "15:27",
-        "lenke": "https://www.marketwatch.com/story/money-saving-hacks-to-cope-with-higher-prices-from-our-readers-a092767e?mod=mw_rss_topstories",
+        "tid": "18:03",
+        "lenke": "https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg ønsker å betale $ 4500 i kredittkortgjeld i 2 måneder. Er dette mulig?",
+        "kilde": "MarketWatch",
+        "tid": "17:39",
+        "lenke": "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Over 40% av amerikanerne er på vei mot en «blind» pensjonisttilværelse — uten noen plan",
+        "kilde": "MarketWatch",
+        "tid": "17:23",
+        "lenke": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "St. Helena 5 pence mynten viser Jonathan, en omtrent 190 år gammel skilpadde",
+        "kilde": "Hacker News",
+        "tid": "16:41",
+        "lenke": "https://de.numista.com/9866",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Voldsomme demonstrasjoner i Frankrike: Over 1000 pågrepet",
+        "kilde": "E24",
+        "tid": "16:33",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/zlBKA4/frankrike-demonstrasjoner-charlotte-demonstrerer-for-moren-sin?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Demonstranter har tatt seg inn i Colosseum",
+        "kilde": "NRK Nyheter",
+        "tid": "16:31",
+        "lenke": "https://www.nrk.no/nyheter/demonstranter-har-tatt-seg-inn-i-colosseum-1.18063885",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Walmart, Best Buy og andre butikker bruker nå digitale prislapper. Kritikere sier at de kan føre til forskjellige priser for forskjellige kunder.",
+        "kilde": "MarketWatch",
+        "tid": "16:18",
+        "lenke": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Roku-utviklerdatabaser flyttet fra GitHub til GitLab",
+        "kilde": "Hacker News",
+        "tid": "16:06",
+        "lenke": "https://blog.roku.com/developer/gitlab-move",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Pensjonere på 8% i året med liten eller ingen risiko? Slik bruker du livrenter på riktig måte.",
+        "kilde": "MarketWatch",
+        "tid": "16:04",
+        "lenke": "https://www.marketwatch.com/story/retire-on-8-a-year-with-little-or-no-risk-how-to-use-annuities-the-right-way-06ababc5?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Partneren min i 17 år etterlot meg sitt hjem verdt $ 1 million. Hans barn gråter fult. Er jeg forpliktet til å dele det med dem?",
+        "kilde": "MarketWatch",
+        "tid": "16:00",
+        "lenke": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trapper opp lobby­kampen mot Temu",
+        "kilde": "E24",
+        "tid": "15:59",
+        "lenke": "https://e24.no/naeringsliv/i/Jr84GP/trapper-opp-lobbykampen-mot-temu?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Stygg smell for Sæter: – Bekymra når det er så mye blod",
+        "kilde": "NRK Nyheter",
+        "tid": "15:57",
+        "lenke": "https://www.nrk.no/sport/eliteserien_-valerenga-sjokkerte-bodo_glimt-1.18063860",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "FreeDNS",
+        "kilde": "Hacker News",
+        "tid": "15:20",
+        "lenke": "https://freedns.afraid.org/",
         "engelsk_kilde": true
       },
       {
@@ -167,24 +258,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Er det en dårlig idé å få en vielsesring fra Quince? Det er en tredjedel av prisen til en lokal gullsmed.",
-        "kilde": "MarketWatch",
-        "tid": "15:10",
-        "lenke": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Amgen sier at kombinasjon av legemidler reduserer dødsrisikoen med 58% hos pasienter med aggressiv lungekreft",
         "kilde": "CNBC Top News",
         "tid": "14:30",
         "lenke": "https://www.cnbc.com/2026/10/24/amgen-imdelltra-lung-cancer-data.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Alle snakker om Roth-konverteringer, men her er hvor få mennesker som virkelig gjør dem — og hvorfor du ikke bør ha FOMO om det",
-        "kilde": "MarketWatch",
-        "tid": "14:24",
-        "lenke": "https://www.marketwatch.com/story/everyones-talking-about-roth-conversions-but-heres-how-few-people-really-do-them-and-why-you-shouldnt-have-fomo-about-it-1b50db07?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -195,25 +272,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Alvorlig ulykke i Nordland: tre personer fraktet til sykehus i redningshelikopter",
+        "tittel": "Alvorlig ulykke i Nordland: tre personer fraktes til sykehus i redningshelikopter",
         "kilde": "NRK Nyheter",
         "tid": "14:10",
         "lenke": "https://www.nrk.no/nordland/alvorlig-ulykke-i-nordland_-tre-personer-fraktes-til-sykehus-i-redningshelikopter-1.18063794",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Unge amerikanere gir opp bileierskapet. Det er en vei til økonomisk frihet for noen.",
-        "kilde": "MarketWatch",
-        "tid": "14:06",
-        "lenke": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Min svigerfar, 81, solgte sitt hjem på $ 75 000 for å betale datterens gjeld på $ 50 000. Hvordan kan jeg holde ham fra å bli fattig?",
-        "kilde": "MarketWatch",
-        "tid": "14:00",
-        "lenke": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Frykter for fremtiden: – Vi blir skviset ut av de store aktørene",
@@ -221,20 +284,6 @@
         "tid": "13:49",
         "lenke": "https://e24.no/naeringsliv/i/31oXBA/frykter-for-fremtiden-vi-blir-skviset-ut-av-de-store-aktoerene?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Investorenes nylige pengebevegelser viser en preferanse for å redusere risiko fremfor å øke belønninger",
-        "kilde": "MarketWatch",
-        "tid": "13:37",
-        "lenke": "https://www.marketwatch.com/story/investors-recent-money-moves-show-a-preference-for-quality-over-momentum-within-the-s-p-500-ed6b5149?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Min nieses college leie er dekket av en 529 plan. Hva annet kan jeg betale for skattefritt?",
-        "kilde": "MarketWatch",
-        "tid": "13:28",
-        "lenke": "https://www.marketwatch.com/story/my-nieces-college-rent-is-covered-by-a-529-plan-what-else-can-i-pay-for-tax-free-d1686b63?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Fakta vs. fiksjon: Leger deler hvorvidt peptider er trygge og effektive",
@@ -258,20 +307,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "AI-assistert papir på Z-Library siterer en TorrentFreak-artikkel som ikke eksisterer",
-        "kilde": "Hacker News",
-        "tid": "11:18",
-        "lenke": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vis HN: Autonom rot for Tcl Android TV via CVE-2022-22706",
-        "kilde": "Hacker News",
-        "tid": "10:51",
-        "lenke": "https://gitlab.com/c4psu13/mali-pagecache-root",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Gjør du disse feilene på jobbintervjuet?",
         "kilde": "E24",
         "tid": "10:00",
@@ -286,24 +321,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Jeg forstår ikke kvantefysikk (2018)",
-        "kilde": "Hacker News",
-        "tid": "09:53",
-        "lenke": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Freser mot eigen klubb etter Europa-mareritt: – Øydela heile kampopplevinga",
         "kilde": "NRK Nyheter",
         "tid": "09:25",
         "lenke": "https://www.nrk.no/sport/lsk-supporter-si-verste-oppleving-pa-arasen-1.18063360",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Ukraina: Stabil tilkobling til Starlink – hastigheten øker",
-        "kilde": "NRK Nyheter",
-        "tid": "08:45",
-        "lenke": "https://www.nrk.no/norge/ukraina_-stabil-tilkobling-til-starlink-_-hastigheten-oker-1.18063632",
         "engelsk_kilde": false
       },
       {
@@ -325,27 +346,6 @@
         "kilde": "E24",
         "tid": "05:45",
         "lenke": "https://e24.no/internasjonal-oekonomi/i/eGvGMO/utviklingen-har-stoppet-opp-en-aarsak-skiller-seg-ut?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Alle elsket Elon Musk",
-        "kilde": "E24",
-        "tid": "05:07",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/0BblmJ/alle-elsket-elon-musk?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Her gjemmer du deg hvis AI-boblen sprekker",
-        "kilde": "E24",
-        "tid": "05:06",
-        "lenke": "https://e24.no/boers-og-finans/i/R5dWzA/her-gjemmer-du-deg-hvis-ai-boblen-sprekker?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Krangler om regningen etter milliardsprekk: – Helt ko-ko",
-        "kilde": "E24",
-        "tid": "03:00",
-        "lenke": "https://e24.no/naeringsliv/i/640540/krangler-om-regningen-etter-milliardsprekk-helt-ko-ko?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
