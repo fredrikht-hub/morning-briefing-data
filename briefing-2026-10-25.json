@@ -1,55 +1,46 @@
 {
   "dato": "2026-10-25",
   "dato_norsk": "Søndag 25. oktober 2026",
-  "generert_kl": "13:31",
+  "generert_kl": "16:58",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Bekymret for dette børssalget? Lettelse kan komme etter midtermene - uansett hvem som vinner.",
-      "kilde": "MarketWatch",
-      "tid": "13:00",
-      "lenke": "https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Hvorfor økonomisk helse ikke lenger dikterer avkastning på aksjemarkedet",
-      "kilde": "MarketWatch",
-      "tid": "12:00",
-      "lenke": "https://www.marketwatch.com/story/why-economic-health-no-longer-dictates-stock-market-returns-c44b88f2?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Saudi-Arabia sier de avlyttet missiler og droner fra Iran-støttede houthier",
-      "kilde": "CNBC Top News",
-      "tid": "12:49",
-      "lenke": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Strid om kryptoplan: Frykter at Israel blir økonomisk paria",
+      "tittel": "Derfor sliter Trump: – Gjennomskuet bløffen",
       "kilde": "E24",
-      "tid": "11:16",
-      "lenke": "https://e24.no/boers-og-finans/i/WgP8Rr/netanyahu-vil-bruke-krypto-for-aa-unngaa-sanksjoner-faar-kraftig-kritikk?utm_medium=rss",
+      "tid": "14:42",
+      "lenke": "https://e24.no/internasjonal-oekonomi/i/eGgxjg/derfor-sliter-trump-gjennomskuet-bloeffen?utm_medium=rss",
       "engelsk_kilde": false
     },
     {
-      "tittel": "Marc Lore's Wonder satser på Texas, automatisering og brukerbygde restauranter mens den overgår børsnotering",
+      "tittel": "Her er 4 store ting vi ser på aksjemarkedet denne uken",
       "kilde": "CNBC Top News",
-      "tid": "12:00",
-      "lenke": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
+      "tid": "14:58",
+      "lenke": "https://www.cnbc.com/investingclub/2026/10/25/here-are-4-big-things-were-watching-in-the-stock-market-this-week.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Mer enn en tredjedel av S&P 500-selskapene er i ferd med å rapportere inntjening når markedets tillit sprekker",
+      "kilde": "MarketWatch",
+      "tid": "14:00",
+      "lenke": "https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Vis HN: Jeg plasserer ansatte i S&P 500-bobler med markedskapasitet",
+      "kilde": "Hacker News",
+      "tid": "15:05",
+      "lenke": "https://bigwhalehunting.com/workforce/",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Fire måter Labour kunne samle inn penger i budsjettet uten å øke inntektsskatten",
+      "kilde": "BBC Business",
+      "tid": "06:00",
+      "lenke": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
-    "NORGE": [
-      {
-        "tittel": "Stormen i Sør-Norge: Forventer at vannet vil stige",
-        "kilde": "NRK Nyheter",
-        "tid": "06:34",
-        "lenke": "https://www.nrk.no/vestfoldogtelemark/stormen-pa-ostlandet_-flere-tusen-uten-strom-1.18064040",
-        "engelsk_kilde": false
-      }
-    ],
     "MAKRO": [
       {
         "tittel": "Budsjett for å inkludere £ 1 milliard for sosial og rimelig bolig",
@@ -67,6 +58,27 @@
       }
     ],
     "MARKEDER": [
+      {
+        "tittel": "Vis HN: Jeg plasserer ansatte i S&P 500-bobler med markedskapasitet",
+        "kilde": "Hacker News",
+        "tid": "15:05",
+        "lenke": "https://bigwhalehunting.com/workforce/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Her er 4 store ting vi ser på aksjemarkedet denne uken",
+        "kilde": "CNBC Top News",
+        "tid": "14:58",
+        "lenke": "https://www.cnbc.com/investingclub/2026/10/25/here-are-4-big-things-were-watching-in-the-stock-market-this-week.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Mer enn en tredjedel av S&P 500-selskapene er i ferd med å rapportere inntjening når markedets tillit sprekker",
+        "kilde": "MarketWatch",
+        "tid": "14:00",
+        "lenke": "https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Bekymret for dette børssalget? Lettelse kan komme etter midtermene - uansett hvem som vinner.",
         "kilde": "MarketWatch",
@@ -86,13 +98,6 @@
         "kilde": "CNBC Top News",
         "tid": "18:56",
         "lenke": "https://www.cnbc.com/2026/10/24/biotech-stocks-drug-innovation-rally.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Detaljinvestorer er ikke mer sofistikerte enn for 30 år siden, sier tidligere hedgefondsforvalter",
-        "kilde": "CNBC Top News",
-        "tid": "15:00",
-        "lenke": "https://www.cnbc.com/2026/10/24/stock-picking-could-hurt-investors-warns-former-hedge-fund-manager.html",
         "engelsk_kilde": true
       }
     ],
@@ -123,9 +128,16 @@
     ],
     "GEOPOLITIKK": [
       {
+        "tittel": "Derfor sliter Trump: – Gjennomskuet bløffen",
+        "kilde": "E24",
+        "tid": "14:42",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/eGgxjg/derfor-sliter-trump-gjennomskuet-bloeffen?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
         "tittel": "Saudi-Arabia sier de avlyttet missiler og droner fra Iran-støttede houthier",
         "kilde": "CNBC Top News",
-        "tid": "12:49",
+        "tid": "13:41",
         "lenke": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
         "engelsk_kilde": true
       },
@@ -139,6 +151,132 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "Mener NHO la opp til selvmål for 20 år siden",
+        "kilde": "E24",
+        "tid": "16:45",
+        "lenke": "https://e24.no/naeringsliv/i/gd1dKa/mener-nho-la-opp-til-selvmaal-for-20-aar-siden?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "\"Jeg synes ikke synd på meg selv\": Jeg er 64 og skal leie resten av livet. Er det så ille?",
+        "kilde": "MarketWatch",
+        "tid": "16:45",
+        "lenke": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Audi forsvarer planene om et $ 4 milliarder Georgia-anlegg midt i VW-restrukturering, tariffer",
+        "kilde": "CNBC Top News",
+        "tid": "16:42",
+        "lenke": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "AI-bruk leder UC Berkeley matematikkprofessor til å se \"ingen vits\" i gradering av lekser",
+        "kilde": "Hacker News",
+        "tid": "16:28",
+        "lenke": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Livesending: Amerikansk valgthriller",
+        "kilde": "E24",
+        "tid": "16:04",
+        "lenke": "https://e24.no/boers-og-finans/i/p1j7rX/livesending-amerikansk-valgthriller?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Venezuelas opposisjonsleder er tilbake i landet",
+        "kilde": "NRK Nyheter",
+        "tid": "15:46",
+        "lenke": "https://www.nrk.no/nyheter/venezuelas-opposisjonsleder-er-tilbake-i-landet-1.18064279",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Bua av banen etter pinleg tap: – Ekstremt giftig",
+        "kilde": "NRK Nyheter",
+        "tid": "15:39",
+        "lenke": "https://www.nrk.no/sport/manchester-united-audmjuka-mot-bournemouth-1.18064282",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Spør HN: Kan vi gjøre noe med denne forestående AI-dystopien",
+        "kilde": "Hacker News",
+        "tid": "15:12",
+        "lenke": "https://news.ycombinator.com/item?id=50232407",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Viking-profil beklaget etter kynisk takling: Sendte motspiller til sykehus",
+        "kilde": "NRK Nyheter",
+        "tid": "15:01",
+        "lenke": "https://www.nrk.no/sport/viking-tromso_-tromso-komet-til-sykehus-etter-voldsom-takling-1.18064269",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Her trener Vy-ansatte på å takle passasjerer på sitt verste",
+        "kilde": "NRK Nyheter",
+        "tid": "14:58",
+        "lenke": "https://www.nrk.no/buskerud/skjellsord_-rus-og-vold_-her-trener-vy-ansatte-pa-a-takle-passasjerer-pa-sitt-verste-1.18060953",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "AI fikk daytrade - disse aksjene kjøpte de",
+        "kilde": "E24",
+        "tid": "14:42",
+        "lenke": "https://e24.no/boers-og-finans/i/77LqRB/ai-fikk-daytrade-disse-aksjene-kjoepte-de?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Noen tanker om intensitet",
+        "kilde": "Hacker News",
+        "tid": "14:37",
+        "lenke": "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Min ektefelle ble tildelt $ 90 000 fra min 401(k) i vår skilsmisse. Hvordan er det rettferdig?",
+        "kilde": "MarketWatch",
+        "tid": "14:30",
+        "lenke": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "I bilder: I utgangspunktet fører fredelige protester over hele Frankrike over ulikhet igjen til vold",
+        "kilde": "CNBC Top News",
+        "tid": "14:14",
+        "lenke": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg betalte $ 11 000 i kredittkortgjeld på 18 måneder mens jeg fortsatt reiste, handlet og levde livet mitt",
+        "kilde": "CNBC Top News",
+        "tid": "14:00",
+        "lenke": "https://www.cnbc.com/make-it/2026/10/25/pay-off-credit-card-debt.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "\"Hun lever drømmen\": Stemoren min sa at jeg kan kjøpe barndomshjemmet mitt for $ 850 000. Utnytter hun meg?",
+        "kilde": "MarketWatch",
+        "tid": "14:00",
+        "lenke": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Mannen min vil selge hjemmet vårt for 1,5 millioner $ og investere inntektene. Men det er her vi oppdro barna våre — og jeg orker ikke å dra.",
+        "kilde": "MarketWatch",
+        "tid": "13:45",
+        "lenke": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vis HN: Farol – et risikokart over en trekkforespørsel for personen som godkjenner den",
+        "kilde": "Hacker News",
+        "tid": "13:28",
+        "lenke": "https://github.com/winnin/farol",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "‘Nonanswers’ fungerer ikke. Dette er hva investorer virkelig trenger fra Fed.",
         "kilde": "MarketWatch",
         "tid": "12:44",
@@ -150,13 +288,6 @@
         "kilde": "CNBC Top News",
         "tid": "12:00",
         "lenke": "https://www.cnbc.com/2026/10/25/cnbc-survey-midterm-election-voter-fears.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Her er det virkelige signalet for å se etter Feds neste trekk",
-        "kilde": "MarketWatch",
-        "tid": "11:30",
-        "lenke": "https://www.marketwatch.com/story/heres-the-real-signal-to-watch-for-the-feds-next-move-9189cb51?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -174,31 +305,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "fheroes2: En gjenskapelse av spillmotoren Heroes of Might and Magic II",
-        "kilde": "Hacker News",
-        "tid": "11:09",
-        "lenke": "https://github.com/ihhub/fheroes2",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Samsung kjører en TensorFlow lite-modell på et bilde på 960 x 540 for å spore deg",
-        "kilde": "Hacker News",
-        "tid": "10:42",
-        "lenke": "https://twitter.com/mike64_t/status/2114150399406202896",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vinneren av Nikons fotokonkurranse mister tittelen etter at forskere har oppdaget tegn på",
-        "kilde": "Hacker News",
-        "tid": "09:51",
-        "lenke": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Braathen reagerte på kyssebilder etter seier: – Litt dårlig gjort av dere",
         "kilde": "NRK Nyheter",
         "tid": "09:51",
-        "lenke": "https://www.nrk.no/sport/lucas-pinheiro-braathen-i-ledelsen-_-utklasset-de-norske-stjernene-i-solden-1.18064094",
+        "lenke": "https://www.nrk.no/sport/lucas-pinheiro-braathen-vant-suverent-i-solden-_-etterpa-gremmet-han-seg-over-kyssebilder-1.18064094",
         "engelsk_kilde": false
       },
       {
@@ -207,13 +317,6 @@
         "tid": "09:09",
         "lenke": "https://e24.no/naeringsliv/i/0BAA52/varsler-dagboeter-paa-16-000-kroner-mot-norse?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Meta ignorerer brasiliansk rettskjennelse for å få slutt på Bolsonaros favorisering",
-        "kilde": "Hacker News",
-        "tid": "09:00",
-        "lenke": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Knivstikkingen i Bjørvika: Mann etterlyst internasjonalt",
@@ -251,13 +354,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Fem personer savnet etter at borerigg sank",
-        "kilde": "NRK Nyheter",
-        "tid": "07:18",
-        "lenke": "https://www.nrk.no/nyheter/fem-personer-savnet-etter-at-borerigg-sank-1.18064042",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Vil en ny kode avslutte 'svindelparkeringsavgifter'?",
         "kilde": "BBC Business",
         "tid": "07:05",
@@ -265,109 +361,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Derfor blir boligene en halv million kroner dyrere enn de hadde trengt å bli",
-        "kilde": "NRK Nyheter",
-        "tid": "06:49",
-        "lenke": "https://www.nrk.no/stor-oslo/boliger-blir-dyrere-pa-grunn-av-treg-saksbehandling_-ifolge-obos-1.18058561",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Saknet til sonen gjer reisene tyngre: «Pappa kjem alltid heim»",
-        "kilde": "NRK Nyheter",
-        "tid": "06:48",
-        "lenke": "https://www.nrk.no/sport/henrik-kristoffersen-om-saknet-til-sonen_-_-det-er-tyngre-no-1.18062324",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Borr Drilling-rigg har sunket – fem savnet",
         "kilde": "E24",
         "tid": "06:39",
         "lenke": "https://e24.no/boers-og-finans/i/xlogpB/borr-drilling-rigg-har-sunket-fem-savnet?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Svir av milliarder på AI: Slik bruker de teknologien",
-        "kilde": "E24",
-        "tid": "06:06",
-        "lenke": "https://e24.no/naeringsliv/i/1ooBnQ/svir-av-milliarder-paa-ai-slik-bruker-de-teknologien?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Trumps favorittord er blitt mer spedalsk",
-        "kilde": "E24",
-        "tid": "06:05",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/0BdRpg/trumps-favorittord-er-blitt-mer-spedalsk?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "– Feigt av Frp",
-        "kilde": "E24",
-        "tid": "06:04",
-        "lenke": "https://e24.no/naeringsliv/i/qyMAkg/feigt-av-frp?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Cerebras tar i bruk trillion-parameter AI-modeller",
-        "kilde": "Hacker News",
-        "tid": "01:33",
-        "lenke": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Min svigerfar, 81, solgte sitt hjem på $ 75 000 for å betale datterens gjeld på $ 50 000. Hvordan kan jeg holde ham fra å bli fattig?",
-        "kilde": "MarketWatch",
-        "tid": "20:15",
-        "lenke": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "\"Hun lever drømmen\": Stemoren min sa at jeg kan kjøpe barndomshjemmet mitt for $ 850 000. Utnytter hun meg?",
-        "kilde": "MarketWatch",
-        "tid": "20:00",
-        "lenke": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Mannen min vil selge hjemmet vårt for 1,5 millioner $ og investere inntektene. Men det er her vi oppdro barna våre — og jeg orker ikke å dra.",
-        "kilde": "MarketWatch",
-        "tid": "19:45",
-        "lenke": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Unge amerikanere gir opp bileierskapet. Det er en vei til økonomisk frihet for noen.",
-        "kilde": "MarketWatch",
-        "tid": "18:45",
-        "lenke": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Superrike sliter med båtplass til luksusyachtene sine",
-        "kilde": "E24",
-        "tid": "18:23",
-        "lenke": "https://e24.no/boers-og-finans/i/R5B9lW/superrike-sliter-med-baatplass-til-luksusyachtene-sine?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Færre mennesker flyr når flybilletten stiger. Her er grunnen til at flyselskapene ikke er bekymret",
-        "kilde": "CNBC Top News",
-        "tid": "15:53",
-        "lenke": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvorfor populære fly blir skrotet år for tidlig",
-        "kilde": "CNBC Top News",
-        "tid": "15:18",
-        "lenke": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Amgen sier at kombinasjon av legemidler reduserer dødsrisikoen med 58% hos pasienter med aggressiv lungekreft",
-        "kilde": "CNBC Top News",
-        "tid": "14:30",
-        "lenke": "https://www.cnbc.com/2026/10/24/amgen-imdelltra-lung-cancer-data.html",
-        "engelsk_kilde": true
       }
     ]
   }
