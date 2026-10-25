@@ -1,0 +1,367 @@
+{
+  "dato": "2026-10-25",
+  "dato_norsk": "Søndag 25. oktober 2026",
+  "generert_kl": "09:39",
+  "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
+  "dagens_fokus": [
+    {
+      "tittel": "Rosebank: Livet på oljefeltet midt i en politisk storm",
+      "kilde": "BBC Business",
+      "tid": "07:15",
+      "lenke": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Amerika etter tallene: Hvordan velgerne føler om økonomien, inflasjonen, AI og Trump",
+      "kilde": "CNBC Top News",
+      "tid": "10:58",
+      "lenke": "https://www.cnbc.com/2026/10/23/america-by-the-numbers-how-voters-feel-about-the-economy-inflation-ai-and-trump.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Fire måter Labour kunne samle inn penger i budsjettet uten å øke inntektsskatten",
+      "kilde": "BBC Business",
+      "tid": "06:00",
+      "lenke": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Budsjett for å inkludere £ 1 milliard for sosial og rimelig bolig",
+      "kilde": "BBC Business",
+      "tid": "02:57",
+      "lenke": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Stormen i Sør-Norge: Flere tusen uten strøm",
+      "kilde": "NRK Nyheter",
+      "tid": "06:34",
+      "lenke": "https://www.nrk.no/vestfoldogtelemark/stormen-pa-ostlandet_-flere-tusen-uten-strom-1.18064040",
+      "engelsk_kilde": false
+    }
+  ],
+  "kategorier": {
+    "NORGE": [
+      {
+        "tittel": "Stormen i Sør-Norge: Flere tusen uten strøm",
+        "kilde": "NRK Nyheter",
+        "tid": "06:34",
+        "lenke": "https://www.nrk.no/vestfoldogtelemark/stormen-pa-ostlandet_-flere-tusen-uten-strom-1.18064040",
+        "engelsk_kilde": false
+      }
+    ],
+    "MAKRO": [
+      {
+        "tittel": "Fire måter Labour kunne samle inn penger i budsjettet uten å øke inntektsskatten",
+        "kilde": "BBC Business",
+        "tid": "06:00",
+        "lenke": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Budsjett for å inkludere £ 1 milliard for sosial og rimelig bolig",
+        "kilde": "BBC Business",
+        "tid": "02:57",
+        "lenke": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Amerika etter tallene: Hvordan velgerne føler om økonomien, inflasjonen, AI og Trump",
+        "kilde": "CNBC Top News",
+        "tid": "10:58",
+        "lenke": "https://www.cnbc.com/2026/10/23/america-by-the-numbers-how-voters-feel-about-the-economy-inflation-ai-and-trump.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "MARKEDER": [
+      {
+        "tittel": "Detaljinvestorer er ikke mer sofistikerte enn for 30 år siden, sier tidligere hedgefondsforvalter",
+        "kilde": "CNBC Top News",
+        "tid": "15:00",
+        "lenke": "https://www.cnbc.com/2026/10/24/stock-picking-could-hurt-investors-warns-former-hedge-fund-manager.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "ENERGI_RAAVARER": [
+      {
+        "tittel": "Rosebank: Livet på oljefeltet midt i en politisk storm",
+        "kilde": "BBC Business",
+        "tid": "07:15",
+        "lenke": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      }
+    ],
+    "TEKNOLOGI": [
+      {
+        "tittel": "Vi bør være mer ambisiøse med programvaren vi bygger",
+        "kilde": "Hacker News",
+        "tid": "21:47",
+        "lenke": "https://danluu.com/ambitious/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Etter at SpaceX gjenoppretter høyhastighetstjenesten, hevder Musk at Ukraina brøt Starlink-avtalen",
+        "kilde": "CNBC Top News",
+        "tid": "20:38",
+        "lenke": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Elon Musk lovet en SpaceX-aksje til alle barn i Amerika — ikke hold pusten",
+        "kilde": "MarketWatch",
+        "tid": "16:59",
+        "lenke": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nvidias rolle som AI-finansierer står overfor den første store testen når neoclouds tar markedsslag",
+        "kilde": "CNBC Top News",
+        "tid": "11:00",
+        "lenke": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "GEOPOLITIKK": [
+      {
+        "tittel": "Demokrater, stemmerettsgrupper utfordrer Trumps bud om å blokkere Alaska Senate-sertifisering",
+        "kilde": "CNBC Top News",
+        "tid": "19:57",
+        "lenke": "https://www.cnbc.com/2026/10/24/alaska-senate-doj-certification-lawsuit.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump presser på for en massiv AI-utbygging. Hans egne velgere er forsiktige med hva som følger med det.",
+        "kilde": "CNBC Top News",
+        "tid": "10:59",
+        "lenke": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "VILLKORT": [
+      {
+        "tittel": "Varsler dagbøter på 16.000 kroner mot Norse",
+        "kilde": "E24",
+        "tid": "09:09",
+        "lenke": "https://e24.no/naeringsliv/i/0BAA52/varsler-dagboeter-paa-16-000-kroner-mot-norse?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Knivstikkingen i Bjørvika: Mann etterlyst internasjonalt",
+        "kilde": "NRK Nyheter",
+        "tid": "08:56",
+        "lenke": "https://www.nrk.no/stor-oslo/knivstikkingen-i-oslo_-mann-etterlyst-internasjonalt-1.18064118",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Knivstikkingen i Bjørvika: Mann etterlyst internasjonalt",
+        "kilde": "NRK Nyheter",
+        "tid": "08:52",
+        "lenke": "https://www.nrk.no/stor-oslo/knivstikkingen-i-bjorvika_-mann-etterlyst-internasjonalt-1.18064107",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Dette blir avgjørende for Norwegian-aksjen",
+        "kilde": "E24",
+        "tid": "08:49",
+        "lenke": "https://e24.no/boers-og-finans/i/oK2eom/dette-blir-avgjoerende-for-norwegian-aksjen?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Hva blir det neste for Frankrike ettersom opptøyene ryster markedene? Tre spørsmål investorer står overfor i forkant av flere protester",
+        "kilde": "CNBC Top News",
+        "tid": "08:06",
+        "lenke": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Avbestilte kinesiske busser – nå saksøkes de for en halv milliard",
+        "kilde": "NRK Nyheter",
+        "tid": "07:34",
+        "lenke": "https://www.nrk.no/stor-oslo/avbestilte-kinesiske-busser-_-na-saksokes-de-for-en-halv-milliard-1.18062920",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Fem personer savnet etter at borerigg sank",
+        "kilde": "NRK Nyheter",
+        "tid": "07:18",
+        "lenke": "https://www.nrk.no/nyheter/fem-personer-savnet-etter-at-borerigg-sank-1.18064042",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Derfor blir boligene en halv million kroner dyrere enn de hadde trengt å bli",
+        "kilde": "NRK Nyheter",
+        "tid": "06:49",
+        "lenke": "https://www.nrk.no/stor-oslo/boliger-blir-dyrere-pa-grunn-av-treg-saksbehandling_-ifolge-obos-1.18058561",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Saknet til sonen gjer reisene tyngre: «Pappa kjem alltid heim»",
+        "kilde": "NRK Nyheter",
+        "tid": "06:48",
+        "lenke": "https://www.nrk.no/sport/henrik-kristoffersen-om-saknet-til-sonen_-_-det-er-tyngre-no-1.18062324",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Borr Drilling-rigg har sunket – fem savnet",
+        "kilde": "E24",
+        "tid": "06:39",
+        "lenke": "https://e24.no/boers-og-finans/i/xlogpB/borr-drilling-rigg-har-sunket-fem-savnet?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Svir av milliarder på AI: Slik bruker de teknologien",
+        "kilde": "E24",
+        "tid": "06:06",
+        "lenke": "https://e24.no/naeringsliv/i/1ooBnQ/svir-av-milliarder-paa-ai-slik-bruker-de-teknologien?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Trumps favorittord er blitt mer spedalsk",
+        "kilde": "E24",
+        "tid": "06:05",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/0BdRpg/trumps-favorittord-er-blitt-mer-spedalsk?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "– Feigt av Frp",
+        "kilde": "E24",
+        "tid": "06:04",
+        "lenke": "https://e24.no/naeringsliv/i/qyMAkg/feigt-av-frp?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Fem Qwen3.8-27B-modeller samsvarer med Fable 5 ved bruk av GVS5H-sele",
+        "kilde": "Hacker News",
+        "tid": "03:56",
+        "lenke": "https://github.com/slee-persis/GVS5H",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Cerebras tar i bruk trillion-parameter AI-modeller",
+        "kilde": "Hacker News",
+        "tid": "01:33",
+        "lenke": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvorfor Gopher i 2026?",
+        "kilde": "Hacker News",
+        "tid": "23:33",
+        "lenke": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Amerika har mistet 200 000 arbeidsplasser innen media, film og kunst. Hvor mye er AI?",
+        "kilde": "Hacker News",
+        "tid": "23:11",
+        "lenke": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Min svigerfar, 81, solgte sitt hjem på $ 75 000 for å betale datterens gjeld på $ 50 000. Hvordan kan jeg holde ham fra å bli fattig?",
+        "kilde": "MarketWatch",
+        "tid": "20:15",
+        "lenke": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Satte vill verdensrekord i kjellerstua: – Føles ganske mørkt",
+        "kilde": "NRK Nyheter",
+        "tid": "20:14",
+        "lenke": "https://www.nrk.no/sport/magnus-kulset-knuste-egen-rekord-i-everesting.-na-setter-25-aringen-seg-nye_-harete-mal-1.18063902",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "\"Hun lever drømmen\": Stemoren min sa at jeg kan kjøpe barndomshjemmet mitt for $ 850 000. Utnytter hun meg?",
+        "kilde": "MarketWatch",
+        "tid": "20:00",
+        "lenke": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Mannen min vil selge hjemmet vårt for 1,5 millioner $ og investere inntektene. Men det er her vi oppdro barna våre — og jeg orker ikke å dra.",
+        "kilde": "MarketWatch",
+        "tid": "19:45",
+        "lenke": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Unge amerikanere gir opp bileierskapet. Det er en vei til økonomisk frihet for noen.",
+        "kilde": "MarketWatch",
+        "tid": "18:45",
+        "lenke": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Superrike sliter med båtplass til luksusyachtene sine",
+        "kilde": "E24",
+        "tid": "18:23",
+        "lenke": "https://e24.no/boers-og-finans/i/R5B9lW/superrike-sliter-med-baatplass-til-luksusyachtene-sine?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Jeg er 58 og hater livrenter. Hvordan kan jeg få en pålitelig inntekt som pensjonist?",
+        "kilde": "MarketWatch",
+        "tid": "18:03",
+        "lenke": "https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg ønsker å betale $ 4500 i kredittkortgjeld i 2 måneder. Er dette mulig?",
+        "kilde": "MarketWatch",
+        "tid": "17:39",
+        "lenke": "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Over 40% av amerikanerne er på vei mot en «blind» pensjonisttilværelse — uten noen plan",
+        "kilde": "MarketWatch",
+        "tid": "17:23",
+        "lenke": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Voldsomme demonstrasjoner i Frankrike: 1000 pågrepet",
+        "kilde": "E24",
+        "tid": "16:33",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/zlBKA4/frankrike-demonstrasjoner-charlotte-demonstrerer-for-moren-sin?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Trapper opp lobby­kampen mot Temu",
+        "kilde": "E24",
+        "tid": "15:59",
+        "lenke": "https://e24.no/naeringsliv/i/Jr84GP/trapper-opp-lobbykampen-mot-temu?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Færre mennesker flyr når flybilletten stiger. Her er grunnen til at flyselskapene ikke er bekymret",
+        "kilde": "CNBC Top News",
+        "tid": "15:53",
+        "lenke": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvorfor populære fly blir skrotet år for tidlig",
+        "kilde": "CNBC Top News",
+        "tid": "15:18",
+        "lenke": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Amgen sier at kombinasjon av legemidler reduserer dødsrisikoen med 58% hos pasienter med aggressiv lungekreft",
+        "kilde": "CNBC Top News",
+        "tid": "14:30",
+        "lenke": "https://www.cnbc.com/2026/10/24/amgen-imdelltra-lung-cancer-data.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Frykter for fremtiden: – Vi blir skviset ut av de store aktørene",
+        "kilde": "E24",
+        "tid": "13:49",
+        "lenke": "https://e24.no/naeringsliv/i/31oXBA/frykter-for-fremtiden-vi-blir-skviset-ut-av-de-store-aktoerene?utm_medium=rss",
+        "engelsk_kilde": false
+      }
+    ]
+  }
+}
