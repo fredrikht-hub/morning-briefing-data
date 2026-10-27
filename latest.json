@@ -1,42 +1,42 @@
 {
   "dato": "2026-10-27",
   "dato_norsk": "Tirsdag 27. oktober 2026",
-  "generert_kl": "18:34",
+  "generert_kl": "21:01",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
+      "tittel": "En skjult \"trippeltopp\" i oljeprisdiagrammer tyder på at rallyet har gått tom for gass",
+      "kilde": "MarketWatch",
+      "tid": "19:24",
+      "lenke": "https://www.marketwatch.com/story/a-hidden-triple-top-in-oil-price-charts-suggests-the-rally-has-run-out-of-gas-3743d5a1?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
       "tittel": "Skatt på banker, hjelp til energiregninger og minstelønnsøkning - hva kan være i budsjettet?",
       "kilde": "BBC Business",
-      "tid": "18:18",
+      "tid": "18:45",
       "lenke": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Anthropics børsnotering kan være \"spekulativ fiksjon\" eller et \"generasjonsøyeblikk\" — investorer er splittet",
+      "tittel": "Neil Young saksøker Trump-komiteen for $ 10 millioner for å ha spilt 'Rockin' in the Free World' på rally",
       "kilde": "CNBC Top News",
-      "tid": "17:26",
-      "lenke": "https://www.cnbc.com/2026/10/27/-anthropic-ipo-investors-growth-losses-s-1.html",
+      "tid": "19:49",
+      "lenke": "https://www.cnbc.com/2026/10/27/neil-young-trump-lawsuit-song-copyright-free-world.html",
       "engelsk_kilde": true
     },
     {
       "tittel": "Tidlig inntjening i tredje kvartal viser en \"motstandsdyktig\" amerikansk forbruker, med tegn på belastning",
       "kilde": "CNBC Top News",
-      "tid": "18:12",
+      "tid": "20:42",
       "lenke": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "JetBlue-aksjen øker med 20% etter hvert som selskapets utsikter beroliger investorer",
+      "tittel": "Robinhood-aksjer faller 5% etter hvert som kryptokrisen tynger fortjenesten, og motvirker gevinster i nye virksomheter",
       "kilde": "CNBC Top News",
-      "tid": "15:46",
-      "lenke": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Boeing lager synker 9% som selskapet sier det ikke vil betydelig øke 737 Max produksjonen til slutten av 2027",
-      "kilde": "CNBC Top News",
-      "tid": "15:45",
-      "lenke": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+      "tid": "20:39",
+      "lenke": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
       "engelsk_kilde": true
     }
   ],
@@ -45,31 +45,45 @@
       {
         "tittel": "Skatt på banker, hjelp til energiregninger og minstelønnsøkning - hva kan være i budsjettet?",
         "kilde": "BBC Business",
-        "tid": "18:18",
+        "tid": "18:45",
         "lenke": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "Tidlig inntjening i tredje kvartal viser en \"motstandsdyktig\" amerikansk forbruker, med tegn på belastning",
-        "kilde": "CNBC Top News",
-        "tid": "18:12",
-        "lenke": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Den store grunnen til at Boeings aksjer faller så hardt etter inntjening",
         "kilde": "MarketWatch",
-        "tid": "17:59",
+        "tid": "20:43",
         "lenke": "https://www.marketwatch.com/story/the-big-reason-boeings-stock-is-falling-so-hard-after-earnings-d31b400d?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "GLP-1 medikamentdekning blir droppet av arbeidsgiverplaner: Hva du bør vite om vekttapsmuligheter i 2027",
+        "tittel": "Tidlig inntjening i tredje kvartal viser en \"motstandsdyktig\" amerikansk forbruker, med tegn på belastning",
         "kilde": "CNBC Top News",
-        "tid": "17:57",
-        "lenke": "https://www.cnbc.com/2026/10/27/glp1-drug-coverage-weight-loss-options.html",
+        "tid": "20:42",
+        "lenke": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvordan Broadcoms aksjer kan øke og overvinne \"den største forstyrrelsen i markedet\"",
+        "kilde": "MarketWatch",
+        "tid": "20:40",
+        "lenke": "https://www.marketwatch.com/story/how-broadcoms-stock-can-surge-and-overcome-the-biggest-dislocation-in-the-market-9719e2a8?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Robinhood-aksjer faller 5% etter hvert som kryptokrisen tynger fortjenesten, og motvirker gevinster i nye virksomheter",
+        "kilde": "CNBC Top News",
+        "tid": "20:39",
+        "lenke": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hva gull og platina forteller oss om børsens retning",
+        "kilde": "MarketWatch",
+        "tid": "20:30",
+        "lenke": "https://www.marketwatch.com/story/what-gold-and-platinum-are-telling-us-about-the-stock-markets-direction-81405633?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -80,28 +94,7 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Når vil Anthropic offentliggjøres? Her er det du trenger å vite om børsnoteringstidslinjen.",
-        "kilde": "MarketWatch",
-        "tid": "16:38",
-        "lenke": "https://www.marketwatch.com/story/when-will-anthropic-go-public-heres-what-to-know-about-the-ipo-timeline-431eca78?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "JetBlue-aksjen øker med 20% etter hvert som selskapets utsikter beroliger investorer",
-        "kilde": "CNBC Top News",
-        "tid": "15:46",
-        "lenke": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Boeing lager synker 9% som selskapet sier det ikke vil betydelig øke 737 Max produksjonen til slutten av 2027",
-        "kilde": "CNBC Top News",
-        "tid": "15:45",
-        "lenke": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Boeing raser på Wall Street",
+        "tittel": "Boeing-ras på Wall Street",
         "kilde": "E24",
         "tid": "13:31",
         "lenke": "https://e24.no/boers-og-finans/i/GrWwQx/oppgangen-fortsetter-paa-wall-street?utm_medium=rss",
@@ -113,9 +106,53 @@
         "tid": "06:33",
         "lenke": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fra Wall Street til Silicon Valley, antropisk IPO klar til å ha massiv \"trickle-down-effekt\"",
+        "kilde": "CNBC Top News",
+        "tid": "22:50",
+        "lenke": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "ENERGI_RAAVARER": [
+      {
+        "tittel": "En skjult \"trippeltopp\" i oljeprisdiagrammer tyder på at rallyet har gått tom for gass",
+        "kilde": "MarketWatch",
+        "tid": "19:24",
+        "lenke": "https://www.marketwatch.com/story/a-hidden-triple-top-in-oil-price-charts-suggests-the-rally-has-run-out-of-gas-3743d5a1?mod=mw_rss_topstories",
+        "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
+      {
+        "tittel": "AI-gjeld frykter lettelse i forkant av Oracle-, Alphabet- og Amazon-oppdateringer. Her er hva du skal se på.",
+        "kilde": "CNBC Top News",
+        "tid": "19:57",
+        "lenke": "https://www.cnbc.com/2026/10/27/ai-debt-hyperscaler-earnings.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Survival LLM: AI-assistent og nødbibliotek som kjører på din egen datamaskin",
+        "kilde": "Hacker News",
+        "tid": "19:55",
+        "lenke": "https://www.brangus.io/survival-llm",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Amazons anti-tokenmaxxing-notat sier at ingeniører bør være mer kresne når det gjelder å bruke AI",
+        "kilde": "CNBC Top News",
+        "tid": "18:57",
+        "lenke": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Discord vil snart la alle finne offentlige servermeldinger via Google",
+        "kilde": "Hacker News",
+        "tid": "18:44",
+        "lenke": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Apple erstatter iPhone Duos som er berørt av skjermproblem",
         "kilde": "BBC Business",
@@ -128,8 +165,15 @@
       {
         "tittel": "Høyttaler Mike Johnson kaller valgoverføringsbekymringer «absurde»",
         "kilde": "CNBC Top News",
-        "tid": "18:03",
+        "tid": "20:28",
         "lenke": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Neil Young saksøker Trump-komiteen for $ 10 millioner for å ha spilt 'Rockin' in the Free World' på rally",
+        "kilde": "CNBC Top News",
+        "tid": "19:49",
+        "lenke": "https://www.cnbc.com/2026/10/27/neil-young-trump-lawsuit-song-copyright-free-world.html",
         "engelsk_kilde": true
       },
       {
@@ -149,17 +193,101 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "New York forbyr hestedrosjer",
+        "kilde": "E24",
+        "tid": "20:55",
+        "lenke": "https://e24.no/boers-og-finans/i/2VJqdG/new-york-forbyr-hestedrosjer?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Arsenal i trøbbel mot nivå fire-lag – drone stoppet kampen",
+        "kilde": "NRK Nyheter",
+        "tid": "20:52",
+        "lenke": "https://www.nrk.no/sport/kjempesmell-for-arsenal-_-havnet-under-mot-niva-fire-lag-1.18066599",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "JetBlue har tapt penger i årevis. Den kartla nettopp en vei til lønnsomhet.",
+        "kilde": "MarketWatch",
+        "tid": "20:38",
+        "lenke": "https://www.marketwatch.com/story/jetblue-has-been-losing-money-for-years-it-just-charted-a-path-to-profitability-03be75c8?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Boeing sier at det ikke vil øke 737 Max-produksjonen betydelig før sent i 2027",
+        "kilde": "CNBC Top News",
+        "tid": "20:32",
+        "lenke": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vi sluttet å hjelpe våre naboer med gratis hjemreparasjoner og vennskapet vårt ble avkjølt. Hvem har skylden?",
+        "kilde": "MarketWatch",
+        "tid": "20:30",
+        "lenke": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fire måneder med sikk",
+        "kilde": "Hacker News",
+        "tid": "20:13",
+        "lenke": "https://gracefulliberty.com/articles/four-months-of-zig/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Er den brukte elbilen verdt prisen? Denne sjekklisten kan spare deg for tusenvis av dollar.",
+        "kilde": "MarketWatch",
+        "tid": "20:00",
+        "lenke": "https://www.marketwatch.com/story/is-that-used-ev-worth-the-price-this-checklist-could-save-you-thousands-of-dollars-2e1ab876?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tailscale SSH: Etterforsknings- og utbedringsoppdatering",
+        "kilde": "Hacker News",
+        "tid": "19:55",
+        "lenke": "https://tailscale.com/ssh-investigation-update",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Mellomvalget i USA: Bruker over 100 milliarder på reklame",
+        "kilde": "E24",
+        "tid": "19:43",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/1olRyW/mellomvalget-i-usa-bruker-over-100-milliarder-paa-reklame?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vannet tilbake i Kirkenes",
+        "kilde": "NRK Nyheter",
+        "tid": "19:34",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/vannet-tilbake-i-kirkenes-1.18066561",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kona mi gråt da jeg fant ut at hun bare hadde $ 80 000 i 401(k). Jeg har 2,2 millioner $. Er det galt av meg å bli sjokkert?",
+        "kilde": "MarketWatch",
+        "tid": "19:00",
+        "lenke": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bjørnar Skjæran: – Må gi mulighet til å forby korttidsutleie",
+        "kilde": "E24",
+        "tid": "18:47",
+        "lenke": "https://e24.no/naeringsliv/i/X9Jb6W/bjoernar-skjaeran-maa-gi-mulighet-til-aa-forby-korttidsutleie?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Tre TLS-feil i GoAhead",
+        "kilde": "Hacker News",
+        "tid": "18:33",
+        "lenke": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Honda advarer om at 50% canadiske biltariffer vil være katastrofale for industrien",
         "kilde": "CNBC Top News",
         "tid": "17:53",
         "lenke": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘CryptoDad’ på stablecoins, bitcoins rolle i en portefølje og hvorfor han ikke eier noen krypto direkte",
-        "kilde": "MarketWatch",
-        "tid": "17:53",
-        "lenke": "https://www.marketwatch.com/story/cryptodad-on-stablecoins-bitcoins-role-in-a-portfolio-and-why-he-does-not-directly-own-any-crypto-72472bc1?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -170,25 +298,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Brasils Flavio Bolsonaro på vei til USA, sier kilder",
-        "kilde": "Hacker News",
-        "tid": "17:46",
-        "lenke": "https://www.reuters.com/world/americas/brazil-wonders-where-earth-is-flavio-bolsonaro-2026-10-27/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Denne kjempegjedda gikk på kroken",
         "kilde": "NRK Nyheter",
         "tid": "17:22",
         "lenke": "https://www.nrk.no/sorlandet/fikk-kjempegjedde-pa-16_8-kilo-1.18066238",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Vi introduserer LFM3: Hver modalitet for spesialisert intelligens",
-        "kilde": "Hacker News",
-        "tid": "17:04",
-        "lenke": "https://www.liquid.ai/blog/lfm3",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Kongsberg-tallslipp: – Det blir en dragkamp",
@@ -219,46 +333,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "JetBlue har tapt penger i årevis. Den kartla nettopp en vei til lønnsomhet.",
-        "kilde": "MarketWatch",
-        "tid": "16:52",
-        "lenke": "https://www.marketwatch.com/story/jetblue-has-been-losing-money-for-years-it-just-charted-a-path-to-profitability-03be75c8?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Ghostty 1.4.0",
-        "kilde": "Hacker News",
-        "tid": "16:51",
-        "lenke": "https://ghostty.org/docs/install/release-notes/1-4-0",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Politiet bruker AI til å trekke over drivere for «mistenkelig» oppførsel",
-        "kilde": "Hacker News",
-        "tid": "16:40",
-        "lenke": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Vil belønne «ny-kommuner» med over 20.000 innbyggere: – Helt feilslått",
         "kilde": "NRK Nyheter",
         "tid": "16:33",
         "lenke": "https://www.nrk.no/nordland/regjeringen-foreslar-a-belonne-kommuner-som-slar-seg-sammen-1.18055543",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Klassifisering av endelige enkle grupper formalisert i Lean",
-        "kilde": "Hacker News",
-        "tid": "16:29",
-        "lenke": "https://cfsg.axiommath.ai/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Obligasjonsinvestorer begynner å si \"alt annet enn teknologi\". Hva det betyr for AI-bommen.",
-        "kilde": "MarketWatch",
-        "tid": "16:24",
-        "lenke": "https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Krever å se usladdet rapport om tidligere direktør",
@@ -268,41 +347,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Mener Sparta forfalsket underskriften hans for å redde klubben: – Det er hårreisende",
-        "kilde": "NRK Nyheter",
-        "tid": "16:10",
-        "lenke": "https://www.nrk.no/ostfold/sparta-spiller-ga-millioner-til-klubben_-mener-signaturen-hans-ble-forfalsket-1.18065370",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Fed forventes å holde prisene stabile, men Warsh kan peke mot flere fotturer",
-        "kilde": "CNBC Top News",
-        "tid": "15:52",
-        "lenke": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Den amerikanske økonomien samler damp. Dette er hovedårsaken.",
-        "kilde": "MarketWatch",
-        "tid": "15:34",
-        "lenke": "https://www.marketwatch.com/story/u-s-economy-is-gathering-steam-this-is-the-chief-reason-why-9772978f?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vi sluttet å hjelpe våre naboer med gratis hjemreparasjoner og vennskapet vårt ble avkjølt. Hvem har skylden?",
-        "kilde": "MarketWatch",
-        "tid": "15:30",
-        "lenke": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "McDonald's nye veddemål på kylling treffer en hake som franchisetakere sier fuglene er for store",
-        "kilde": "MarketWatch",
-        "tid": "15:27",
-        "lenke": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Minstelønnen settes opp, men 18-20-åringer får ikke større lønnsøkning",
         "kilde": "BBC Business",
         "tid": "15:01",
@@ -310,25 +354,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Daniel er velgeren Netanyahu frykter",
-        "kilde": "NRK Nyheter",
-        "tid": "14:53",
-        "lenke": "https://www.nrk.no/urix/daniel-er-velgeren-netanyahu-frykter-1.18065943",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Mesta legger ned betongavdelingen",
         "kilde": "E24",
         "tid": "14:34",
         "lenke": "https://e24.no/norsk-oekonomi/i/31APQq/mesta-legger-ned-betongavdelingen?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "En økende rikdom løfter alle yachter",
-        "kilde": "CNBC Top News",
-        "tid": "14:29",
-        "lenke": "https://www.cnbc.com/2026/10/27/a-rising-wealth-tide-lifts-all-yachts.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Økokrim: Flere personer pågrepet i etterforskning av fiskerikriminalitet",
@@ -352,46 +382,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Frosset boligmarked sender ombyggerne blandede meldinger",
-        "kilde": "CNBC Top News",
-        "tid": "12:20",
-        "lenke": "https://www.cnbc.com/2026/10/27/frozen-housing-market-sends-remodelers-mixed-messages.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Støre svarer på kritikk etter Putin-samtale: – Jeg er uenig",
         "kilde": "E24",
         "tid": "12:16",
         "lenke": "https://e24.no/internasjonal-oekonomi/i/zlp4Ww/statsminister-jonas-gahr-stoere-snakket-med-putin?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Sauda-ordfører får Åpenhetsprisen",
-        "kilde": "E24",
-        "tid": "12:01",
-        "lenke": "https://e24.no/naeringsliv/i/zlp4wr/sauda-ordfoerer-faar-aapenhetsprisen?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Danmarks statsminister refser Støre etter Putin-samtale",
-        "kilde": "E24",
-        "tid": "10:30",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/eGQzQR/mette-fredriksen-meget-skeptisk-over-norsk-samtale-med-russland?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Investorer bunnfisker etter aksjekollaps",
-        "kilde": "E24",
-        "tid": "09:57",
-        "lenke": "https://e24.no/boers-og-finans/i/Qgel54/investorer-bunnfisker-etter-aksjekollaps?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Anthropics populære delingsutleiested - 5 overraskende ting vi nå vet",
-        "kilde": "BBC Business",
-        "tid": "19:57",
-        "lenke": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
       }
     ]
   }
