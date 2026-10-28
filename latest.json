@@ -1,179 +1,153 @@
 {
   "dato": "2026-10-28",
   "dato_norsk": "Onsdag 28. oktober 2026",
-  "generert_kl": "11:09",
+  "generert_kl": "15:41",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Fire grunner til å begynne å bekymre seg for inflasjon — inkludert slutten på tollrefusjoner",
-      "kilde": "MarketWatch",
-      "tid": "10:21",
-      "lenke": "https://www.marketwatch.com/story/four-reasons-to-start-worrying-about-inflation-including-the-end-of-tariff-refunds-978a5cfd?mod=mw_rss_topstories",
+      "tittel": "Amerikas største budsjettflyselskap melder om 71% økning i flybillettpriser",
+      "kilde": "CNBC Top News",
+      "tid": "13:50",
+      "lenke": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Hjelp til energiregninger, økning i minstelønn og bankskatter - hva kan være i budsjettet?",
+      "tittel": "Storbritannia kutter energiregninger, skattlegger banker og øker forsvaret i høye budsjetter",
+      "kilde": "CNBC Top News",
+      "tid": "15:39",
+      "lenke": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Din lønn, strømregninger og besparelser: Slik påvirker budsjettet deg",
       "kilde": "BBC Business",
-      "tid": "09:25",
+      "tid": "15:32",
+      "lenke": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Budsjett 2026: Oversikt over viktige punkter",
+      "kilde": "BBC Business",
+      "tid": "15:37",
       "lenke": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Robinhood-aksjer faller etter hvert som kryptokrisen tynger fortjenesten, og motvirker gevinster i nye virksomheter",
-      "kilde": "CNBC Top News",
-      "tid": "09:29",
-      "lenke": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Bill Ackman eier bare en håndfull aksjer. Her er hans regel for å velge en vinner.",
-      "kilde": "MarketWatch",
-      "tid": "10:11",
-      "lenke": "https://www.marketwatch.com/story/bill-ackman-owns-only-a-handful-of-stocks-here-is-his-rule-for-picking-a-winner-82a0ee98?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "SK Hynix leverte resultater for tredje kvartal — men utsiktene er det som virkelig betydde noe for Wall Street og AI-handelen",
-      "kilde": "MarketWatch",
-      "tid": "09:25",
-      "lenke": "https://www.marketwatch.com/story/sk-hynix-delivered-on-third-quarter-results-but-the-outlook-is-what-really-mattered-to-wall-street-and-the-ai-trade-2fde9a57?mod=mw_rss_topstories",
+      "tittel": "26 400 sanntidslegitimasjoner funnet ved skanning av 7,25millioner depoter på Kinas Gitee",
+      "kilde": "Hacker News",
+      "tid": "15:31",
+      "lenke": "https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "Aker Solutions sendes nedover",
-        "kilde": "E24",
-        "tid": "08:01",
-        "lenke": "https://e24.no/boers-og-finans/i/w3l2k5/oslo-boers-faller?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "I dag starter SAS-streik",
-        "kilde": "E24",
-        "tid": "06:27",
-        "lenke": "https://e24.no/naeringsliv/i/1ol9KW/i-dag-starter-sas-streik?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Salgsgevinst løftet Telenor-resultatet",
-        "kilde": "E24",
-        "tid": "06:03",
-        "lenke": "https://e24.no/boers-og-finans/i/8G45J2/telenors-inntekter-falt-til-18-59-milliarder-i-tredje-kvartal?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Sterkeste fra Equinor siden 2022",
-        "kilde": "E24",
-        "tid": "05:45",
-        "lenke": "https://e24.no/energi-og-klima/i/kvo4da/sterkeste-fra-equinor-siden-2022?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "SAS-streik i gang",
+        "tittel": "Denne dronen skal spare Equinor for svimlende summer",
         "kilde": "NRK Nyheter",
-        "tid": "05:12",
-        "lenke": "https://www.nrk.no/nyheter/sas-streik-i-gang-1.18066664",
+        "tid": "12:00",
+        "lenke": "https://www.nrk.no/rogaland/equinor-apner-testsenteret-knarr-for-roboter-og-undervannsdroner-pa-karsto-1.18066140",
         "engelsk_kilde": false
       }
     ],
     "MAKRO": [
       {
-        "tittel": "Fire grunner til å begynne å bekymre seg for inflasjon — inkludert slutten på tollrefusjoner",
-        "kilde": "MarketWatch",
-        "tid": "10:21",
-        "lenke": "https://www.marketwatch.com/story/four-reasons-to-start-worrying-about-inflation-including-the-end-of-tariff-refunds-978a5cfd?mod=mw_rss_topstories",
+        "tittel": "Storbritannia kutter energiregninger, skattlegger banker og øker forsvaret i høye budsjetter",
+        "kilde": "CNBC Top News",
+        "tid": "15:39",
+        "lenke": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hjelp til energiregninger, økning i minstelønn og bankskatter - hva kan være i budsjettet?",
+        "tittel": "Budsjett 2026: Oversikt over viktige punkter",
         "kilde": "BBC Business",
-        "tid": "09:25",
+        "tid": "15:37",
         "lenke": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Jeg får £ 4 062 i året og prøver mitt beste - her er hva jeg vil ha fra budsjettet",
+        "tittel": "Din lønn, strømregninger og besparelser: Slik påvirker budsjettet deg",
         "kilde": "BBC Business",
-        "tid": "00:03",
-        "lenke": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+        "tid": "15:32",
+        "lenke": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Amerikas største budsjettflyselskap melder om 71% økning i flybillettpriser",
+        "kilde": "CNBC Top News",
+        "tid": "13:50",
+        "lenke": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
         "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "Bill Ackman eier bare en håndfull aksjer. Her er hans regel for å velge en vinner.",
+        "tittel": "Disse programvareaksjene kan bli vinnere etter hvert som inntektssesongen starter i høyt gir",
         "kilde": "MarketWatch",
-        "tid": "10:11",
-        "lenke": "https://www.marketwatch.com/story/bill-ackman-owns-only-a-handful-of-stocks-here-is-his-rule-for-picking-a-winner-82a0ee98?mod=mw_rss_topstories",
+        "tid": "15:06",
+        "lenke": "https://www.marketwatch.com/story/these-software-stocks-could-be-winners-as-earnings-season-kicks-into-high-gear-8decddf7?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Robinhood-aksjer faller etter hvert som kryptokrisen tynger fortjenesten, og motvirker gevinster i nye virksomheter",
+        "tittel": "Vertiv-inntekter sendte nettopp et optimistisk signal om AI i forkant av Big Tech-resultater",
+        "kilde": "MarketWatch",
+        "tid": "15:01",
+        "lenke": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Stellantis-aksjen øker med 12% etter hvert som bilprodusentens turnaround-plan, kostnadsreduksjoner gir bedre trekkraft",
         "kilde": "CNBC Top News",
-        "tid": "09:29",
-        "lenke": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
+        "tid": "13:48",
+        "lenke": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "SK Hynix leverte resultater for tredje kvartal — men utsiktene er det som virkelig betydde noe for Wall Street og AI-handelen",
+        "tittel": "Wall Street blandet: bilaksje spretter 14 prosent",
+        "kilde": "E24",
+        "tid": "13:31",
+        "lenke": "https://e24.no/boers-og-finans/i/gdM4La/wall-street-aapner-opp?utm_medium=rss",
+        "engelsk_kilde": false
+      }
+    ],
+    "ENERGI_RAAVARER": [
+      {
+        "tittel": "Oppvarming av hjemmet ditt med olje kan koste $ 750 mer denne vinteren. Les dette før du betaler prisen.",
         "kilde": "MarketWatch",
-        "tid": "09:25",
-        "lenke": "https://www.marketwatch.com/story/sk-hynix-delivered-on-third-quarter-results-but-the-outlook-is-what-really-mattered-to-wall-street-and-the-ai-trade-2fde9a57?mod=mw_rss_topstories",
+        "tid": "15:03",
+        "lenke": "https://www.marketwatch.com/story/heating-your-home-with-oil-could-cost-750-more-this-winter-read-this-before-you-pay-the-price-e39f0d52?mod=mw_rss_topstories",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Europeisk gasspris i 100",
+        "kilde": "E24",
+        "tid": "13:38",
+        "lenke": "https://e24.no/energi-og-klima/i/qy99q0/europeisk-gasspris-i-100?utm_medium=rss",
+        "engelsk_kilde": false
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Google endrer sin skybaserte spillebok og får partnere til å selge flere AI-brikker",
+        "tittel": "Her er hvilke alternativer tradere ser før Alphabet, Microsoft rapporterer etter klokken",
         "kilde": "CNBC Top News",
-        "tid": "11:00",
-        "lenke": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
+        "tid": "15:12",
+        "lenke": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Den virkelige måten å se om Amazons AI-utgifter lønner seg",
-        "kilde": "MarketWatch",
-        "tid": "10:30",
-        "lenke": "https://www.marketwatch.com/story/the-real-way-to-tell-if-amazons-ai-spending-is-paying-off-42a8a637?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "En ledende Silicon Valley-heiagjengleder viste nettopp alle grunnene til å være bekymret for AI-boblen",
-        "kilde": "MarketWatch",
-        "tid": "02:15",
-        "lenke": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Detaljhandlere kjøper nedgangen på brikkeaksjer - men Robinhood blir brent av kryptomarkedet",
-        "kilde": "MarketWatch",
-        "tid": "22:51",
-        "lenke": "https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories",
+        "tittel": "Tesla Semi tar fyr på I-880",
+        "kilde": "Hacker News",
+        "tid": "14:54",
+        "lenke": "https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/",
         "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Israelske obligasjoner, shekel faller som valget forlater Netanyahu og andre langt fra flertall",
-        "kilde": "CNBC Top News",
-        "tid": "09:12",
-        "lenke": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trump vitser $ 5000 ville kjøpt \"en hamburger og kanskje en liten dessert\" på Mar-a-Lago som levekostnader vevstoler over midterms",
-        "kilde": "CNBC Top News",
-        "tid": "04:29",
-        "lenke": "https://www.cnbc.com/2026/10/28/trump-jokes-5000-cash-would-buy-hamburger-and-dessert-at-mar-a-lago.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trump sier Iran-krigen vil ende 'når jeg vil det' som kostnader angivelig ballong til $ 47 milliarder",
-        "kilde": "CNBC Top News",
-        "tid": "03:02",
-        "lenke": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
+        "tittel": "26 400 sanntidslegitimasjoner funnet ved skanning av 7,25millioner depoter på Kinas Gitee",
+        "kilde": "Hacker News",
+        "tid": "15:31",
+        "lenke": "https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets",
         "engelsk_kilde": true
       },
       {
@@ -186,38 +160,213 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "Boliglånsrenten falt for andre uke på rad, men flere låntakere søkte fortsatt besparelser i mer risikable lån",
+        "tittel": "Minst 68 mennesker omkom i høyhastighets togulykke i Spania",
         "kilde": "CNBC Top News",
-        "tid": "11:00",
-        "lenke": "https://www.cnbc.com/2026/10/28/mortgage-rates-fell-for-the-second-straight-week.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Minst 30 personer meldt omkommet i høyhastighets togulykke i Spania",
-        "kilde": "CNBC Top News",
-        "tid": "10:44",
+        "tid": "15:40",
         "lenke": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Arbeidstakere skal kunne kjenne til kollegers lønn, sier rettighetsorganet",
+        "tittel": "Vi bruker mer enn $ 11 000 i året av våre egne penger på å ta vare på våre aldrende foreldre og kjære",
+        "kilde": "MarketWatch",
+        "tid": "15:36",
+        "lenke": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "3 grunner til at boligprisene fortsetter å stige, selv om færre kjøper",
+        "kilde": "MarketWatch",
+        "tid": "15:33",
+        "lenke": "https://www.marketwatch.com/story/3-reasons-why-home-prices-keep-going-up-even-though-fewer-people-are-buying-9afa6106?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kjent danse-influenser rammet av KI-tyveri",
+        "kilde": "NRK Nyheter",
+        "tid": "15:28",
+        "lenke": "https://www.nrk.no/sorlandet/kjent-danse-influenser-rammet-av-ki-tyveri-1.18065878",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Onkel Skrue på Fornebu",
+        "kilde": "E24",
+        "tid": "15:25",
+        "lenke": "https://e24.no/boers-og-finans/i/gdM2LJ/onkel-skrue-paa-fornebu?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Støtter Etikkrådets leder: – Naturlig",
+        "kilde": "E24",
+        "tid": "15:25",
+        "lenke": "https://e24.no/norsk-oekonomi/i/n9Ev5o/stoetter-etikkraadets-leder-naturlig?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Mannen min vil selge hjemmet vårt for 1,5 millioner $ og redusere det. Men det er her vi oppdro barna våre — og jeg orker ikke å dra.",
+        "kilde": "MarketWatch",
+        "tid": "15:15",
+        "lenke": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "McDonald's nye veddemål på kylling treffer en hake som franchisetakere sier fuglene er for store",
+        "kilde": "MarketWatch",
+        "tid": "15:15",
+        "lenke": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Det eneste kansleren ikke nevnte som vil påvirke lønnen din",
+        "kilde": "BBC Business",
+        "tid": "15:11",
+        "lenke": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "FEC-kampanjefinansieringssystem frakoblet dager før midterms etter at hackere angivelig målretter mot nettstedet",
+        "kilde": "CNBC Top News",
+        "tid": "15:09",
+        "lenke": "https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Grønt lys fra regjeringen: Tromsø, Vågan og Stranda får innføre besøksbidrag",
+        "kilde": "NRK Nyheter",
+        "tid": "15:00",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/tromso_-vagan-og-stranda-far-innfore-besoksbidrag-fra-nyttar-1.18066872",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Hvor mye går minstelønnen opp med?",
+        "kilde": "BBC Business",
+        "tid": "14:53",
+        "lenke": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kona mi gråt da jeg fant ut at hun bare hadde $ 80 000 i 401(k). Jeg har 2,2 millioner $. Er det galt av meg å bli sjokkert?",
+        "kilde": "MarketWatch",
+        "tid": "14:45",
+        "lenke": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "CNC steinutskjæring",
+        "kilde": "Hacker News",
+        "tid": "14:38",
+        "lenke": "https://carmelitegothic.com/cnc-stone-carving/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Wendys aksjer hopper 15% da Nelson Peltzs Trian tilbyr $ 1,4 milliarder for å kjøpe burgerkjede",
+        "kilde": "CNBC Top News",
+        "tid": "14:35",
+        "lenke": "https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "AlpineBSD",
+        "kilde": "Hacker News",
+        "tid": "14:30",
+        "lenke": "https://wiki.alpinebsd.org",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "En arkitektonisk sammenligning av Obsidian Canvas og Heptabase",
+        "kilde": "Hacker News",
+        "tid": "14:24",
+        "lenke": "https://www.fluxlinks.com/blog/obsidian-canvas-vs-heptabase",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Første audiens alene som kronprinsesse – i nytt kontor på Slottet",
+        "kilde": "NRK Nyheter",
+        "tid": "14:05",
+        "lenke": "https://www.nrk.no/norge/her-holder-kronprinsesse-ingrid-alexandra-sin-forste-audiens-alene-som-kronprinsesse-1.18061833",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Flavio Bolsonaro skal ha landet i Miami",
+        "kilde": "NRK Nyheter",
+        "tid": "13:33",
+        "lenke": "https://www.nrk.no/nyheter/flavio-bolsonaro-skal-ha-landet-i-miami-1.18067228",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Første av sitt slag: Nekter å betale bot etter ulovlig TV-bruk",
+        "kilde": "NRK Nyheter",
+        "tid": "13:16",
+        "lenke": "https://www.nrk.no/buskerud/forste-av-sitt-slag_-nekter-a-betale-bot-etter-ulovlig-tv-bruk-1.18062654",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "The Magnificent Seven er ikke mer. Tid for å velge vinnere og tapere etter hvert som gruppens korrelasjon brytes ned",
+        "kilde": "CNBC Top News",
+        "tid": "13:09",
+        "lenke": "https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Håver inn på trading: Har allerede gruset 2025",
+        "kilde": "E24",
+        "tid": "13:04",
+        "lenke": "https://e24.no/boers-og-finans/i/1ol45K/haaver-inn-paa-trading-har-allerede-gruset-2025?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Bhatti-saken: Aktor ber om 30 års forvaring",
+        "kilde": "NRK Nyheter",
+        "tid": "12:44",
+        "lenke": "https://www.nrk.no/nyheter/bhatti-saken_-aktor-ber-om-30-ars-forvaring-1.18066963",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Sparebank 1 legger ned felles kundesenter",
+        "kilde": "E24",
+        "tid": "12:12",
+        "lenke": "https://e24.no/naeringsliv/i/lKPJvA/sparebank-1-legger-ned-felles-kundesenter-113-ansatte-beroeres?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Christiania Belysning vil drive videre – ni butikker skal avvikles",
+        "kilde": "E24",
+        "tid": "12:03",
+        "lenke": "https://e24.no/naeringsliv/i/ylAApR/christiania-belysning-vil-drive-videre-ni-butikker-skal-avvikles?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Luksuscruise rundt om i verden avsluttes brått når drivstoffkostnadene skyter i været",
+        "kilde": "CNBC Top News",
+        "tid": "11:39",
+        "lenke": "https://www.cnbc.com/2026/10/28/villa-vie-odyssey-fuel-costs.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Krever fortgang fra Skjæran: – Ingen grunn til å vente",
+        "kilde": "E24",
+        "tid": "11:26",
+        "lenke": "https://e24.no/naeringsliv/i/0BRo72/krever-fortgang-fra-skjaeran-ingen-grunn-til-aa-vente?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Investtech-analyse: Kjøp disse aksjene nå",
+        "kilde": "E24",
+        "tid": "11:16",
+        "lenke": "https://e24.no/boers-og-finans/i/Kr5AA4/investtech-analyse-kjoep-disse-aksjene-naa?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Du kan få rett til å finne ut hva kollegene dine tjener - her er hvorfor",
         "kilde": "BBC Business",
         "tid": "10:42",
         "lenke": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Uro i Barcelona: hvordan lage en protest i TikToks tidsalder",
-        "kilde": "Hacker News",
-        "tid": "10:41",
-        "lenke": "https://theconversation.com/barcelona-unrest-how-to-fabricate-a-protest-in-the-age-of-tiktok-295263",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Viser ny side på TV: – Krevjande når du har små barn",
         "kilde": "NRK Nyheter",
         "tid": "10:34",
-        "lenke": "https://www.nrk.no/sport/helt-ramme-sportar_-nicolay-ramm-har-aldri-grate-pa-tv-for-_-ekspert-forklarar-psykologien-bak-1.18048810",
+        "lenke": "https://www.nrk.no/sport/helt-ramme-sporter_-nicolay-ramm-har-aldri-grate-pa-tv-for-_-ekspert-forklarar-psykologien-bak-1.18048810",
         "engelsk_kilde": false
       },
       {
@@ -228,62 +377,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Stellantis rapporterer om et kontantavløp på $ 4,5 milliarder ettersom en massiv snuplan fortsetter",
-        "kilde": "CNBC Top News",
-        "tid": "10:18",
-        "lenke": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Haaland hiv seg på stjerne-trend: – Det smaker som ein låve med høy",
-        "kilde": "NRK Nyheter",
-        "tid": "10:00",
-        "lenke": "https://www.nrk.no/sport/haaland-hiv-seg-pa-stjerne-trend_-_-spelarane-er-fanatiske-1.18061005",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Musks PAC-advokat driver i Texas House-distriktet som er hjemsted for milliardærens forretningsinteresser",
-        "kilde": "CNBC Top News",
-        "tid": "10:00",
-        "lenke": "https://www.cnbc.com/2026/10/28/elon-musk-chris-gober-rourk-texas-10th-congress-election.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Alvorlig arbeidsulykke i Rogfast",
-        "kilde": "NRK Nyheter",
-        "tid": "09:44",
-        "lenke": "https://www.nrk.no/rogaland/alvorlig-arbeidsulykke-i-rogfast-1.18066906",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Vi er i 70-årene. Skal vi nedbetale våre 2,5% boliglån eller bygge opp våre besparelser?",
-        "kilde": "MarketWatch",
-        "tid": "09:15",
-        "lenke": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "TV-selskapene Nick og Vanessa Lachey kuttet prisen på Sør-Californias hjem til $ 7,6 millioner",
-        "kilde": "MarketWatch",
-        "tid": "09:01",
-        "lenke": "https://www.marketwatch.com/story/tvs-nick-and-vanessa-lachey-cut-price-of-southern-california-home-to-7-6-million-24dc3d7a?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Sju personer begjæres fengslet etter fiskeaksjon",
-        "kilde": "NRK Nyheter",
-        "tid": "08:52",
-        "lenke": "https://www.nrk.no/nordland/sju-personer-begjaeres-fengslet-etter-fiskeaksjon-1.18066823",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Ulikhet i rikdom i Amerika trukket til skala",
-        "kilde": "Hacker News",
-        "tid": "08:48",
-        "lenke": "https://dreamagainusa.org/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Fondets etiske flaggskip kan rigges om til en tannløs intern rådgivingsgruppe",
         "kilde": "E24",
         "tid": "08:39",
@@ -291,66 +384,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Oljefondets etikkråd-leder truer med å trekke seg",
-        "kilde": "E24",
-        "tid": "08:39",
-        "lenke": "https://e24.no/boers-og-finans/i/xloGEG/oljefondets-etikkraad-leder-truer-med-aa-trekke-seg?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Spansk avis: Minst ti døde i togkollisjon",
-        "kilde": "NRK Nyheter",
-        "tid": "08:32",
-        "lenke": "https://www.nrk.no/nyheter/spansk-avis_-minst-ti-dode-i-togkollisjon-1.18066770",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Sp snur: Vil stanse nye datasentre",
-        "kilde": "E24",
-        "tid": "08:26",
-        "lenke": "https://e24.no/naeringsliv/i/Pgb846/sp-snur-vil-stanse-nye-datasentre?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Millionforvirring rundt navnet på Glimts nye stadion: – Kanskje det mest problematiske",
-        "kilde": "NRK Nyheter",
-        "tid": "07:28",
-        "lenke": "https://www.nrk.no/nordland/millionforvirring-rundt-navnet-pa-glimts-nye-stadion_-_-kanskje-det-mest-problematiske-1.18058471",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Rekordkvartal for SK Hynix: Vil gi 700 mrd. til aksjonærene",
-        "kilde": "E24",
-        "tid": "07:12",
-        "lenke": "https://e24.no/boers-og-finans/i/El1eoo/rekordkvartal-for-sk-hynix-vil-gi-700-mrd-til-aksjonaerene?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Folketrygdfondet tjente 14,1 milliarder i tredje kvartal",
-        "kilde": "E24",
-        "tid": "07:03",
-        "lenke": "https://e24.no/boers-og-finans/i/MAyGko/folketrygdfondet-tjente-14-1-milliarder-i-tredje-kvartal?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Norwegian tjente 2,5 milliarder kroner",
-        "kilde": "E24",
-        "tid": "06:00",
-        "lenke": "https://e24.no/boers-og-finans/i/El1J9P/norwegian-tjente-2-52-milliarder-kroner-foer-skatt-i-tredje-kvartal?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Slik gjør oljegigantens milliardsuksess lånet ditt dyrere",
-        "kilde": "NRK Nyheter",
-        "tid": "05:46",
-        "lenke": "https://www.nrk.no/rogaland/slik-pavirker-equinors-kvartalsresultat-deg_-oker-lonna_-men-utsetter-rentekuttet-pa-boliglanet-1.18064839",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Git for den amerikanske koden",
-        "kilde": "Hacker News",
-        "tid": "01:47",
-        "lenke": "https://lexifina.com/blog/git-for-the-us-code",
+        "tittel": "Smak Flav, Hillary Clinton veier inn som WNBA tar flak for ukedag lunsjtid finalen spillet",
+        "kilde": "CNBC Top News",
+        "tid": "07:58",
+        "lenke": "https://www.cnbc.com/2026/10/28/wnba-atlanta-dream-golden-state-valkyries-flavor-flav-hillary-clinton-.html",
         "engelsk_kilde": true
       },
       {
@@ -358,41 +395,6 @@
         "kilde": "BBC Business",
         "tid": "00:01",
         "lenke": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Moxnox 1.0: NT-lignende, POSIX-kompatibelt operativsystem som kjører på toppen av Btrfs",
-        "kilde": "Hacker News",
-        "tid": "23:53",
-        "lenke": "https://github.com/maharmstone/moxnox",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Diagram: Anthropics kontanthaug tårner over nesten alle amerikanske selskaper",
-        "kilde": "CNBC Top News",
-        "tid": "23:03",
-        "lenke": "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Overgangen til fasttelefon kan avskjære folk i nødstilfeller, advarte ministeren",
-        "kilde": "BBC Business",
-        "tid": "20:54",
-        "lenke": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Tidlig fremgang med å akselerere legemiddelutvikling med Claude",
-        "kilde": "Hacker News",
-        "tid": "20:50",
-        "lenke": "https://www.anthropic.com/research/early-progress-drug-development",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Minstelønnen settes opp, men 18-20-åringer får ikke større lønnsøkning",
-        "kilde": "BBC Business",
-        "tid": "15:01",
-        "lenke": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ]
