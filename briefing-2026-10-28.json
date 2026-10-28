@@ -1,109 +1,123 @@
 {
   "dato": "2026-10-28",
   "dato_norsk": "Onsdag 28. oktober 2026",
-  "generert_kl": "15:41",
+  "generert_kl": "18:40",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Amerikas største budsjettflyselskap melder om 71% økning i flybillettpriser",
-      "kilde": "CNBC Top News",
-      "tid": "13:50",
-      "lenke": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Storbritannia kutter energiregninger, skattlegger banker og øker forsvaret i høye budsjetter",
-      "kilde": "CNBC Top News",
-      "tid": "15:39",
-      "lenke": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
+      "tittel": "Federal Reserve utsteder FOMC-erklæring",
+      "kilde": "Federal Reserve",
+      "tid": "18:00",
+      "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
       "engelsk_kilde": true
     },
     {
       "tittel": "Din lønn, strømregninger og besparelser: Slik påvirker budsjettet deg",
       "kilde": "BBC Business",
-      "tid": "15:32",
+      "tid": "16:43",
       "lenke": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
       "engelsk_kilde": true
     },
     {
       "tittel": "Budsjett 2026: Oversikt over viktige punkter",
       "kilde": "BBC Business",
-      "tid": "15:37",
+      "tid": "16:55",
       "lenke": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
       "engelsk_kilde": true
     },
     {
-      "tittel": "26 400 sanntidslegitimasjoner funnet ved skanning av 7,25millioner depoter på Kinas Gitee",
-      "kilde": "Hacker News",
-      "tid": "15:31",
-      "lenke": "https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets",
+      "tittel": "Trump bruker tariffer som et \"verktøy for svindel\", sier Raskin i etterspørselen etter donoroppføringer",
+      "kilde": "CNBC Top News",
+      "tid": "17:39",
+      "lenke": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
       "engelsk_kilde": true
+    },
+    {
+      "tittel": "Midlertidig stans av omstridte Meta-endringer for norske mediehus",
+      "kilde": "NRK Nyheter",
+      "tid": "16:57",
+      "lenke": "https://www.nrk.no/nyheter/midlertidig-stans-av-omstridte-meta-endringer-for-norske-mediehus-1.18067443",
+      "engelsk_kilde": false
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "Denne dronen skal spare Equinor for svimlende summer",
+        "tittel": "Midlertidig stans av omstridte Meta-endringer for norske mediehus",
         "kilde": "NRK Nyheter",
-        "tid": "12:00",
-        "lenke": "https://www.nrk.no/rogaland/equinor-apner-testsenteret-knarr-for-roboter-og-undervannsdroner-pa-karsto-1.18066140",
+        "tid": "16:57",
+        "lenke": "https://www.nrk.no/nyheter/midlertidig-stans-av-omstridte-meta-endringer-for-norske-mediehus-1.18067443",
         "engelsk_kilde": false
       }
     ],
     "MAKRO": [
       {
-        "tittel": "Storbritannia kutter energiregninger, skattlegger banker og øker forsvaret i høye budsjetter",
-        "kilde": "CNBC Top News",
-        "tid": "15:39",
-        "lenke": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
+        "tittel": "Federal Reserve utsteder FOMC-erklæring",
+        "kilde": "Federal Reserve",
+        "tid": "18:00",
+        "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
         "engelsk_kilde": true
       },
       {
         "tittel": "Budsjett 2026: Oversikt over viktige punkter",
         "kilde": "BBC Business",
-        "tid": "15:37",
+        "tid": "16:55",
         "lenke": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
         "tittel": "Din lønn, strømregninger og besparelser: Slik påvirker budsjettet deg",
         "kilde": "BBC Business",
-        "tid": "15:32",
+        "tid": "16:43",
         "lenke": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Amerikas største budsjettflyselskap melder om 71% økning i flybillettpriser",
-        "kilde": "CNBC Top News",
-        "tid": "13:50",
-        "lenke": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
         "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "Disse programvareaksjene kan bli vinnere etter hvert som inntektssesongen starter i høyt gir",
-        "kilde": "MarketWatch",
-        "tid": "15:06",
-        "lenke": "https://www.marketwatch.com/story/these-software-stocks-could-be-winners-as-earnings-season-kicks-into-high-gear-8decddf7?mod=mw_rss_topstories",
+        "tittel": "Se live: Valghandlere bryter ned en massiv alfabethandel til inntekter",
+        "kilde": "CNBC Top News",
+        "tid": "17:56",
+        "lenke": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
         "engelsk_kilde": true
       },
       {
         "tittel": "Vertiv-inntekter sendte nettopp et optimistisk signal om AI i forkant av Big Tech-resultater",
         "kilde": "MarketWatch",
-        "tid": "15:01",
+        "tid": "17:44",
         "lenke": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Stellantis-aksjen øker med 12% etter hvert som bilprodusentens turnaround-plan, kostnadsreduksjoner gir bedre trekkraft",
-        "kilde": "CNBC Top News",
-        "tid": "13:48",
-        "lenke": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
+        "tittel": "Lagerbeholdninger i helsevesenet er på sitt største hot streak på en generasjon. Tenk deg om to ganger før du jager rallyet.",
+        "kilde": "MarketWatch",
+        "tid": "16:49",
+        "lenke": "https://www.marketwatch.com/story/healthcare-stocks-are-on-their-biggest-hot-streak-in-a-generation-think-twice-before-chasing-the-rally-a043adfe?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Wall Street blandet: bilaksje spretter 14 prosent",
+        "tittel": "Alfabet satt til å rapportere Q3 inntjening etter klokken som vaklende AI handel ser etter tegn på styrke",
+        "kilde": "CNBC Top News",
+        "tid": "16:33",
+        "lenke": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bullish på Anthropic, men vil ikke vente til børsnoteringen? Slik kan du investere i dag.",
+        "kilde": "MarketWatch",
+        "tid": "16:13",
+        "lenke": "https://www.marketwatch.com/story/bullish-on-anthropic-but-dont-want-to-wait-until-the-ipo-heres-how-you-can-invest-today-c5cb329e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Microns aksjer stiger etter SK Hynix inntjening. Her er den neste store testen.",
+        "kilde": "MarketWatch",
+        "tid": "16:03",
+        "lenke": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Wall Street lite endret etter Fed-beslutning",
         "kilde": "E24",
         "tid": "13:31",
         "lenke": "https://e24.no/boers-og-finans/i/gdM4La/wall-street-aapner-opp?utm_medium=rss",
@@ -111,13 +125,6 @@
       }
     ],
     "ENERGI_RAAVARER": [
-      {
-        "tittel": "Oppvarming av hjemmet ditt med olje kan koste $ 750 mer denne vinteren. Les dette før du betaler prisen.",
-        "kilde": "MarketWatch",
-        "tid": "15:03",
-        "lenke": "https://www.marketwatch.com/story/heating-your-home-with-oil-could-cost-750-more-this-winter-read-this-before-you-pay-the-price-e39f0d52?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
       {
         "tittel": "Europeisk gasspris i 100",
         "kilde": "E24",
@@ -128,41 +135,153 @@
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Her er hvilke alternativer tradere ser før Alphabet, Microsoft rapporterer etter klokken",
+        "tittel": "Apple gir berøring til Mac, og reverserer år gammel holdning på berøringsskjerm bærbar PC",
         "kilde": "CNBC Top News",
-        "tid": "15:12",
-        "lenke": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
+        "tid": "17:29",
+        "lenke": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Tesla Semi tar fyr på I-880",
-        "kilde": "Hacker News",
-        "tid": "14:54",
-        "lenke": "https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/",
+        "tittel": "– SpaceX har åpnet mange nye dører",
+        "kilde": "E24",
+        "tid": "16:34",
+        "lenke": "https://e24.no/boers-og-finans/i/qy9ojz/spacex-har-aapnet-mange-nye-doerer?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Microsofts inntekter vil lande etter stengetidspunktet",
+        "kilde": "CNBC Top News",
+        "tid": "16:00",
+        "lenke": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
         "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "26 400 sanntidslegitimasjoner funnet ved skanning av 7,25millioner depoter på Kinas Gitee",
-        "kilde": "Hacker News",
-        "tid": "15:31",
-        "lenke": "https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kinas familier forsørger nå flere eldre enn barn",
-        "kilde": "BBC Business",
-        "tid": "23:16",
-        "lenke": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
+        "tittel": "Trump bruker tariffer som et \"verktøy for svindel\", sier Raskin i etterspørselen etter donoroppføringer",
+        "kilde": "CNBC Top News",
+        "tid": "17:39",
+        "lenke": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
         "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
       {
+        "tittel": "Jeg planlegger en tur til Europa. Er det dumt å ta reisetips fra influencere?",
+        "kilde": "MarketWatch",
+        "tid": "18:30",
+        "lenke": "https://www.marketwatch.com/story/im-planning-a-trip-to-europe-is-it-dumb-to-take-travel-advice-from-influencers-f25ae756?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Skatteterskler forblir uendret - her er hva det betyr for lønnen din",
+        "kilde": "BBC Business",
+        "tid": "18:12",
+        "lenke": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Melding om mulig skyting i Drammen",
+        "kilde": "NRK Nyheter",
+        "tid": "18:06",
+        "lenke": "https://www.nrk.no/nyheter/melding-om-mulig-skyting-i-drammen-1.18067450",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "USA holder renten uendret: – Inflasjonen er fortsatt høy",
+        "kilde": "E24",
+        "tid": "18:00",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/oKr43a/usa-holder-renten-uendret?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Healey forteller avdelinger å gjøre 1% kutt for å finansiere forsvaret",
+        "kilde": "BBC Business",
+        "tid": "17:52",
+        "lenke": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Får jeg energibetalingen på £ 100, og når får jeg den?",
+        "kilde": "BBC Business",
+        "tid": "17:47",
+        "lenke": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Dharshini David: Healey kjøper seg litt tid, men store spørsmål er fortsatt ubesvarte",
+        "kilde": "BBC Business",
+        "tid": "17:32",
+        "lenke": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Wendys utkjøpstilbud antyder at burgerkjedens overhaling kan bli svært kostbar",
+        "kilde": "MarketWatch",
+        "tid": "17:24",
+        "lenke": "https://www.marketwatch.com/story/wendys-buyout-offer-suggests-the-burger-chains-overhaul-could-be-very-expensive-ff2c92bb?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvorfor lager dette fingeravtrykksskriptet biovåpen?",
+        "kilde": "Hacker News",
+        "tid": "17:13",
+        "lenke": "https://nullpt.rs/fingerprinting-bioweapons",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "MacBook Pro med PROLED XDR-skjerm og berøring",
+        "kilde": "Hacker News",
+        "tid": "17:10",
+        "lenke": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vis HN: SlideBySide – presentere lysbilder uten å dele skjermen",
+        "kilde": "Hacker News",
+        "tid": "17:07",
+        "lenke": "https://slidebyside.com/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Gemini 4 Carbon",
+        "kilde": "Hacker News",
+        "tid": "17:01",
+        "lenke": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Converge (YC S23) ansetter en grunnleggende plattformingeniør",
+        "kilde": "Hacker News",
+        "tid": "17:00",
+        "lenke": "https://www.runconverge.com/careers/founding-platform-engineer",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Den amerikanske regjeringen vil ikke lenger straffe amerikanske selskaper for å lage seks populære peptider",
+        "kilde": "MarketWatch",
+        "tid": "16:57",
+        "lenke": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bekymret for utviklingen i sentrum – bibliotekene ruster seg for overdoser",
+        "kilde": "NRK Nyheter",
+        "tid": "16:38",
+        "lenke": "https://www.nrk.no/nordland/bibliotekene-sliter-med-rusavhengige-gjester.-de-ansatte-har-tatt-kurs-for-a-takle-vold-1.18062213",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Tingretten avviser forsøk på oppheve arrest av russisk skip på Svalbard",
+        "kilde": "NRK Nyheter",
+        "tid": "16:13",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/tingretten-avviser-forsok-pa-oppheve-arrest-av-russisk-skip-pa-svalbard-1.18067423",
+        "engelsk_kilde": false
+      },
+      {
         "tittel": "Minst 68 mennesker omkom i høyhastighets togulykke i Spania",
         "kilde": "CNBC Top News",
-        "tid": "15:40",
+        "tid": "15:41",
         "lenke": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
         "engelsk_kilde": true
       },
@@ -171,13 +290,6 @@
         "kilde": "MarketWatch",
         "tid": "15:36",
         "lenke": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "3 grunner til at boligprisene fortsetter å stige, selv om færre kjøper",
-        "kilde": "MarketWatch",
-        "tid": "15:33",
-        "lenke": "https://www.marketwatch.com/story/3-reasons-why-home-prices-keep-going-up-even-though-fewer-people-are-buying-9afa6106?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -202,34 +314,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Mannen min vil selge hjemmet vårt for 1,5 millioner $ og redusere det. Men det er her vi oppdro barna våre — og jeg orker ikke å dra.",
-        "kilde": "MarketWatch",
-        "tid": "15:15",
-        "lenke": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "McDonald's nye veddemål på kylling treffer en hake som franchisetakere sier fuglene er for store",
-        "kilde": "MarketWatch",
-        "tid": "15:15",
-        "lenke": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Det eneste kansleren ikke nevnte som vil påvirke lønnen din",
-        "kilde": "BBC Business",
-        "tid": "15:11",
-        "lenke": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "FEC-kampanjefinansieringssystem frakoblet dager før midterms etter at hackere angivelig målretter mot nettstedet",
-        "kilde": "CNBC Top News",
-        "tid": "15:09",
-        "lenke": "https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Grønt lys fra regjeringen: Tromsø, Vågan og Stranda får innføre besøksbidrag",
         "kilde": "NRK Nyheter",
         "tid": "15:00",
@@ -244,38 +328,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Kona mi gråt da jeg fant ut at hun bare hadde $ 80 000 i 401(k). Jeg har 2,2 millioner $. Er det galt av meg å bli sjokkert?",
-        "kilde": "MarketWatch",
-        "tid": "14:45",
-        "lenke": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "CNC steinutskjæring",
-        "kilde": "Hacker News",
-        "tid": "14:38",
-        "lenke": "https://carmelitegothic.com/cnc-stone-carving/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Wendys aksjer hopper 15% da Nelson Peltzs Trian tilbyr $ 1,4 milliarder for å kjøpe burgerkjede",
         "kilde": "CNBC Top News",
         "tid": "14:35",
         "lenke": "https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "AlpineBSD",
-        "kilde": "Hacker News",
-        "tid": "14:30",
-        "lenke": "https://wiki.alpinebsd.org",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "En arkitektonisk sammenligning av Obsidian Canvas og Heptabase",
-        "kilde": "Hacker News",
-        "tid": "14:24",
-        "lenke": "https://www.fluxlinks.com/blog/obsidian-canvas-vs-heptabase",
         "engelsk_kilde": true
       },
       {
@@ -293,13 +349,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Første av sitt slag: Nekter å betale bot etter ulovlig TV-bruk",
-        "kilde": "NRK Nyheter",
-        "tid": "13:16",
-        "lenke": "https://www.nrk.no/buskerud/forste-av-sitt-slag_-nekter-a-betale-bot-etter-ulovlig-tv-bruk-1.18062654",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "The Magnificent Seven er ikke mer. Tid for å velge vinnere og tapere etter hvert som gruppens korrelasjon brytes ned",
         "kilde": "CNBC Top News",
         "tid": "13:09",
@@ -311,13 +360,6 @@
         "kilde": "E24",
         "tid": "13:04",
         "lenke": "https://e24.no/boers-og-finans/i/1ol45K/haaver-inn-paa-trading-har-allerede-gruset-2025?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Bhatti-saken: Aktor ber om 30 års forvaring",
-        "kilde": "NRK Nyheter",
-        "tid": "12:44",
-        "lenke": "https://www.nrk.no/nyheter/bhatti-saken_-aktor-ber-om-30-ars-forvaring-1.18066963",
         "engelsk_kilde": false
       },
       {
@@ -346,41 +388,6 @@
         "kilde": "E24",
         "tid": "11:26",
         "lenke": "https://e24.no/naeringsliv/i/0BRo72/krever-fortgang-fra-skjaeran-ingen-grunn-til-aa-vente?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Investtech-analyse: Kjøp disse aksjene nå",
-        "kilde": "E24",
-        "tid": "11:16",
-        "lenke": "https://e24.no/boers-og-finans/i/Kr5AA4/investtech-analyse-kjoep-disse-aksjene-naa?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Du kan få rett til å finne ut hva kollegene dine tjener - her er hvorfor",
-        "kilde": "BBC Business",
-        "tid": "10:42",
-        "lenke": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Viser ny side på TV: – Krevjande når du har små barn",
-        "kilde": "NRK Nyheter",
-        "tid": "10:34",
-        "lenke": "https://www.nrk.no/sport/helt-ramme-sporter_-nicolay-ramm-har-aldri-grate-pa-tv-for-_-ekspert-forklarar-psykologien-bak-1.18048810",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Luksuscruisepassasjerer strandet i Kambodsja på grunn av skyhøye drivstoffkost",
-        "kilde": "BBC Business",
-        "tid": "10:31",
-        "lenke": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Fondets etiske flaggskip kan rigges om til en tannløs intern rådgivingsgruppe",
-        "kilde": "E24",
-        "tid": "08:39",
-        "lenke": "https://e24.no/norsk-oekonomi/i/OgKGmE/oljefondets-etiske-flaggskip-kan-rigges-om-til-en-tannloes-intern-raadgivingsgruppe?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
