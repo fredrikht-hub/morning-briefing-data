@@ -1,47 +1,54 @@
 {
-  "dato": "2026-10-30",
-  "dato_norsk": "Fredag 30. oktober 2026",
-  "generert_kl": "21:10",
+  "dato": "2026-10-31",
+  "dato_norsk": "Lørdag 31. oktober 2026",
+  "generert_kl": "00:34",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Trump-administrasjonen forsinker ulovlig studentgjeldsettergivelse for titusenvis av offentlig ansatte, hevder søksmål",
-      "kilde": "MarketWatch",
-      "tid": "20:23",
-      "lenke": "https://www.marketwatch.com/story/trump-administration-is-illegally-delaying-student-debt-forgiveness-for-tens-of-thousands-of-public-servants-lawsuit-alleges-e4d31e59?mod=mw_rss_topstories",
+      "tittel": "Jim Cramer sier det er på tide å se utover teknologi. Her er 4 forbrukeraksjer han liker",
+      "kilde": "CNBC Top News",
+      "tid": "22:52",
+      "lenke": "https://www.cnbc.com/2026/10/30/jim-cramer-consumer-staples-stocks.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "I en vill oktober for markedene var disse aksjene de største vinnerne og taperne",
+      "tittel": "Har teknologiboblen sprukket? Hvorfor Nasdaqs tøffe tur ser uhyggelig ut som 2000.",
       "kilde": "MarketWatch",
-      "tid": "20:52",
-      "lenke": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
+      "tid": "23:14",
+      "lenke": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Reddits aksjer logger det største endagsfallet noensinne. Det er ikke den siste dårlige nyheten, sier analytikere.",
+      "tittel": "Denne nettsikkerhetsaksjen vil være den neste til å bli med i S&P 500",
       "kilde": "MarketWatch",
-      "tid": "20:42",
-      "lenke": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
+      "tid": "22:20",
+      "lenke": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Selgingen i tech-aksjer går over i overdrive",
-      "kilde": "MarketWatch",
-      "tid": "20:26",
-      "lenke": "https://www.marketwatch.com/story/the-selloff-in-tech-stocks-is-shifting-into-overdrive-afb50975?mod=mw_rss_topstories",
+      "tittel": "Antropisk for å motta høy \"søppel\" -vurdering fra kredittbyråer etter børsnotering",
+      "kilde": "Hacker News",
+      "tid": "23:08",
+      "lenke": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Amerikanske tech-aksjer ser kraftige fall når AI-utgiftene nærmer seg $ 1 tn",
-      "kilde": "BBC Business",
-      "tid": "20:34",
-      "lenke": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "tittel": "Valg i Alaska-senatet: Justisdepartementet ønsker å \"segregere\" alle stemmesedler for andre Sullivan-kandidat",
+      "kilde": "CNBC Top News",
+      "tid": "22:57",
+      "lenke": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
+      {
+        "tittel": "Nye Oslo-sykehus blir stadig dyrere - kan koste nesten 70 milliarder",
+        "kilde": "NRK Nyheter",
+        "tid": "21:24",
+        "lenke": "https://www.nrk.no/stor-oslo/nye-oslo-sykehus-blir-stadig-dyrere---kan-koste-nesten-70-milliarder-1.17653404",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Christian Ringnes om norsk økonomi: – Går en dyster fremtid i møte",
         "kilde": "E24",
@@ -75,6 +82,34 @@
     ],
     "MARKEDER": [
       {
+        "tittel": "Har teknologiboblen sprukket? Hvorfor Nasdaqs tøffe tur ser uhyggelig ut som 2000.",
+        "kilde": "MarketWatch",
+        "tid": "23:14",
+        "lenke": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Antropisk for å motta høy \"søppel\" -vurdering fra kredittbyråer etter børsnotering",
+        "kilde": "Hacker News",
+        "tid": "23:08",
+        "lenke": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jim Cramer sier det er på tide å se utover teknologi. Her er 4 forbrukeraksjer han liker",
+        "kilde": "CNBC Top News",
+        "tid": "22:52",
+        "lenke": "https://www.cnbc.com/2026/10/30/jim-cramer-consumer-staples-stocks.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Denne nettsikkerhetsaksjen vil være den neste til å bli med i S&P 500",
+        "kilde": "MarketWatch",
+        "tid": "22:20",
+        "lenke": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "I en vill oktober for markedene var disse aksjene de største vinnerne og taperne",
         "kilde": "MarketWatch",
         "tid": "20:52",
@@ -103,18 +138,20 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Selgingen i tech-aksjer går over i overdrive",
-        "kilde": "MarketWatch",
-        "tid": "20:26",
-        "lenke": "https://www.marketwatch.com/story/the-selloff-in-tech-stocks-is-shifting-into-overdrive-afb50975?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Kraftig AI-knekk på Wall Street: – Det markedet har fryktet",
         "kilde": "E24",
         "tid": "08:33",
         "lenke": "https://e24.no/boers-og-finans/i/jvq2X0/ai-ras-paa-boersene-stiller-spoersmaal-ved-avkastningen?utm_medium=rss",
         "engelsk_kilde": false
+      }
+    ],
+    "ENERGI_RAAVARER": [
+      {
+        "tittel": "Hvorfor gullet falt til sin laveste pris på et år til tross for fornyet iransk nervøsitet",
+        "kilde": "MarketWatch",
+        "tid": "21:30",
+        "lenke": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
+        "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
@@ -138,28 +175,14 @@
         "tid": "20:29",
         "lenke": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "AMDs aksjeskjermer etter inntjeningen fra Intel avslører to store problemer",
-        "kilde": "MarketWatch",
-        "tid": "20:28",
-        "lenke": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Etter Intels historiske aksjefall sier analytikere at det ikke er noen grunn til å kjøpe nedgangen",
-        "kilde": "MarketWatch",
-        "tid": "20:23",
-        "lenke": "https://www.marketwatch.com/story/after-intels-historic-stock-drop-analysts-say-theres-no-reason-to-buy-the-dip-068446af?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Trump-administrasjonen forsinker ulovlig studentgjeldsettergivelse for titusenvis av offentlig ansatte, hevder søksmål",
-        "kilde": "MarketWatch",
-        "tid": "20:23",
-        "lenke": "https://www.marketwatch.com/story/trump-administration-is-illegally-delaying-student-debt-forgiveness-for-tens-of-thousands-of-public-servants-lawsuit-alleges-e4d31e59?mod=mw_rss_topstories",
+        "tittel": "Valg i Alaska-senatet: Justisdepartementet ønsker å \"segregere\" alle stemmesedler for andre Sullivan-kandidat",
+        "kilde": "CNBC Top News",
+        "tid": "22:57",
+        "lenke": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
         "engelsk_kilde": true
       },
       {
@@ -168,21 +191,70 @@
         "tid": "18:32",
         "lenke": "https://www.cnbc.com/2026/10/30/reid-hoffman-democrats-epstein-midterms-2026.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Spill på demokrati: På innsiden av mistenkelige valgkontrakter handler du på prediksjonsmarkeder",
-        "kilde": "CNBC Top News",
-        "tid": "15:33",
-        "lenke": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
-        "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
       {
-        "tittel": "Kriminell etterforskning av Alaska Senatets rase er \"pågående\", sier statsadvokaten",
+        "tittel": "Vis HN: For å hedre Sir Patrick Stewart, nyt TNG Episode Guessing Game",
+        "kilde": "Hacker News",
+        "tid": "23:51",
+        "lenke": "https://tng.episodle.com/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Meta outlook revidert ned av S&P på kontantstrøm og capex bekymringer",
         "kilde": "CNBC Top News",
-        "tid": "20:46",
-        "lenke": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+        "tid": "22:42",
+        "lenke": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Linode sikkerhetshendelse",
+        "kilde": "Hacker News",
+        "tid": "21:57",
+        "lenke": "https://status.linode.com/incidents/nt58zhx3pmgm",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Binance taper $ 6,3 milliarder i kryptokupp - hva skjer med pengene dine når en børs blir hacket",
+        "kilde": "CNBC Top News",
+        "tid": "21:45",
+        "lenke": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "– Kan ikke noen bare si noe fint om meg?",
+        "kilde": "NRK Nyheter",
+        "tid": "21:38",
+        "lenke": "https://www.nrk.no/sport/zlatko-tripic-slar-tilbake-etter-kritikken-1.18069878",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "sanstun: En sans-IO, parallellvennlig WireGuard-implementering i Rust",
+        "kilde": "Hacker News",
+        "tid": "21:30",
+        "lenke": "https://www.firezone.dev/blog/introducing-sanstun",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Warsh vil at Fed skal si mindre. To tjenestemenn presser på for mer åpenhet.",
+        "kilde": "MarketWatch",
+        "tid": "21:23",
+        "lenke": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "AO3 ned for vedlikehold",
+        "kilde": "Hacker News",
+        "tid": "21:17",
+        "lenke": "https://www.otwstatus.org",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kryptogiganten Binance forsøker å gjenopprette $ 6,3 milliarder stjålet i hack knyttet til Nord-Korea",
+        "kilde": "BBC Business",
+        "tid": "21:13",
+        "lenke": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
@@ -191,48 +263,6 @@
         "tid": "20:39",
         "lenke": "https://e24.no/internasjonal-oekonomi/i/1o2k7J/nord-korea-faar-skylden-etter-milliardkupp?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Gjennom kaptein Jean-Luc Picard lærte Patrick Stewart oss å måle en mann",
-        "kilde": "Hacker News",
-        "tid": "20:23",
-        "lenke": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Embraers Atech har som mål å doble størrelsen innen 2030 med dronetrafikkontroll",
-        "kilde": "Hacker News",
-        "tid": "20:18",
-        "lenke": "https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Programmering ved lyshastighet: Bygge Gravity Query Engine",
-        "kilde": "Hacker News",
-        "tid": "20:18",
-        "lenke": "https://pgrust.com/blog/programming-at-light-speed/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Produktsjefer er heller ikke trygge",
-        "kilde": "Hacker News",
-        "tid": "20:14",
-        "lenke": "https://lucaskostka.com/posts/ai-challenges-more-than-devs",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kryptogiganten Binance forsøker å gjenopprette $ 6,3 milliarder stjålet i hack knyttet til Nord-Korea",
-        "kilde": "BBC Business",
-        "tid": "20:10",
-        "lenke": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vis HN: Automatisk fradrag av FlashAttention-kjerne fra ~25 linjer med SQL",
-        "kilde": "Hacker News",
-        "tid": "20:09",
-        "lenke": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py",
-        "engelsk_kilde": true
       },
       {
         "tittel": "'Dårlig tid til trolling': Binance-grunnlegger Zhao ber Musk om støtte etter hacking",
@@ -247,13 +277,6 @@
         "tid": "19:58",
         "lenke": "https://www.nrk.no/sport/bodo_glimt-viking-i-seriefinalen-1.18069832",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Binance taper $ 6,3 milliarder i kryptokupp - hva skjer med pengene dine når en børs blir hacket",
-        "kilde": "CNBC Top News",
-        "tid": "19:39",
-        "lenke": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Binance-hack: Etterforskere i et \"katt og mus-spill\" for å gjenvinne $ 6,3 milliarder i stjålne midler",
@@ -291,20 +314,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Mann fraktet til sykehus med skuddskade",
-        "kilde": "NRK Nyheter",
-        "tid": "18:24",
-        "lenke": "https://www.nrk.no/innlandet/mann-fraktet-til-sykehus-med-skuddskade-1.18069804",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Hvorfor bitcoin holdt seg bedre etter Binance-hacket",
-        "kilde": "CNBC Top News",
-        "tid": "18:07",
-        "lenke": "https://www.cnbc.com/2026/10/30/binance-hack-bitcoin-price.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "City of London sjefstopp UK Black Powerlist",
         "kilde": "BBC Business",
         "tid": "18:00",
@@ -319,18 +328,18 @@
         "engelsk_kilde": false
       },
       {
+        "tittel": "Halloween blir dyrere etter hvert som sjokoladekostnadene stiger — Hershey kan føle klypen",
+        "kilde": "CNBC Top News",
+        "tid": "16:55",
+        "lenke": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Yorkshire Water-sjef går av etter at firmaet nedgraderte",
         "kilde": "BBC Business",
         "tid": "16:04",
         "lenke": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Enorm kort-forskjell mellom Glimt og Viking: – Absurde tall",
-        "kilde": "NRK Nyheter",
-        "tid": "14:08",
-        "lenke": "https://www.nrk.no/nordland/enorm-forskjell-mellom-glimt-og-viking_-_-absurde-tall-1.18069165",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Feil medisin for leiemarkedet",
@@ -354,10 +363,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Gen Z dropper barer for løpeklubber — og finner mer enn venner underveis",
-        "kilde": "CNBC Top News",
-        "tid": "10:32",
-        "lenke": "https://www.cnbc.com/2026/10/30/gen-z-diplo-run-club.html",
+        "tittel": "Streeting benekter \"sparker kan nedover veien\" i forsvaret utgifter rad",
+        "kilde": "BBC Business",
+        "tid": "11:23",
+        "lenke": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
@@ -386,13 +395,6 @@
         "kilde": "BBC Business",
         "tid": "06:08",
         "lenke": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Fra Levi's til Primark - motekjedene som selger reparerte klær",
-        "kilde": "BBC Business",
-        "tid": "00:00",
-        "lenke": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ]
