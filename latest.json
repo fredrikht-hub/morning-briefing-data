@@ -1,14 +1,35 @@
 {
   "dato": "2026-10-31",
   "dato_norsk": "Lørdag 31. oktober 2026",
-  "generert_kl": "17:31",
+  "generert_kl": "20:20",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "S&P 500 er ikke den store vinneren du kanskje tror det er",
-      "kilde": "MarketWatch",
-      "tid": "14:54",
-      "lenke": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
+      "tittel": "Trump saksøker Murdoch, WSJ for Epstein brev avvist med fordommer",
+      "kilde": "CNBC Top News",
+      "tid": "20:10",
+      "lenke": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Fyrer løs mot Trump på Times Square",
+      "kilde": "NRK Nyheter",
+      "tid": "18:35",
+      "lenke": "https://www.nrk.no/norge/driter-ut-trump-pa-times-square-1.18070212",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "SpaceX taper bud om å kaste NAACP søksmål over Memphis datasenter luftforurensning",
+      "kilde": "CNBC Top News",
+      "tid": "20:12",
+      "lenke": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "OpenAI pares innsamlingsmål, nå søker opptil $ 20 milliarder i siste runde",
+      "kilde": "CNBC Top News",
+      "tid": "19:56",
+      "lenke": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
       "engelsk_kilde": true
     },
     {
@@ -16,27 +37,6 @@
       "kilde": "CNBC Top News",
       "tid": "12:49",
       "lenke": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "SpaceX vil møte Norge om Starlink Mobile",
-      "kilde": "E24",
-      "tid": "13:04",
-      "lenke": "https://e24.no/boers-og-finans/i/xl6oap/spacex-vil-moete-norge-om-starlink-mobile?utm_medium=rss",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Søndag blir månedskortet billigere nok en gang – enkeltbilletten er like dyr",
-      "kilde": "NRK Nyheter",
-      "tid": "11:05",
-      "lenke": "https://www.nrk.no/stor-oslo/sondag-blir-manedskortet-enda-billigere-_-enkeltbilletten-er-like-dyr-1.18067233",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Binance sier at 90% av hacketapene på $ 6,3 milliarder nå er dekket, og planlegger å gjenoppta uttak søndag",
-      "kilde": "CNBC Top News",
-      "tid": "16:06",
-      "lenke": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
       "engelsk_kilde": true
     }
   ],
@@ -48,23 +48,9 @@
         "tid": "13:04",
         "lenke": "https://e24.no/boers-og-finans/i/xl6oap/spacex-vil-moete-norge-om-starlink-mobile?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Søndag blir månedskortet billigere nok en gang – enkeltbilletten er like dyr",
-        "kilde": "NRK Nyheter",
-        "tid": "11:05",
-        "lenke": "https://www.nrk.no/stor-oslo/sondag-blir-manedskortet-enda-billigere-_-enkeltbilletten-er-like-dyr-1.18067233",
-        "engelsk_kilde": false
       }
     ],
     "MARKEDER": [
-      {
-        "tittel": "S&P 500 er ikke den store vinneren du kanskje tror det er",
-        "kilde": "MarketWatch",
-        "tid": "14:54",
-        "lenke": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
       {
         "tittel": "Anthropics vei til Nasdaq ble akkurat mye mer ujevn",
         "kilde": "CNBC Top News",
@@ -96,12 +82,42 @@
         "engelsk_kilde": false
       }
     ],
+    "TEKNOLOGI": [
+      {
+        "tittel": "SpaceX taper bud om å kaste NAACP søksmål over Memphis datasenter luftforurensning",
+        "kilde": "CNBC Top News",
+        "tid": "20:12",
+        "lenke": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "OpenAI pares innsamlingsmål, nå søker opptil $ 20 milliarder i siste runde",
+        "kilde": "CNBC Top News",
+        "tid": "19:56",
+        "lenke": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
+        "engelsk_kilde": true
+      }
+    ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Kryptobransjen pøser mer enn $ 200 millioner inn i 2026 midterms for å presse kongressen på gunstige regler",
+        "tittel": "Trump saksøker Murdoch, WSJ for Epstein brev avvist med fordommer",
         "kilde": "CNBC Top News",
-        "tid": "13:04",
-        "lenke": "https://www.cnbc.com/2026/10/31/crypto-industry-spends-more-than-200-million-to-sway-the-midterms.html",
+        "tid": "20:10",
+        "lenke": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fyrer løs mot Trump på Times Square",
+        "kilde": "NRK Nyheter",
+        "tid": "18:35",
+        "lenke": "https://www.nrk.no/norge/driter-ut-trump-pa-times-square-1.18070212",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Qatariske meklere holdt samtaler i Teheran med sikte på å gjenoppta direkte forhandlinger mellom USA og Iran, sier kilden",
+        "kilde": "CNBC Top News",
+        "tid": "13:47",
+        "lenke": "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
         "engelsk_kilde": true
       },
       {
@@ -110,16 +126,114 @@
         "tid": "12:49",
         "lenke": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Spill på demokrati: På innsiden av mistenkelige valgkontrakter handler du på prediksjonsmarkeder",
-        "kilde": "CNBC Top News",
-        "tid": "22:00",
-        "lenke": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
-        "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "Min voldelige eksmann lovte $ 20 000 for våre barns utdannelse. Nå nekter han å betale. Er han juridisk forpliktet?",
+        "kilde": "MarketWatch",
+        "tid": "20:15",
+        "lenke": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Væpna menn tok seg inn om natta",
+        "kilde": "NRK Nyheter",
+        "tid": "19:49",
+        "lenke": "https://www.nrk.no/vestland/vaepna-personar-tok-seg-inn-om-natta-pa-privat-adresse-i-kvam-1.18070306",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "‘Prangende smykker og fancy biler har ingen appell’: Vi har en 99% sjanse for å overleve våre livsbesparelser. Hvorfor ikke bruke alt?",
+        "kilde": "MarketWatch",
+        "tid": "19:30",
+        "lenke": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vis HN: Nes Contra (1987) -port (ASM –> C og deretter C –> WebAsċ)",
+        "kilde": "Hacker News",
+        "tid": "19:18",
+        "lenke": "https://epoyraz.github.io/nes-contra-us/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "TCP-bruk etter frigjøring: CVE-2026-98432 / CVSS 9.8",
+        "kilde": "Hacker News",
+        "tid": "19:16",
+        "lenke": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Binance sier at 90% av hacketapene på $ 6,3 milliarder nå er dekket, og planlegger å gjenoppta uttak søndag",
+        "kilde": "CNBC Top News",
+        "tid": "19:16",
+        "lenke": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "En lærdes plikt",
+        "kilde": "Hacker News",
+        "tid": "19:07",
+        "lenke": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Det er her de fleste går galt i 30- og 40-årene",
+        "kilde": "MarketWatch",
+        "tid": "19:02",
+        "lenke": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vi er i 70-årene. Skal vi nedbetale våre 2,5% boliglån — eller sette pengene inn på en sparekonto med høy avkastning?",
+        "kilde": "MarketWatch",
+        "tid": "19:00",
+        "lenke": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "GPT-5.6 sol kan slå Factorio i fredelig modus",
+        "kilde": "Hacker News",
+        "tid": "18:50",
+        "lenke": "https://ryanmadden.net/gpt-56-beats-factorio/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Han var knust’: Min manns barn forlot ham da han var døende. Var det riktig av ham å overlate alt til meg?",
+        "kilde": "MarketWatch",
+        "tid": "18:50",
+        "lenke": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Det er minneforsinkelsen, dumme",
+        "kilde": "Hacker News",
+        "tid": "18:38",
+        "lenke": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Er det gardiner for COLA? Å spare trygd kan bety å endre levekostnadsjusteringen.",
+        "kilde": "MarketWatch",
+        "tid": "18:33",
+        "lenke": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Omsorgspersoner bruker nå mer enn $ 11 000 i året ut av lommen 60% på fem år",
+        "kilde": "MarketWatch",
+        "tid": "18:10",
+        "lenke": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Senterpartiet til Aasland: – Slutt å grine",
+        "kilde": "E24",
+        "tid": "17:59",
+        "lenke": "https://e24.no/norsk-oekonomi/i/xlqM8X/senterpartiet-til-aasland-slutt-aa-grine?utm_medium=rss",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Medicare brukte AI til å forhåndsgodkjenne pasientbehandling, og det førte umiddelbart til et stort fall i medisinske tjenester",
         "kilde": "MarketWatch",
@@ -135,81 +249,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "80% av arbeiderne gjør denne 401(k)  feilen når de går av med pensjon",
-        "kilde": "MarketWatch",
-        "tid": "16:46",
-        "lenke": "https://www.marketwatch.com/story/whats-the-first-thing-most-people-do-with-their-401-k-after-they-retire-nothing-8a606518?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "22. juli minnesmerke utsett for hærverk",
         "kilde": "NRK Nyheter",
         "tid": "16:41",
         "lenke": "https://www.nrk.no/vestland/22.-juli-minnesmerke-pa-askoy-utsett-for-haerverk-1.18070228",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Vis HN: Jointter – Et daglig ordpuslespill med prikker og linjer",
-        "kilde": "Hacker News",
-        "tid": "16:24",
-        "lenke": "https://www.jointter.com/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Opplysning 0,28 utgitt med mange forbedringer",
-        "kilde": "Hacker News",
-        "tid": "16:22",
-        "lenke": "https://www.phoronix.com/news/Enlightenment-0.28",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "A/SIDE – Privat bildedeling og krypterte meldinger",
-        "kilde": "Hacker News",
-        "tid": "16:16",
-        "lenke": "https://a-side.social/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hva er en lys dag? Milepælen Voyager 1 nærmer seg",
-        "kilde": "Hacker News",
-        "tid": "16:09",
-        "lenke": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Binance sier at 90% av hacketapene på $ 6,3 milliarder nå er dekket, og planlegger å gjenoppta uttak søndag",
-        "kilde": "CNBC Top News",
-        "tid": "16:06",
-        "lenke": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vil du ha garantert inntekt i pensjon uten livrente? Prøv laddering I obligasjoner.",
-        "kilde": "MarketWatch",
-        "tid": "16:02",
-        "lenke": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Casio-klokker fra 1980-tallet",
-        "kilde": "Hacker News",
-        "tid": "16:00",
-        "lenke": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vi er i 70-årene. Skal vi nedbetale våre 2,5% boliglån — eller sette pengene inn på en sparekonto med høy avkastning?",
-        "kilde": "MarketWatch",
-        "tid": "16:00",
-        "lenke": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kirken vår har en testamentarisk gave på $ 1,5 millioner som tjener 3,75% på en sparekonto. Kaster vi bort penger?",
-        "kilde": "MarketWatch",
-        "tid": "15:30",
-        "lenke": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       },
       {
         "tittel": "46 av 48 brear er i ferd med å forsvinne: – Det er ganske alarmerande",
@@ -219,25 +263,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Hva ga denne byen sin \"beste sted å pensjonere seg\" -krone? Du har faktisk råd til å bo der.",
-        "kilde": "MarketWatch",
-        "tid": "15:25",
-        "lenke": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Krav til nyboligbygging: – Man må forenkle først",
         "kilde": "E24",
         "tid": "15:00",
         "lenke": "https://e24.no/naeringsliv/i/b81Qkk/krav-til-nyboligbygging-man-maa-forenkle-foerst?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Min far har Alzheimers og hans omsorgsperson bruker sitt debetkort for DoorDash. Skal jeg gripe inn?",
-        "kilde": "MarketWatch",
-        "tid": "15:00",
-        "lenke": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Bryter tausheten om City-dommen: – Journalister ønsker blod",
@@ -254,13 +284,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Binances hack på $ 6,3 milliarder reiser spørsmål om kryptolommebokens sikkerhet",
-        "kilde": "CNBC Top News",
-        "tid": "12:47",
-        "lenke": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "\"Pop-up\" -super-PAC-er pakker inn $ 637 millioner i 2026-midtveisløp",
         "kilde": "CNBC Top News",
         "tid": "12:00",
@@ -272,13 +295,6 @@
         "kilde": "CNBC Top News",
         "tid": "12:00",
         "lenke": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Mennesker gjør fortsatt arbeidet bak noen AI-agenter",
-        "kilde": "CNBC Top News",
-        "tid": "12:00",
-        "lenke": "https://www.cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html",
         "engelsk_kilde": true
       },
       {
@@ -301,13 +317,6 @@
         "tid": "10:27",
         "lenke": "https://www.cnbc.com/make-it/2026/10/23/giant-halloween-skeleton-decorations.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kjærestepar overlevde dødsulykke: Måtte knuse seg ut av brennende nattbuss",
-        "kilde": "NRK Nyheter",
-        "tid": "10:09",
-        "lenke": "https://www.nrk.no/sapmi/norsk-kjaerestepar-overlevde-dodsulykke_-matte-knuse-seg-ut-av-brennende-nattbuss-1.18069454",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Airbnb skaper misnøye i Europa: – Vokst seg større og større",
@@ -342,20 +351,6 @@
         "kilde": "BBC Business",
         "tid": "21:13",
         "lenke": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nord-Korea får skylden etter milliardkupp",
-        "kilde": "E24",
-        "tid": "20:39",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/1o2k7J/nord-korea-faar-skylden-etter-milliardkupp?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "City of London sjefstopp UK Black Powerlist",
-        "kilde": "BBC Business",
-        "tid": "18:00",
-        "lenke": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ]
