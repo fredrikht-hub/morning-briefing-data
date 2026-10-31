@@ -1,9 +1,16 @@
 {
   "dato": "2026-10-31",
   "dato_norsk": "Lørdag 31. oktober 2026",
-  "generert_kl": "14:58",
+  "generert_kl": "17:31",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
+    {
+      "tittel": "S&P 500 er ikke den store vinneren du kanskje tror det er",
+      "kilde": "MarketWatch",
+      "tid": "14:54",
+      "lenke": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
     {
       "tittel": "Trump lovet å kutte energikostnadene  — men bensin, diesel og jetdrivstoff økte i stedet",
       "kilde": "CNBC Top News",
@@ -19,24 +26,17 @@
       "engelsk_kilde": false
     },
     {
-      "tittel": "S&P 500 er ikke den store vinneren du kanskje tror det er",
-      "kilde": "MarketWatch",
-      "tid": "14:54",
-      "lenke": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
-      "engelsk_kilde": true
+      "tittel": "Søndag blir månedskortet billigere nok en gang – enkeltbilletten er like dyr",
+      "kilde": "NRK Nyheter",
+      "tid": "11:05",
+      "lenke": "https://www.nrk.no/stor-oslo/sondag-blir-manedskortet-enda-billigere-_-enkeltbilletten-er-like-dyr-1.18067233",
+      "engelsk_kilde": false
     },
     {
-      "tittel": "Aksjeporteføljen din henger i økende grad på obligasjonsmarkedet — og midtveisvalget",
-      "kilde": "MarketWatch",
-      "tid": "14:03",
-      "lenke": "https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Aksjemarkedets frontløperne snublet i oktober. Det er her de smarte pengene beveger seg nå.",
-      "kilde": "MarketWatch",
-      "tid": "13:01",
-      "lenke": "https://www.marketwatch.com/story/the-stock-markets-front-runners-stumbled-in-october-heres-where-the-smart-money-is-moving-now-f901472a?mod=mw_rss_topstories",
+      "tittel": "Binance sier at 90% av hacketapene på $ 6,3 milliarder nå er dekket, og planlegger å gjenoppta uttak søndag",
+      "kilde": "CNBC Top News",
+      "tid": "16:06",
+      "lenke": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
       "engelsk_kilde": true
     }
   ],
@@ -63,20 +63,6 @@
         "kilde": "MarketWatch",
         "tid": "14:54",
         "lenke": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Aksjeporteføljen din henger i økende grad på obligasjonsmarkedet — og midtveisvalget",
-        "kilde": "MarketWatch",
-        "tid": "14:03",
-        "lenke": "https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Aksjemarkedets frontløperne snublet i oktober. Det er her de smarte pengene beveger seg nå.",
-        "kilde": "MarketWatch",
-        "tid": "13:01",
-        "lenke": "https://www.marketwatch.com/story/the-stock-markets-front-runners-stumbled-in-october-heres-where-the-smart-money-is-moving-now-f901472a?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -110,37 +96,7 @@
         "engelsk_kilde": false
       }
     ],
-    "TEKNOLOGI": [
-      {
-        "tittel": "AI oppstart hacks Anthropic, får tilgang til ansattes detaljer, interne meldinger",
-        "kilde": "Hacker News",
-        "tid": "13:25",
-        "lenke": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Google lærte verden å søke. Nå står den overfor en revolusjon den ikke har råd til å tape.",
-        "kilde": "MarketWatch",
-        "tid": "13:15",
-        "lenke": "https://www.marketwatch.com/story/google-taught-the-world-how-to-search-now-it-faces-a-revolution-it-cant-afford-to-lose-b7a01394?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vi overtok ChatGPT-kontoer",
-        "kilde": "Hacker News",
-        "tid": "10:30",
-        "lenke": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-        "engelsk_kilde": true
-      }
-    ],
     "GEOPOLITIKK": [
-      {
-        "tittel": "Qatariske meklere holdt samtaler i Teheran med sikte på å gjenoppta direkte forhandlinger mellom USA og Iran, sier kilden",
-        "kilde": "CNBC Top News",
-        "tid": "13:47",
-        "lenke": "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
-        "engelsk_kilde": true
-      },
       {
         "tittel": "Kryptobransjen pøser mer enn $ 200 millioner inn i 2026 midterms for å presse kongressen på gunstige regler",
         "kilde": "CNBC Top News",
@@ -165,18 +121,130 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "Bryter tausheten om City-dommen: – Det er alvorlige beskyldninger",
+        "tittel": "Medicare brukte AI til å forhåndsgodkjenne pasientbehandling, og det førte umiddelbart til et stort fall i medisinske tjenester",
+        "kilde": "MarketWatch",
+        "tid": "17:26",
+        "lenke": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Sønderknust Amin Chiakha tross to mål og seier i Fredrikstad",
+        "kilde": "NRK Nyheter",
+        "tid": "17:20",
+        "lenke": "https://www.nrk.no/sport/fredrikstad-mot-rosenborg-i-eliteserien-1.18070242",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "80% av arbeiderne gjør denne 401(k)  feilen når de går av med pensjon",
+        "kilde": "MarketWatch",
+        "tid": "16:46",
+        "lenke": "https://www.marketwatch.com/story/whats-the-first-thing-most-people-do-with-their-401-k-after-they-retire-nothing-8a606518?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "22. juli minnesmerke utsett for hærverk",
+        "kilde": "NRK Nyheter",
+        "tid": "16:41",
+        "lenke": "https://www.nrk.no/vestland/22.-juli-minnesmerke-pa-askoy-utsett-for-haerverk-1.18070228",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vis HN: Jointter – Et daglig ordpuslespill med prikker og linjer",
+        "kilde": "Hacker News",
+        "tid": "16:24",
+        "lenke": "https://www.jointter.com/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Opplysning 0,28 utgitt med mange forbedringer",
+        "kilde": "Hacker News",
+        "tid": "16:22",
+        "lenke": "https://www.phoronix.com/news/Enlightenment-0.28",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "A/SIDE – Privat bildedeling og krypterte meldinger",
+        "kilde": "Hacker News",
+        "tid": "16:16",
+        "lenke": "https://a-side.social/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hva er en lys dag? Milepælen Voyager 1 nærmer seg",
+        "kilde": "Hacker News",
+        "tid": "16:09",
+        "lenke": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Binance sier at 90% av hacketapene på $ 6,3 milliarder nå er dekket, og planlegger å gjenoppta uttak søndag",
+        "kilde": "CNBC Top News",
+        "tid": "16:06",
+        "lenke": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vil du ha garantert inntekt i pensjon uten livrente? Prøv laddering I obligasjoner.",
+        "kilde": "MarketWatch",
+        "tid": "16:02",
+        "lenke": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Casio-klokker fra 1980-tallet",
+        "kilde": "Hacker News",
+        "tid": "16:00",
+        "lenke": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vi er i 70-årene. Skal vi nedbetale våre 2,5% boliglån — eller sette pengene inn på en sparekonto med høy avkastning?",
+        "kilde": "MarketWatch",
+        "tid": "16:00",
+        "lenke": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kirken vår har en testamentarisk gave på $ 1,5 millioner som tjener 3,75% på en sparekonto. Kaster vi bort penger?",
+        "kilde": "MarketWatch",
+        "tid": "15:30",
+        "lenke": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "46 av 48 brear er i ferd med å forsvinne: – Det er ganske alarmerande",
+        "kilde": "NRK Nyheter",
+        "tid": "15:27",
+        "lenke": "https://www.nrk.no/mr/hundrevis-av-isbrear-forsvinn.-i-geirangerfjorden-og-naeroyfjorden-er-46-av-48-brear-doyande-1.18065778",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Hva ga denne byen sin \"beste sted å pensjonere seg\" -krone? Du har faktisk råd til å bo der.",
+        "kilde": "MarketWatch",
+        "tid": "15:25",
+        "lenke": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Krav til nyboligbygging: – Man må forenkle først",
+        "kilde": "E24",
+        "tid": "15:00",
+        "lenke": "https://e24.no/naeringsliv/i/b81Qkk/krav-til-nyboligbygging-man-maa-forenkle-foerst?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Min far har Alzheimers og hans omsorgsperson bruker sitt debetkort for DoorDash. Skal jeg gripe inn?",
+        "kilde": "MarketWatch",
+        "tid": "15:00",
+        "lenke": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bryter tausheten om City-dommen: – Journalister ønsker blod",
         "kilde": "NRK Nyheter",
         "tid": "14:46",
         "lenke": "https://www.nrk.no/sport/alfie-haaland-om-city-dommen_-_-det-er-alvorlige-beskyldninger-1.18070207",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Social Security skjebne - og dine fordeler — er i hendene på kandidatene valgt i år",
-        "kilde": "MarketWatch",
-        "tid": "14:35",
-        "lenke": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Ut mot stjernespiller etter ny United-smell: – Uakseptabelt",
@@ -186,52 +254,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "‘Han var knust’: Min manns barn forlot ham da han var døende. Var det riktig av ham å overlate alt til meg?",
-        "kilde": "MarketWatch",
-        "tid": "14:26",
-        "lenke": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "MoneyPouch – selvbetjent utgiftssporing",
-        "kilde": "Hacker News",
-        "tid": "14:00",
-        "lenke": "https://demo.moneypouch.app/session/new",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvis du virkelig ønsker å hjelpe dine voksne barn og barnebarn, gi dem penger mens du fortsatt er i live",
-        "kilde": "MarketWatch",
-        "tid": "13:00",
-        "lenke": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvorfor suspenderte Meta en amerikansk senatkandidats Instagram midt i et stevne?",
-        "kilde": "Hacker News",
-        "tid": "12:57",
-        "lenke": "https://newrepublic.com/post/217281/meta-suspend-democratic-candidate-angie-nixon-instagram-account",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Binances hack på $ 6,3 milliarder reiser spørsmål om kryptolommebokens sikkerhet",
         "kilde": "CNBC Top News",
         "tid": "12:47",
         "lenke": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Denne Halloween, er godteribarer i full størrelse et bedre tilbud enn de i morsom størrelse?",
-        "kilde": "MarketWatch",
-        "tid": "12:37",
-        "lenke": "https://www.marketwatch.com/story/this-halloween-are-king-sized-candy-bars-a-better-deal-than-fun-sized-ones-992da0d9?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Berkshire ekes ut noen nye høyder, men oktober rallyboder",
-        "kilde": "CNBC Top News",
-        "tid": "12:26",
-        "lenke": "https://www.cnbc.com/2026/10/31/berkshire-ekes-out-some-new-highs-but-october-rally-stalls.html",
         "engelsk_kilde": true
       },
       {
@@ -249,6 +275,13 @@
         "engelsk_kilde": true
       },
       {
+        "tittel": "Mennesker gjør fortsatt arbeidet bak noen AI-agenter",
+        "kilde": "CNBC Top News",
+        "tid": "12:00",
+        "lenke": "https://www.cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Sviende nederlag for Bodø/Glimt-styret: Omstridt navneforslag ble nedstemt",
         "kilde": "NRK Nyheter",
         "tid": "11:55",
@@ -256,18 +289,18 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Prospero: En ny kodesele for en mer sivilisert tidsalder",
-        "kilde": "Hacker News",
-        "tid": "11:54",
-        "lenke": "https://nullprogram.com/blog/2026/10/31/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Dette gjør forvalterne før USA-valget",
         "kilde": "E24",
         "tid": "10:41",
         "lenke": "https://e24.no/boers-og-finans/i/xlqJ6n/dette-gjoer-forvalterne-foer-usa-valget?utm_medium=rss",
         "engelsk_kilde": false
+      },
+      {
+        "tittel": "Fremveksten av 15-fots skjelettet - hvordan en viral nyhet ble et fast innslag i Halloween",
+        "kilde": "CNBC Top News",
+        "tid": "10:27",
+        "lenke": "https://www.cnbc.com/make-it/2026/10/23/giant-halloween-skeleton-decorations.html",
+        "engelsk_kilde": true
       },
       {
         "tittel": "Kjærestepar overlevde dødsulykke: Måtte knuse seg ut av brennende nattbuss",
@@ -281,27 +314,6 @@
         "kilde": "E24",
         "tid": "10:07",
         "lenke": "https://e24.no/naeringsliv/i/d7KwrB/airbnb-skaper-misnoeye-i-europa-vokst-seg-stoerre-og-stoerre?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Går hardt ut mot Bodø/Glimt: – Sutrekultur",
-        "kilde": "NRK Nyheter",
-        "tid": "09:07",
-        "lenke": "https://www.nrk.no/sport/gar-hardt-ut-mot-bodo_glimt_-_-sutrekultur-1.18069984",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Sakna etter båtforlis nær Grip – funnen død i sjøen i Nordland",
-        "kilde": "NRK Nyheter",
-        "tid": "08:38",
-        "lenke": "https://www.nrk.no/mr/person-funnen-omkomen-i-sjoen-vestvagoy-i-nordland-_-er-ein-av-dei-sakna-etter-batforlis-pa-nordmore-1.18069988",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Har funne ein av dei sakna etter båtulykke på Nordmøre",
-        "kilde": "NRK Nyheter",
-        "tid": "08:28",
-        "lenke": "https://www.nrk.no/mr/har-funne-ein-av-dei-sakna-etter-batulykke-pa-nordmore-1.18069965",
         "engelsk_kilde": false
       },
       {
@@ -344,27 +356,6 @@
         "kilde": "BBC Business",
         "tid": "18:00",
         "lenke": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Håver inn på Halloween: – Masse, masse mennesker",
-        "kilde": "E24",
-        "tid": "17:54",
-        "lenke": "https://e24.no/naeringsliv/i/rM2bG0/haaver-inn-paa-halloween-masse-masse-mennesker?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Halloween blir dyrere etter hvert som sjokoladekostnadene stiger — Hershey kan føle klypen",
-        "kilde": "CNBC Top News",
-        "tid": "16:55",
-        "lenke": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Yorkshire Water-sjef går av etter at firmaet nedgraderte",
-        "kilde": "BBC Business",
-        "tid": "16:04",
-        "lenke": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ]
