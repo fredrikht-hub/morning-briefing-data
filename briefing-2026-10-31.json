@@ -1,91 +1,89 @@
 {
   "dato": "2026-10-31",
   "dato_norsk": "Lørdag 31. oktober 2026",
-  "generert_kl": "10:47",
+  "generert_kl": "14:58",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "EU vil ikke ha olje fra Arktis",
+      "tittel": "Trump lovet å kutte energikostnadene  — men bensin, diesel og jetdrivstoff økte i stedet",
+      "kilde": "CNBC Top News",
+      "tid": "12:49",
+      "lenke": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "SpaceX vil møte Norge om Starlink Mobile",
       "kilde": "E24",
-      "tid": "09:22",
-      "lenke": "https://e24.no/energi-og-klima/i/WgV7E2/eu-vil-ikke-ha-olje-fra-arktis?utm_medium=rss",
+      "tid": "13:04",
+      "lenke": "https://e24.no/boers-og-finans/i/xl6oap/spacex-vil-moete-norge-om-starlink-mobile?utm_medium=rss",
       "engelsk_kilde": false
     },
     {
-      "tittel": "Serbia har nettopp valgt verdens smarteste parlament",
-      "kilde": "Hacker News",
-      "tid": "10:21",
-      "lenke": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Trump ropte ut store oljeprofitter. Her er hvor mye raffineringsinntektene har økt siden",
-      "kilde": "CNBC Top News",
-      "tid": "06:00",
-      "lenke": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Har teknologiboblen sprukket? Hvorfor Nasdaqs tøffe tur ser uhyggelig ut som 2000.",
+      "tittel": "S&P 500 er ikke den store vinneren du kanskje tror det er",
       "kilde": "MarketWatch",
-      "tid": "23:14",
-      "lenke": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
+      "tid": "14:54",
+      "lenke": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Hvor lenge må du holde nede av/på-knappen for å slå av en PC?",
-      "kilde": "Hacker News",
-      "tid": "08:43",
-      "lenke": "https://www.osnews.com/story/146273/how-long-do-you-need-to-hold-down-the-power-button-to-turn-off-a-pc/",
+      "tittel": "Aksjeporteføljen din henger i økende grad på obligasjonsmarkedet — og midtveisvalget",
+      "kilde": "MarketWatch",
+      "tid": "14:03",
+      "lenke": "https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Aksjemarkedets frontløperne snublet i oktober. Det er her de smarte pengene beveger seg nå.",
+      "kilde": "MarketWatch",
+      "tid": "13:01",
+      "lenke": "https://www.marketwatch.com/story/the-stock-markets-front-runners-stumbled-in-october-heres-where-the-smart-money-is-moving-now-f901472a?mod=mw_rss_topstories",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "Christian Ringnes om norsk økonomi: – Går en dyster fremtid i møte",
+        "tittel": "SpaceX vil møte Norge om Starlink Mobile",
         "kilde": "E24",
-        "tid": "15:05",
-        "lenke": "https://e24.no/norsk-oekonomi/i/OgV5vw/christian-ringnes-om-norsk-oekonomi-gaar-en-dyster-fremtid-i-moete?utm_medium=rss",
+        "tid": "13:04",
+        "lenke": "https://e24.no/boers-og-finans/i/xl6oap/spacex-vil-moete-norge-om-starlink-mobile?utm_medium=rss",
         "engelsk_kilde": false
-      }
-    ],
-    "MAKRO": [
+      },
       {
-        "tittel": "Treasury Department kunngjør ny serie I obligasjonsrente på 5,51% for de neste seks månedene",
-        "kilde": "CNBC Top News",
-        "tid": "17:15",
-        "lenke": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
-        "engelsk_kilde": true
+        "tittel": "Søndag blir månedskortet billigere nok en gang – enkeltbilletten er like dyr",
+        "kilde": "NRK Nyheter",
+        "tid": "11:05",
+        "lenke": "https://www.nrk.no/stor-oslo/sondag-blir-manedskortet-enda-billigere-_-enkeltbilletten-er-like-dyr-1.18067233",
+        "engelsk_kilde": false
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "Har teknologiboblen sprukket? Hvorfor Nasdaqs tøffe tur ser uhyggelig ut som 2000.",
+        "tittel": "S&P 500 er ikke den store vinneren du kanskje tror det er",
         "kilde": "MarketWatch",
-        "tid": "23:14",
-        "lenke": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
+        "tid": "14:54",
+        "lenke": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Denne nettsikkerhetsaksjen vil være den neste til å bli med i S&P 500",
+        "tittel": "Aksjeporteføljen din henger i økende grad på obligasjonsmarkedet — og midtveisvalget",
         "kilde": "MarketWatch",
-        "tid": "22:20",
-        "lenke": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
+        "tid": "14:03",
+        "lenke": "https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "I en vill oktober for markedene var disse aksjene de største vinnerne og taperne",
+        "tittel": "Aksjemarkedets frontløperne snublet i oktober. Det er her de smarte pengene beveger seg nå.",
         "kilde": "MarketWatch",
-        "tid": "20:52",
-        "lenke": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
+        "tid": "13:01",
+        "lenke": "https://www.marketwatch.com/story/the-stock-markets-front-runners-stumbled-in-october-heres-where-the-smart-money-is-moving-now-f901472a?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Reddits aksjer logger det største endagsfallet noensinne. Det er ikke den siste dårlige nyheten, sier analytikere.",
-        "kilde": "MarketWatch",
-        "tid": "20:42",
-        "lenke": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
+        "tittel": "Anthropics vei til Nasdaq ble akkurat mye mer ujevn",
+        "kilde": "CNBC Top News",
+        "tid": "11:00",
+        "lenke": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
         "engelsk_kilde": true
       },
       {
@@ -98,63 +96,63 @@
     ],
     "ENERGI_RAAVARER": [
       {
+        "tittel": "«Storeulv» hamstrer: – Motpol til tank og olje",
+        "kilde": "E24",
+        "tid": "13:49",
+        "lenke": "https://e24.no/boers-og-finans/i/p1qqPo/storeulv-hamstrer-motpol-til-tank-og-olje?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
         "tittel": "EU vil ikke ha olje fra Arktis",
         "kilde": "E24",
         "tid": "09:22",
         "lenke": "https://e24.no/energi-og-klima/i/WgV7E2/eu-vil-ikke-ha-olje-fra-arktis?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Trump ropte ut store oljeprofitter. Her er hvor mye raffineringsinntektene har økt siden",
-        "kilde": "CNBC Top News",
-        "tid": "06:00",
-        "lenke": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvorfor gullet falt til sin laveste pris på et år til tross for fornyet iransk nervøsitet",
-        "kilde": "MarketWatch",
-        "tid": "21:30",
-        "lenke": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Hvorfor Intels aksjer opplevde sin verste dag på flere tiår — og en utsletting på 140 milliarder $",
+        "tittel": "AI oppstart hacks Anthropic, får tilgang til ansattes detaljer, interne meldinger",
+        "kilde": "Hacker News",
+        "tid": "13:25",
+        "lenke": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Google lærte verden å søke. Nå står den overfor en revolusjon den ikke har råd til å tape.",
         "kilde": "MarketWatch",
-        "tid": "20:48",
-        "lenke": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+        "tid": "13:15",
+        "lenke": "https://www.marketwatch.com/story/google-taught-the-world-how-to-search-now-it-faces-a-revolution-it-cant-afford-to-lose-b7a01394?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Intel-aksjen har den verste dagen siden 1970-tallet, og tømmer regjeringens eierandel for ca. $ 12 milliarder",
-        "kilde": "CNBC Top News",
-        "tid": "20:30",
-        "lenke": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Googles verdi synker med $ 500 milliarder etter hvert som Googles eget AI-søk treffer annonsesalg",
-        "kilde": "BBC Business",
-        "tid": "12:04",
-        "lenke": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+        "tittel": "Vi overtok ChatGPT-kontoer",
+        "kilde": "Hacker News",
+        "tid": "10:30",
+        "lenke": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
         "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Serbia har nettopp valgt verdens smarteste parlament",
-        "kilde": "Hacker News",
-        "tid": "10:21",
-        "lenke": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+        "tittel": "Qatariske meklere holdt samtaler i Teheran med sikte på å gjenoppta direkte forhandlinger mellom USA og Iran, sier kilden",
+        "kilde": "CNBC Top News",
+        "tid": "13:47",
+        "lenke": "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Valg i Alaska-senatet: Justisdepartementet ønsker å \"segregere\" alle stemmesedler for andre Sullivan-kandidat",
+        "tittel": "Kryptobransjen pøser mer enn $ 200 millioner inn i 2026 midterms for å presse kongressen på gunstige regler",
         "kilde": "CNBC Top News",
-        "tid": "22:57",
-        "lenke": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+        "tid": "13:04",
+        "lenke": "https://www.cnbc.com/2026/10/31/crypto-industry-spends-more-than-200-million-to-sway-the-midterms.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump lovet å kutte energikostnadene  — men bensin, diesel og jetdrivstoff økte i stedet",
+        "kilde": "CNBC Top News",
+        "tid": "12:49",
+        "lenke": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
         "engelsk_kilde": true
       },
       {
@@ -166,6 +164,104 @@
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "Bryter tausheten om City-dommen: – Det er alvorlige beskyldninger",
+        "kilde": "NRK Nyheter",
+        "tid": "14:46",
+        "lenke": "https://www.nrk.no/sport/alfie-haaland-om-city-dommen_-_-det-er-alvorlige-beskyldninger-1.18070207",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Social Security skjebne - og dine fordeler — er i hendene på kandidatene valgt i år",
+        "kilde": "MarketWatch",
+        "tid": "14:35",
+        "lenke": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ut mot stjernespiller etter ny United-smell: – Uakseptabelt",
+        "kilde": "NRK Nyheter",
+        "tid": "14:29",
+        "lenke": "https://www.nrk.no/sport/ut-mot-stjernespiller-etter-ny-united-smell_-_-uakseptabelt-1.18070089",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "‘Han var knust’: Min manns barn forlot ham da han var døende. Var det riktig av ham å overlate alt til meg?",
+        "kilde": "MarketWatch",
+        "tid": "14:26",
+        "lenke": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "MoneyPouch – selvbetjent utgiftssporing",
+        "kilde": "Hacker News",
+        "tid": "14:00",
+        "lenke": "https://demo.moneypouch.app/session/new",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvis du virkelig ønsker å hjelpe dine voksne barn og barnebarn, gi dem penger mens du fortsatt er i live",
+        "kilde": "MarketWatch",
+        "tid": "13:00",
+        "lenke": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvorfor suspenderte Meta en amerikansk senatkandidats Instagram midt i et stevne?",
+        "kilde": "Hacker News",
+        "tid": "12:57",
+        "lenke": "https://newrepublic.com/post/217281/meta-suspend-democratic-candidate-angie-nixon-instagram-account",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Binances hack på $ 6,3 milliarder reiser spørsmål om kryptolommebokens sikkerhet",
+        "kilde": "CNBC Top News",
+        "tid": "12:47",
+        "lenke": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Denne Halloween, er godteribarer i full størrelse et bedre tilbud enn de i morsom størrelse?",
+        "kilde": "MarketWatch",
+        "tid": "12:37",
+        "lenke": "https://www.marketwatch.com/story/this-halloween-are-king-sized-candy-bars-a-better-deal-than-fun-sized-ones-992da0d9?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Berkshire ekes ut noen nye høyder, men oktober rallyboder",
+        "kilde": "CNBC Top News",
+        "tid": "12:26",
+        "lenke": "https://www.cnbc.com/2026/10/31/berkshire-ekes-out-some-new-highs-but-october-rally-stalls.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "\"Pop-up\" -super-PAC-er pakker inn $ 637 millioner i 2026-midtveisløp",
+        "kilde": "CNBC Top News",
+        "tid": "12:00",
+        "lenke": "https://www.cnbc.com/2026/10/31/2026-midterm-election-super-pacs-donor-disclosure.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bilprodusenter som Rivian og Ford \"demokratiserer 3D-utskrift\" for å redusere kostnadene og øke hastigheten",
+        "kilde": "CNBC Top News",
+        "tid": "12:00",
+        "lenke": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Sviende nederlag for Bodø/Glimt-styret: Omstridt navneforslag ble nedstemt",
+        "kilde": "NRK Nyheter",
+        "tid": "11:55",
+        "lenke": "https://www.nrk.no/nordland/sviende-nederlag-for-bodo_glimt-styret_-omstridt-navneforslag-ble-nedstemt-1.18070000",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Prospero: En ny kodesele for en mer sivilisert tidsalder",
+        "kilde": "Hacker News",
+        "tid": "11:54",
+        "lenke": "https://nullprogram.com/blog/2026/10/31/",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Dette gjør forvalterne før USA-valget",
         "kilde": "E24",
@@ -195,13 +291,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Hvor lenge må du holde nede av/på-knappen for å slå av en PC?",
-        "kilde": "Hacker News",
-        "tid": "08:43",
-        "lenke": "https://www.osnews.com/story/146273/how-long-do-you-need-to-hold-down-the-power-button-to-turn-off-a-pc/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Sakna etter båtforlis nær Grip – funnen død i sjøen i Nordland",
         "kilde": "NRK Nyheter",
         "tid": "08:38",
@@ -216,46 +305,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Bryter senking i GCC",
-        "kilde": "Hacker News",
-        "tid": "08:02",
-        "lenke": "https://xoranth.net/gcc-switch/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Cruiseskip måtte snu i Oslofjorden",
-        "kilde": "NRK Nyheter",
-        "tid": "07:54",
-        "lenke": "https://www.nrk.no/nyheter/cruiseskip-matte-snu-i-oslofjorden-1.18069967",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Cruiseskip kjører i sirkler i Oslofjorden på grunn av tåke",
-        "kilde": "NRK Nyheter",
-        "tid": "07:39",
-        "lenke": "https://www.nrk.no/nyheter/cruiseskip-kjorer-i-sirkler-i-oslofjorden-pa-grunn-av-take-1.18069938",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Tilbake på start",
-        "kilde": "NRK Nyheter",
-        "tid": "07:20",
-        "lenke": "https://www.nrk.no/sport/xl/idretten-holdt-pa-a-ta-livet-av-mia-rusthen-_-na-haper-hun-a-inspirere-i-hvert-fall-en-person-1.18040395",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Dyrere EuroBonus: Dette ligger bak",
         "kilde": "E24",
         "tid": "07:05",
         "lenke": "https://e24.no/privatoekonomi/i/ElMWjG/dyrere-sas-eurobonus-kort-dette-ligger-bak-prisoekningene?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Digital minimalisme",
-        "kilde": "Hacker News",
-        "tid": "06:16",
-        "lenke": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Farvel, Maga?",
@@ -265,53 +319,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "AI kommer til byggeplasser. Men gjør det arbeidstakere tryggere?",
-        "kilde": "CNBC Top News",
-        "tid": "06:00",
-        "lenke": "https://www.cnbc.com/2026/10/31/ai-construction-worker-safety.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Grand Theft Callout: ‘GTA 6’ -fans mangler arbeid på spillets utgivelsesdag fordi de ‘ikke vil vente’ lenger",
-        "kilde": "MarketWatch",
-        "tid": "04:30",
-        "lenke": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Ingen kjøpere på ni år: Dette er landets tregeste boligsalg",
         "kilde": "E24",
         "tid": "04:00",
         "lenke": "https://e24.no/naeringsliv/i/Vgpjq1/ingen-kjoepere-paa-ni-aar-dette-er-landets-tregeste-boligsalg?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Fortell HN: Scribd brutt",
-        "kilde": "Hacker News",
-        "tid": "02:46",
-        "lenke": "https://news.ycombinator.com/item?id=50312756",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Avis: Angrep mot ukrainsk energianlegg",
-        "kilde": "NRK Nyheter",
-        "tid": "23:33",
-        "lenke": "https://www.nrk.no/nyheter/avis_-angrep-mot-ukrainsk-energianlegg-1.18069900",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Meta outlook revidert ned av S&P på kontantstrøm og capex bekymringer",
-        "kilde": "CNBC Top News",
-        "tid": "22:42",
-        "lenke": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Warsh vil at Fed skal si mindre. To tjenestemenn presser på for mer åpenhet.",
-        "kilde": "MarketWatch",
-        "tid": "21:23",
-        "lenke": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Kryptogiganten Binance forsøker å gjenopprette $ 6,3 milliarder stjålet i hack knyttet til Nord-Korea",
@@ -326,20 +338,6 @@
         "tid": "20:39",
         "lenke": "https://e24.no/internasjonal-oekonomi/i/1o2k7J/nord-korea-faar-skylden-etter-milliardkupp?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "'Dårlig tid til trolling': Binance-grunnlegger Zhao ber Musk om støtte etter hacking",
-        "kilde": "CNBC Top News",
-        "tid": "20:02",
-        "lenke": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Binance-hack: Etterforskere i et \"katt og mus-spill\" for å gjenvinne $ 6,3 milliarder i stjålne midler",
-        "kilde": "CNBC Top News",
-        "tid": "19:27",
-        "lenke": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "City of London sjefstopp UK Black Powerlist",
@@ -367,27 +365,6 @@
         "kilde": "BBC Business",
         "tid": "16:04",
         "lenke": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Feil medisin for leiemarkedet",
-        "kilde": "E24",
-        "tid": "14:03",
-        "lenke": "https://e24.no/norsk-oekonomi/i/AbAOGj/feil-medisin-for-leiemarkedet?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Dette vet vi om Binances hack på $ 6,3 milliarder",
-        "kilde": "BBC Business",
-        "tid": "12:27",
-        "lenke": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Streeting benekter \"sparker kan nedover veien\" i forsvaret utgifter rad",
-        "kilde": "BBC Business",
-        "tid": "11:23",
-        "lenke": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ]
