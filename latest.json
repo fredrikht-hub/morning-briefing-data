@@ -1,9 +1,23 @@
 {
   "dato": "2026-11-01",
   "dato_norsk": "Søndag 1. november 2026",
-  "generert_kl": "18:17",
+  "generert_kl": "20:52",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
+    {
+      "tittel": "Dommer avviser Alaska-senatets søksmål; DOJ lover anke",
+      "kilde": "CNBC Top News",
+      "tid": "20:21",
+      "lenke": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Stevens støtter republikaneren Rogers fremfor rivalen El-Sayed i senatsvalget i Michigan",
+      "kilde": "CNBC Top News",
+      "tid": "20:51",
+      "lenke": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
+      "engelsk_kilde": true
+    },
     {
       "tittel": "Forholdet mellom USA og Russland: – Trump er blitt et lett bytte",
       "kilde": "NRK Nyheter",
@@ -12,31 +26,17 @@
       "engelsk_kilde": false
     },
     {
-      "tittel": "Alt endret seg for olje-, AI- og obligasjonshandelen den siste måneden",
-      "kilde": "CNBC Top News",
-      "tid": "15:58",
-      "lenke": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html",
-      "engelsk_kilde": true
+      "tittel": "Hvordan fikser vi Norge? Se til Storbritannia!",
+      "kilde": "E24",
+      "tid": "12:14",
+      "lenke": "https://e24.no/norsk-oekonomi/i/ylqW3J/hvordan-fikser-vi-norge-se-til-storbritannia?utm_medium=rss",
+      "engelsk_kilde": false
     },
     {
-      "tittel": "Stevens støtter Rogers over El-Sayed i senatsvalget i Michigan",
+      "tittel": "Midtveisvalget kan omforme MUNI-obligasjonsmarkedet. Her er hva investorer trenger å vite",
       "kilde": "CNBC Top News",
-      "tid": "18:16",
-      "lenke": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Alaska Sen. Sullivan sier at han vil akseptere valgresultatet, slam Peltola-kampanjens rapporterte rekruttering av andre Sullivan",
-      "kilde": "CNBC Top News",
-      "tid": "17:12",
-      "lenke": "https://www.cnbc.com/2026/11/01/alaska-senate-election-dan-sullivan-peltola.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Hvem vinner egentlig under Trumps økonomi? Kystliberale eliter som hater ham.",
-      "kilde": "MarketWatch",
-      "tid": "13:00",
-      "lenke": "https://www.marketwatch.com/story/who-really-wins-under-trumps-economy-coastal-liberal-elites-who-hate-him-d74c63cb?mod=mw_rss_topstories",
+      "tid": "12:30",
+      "lenke": "https://www.cnbc.com/2026/11/01/election-municipal-bonds.html",
       "engelsk_kilde": true
     }
   ],
@@ -84,6 +84,13 @@
     ],
     "TEKNOLOGI": [
       {
+        "tittel": "For JPMorgan, Amazon, er det kanskje ikke en vinnende langsiktig strategi å bekjempe AI-roboter som Meta Muse",
+        "kilde": "CNBC Top News",
+        "tid": "16:34",
+        "lenke": "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Apples nye inntektsepoke begynner på et kritisk tidspunkt for Big Tech",
         "kilde": "MarketWatch",
         "tid": "15:00",
@@ -100,17 +107,17 @@
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Stevens støtter Rogers over El-Sayed i senatsvalget i Michigan",
+        "tittel": "Stevens støtter republikaneren Rogers fremfor rivalen El-Sayed i senatsvalget i Michigan",
         "kilde": "CNBC Top News",
-        "tid": "18:16",
+        "tid": "20:51",
         "lenke": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Alaska Sen. Sullivan sier at han vil akseptere valgresultatet, slam Peltola-kampanjens rapporterte rekruttering av andre Sullivan",
+        "tittel": "Dommer avviser Alaska-senatets søksmål; DOJ lover anke",
         "kilde": "CNBC Top News",
-        "tid": "17:12",
-        "lenke": "https://www.cnbc.com/2026/11/01/alaska-senate-election-dan-sullivan-peltola.html",
+        "tid": "20:21",
+        "lenke": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
         "engelsk_kilde": true
       },
       {
@@ -119,13 +126,6 @@
         "tid": "15:29",
         "lenke": "https://www.nrk.no/urix/xl/putin-bruker-militaer-bistand-til-iran-for-a-presse-trump-1.18061778",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Hvem vinner egentlig under Trumps økonomi? Kystliberale eliter som hater ham.",
-        "kilde": "MarketWatch",
-        "tid": "13:00",
-        "lenke": "https://www.marketwatch.com/story/who-really-wins-under-trumps-economy-coastal-liberal-elites-who-hate-him-d74c63cb?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Trump saksøker Murdoch, WSJ for Epstein brev avvist med fordommer",
@@ -137,24 +137,87 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "Connecticut-senator Chris Murphy har hjerneslag og er på sykehuset, sier kontoret",
-        "kilde": "CNBC Top News",
-        "tid": "18:08",
-        "lenke": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
+        "tittel": "Kilder til NRK: FIS frykter Russland-blemme – kan føre til Bolsjunov-retur",
+        "kilde": "NRK Nyheter",
+        "tid": "20:34",
+        "lenke": "https://www.nrk.no/sport/kilder-til-nrk_-fis-har-fatt-et-uventet-bolsjunov-dilemma-1.18070456",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kona mi gråt da jeg fant ut at hun bare hadde $ 80 000 i 401(k). Jeg har 2,2 millioner $. Er det galt av meg å bli sjokkert?",
+        "kilde": "MarketWatch",
+        "tid": "20:00",
+        "lenke": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Spør HN: Hvilken TV anbefaler du for personvern?",
+        "kilde": "Hacker News",
+        "tid": "19:35",
+        "lenke": "https://news.ycombinator.com/item?id=50328896",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ansatt ved NTNU omkom i Rindal",
+        "kilde": "NRK Nyheter",
+        "tid": "19:32",
+        "lenke": "https://www.nrk.no/trondelag/ansatt-ved-ntnu-omkom-i-rindal-1.18070581",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "‘Prangende smykker og fancy biler har ingen appell’: Vi har en 99% sjanse for å overleve våre livsbesparelser. Hvorfor ikke bruke alt?",
+        "kilde": "MarketWatch",
+        "tid": "19:20",
+        "lenke": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Det var ikke AI som snudde Protons ladning",
+        "kilde": "Hacker News",
+        "tid": "18:53",
+        "lenke": "https://blog.raed.dev/posts/proton-loser-thinking/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Sykepleiere lyder alarmen som «Uber for sykepleie» -apper. Trykk for å avregulere helsevesenet",
+        "kilde": "Hacker News",
+        "tid": "18:53",
+        "lenke": "https://nurse.org/news/uber-for-nursing-gig-apps-report/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Henting av jobber i USA kan holde deg på sporet til å øke prisene igjen",
+        "kilde": "Hacker News",
+        "tid": "18:51",
+        "lenke": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Venter konflikter og støy: – Du har Trumps ego",
+        "kilde": "E24",
+        "tid": "18:31",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/aOzMx7/venter-konflikter-og-stoey-du-har-trumps-ego?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Matematikken har endret seg. La oss oppføre oss som om det",
+        "kilde": "Hacker News",
+        "tid": "18:28",
+        "lenke": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Stjerne klapset til Ødegaard: – Et forsøk på å få noen utvist",
+        "kilde": "NRK Nyheter",
+        "tid": "18:26",
+        "lenke": "https://www.nrk.no/sport/flere-kontroverser-i-storkampen-mellom-liverpool-og-arsenal-1.18070721",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Min far har Alzheimers og hans omsorgsperson bruker sitt debetkort for DoorDash. Skal jeg gripe inn?",
         "kilde": "MarketWatch",
         "tid": "17:30",
         "lenke": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Patrick Stewart lærte oss hva gode menn gjør med makt",
-        "kilde": "Hacker News",
-        "tid": "17:28",
-        "lenke": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
         "engelsk_kilde": true
       },
       {
@@ -172,24 +235,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Frontier Airlines sannsynligvis brutt",
-        "kilde": "Hacker News",
-        "tid": "16:46",
-        "lenke": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Grand Theft Callout: ‘GTA 6’ -fans mangler arbeid på spillets utgivelsesdag fordi de ‘ikke vil vente’ lenger",
         "kilde": "MarketWatch",
         "tid": "16:35",
         "lenke": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Seoul Viosys begynner produksjonen av sjeldne jordklodefrie hvite lysemittere",
-        "kilde": "Hacker News",
-        "tid": "16:23",
-        "lenke": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
         "engelsk_kilde": true
       },
       {
@@ -205,20 +254,6 @@
         "tid": "16:05",
         "lenke": "https://e24.no/norsk-oekonomi/i/GrRXn6/1-000-soekere-paa-10-stillinger-sinnssyke-tall?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Vis HN: HackerBooks – HackerTube, men for bøker nevnt på HN",
-        "kilde": "Hacker News",
-        "tid": "15:58",
-        "lenke": "https://hackerbooks.org",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Fasttelefoner slås av over hele Britland om 100 dager, ingen utvidelser",
-        "kilde": "Hacker News",
-        "tid": "15:33",
-        "lenke": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Disse senatsløpene kan bidra til å avgjøre skjebnen til trygden",
@@ -284,13 +319,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Vart seriemeister etter maktdemonstrasjon - no ventar gullfeiring i Bergen",
-        "kilde": "NRK Nyheter",
-        "tid": "12:49",
-        "lenke": "https://www.nrk.no/vestland/brann-sk-kvinner-er-seriemeistrar-i-toppserien-1.18070055",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Binance gjenopptar uttak etter $ 6,3 milliarder hack, sier 90% av stjålne brukerressurser er dekket",
         "kilde": "CNBC Top News",
         "tid": "12:19",
@@ -326,38 +354,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Jørn-Bjørn har brukt samme bukse i et år",
-        "kilde": "NRK Nyheter",
-        "tid": "09:38",
-        "lenke": "https://www.nrk.no/sorlandet/jorn-bjorn-er-verdensmester-i-jeans_-har-brukt-samme-bukse-i-et-ar-1.18066831",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Røykutvikling på Majorstuen",
-        "kilde": "NRK Nyheter",
-        "tid": "09:11",
-        "lenke": "https://www.nrk.no/sorlandet/roykutvikling-pa-majorstuen-1.18070417",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Åpen med sjefen eller slite i stillhet?",
-        "kilde": "E24",
-        "tid": "08:28",
-        "lenke": "https://e24.no/karriere-og-ledelse/i/0B1mwG/aapen-med-sjefen-eller-slite-i-stillhet?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Ikke mer oppvask: Hvordan Airbnbs nye husregler har delt verter og gjester",
         "kilde": "BBC Business",
         "tid": "00:17",
         "lenke": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Min voldelige eksmann lovte $ 20 000 for våre barns utdannelse. Nå nekter han å betale. Er han juridisk forpliktet?",
-        "kilde": "MarketWatch",
-        "tid": "20:15",
-        "lenke": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
         "engelsk_kilde": true
       }
     ]
