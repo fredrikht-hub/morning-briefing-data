@@ -1,146 +1,328 @@
 {
   "dato": "2026-11-02",
   "dato_norsk": "Mandag 2. november 2026",
-  "generert_kl": "13:15",
+  "generert_kl": "19:05",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Forsvar, helsetjenester, krypto og AI: Hvordan midtveisvalget kan påvirke aksjer",
+      "tittel": "Traumekirurg: – Norske sykehus er ikke forberedt på krig",
+      "kilde": "NRK Nyheter",
+      "tid": "16:24",
+      "lenke": "https://www.nrk.no/tromsogfinnmark/kirurg-og-overlege-mener-norge-har-svaert-darlig-krigsberedskap-innen-helse-1.18067388",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Trump-kontoinnehavere får SpaceX-aksjer fra Gwynne Shotwell i desember",
       "kilde": "CNBC Top News",
-      "tid": "13:06",
-      "lenke": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
+      "tid": "18:38",
+      "lenke": "https://www.cnbc.com/2026/11/02/trump-accounts-spacex-shares-shotwell.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Dette er den største trusselen mot det AI-drevne bullmarkedet",
-      "kilde": "MarketWatch",
-      "tid": "12:23",
-      "lenke": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Tech-aksjer går inn i november etter en brutal oktober: Er det på tide å kjøpe dip?",
-      "kilde": "MarketWatch",
-      "tid": "12:10",
-      "lenke": "https://www.marketwatch.com/story/tech-stocks-enter-november-after-a-brutal-october-is-it-time-to-buy-the-dip-09d8aff8?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Citi kaster inn håndkleet på hyperskalere etter at en nøkkelsatsing på aksjemarkedet misfires",
-      "kilde": "MarketWatch",
-      "tid": "11:08",
-      "lenke": "https://www.marketwatch.com/story/the-latest-market-wobble-sees-citi-giving-up-on-this-big-tech-trade-181b0dea?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Amerikansk råolje faller under $ 100 blant rapporter om amerikansk-iransk diplomatisk innsats",
+      "tittel": "Anthropic rapporterer $ 17 milliarder i Q3-inntekter, kjøpsforpliktelser på $ 895,4 milliarder i revidert S-1",
       "kilde": "CNBC Top News",
-      "tid": "12:40",
-      "lenke": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+      "tid": "17:52",
+      "lenke": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Aksjemarkedet etter midtveisvalg: Hva S&P 500-historien viser",
+      "kilde": "CNBC Top News",
+      "tid": "17:57",
+      "lenke": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Opsjonshandlere blir engstelige for Palantir og Apple i forkant av inntektene",
+      "kilde": "CNBC Top News",
+      "tid": "18:16",
+      "lenke": "https://www.cnbc.com/2026/11/02/options-traders-are-getting-anxious-on-palantir-and-apple-ahead-of-earnings.html",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "Obos-prisene i Oslo falt 1,7 prosent i oktober",
-        "kilde": "E24",
-        "tid": "10:08",
-        "lenke": "https://e24.no/norsk-oekonomi/i/Jravy4/obos-prisene-i-oslo-falt-1-7-prosent-i-oktober?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Nedgang på Oslo Børs – Bakkafrost faller etter kvartalstall",
-        "kilde": "E24",
-        "tid": "08:00",
-        "lenke": "https://e24.no/boers-og-finans/i/El7gn3/nedgang-paa-oslo-boers?utm_medium=rss",
+        "tittel": "Traumekirurg: – Norske sykehus er ikke forberedt på krig",
+        "kilde": "NRK Nyheter",
+        "tid": "16:24",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/kirurg-og-overlege-mener-norge-har-svaert-darlig-krigsberedskap-innen-helse-1.18067388",
         "engelsk_kilde": false
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "Forsvar, helsetjenester, krypto og AI: Hvordan midtveisvalget kan påvirke aksjer",
+        "tittel": "Opsjonshandlere blir engstelige for Palantir og Apple i forkant av inntektene",
         "kilde": "CNBC Top News",
-        "tid": "13:06",
-        "lenke": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
+        "tid": "18:16",
+        "lenke": "https://www.cnbc.com/2026/11/02/options-traders-are-getting-anxious-on-palantir-and-apple-ahead-of-earnings.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Dette er den største trusselen mot det AI-drevne bullmarkedet",
+        "tittel": "Det kan ta uker å telle midtveisvalgresultatene. Dette er grunnen til at Wall Street ikke er bekymret.",
         "kilde": "MarketWatch",
-        "tid": "12:23",
-        "lenke": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
+        "tid": "18:16",
+        "lenke": "https://www.marketwatch.com/story/it-may-take-weeks-to-tally-the-midterm-election-results-heres-why-wall-street-isnt-worried-ed9313fd?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Tech-aksjer går inn i november etter en brutal oktober: Er det på tide å kjøpe dip?",
+        "tittel": "Obligasjonsmarkedet trosser den typiske investeringsstrategien. Her er hvorfor.",
         "kilde": "MarketWatch",
-        "tid": "12:10",
-        "lenke": "https://www.marketwatch.com/story/tech-stocks-enter-november-after-a-brutal-october-is-it-time-to-buy-the-dip-09d8aff8?mod=mw_rss_topstories",
+        "tid": "18:13",
+        "lenke": "https://www.marketwatch.com/story/the-bond-market-rally-is-defying-the-typical-investing-playbook-heres-why-17a14342?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Citi kaster inn håndkleet på hyperskalere etter at en nøkkelsatsing på aksjemarkedet misfires",
-        "kilde": "MarketWatch",
-        "tid": "11:08",
-        "lenke": "https://www.marketwatch.com/story/the-latest-market-wobble-sees-citi-giving-up-on-this-big-tech-trade-181b0dea?mod=mw_rss_topstories",
+        "tittel": "Aksjemarkedet etter midtveisvalg: Hva S&P 500-historien viser",
+        "kilde": "CNBC Top News",
+        "tid": "17:57",
+        "lenke": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Anthropic rapporterer $ 17 milliarder i Q3-inntekter, kjøpsforpliktelser på $ 895,4 milliarder i revidert S-1",
+        "kilde": "CNBC Top News",
+        "tid": "17:52",
+        "lenke": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Oracle vil ha $ 20 milliarder for å finansiere sin AI-fremtid — og aksjen betaler prisen",
+        "kilde": "MarketWatch",
+        "tid": "17:31",
+        "lenke": "https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "6 utbytteaksjer for investorer som ønsker å kutte sin eksponering mot S&P 500",
+        "kilde": "MarketWatch",
+        "tid": "16:56",
+        "lenke": "https://www.marketwatch.com/story/6-dividend-stocks-for-investors-who-want-to-cut-their-exposure-to-the-s-p-500-52519928?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Disse tekniske aksjene ble urettferdig feid opp i forrige ukes salg, sier analytikere",
+        "kilde": "MarketWatch",
+        "tid": "16:50",
+        "lenke": "https://www.marketwatch.com/story/these-tech-stocks-got-unfairly-swept-up-in-last-weeks-selloff-analysts-say-e296c1b3?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Wall Streets fryktindeks gjør noe rart. Dette betyr det for aksjer",
+        "kilde": "CNBC Top News",
+        "tid": "15:30",
+        "lenke": "https://www.cnbc.com/2026/11/02/wall-streets-fear-index-is-doing-something-strange-heres-what-it-means-for-stocks.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tek-comeback på Wall Street",
+        "kilde": "E24",
+        "tid": "14:32",
+        "lenke": "https://e24.no/boers-og-finans/i/mKkkqL/tek-comeback-paa-wall-street?utm_medium=rss",
+        "engelsk_kilde": false
       }
     ],
     "ENERGI_RAAVARER": [
       {
-        "tittel": "Amerikansk råolje faller under $ 100 blant rapporter om amerikansk-iransk diplomatisk innsats",
+        "tittel": "Råoljeprisene selger mer enn 7% på Iran fredssnakk håp i forkant av amerikanske midterms",
         "kilde": "CNBC Top News",
-        "tid": "12:40",
+        "tid": "17:37",
         "lenke": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvordan oljeprisen kan bli gjennomsnittlig $ 130 per fat neste år, ifølge Goldman Sachs",
-        "kilde": "MarketWatch",
-        "tid": "11:14",
-        "lenke": "https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories",
         "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "I jakten på $ 1 billion i inntekter, er SpaceX angivelig målrettet mot Boost Mobile for en avtale",
-        "kilde": "MarketWatch",
-        "tid": "12:20",
-        "lenke": "https://www.marketwatch.com/story/in-the-hunt-for-1-trillion-of-revenue-spacex-reportedly-targets-boost-mobile-for-a-deal-7eb4ea49?mod=mw_rss_topstories",
+        "tittel": "Trump-kontoinnehavere får SpaceX-aksjer fra Gwynne Shotwell i desember",
+        "kilde": "CNBC Top News",
+        "tid": "18:38",
+        "lenke": "https://www.cnbc.com/2026/11/02/trump-accounts-spacex-shares-shotwell.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Apple rapporterer etter klokken. Opsjonshandlere forventer et stort trekk",
+        "kilde": "CNBC Top News",
+        "tid": "18:19",
+        "lenke": "https://www.cnbc.com/2026/11/02/apple-reports-after-the-bell-options-traders-expect-a-big-move.html",
         "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Falske kjernefysiske advarsler i Ukraina som Moskva, Kiev rapporterer separate cyberangrep på nødapper",
-        "kilde": "CNBC Top News",
-        "tid": "11:18",
-        "lenke": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Stevens støtter republikaneren Rogers fremfor rivalen El-Sayed i senatsvalget i Michigan",
-        "kilde": "CNBC Top News",
-        "tid": "21:06",
-        "lenke": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Alaska Sen. Sullivan sier at han vil akseptere valgresultatet, slam Peltola-kampanjens rapporterte rekruttering av andre Sullivan",
-        "kilde": "CNBC Top News",
-        "tid": "17:12",
-        "lenke": "https://www.cnbc.com/2026/11/01/alaska-senate-election-dan-sullivan-peltola.html",
-        "engelsk_kilde": true
+        "tittel": "Oljeprisen faller brått etter Iran-rykter",
+        "kilde": "E24",
+        "tid": "13:48",
+        "lenke": "https://e24.no/boers-og-finans/i/gdooRL/oljeprisen-faller-braatt-etter-iran-rykter?utm_medium=rss",
+        "engelsk_kilde": false
       }
     ],
     "VILLKORT": [
       {
-        "tittel": "Kjøp frysere i seks europeiske land som er rammet av mistenkte nettangrep",
+        "tittel": "Advarer om oljesjokk etter mellomvalget",
+        "kilde": "E24",
+        "tid": "19:02",
+        "lenke": "https://e24.no/boers-og-finans/i/585aWW/advarer-om-oljesjokk-etter-mellomvalget?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Egoløs matematikk i AI-æraen",
+        "kilde": "Hacker News",
+        "tid": "18:54",
+        "lenke": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Texas-guvernørkappløpet strammes til i prediksjonsmarkedene, men Abbott er fortsatt favorisert",
+        "kilde": "CNBC Top News",
+        "tid": "18:54",
+        "lenke": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Sosial sikkerhet må kanskje kutte pensjonsytelser om seks år. Her er hvor mye penger som står på spill for mottakere",
+        "kilde": "CNBC Top News",
+        "tid": "18:46",
+        "lenke": "https://www.cnbc.com/2026/11/01/social-security-benefit-cuts-2032.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "SOML – Et konfigurasjonsformat for mennesker",
+        "kilde": "Hacker News",
+        "tid": "18:42",
+        "lenke": "https://github.com/soml-lang/soml",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Agentiske bakdører via forgiftning",
+        "kilde": "Hacker News",
+        "tid": "18:30",
+        "lenke": "https://arxiv.org/abs/2610.37741",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Pasient døde: Innrømmer dårlig vurdering",
+        "kilde": "NRK Nyheter",
+        "tid": "18:22",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/varsel_-pasienten-klarte-ikke-a-ga-til-ambulansen-_-ble-utskrevet-likevel-_-dode-fa-dager-senere-1.18036340",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Astra kan lese og skrive vekter for å forbedre Qwen",
+        "kilde": "Hacker News",
+        "tid": "18:21",
+        "lenke": "https://rikiyat.github.io/blog/weight-space-programming/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Snike seg inn i auditoriet for Windows 2000-lanseringsøvelsen",
+        "kilde": "Hacker News",
+        "tid": "18:12",
+        "lenke": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Justisdepartementet ber Høyesterett om å blokkere California ved å telle omstridte brevstemmer",
+        "kilde": "CNBC Top News",
+        "tid": "18:12",
+        "lenke": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Hun er en type A-personlighet’: Stemoren min vil at jeg skal betale tilbake min avdøde fars bryllupsgave på $ 40 000. Bør jeg forplikte meg?",
+        "kilde": "MarketWatch",
+        "tid": "18:00",
+        "lenke": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kjøp frysere i syv europeiske land som er rammet av cyberangrep",
         "kilde": "BBC Business",
-        "tid": "12:54",
+        "tid": "17:38",
         "lenke": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Marvells avtale for Lumentum gir tilbakeblikk til dot-com-boblen",
+        "kilde": "MarketWatch",
+        "tid": "17:32",
+        "lenke": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Skipsbestillinger for 700 mrd. dollar: – Historisk",
+        "kilde": "E24",
+        "tid": "17:24",
+        "lenke": "https://e24.no/boers-og-finans/i/El77j2/skipsbestillinger-for-700-mrd-dollar-historisk?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Minst 24 drept i russiske angrep mot ukrainsk landsby",
+        "kilde": "NRK Nyheter",
+        "tid": "17:19",
+        "lenke": "https://www.nrk.no/nyheter/minst-24-drept-i-russiske-angrep-mot-ukrainsk-landsby-1.18071637",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Øvrebø ut i bok – Røkke slår tilbake: – Ukultur",
+        "kilde": "NRK Nyheter",
+        "tid": "17:08",
+        "lenke": "https://www.nrk.no/sport/tore-ovrebo-ut-mot-rokke-i-ny-bok-1.18069733",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "‘Det virker bisarrt’: Vi er i 80-årene med $ 950 000 i tradisjonelle IRAer. Hvorfor presser vår rådgiver oss til å gjøre Roth-konverteringer?",
+        "kilde": "MarketWatch",
+        "tid": "17:00",
+        "lenke": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jens Ulltveit-Moe: – Sissener overdriver grovt",
+        "kilde": "E24",
+        "tid": "16:42",
+        "lenke": "https://e24.no/norsk-oekonomi/i/Ogv7Bb/jens-ulltveit-moe-sissener-overdriver-grovt?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Rødt-forslag om datasenterstans: Får trolig ikke flertall",
+        "kilde": "E24",
+        "tid": "15:43",
+        "lenke": "https://e24.no/energi-og-klima/i/Jrzzn8/roedt-forslag-om-datasenterstans-faar-trolig-ikke-flertall?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Christian Hoel ferdig som Rema-sjef",
+        "kilde": "E24",
+        "tid": "14:28",
+        "lenke": "https://e24.no/naeringsliv/i/aO6m6O/christian-hoel-gaar-av-som-rema-sjef?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Lame Donald Duck",
+        "kilde": "E24",
+        "tid": "14:03",
+        "lenke": "https://e24.no/naeringsliv/i/77ekj9/lame-donald-duck?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Plakaten ble for sterk kost i sør: Isabel fikk beskjed om å gjemme baken",
+        "kilde": "NRK Nyheter",
+        "tid": "13:53",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/plakaten-til-isabel-odegard-skolmen-ble-for-sterk-kost-i-sor-1.18067677",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Slik rømte Bolsonaro til USA",
+        "kilde": "NRK Nyheter",
+        "tid": "13:45",
+        "lenke": "https://www.nrk.no/urix/slik-romte-bolsonaro-til-usa-1.18070372",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Poundlands tidligere eier tilbyr seg å investere etter hvert som statsråden forbereder seg på å møte styret",
+        "kilde": "BBC Business",
+        "tid": "13:40",
+        "lenke": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
@@ -151,46 +333,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Knutsen møter pressen etter trenerbråket",
-        "kilde": "NRK Nyheter",
-        "tid": "12:42",
-        "lenke": "https://www.nrk.no/nordland/knutsen-moter-pressen-etter-trenerbraket-1.18071039",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Foreslår ny helsereform – ansatte frykter mer press",
-        "kilde": "NRK Nyheter",
-        "tid": "12:35",
-        "lenke": "https://www.nrk.no/rogaland/forslag-til-ny-helsereform_-ansatte-ved-stavanger-universitetssjukehus-frykter-mer-press-1.18070926",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Connecticut-senator Chris Murphy har hjerneslag og er på sykehuset, sier kontoret",
-        "kilde": "CNBC Top News",
-        "tid": "12:32",
-        "lenke": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Binance-kunder har tatt ut 3,64 milliarder dollar",
         "kilde": "E24",
         "tid": "12:30",
         "lenke": "https://e24.no/boers-og-finans/i/Jrzm57/binance-kunder-har-tatt-ut-3-64-milliarder-dollar?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Private jetfly styrter i Florida",
-        "kilde": "Hacker News",
-        "tid": "12:26",
-        "lenke": "https://www.cbc.ca/news/world/florida-plane-crash-9.7404996",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Marvell og Lumentum planlegger offisielt å kombinere. Her er hva du bør vite.",
-        "kilde": "MarketWatch",
-        "tid": "12:26",
-        "lenke": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Eksperter: Slik blir du rik på eiendom",
@@ -207,94 +354,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Amerika gjør det bedre enn du tror — bare spør de i den nederste halvdelen av husholdningenes formue",
-        "kilde": "MarketWatch",
-        "tid": "12:22",
-        "lenke": "https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Han var knust’: Min manns barn forlot ham da han var døende. Var det riktig av ham å overlate alt til meg?",
-        "kilde": "MarketWatch",
-        "tid": "12:15",
-        "lenke": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Aldri klag, aldri forklar",
-        "kilde": "Hacker News",
-        "tid": "11:55",
-        "lenke": "https://en.wikipedia.org/wiki/Never_complain,_never_explain",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Supermarkedfrysere over hele Europa rammet av andre mistenkte nettangrep",
-        "kilde": "Hacker News",
-        "tid": "11:50",
-        "lenke": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Supermarkedfrysere i Belgia og Sverige rammet av mistenkt cyberangrep",
-        "kilde": "Hacker News",
-        "tid": "11:48",
-        "lenke": "https://www.bbc.com/news/articles/cq1kd1nee80eo",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Fremtiden i gamle datablader (1984–2004)",
-        "kilde": "Hacker News",
-        "tid": "11:09",
-        "lenke": "https://tomorrowasusual.substack.com/p/blast-from-the-past-the-future-in",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Sp: Skuffet over at utvalget ikke går lenger",
+        "tittel": "Drapsdømd mann vil sleppe ut til kjærasten – men retten seier nei",
         "kilde": "NRK Nyheter",
-        "tid": "10:59",
-        "lenke": "https://www.nrk.no/nyheter/sp_-skuffet-over-at-utvalget-ikke-gar-lenger-1.18071170",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Tordner mot Statnett: – Mangler bare atomkrig med Putin",
-        "kilde": "E24",
-        "tid": "10:41",
-        "lenke": "https://e24.no/energi-og-klima/i/4OP4lq/tordner-mot-statnett-mangler-bare-atomkrig-med-putin?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Analytikerens laksefavoritt: – Ser mye sterkere ut",
-        "kilde": "E24",
-        "tid": "09:53",
-        "lenke": "https://e24.no/boers-og-finans/i/lKG5GG/analytikerens-laksefavoritt-ser-mye-sterkere-ut?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Apollo lanserer $ 11 milliarder privat kredittplattform, støttet av Abu Dhabi",
-        "kilde": "CNBC Top News",
-        "tid": "09:11",
-        "lenke": "https://www.cnbc.com/2026/11/02/apollo-private-credit-abu-dhabi.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Ambulansevikar: Ble bedt om å gjøre livredning på flere dager gammelt lik",
-        "kilde": "NRK Nyheter",
-        "tid": "08:31",
-        "lenke": "https://www.nrk.no/mr/xl/ambulanseansatte-trakasseres_-ung-vikar-sier-hun-ble-bedt-om-a-gjore-livredning-pa-gammelt-lik-1.18062786",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Å si stopp blir for enkelt",
-        "kilde": "E24",
-        "tid": "08:18",
-        "lenke": "https://e24.no/energi-og-klima/i/vlMPm4/aa-si-stopp-blir-for-enkelt?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Må kaste frysevarer etter hacking",
-        "kilde": "E24",
-        "tid": "08:01",
-        "lenke": "https://e24.no/naeringsliv/i/77rzyB/ica-frysere-hacket-i-sverige?utm_medium=rss",
+        "tid": "12:21",
+        "lenke": "https://www.nrk.no/mr/mann-som-er-domd-til-psykisk-helsevern-vil-ut_-men-sunnmore-tingrett-seier-nei-1.18068207",
         "engelsk_kilde": false
       },
       {
@@ -305,73 +368,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Sterkeste krone siden 2022",
-        "kilde": "E24",
-        "tid": "07:41",
-        "lenke": "https://e24.no/boers-og-finans/i/eG3wvO/sterkeste-krone-siden-2022?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "AI kan frigjøre nær 100.000 årsverk",
-        "kilde": "E24",
-        "tid": "07:00",
-        "lenke": "https://e24.no/norsk-oekonomi/i/lKPAnA/ai-kan-frigjoere-naer-100-000-aarsverk?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Binance ser 3,64 milliarder $ i netto utstrømning når uttakene gjenopptas etter massiv hacking",
-        "kilde": "CNBC Top News",
-        "tid": "05:09",
-        "lenke": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Canada-India $ 5,5 milliarder bankovertakelse tiltrekker seg motstand fra arbeidere, politikere",
-        "kilde": "CNBC Top News",
-        "tid": "04:09",
-        "lenke": "https://www.cnbc.com/2026/11/02/canada-india-bank-takeover-protest-workers.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Minst 12 utlendinger døde i togulykken i Spania",
-        "kilde": "NRK Nyheter",
-        "tid": "03:49",
-        "lenke": "https://www.nrk.no/nyheter/minst-12-utlendinger-dode-i-togulykken-i-spania-1.18070859",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Ikke bli fanget opp av nye Kjøp nå Betal senere-regler",
         "kilde": "BBC Business",
         "tid": "23:34",
         "lenke": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Tidenes yngste i tårer over VM-gull – men for «feil» team",
-        "kilde": "NRK Nyheter",
-        "tid": "22:24",
-        "lenke": "https://www.nrk.no/sport/andrea-kimi-antonelli-blir-verdensmester-i-formel-1-1.18070787",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Dette kvier jeg meg for å fortelle fra Midtøsten",
-        "kilde": "NRK Nyheter",
-        "tid": "21:22",
-        "lenke": "https://www.nrk.no/urix/dette-kvier-jeg-meg-for-a-fortelle-fra-midtosten-1.18068309",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Virgin Media O2 vil kutte tusenvis av jobber for å redusere kostnadene",
-        "kilde": "BBC Business",
-        "tid": "16:57",
-        "lenke": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Sosial sikkerhet må kanskje kutte pensjonsytelser om seks år. Her er hvor mye penger som står på spill for mottakere",
-        "kilde": "CNBC Top News",
-        "tid": "15:18",
-        "lenke": "https://www.cnbc.com/2026/11/01/social-security-benefit-cuts-2032.html",
         "engelsk_kilde": true
       }
     ]
