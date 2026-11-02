@@ -1,47 +1,54 @@
 {
   "dato": "2026-11-02",
   "dato_norsk": "Mandag 2. november 2026",
-  "generert_kl": "19:05",
+  "generert_kl": "22:11",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Traumekirurg: – Norske sykehus er ikke forberedt på krig",
-      "kilde": "NRK Nyheter",
-      "tid": "16:24",
-      "lenke": "https://www.nrk.no/tromsogfinnmark/kirurg-og-overlege-mener-norge-har-svaert-darlig-krigsberedskap-innen-helse-1.18067388",
-      "engelsk_kilde": false
+      "tittel": "Trump fokuserer på Reflecting Pool i siste offentlige tale før midterms",
+      "kilde": "CNBC Top News",
+      "tid": "21:15",
+      "lenke": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
+      "engelsk_kilde": true
     },
     {
       "tittel": "Trump-kontoinnehavere får SpaceX-aksjer fra Gwynne Shotwell i desember",
       "kilde": "CNBC Top News",
-      "tid": "18:38",
+      "tid": "19:46",
       "lenke": "https://www.cnbc.com/2026/11/02/trump-accounts-spacex-shares-shotwell.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Anthropic rapporterer $ 17 milliarder i Q3-inntekter, kjøpsforpliktelser på $ 895,4 milliarder i revidert S-1",
-      "kilde": "CNBC Top News",
-      "tid": "17:52",
-      "lenke": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+      "tittel": "Chip-aksjer lider av en \"tillitskrise\" — men ting er ikke så dystre som de ser ut til å være",
+      "kilde": "MarketWatch",
+      "tid": "20:30",
+      "lenke": "https://www.marketwatch.com/story/chip-stocks-are-suffering-from-a-crisis-of-confidence-but-things-arent-as-gloomy-as-they-seem-6ed14ea9?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Aksjemarkedet etter midtveisvalg: Hva S&P 500-historien viser",
-      "kilde": "CNBC Top News",
-      "tid": "17:57",
-      "lenke": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-      "engelsk_kilde": true
+      "tittel": "Ekspert: – Ser lignende i Norge nærmest daglig",
+      "kilde": "E24",
+      "tid": "21:00",
+      "lenke": "https://e24.no/naeringsliv/i/31ylyv/kjoeleskap-hacket-i-svergie-sikkerhetsekspert-mener-norge-ikke-er-sikkeret-fra-slike-angrep?utm_medium=rss",
+      "engelsk_kilde": false
     },
     {
-      "tittel": "Opsjonshandlere blir engstelige for Palantir og Apple i forkant av inntektene",
+      "tittel": "Palantir rapporterer om blomstrende kommersiell inntektsvekst i USA, som toppet regjeringen for første gang",
       "kilde": "CNBC Top News",
-      "tid": "18:16",
-      "lenke": "https://www.cnbc.com/2026/11/02/options-traders-are-getting-anxious-on-palantir-and-apple-ahead-of-earnings.html",
+      "tid": "21:46",
+      "lenke": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
+      {
+        "tittel": "Ekspert: – Ser lignende i Norge nærmest daglig",
+        "kilde": "E24",
+        "tid": "21:00",
+        "lenke": "https://e24.no/naeringsliv/i/31ylyv/kjoeleskap-hacket-i-svergie-sikkerhetsekspert-mener-norge-ikke-er-sikkeret-fra-slike-angrep?utm_medium=rss",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Traumekirurg: – Norske sykehus er ikke forberedt på krig",
         "kilde": "NRK Nyheter",
@@ -52,24 +59,45 @@
     ],
     "MARKEDER": [
       {
-        "tittel": "Opsjonshandlere blir engstelige for Palantir og Apple i forkant av inntektene",
+        "tittel": "Næringsdrivende som rusler inn i en giret ETF for å gjøre en bullish innsats på Nasdaq-100, ble nettopp brent",
+        "kilde": "MarketWatch",
+        "tid": "22:03",
+        "lenke": "https://www.marketwatch.com/story/traders-rushing-into-a-leveraged-etf-to-make-a-bullish-bet-on-the-nasdaq-100-just-got-burned-d6775191?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Palantir rapporterer om blomstrende kommersiell inntektsvekst i USA, som toppet regjeringen for første gang",
         "kilde": "CNBC Top News",
-        "tid": "18:16",
-        "lenke": "https://www.cnbc.com/2026/11/02/options-traders-are-getting-anxious-on-palantir-and-apple-ahead-of-earnings.html",
+        "tid": "21:46",
+        "lenke": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Det kan ta uker å telle midtveisvalgresultatene. Dette er grunnen til at Wall Street ikke er bekymret.",
+        "tittel": "Wall Streets mest forhatte aksjer er langt bedre enn favorittene",
         "kilde": "MarketWatch",
-        "tid": "18:16",
-        "lenke": "https://www.marketwatch.com/story/it-may-take-weeks-to-tally-the-midterm-election-results-heres-why-wall-street-isnt-worried-ed9313fd?mod=mw_rss_topstories",
+        "tid": "21:45",
+        "lenke": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Obligasjonsmarkedet trosser den typiske investeringsstrategien. Her er hvorfor.",
+        "tittel": "Aksjemarkedet har ikke gått noe sted de siste 5 månedene. Det ser nå ut som et røverkjøp.",
         "kilde": "MarketWatch",
-        "tid": "18:13",
-        "lenke": "https://www.marketwatch.com/story/the-bond-market-rally-is-defying-the-typical-investing-playbook-heres-why-17a14342?mod=mw_rss_topstories",
+        "tid": "21:29",
+        "lenke": "https://www.marketwatch.com/story/the-stock-market-has-gone-nowhere-for-the-past-5-months-its-now-looking-like-a-bargain-150914c2?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Palantir inntjening avslører et stort AI vendepunkt",
+        "kilde": "MarketWatch",
+        "tid": "21:09",
+        "lenke": "https://www.marketwatch.com/story/palantir-earnings-reveal-a-major-ai-turning-point-db766110?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Oracle-filer for å selge $ 20B i nye aksjer, obligasjoner for å finansiere AI-utbygging",
+        "kilde": "Hacker News",
+        "tid": "19:27",
+        "lenke": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
         "engelsk_kilde": true
       },
       {
@@ -87,35 +115,7 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Oracle vil ha $ 20 milliarder for å finansiere sin AI-fremtid — og aksjen betaler prisen",
-        "kilde": "MarketWatch",
-        "tid": "17:31",
-        "lenke": "https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "6 utbytteaksjer for investorer som ønsker å kutte sin eksponering mot S&P 500",
-        "kilde": "MarketWatch",
-        "tid": "16:56",
-        "lenke": "https://www.marketwatch.com/story/6-dividend-stocks-for-investors-who-want-to-cut-their-exposure-to-the-s-p-500-52519928?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Disse tekniske aksjene ble urettferdig feid opp i forrige ukes salg, sier analytikere",
-        "kilde": "MarketWatch",
-        "tid": "16:50",
-        "lenke": "https://www.marketwatch.com/story/these-tech-stocks-got-unfairly-swept-up-in-last-weeks-selloff-analysts-say-e296c1b3?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Wall Streets fryktindeks gjør noe rart. Dette betyr det for aksjer",
-        "kilde": "CNBC Top News",
-        "tid": "15:30",
-        "lenke": "https://www.cnbc.com/2026/11/02/wall-streets-fear-index-is-doing-something-strange-heres-what-it-means-for-stocks.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Tek-comeback på Wall Street",
+        "tittel": "Blandet Wall Street",
         "kilde": "E24",
         "tid": "14:32",
         "lenke": "https://e24.no/boers-og-finans/i/mKkkqL/tek-comeback-paa-wall-street?utm_medium=rss",
@@ -126,37 +126,149 @@
       {
         "tittel": "Råoljeprisene selger mer enn 7% på Iran fredssnakk håp i forkant av amerikanske midterms",
         "kilde": "CNBC Top News",
-        "tid": "17:37",
+        "tid": "20:19",
         "lenke": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
         "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Trump-kontoinnehavere får SpaceX-aksjer fra Gwynne Shotwell i desember",
-        "kilde": "CNBC Top News",
-        "tid": "18:38",
-        "lenke": "https://www.cnbc.com/2026/11/02/trump-accounts-spacex-shares-shotwell.html",
+        "tittel": "Apple slår forventningene",
+        "kilde": "E24",
+        "tid": "21:30",
+        "lenke": "https://e24.no/boers-og-finans/i/JrzPQ4/apple-slaar-forventningene?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Chip-aksjer lider av en \"tillitskrise\" — men ting er ikke så dystre som de ser ut til å være",
+        "kilde": "MarketWatch",
+        "tid": "20:30",
+        "lenke": "https://www.marketwatch.com/story/chip-stocks-are-suffering-from-a-crisis-of-confidence-but-things-arent-as-gloomy-as-they-seem-6ed14ea9?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Apple rapporterer etter klokken. Opsjonshandlere forventer et stort trekk",
+        "tittel": "Trump-kontoinnehavere får SpaceX-aksjer fra Gwynne Shotwell i desember",
         "kilde": "CNBC Top News",
-        "tid": "18:19",
-        "lenke": "https://www.cnbc.com/2026/11/02/apple-reports-after-the-bell-options-traders-expect-a-big-move.html",
+        "tid": "19:46",
+        "lenke": "https://www.cnbc.com/2026/11/02/trump-accounts-spacex-shares-shotwell.html",
         "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Oljeprisen faller brått etter Iran-rykter",
-        "kilde": "E24",
-        "tid": "13:48",
-        "lenke": "https://e24.no/boers-og-finans/i/gdooRL/oljeprisen-faller-braatt-etter-iran-rykter?utm_medium=rss",
-        "engelsk_kilde": false
+        "tittel": "Trump fokuserer på Reflecting Pool i siste offentlige tale før midterms",
+        "kilde": "CNBC Top News",
+        "tid": "21:15",
+        "lenke": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
+        "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "BYD solgte flere elbiler forrige måned enn USA gjorde i hele kvartalet, og toppet 300 000",
+        "kilde": "Hacker News",
+        "tid": "21:38",
+        "lenke": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vil du hjelpe dine voksne barn og barnebarn? Gi dem penger mens du fortsatt er i live.",
+        "kilde": "MarketWatch",
+        "tid": "21:35",
+        "lenke": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Hun er en type A-personlighet’: Stemoren min vil at jeg skal betale tilbake min avdøde fars bryllupsgave på $ 40 000. Bør jeg forplikte meg?",
+        "kilde": "MarketWatch",
+        "tid": "21:30",
+        "lenke": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Texas-guvernørkappløpet strammes til i prediksjonsmarkedene, men Abbott er fortsatt favorisert",
+        "kilde": "CNBC Top News",
+        "tid": "21:13",
+        "lenke": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Palantir dro inn 2,3 milliarder dollar i tredje kvartal",
+        "kilde": "E24",
+        "tid": "21:06",
+        "lenke": "https://e24.no/boers-og-finans/i/w3aPxL/palantir-dro-inn2-3-milliarder-dollar-i-tredje-kvartal?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "‘Det virker bisarrt’: Vi er i 80-årene med $ 950 000 i tradisjonelle IRAer. Hvorfor presser vår rådgiver Roth-konverteringer?",
+        "kilde": "MarketWatch",
+        "tid": "21:00",
+        "lenke": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg obligasjoner betaler nå 5,51% — men det er avveininger. Hva du bør vite før du kjøper",
+        "kilde": "CNBC Top News",
+        "tid": "20:57",
+        "lenke": "https://www.cnbc.com/2026/11/02/i-bonds-rate.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Full jubel: FK Haugesund klare for Eliteserien",
+        "kilde": "NRK Nyheter",
+        "tid": "20:52",
+        "lenke": "https://www.nrk.no/rogaland/full-jubel_-fk-haugesund-klare-for-eliteserien-1.18071730",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Forutsigelsesmarkedshandlere ser nå nesten 75% sjanse for at demokrater vinner Senatet",
+        "kilde": "CNBC Top News",
+        "tid": "20:48",
+        "lenke": "https://www.cnbc.com/2026/11/02/prediction-market-traders-now-see-nearly-75percent-chance-of-democrats-winning-the-senate.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Valve \"spilte kapitalisme så bra at de knuste den\" og nå kan ikke Steam erstattes",
+        "kilde": "Hacker News",
+        "tid": "20:42",
+        "lenke": "https://www.gamesradar.com/games/valve-played-capitalism-so-well-they-broke-it-and-now-steam-can-never-be-replaced-former-epic-dev-says-i-dont-think-this-is-fixable/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ryanair-sjefen varsler kraftig prishopp",
+        "kilde": "E24",
+        "tid": "20:14",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/4O9yAe/ryanair-sjefen-varsler-kraftig-prishopp?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Langar ut etter kontroversiell avtale for «moteidrett»: – Noko drit",
+        "kilde": "NRK Nyheter",
+        "tid": "20:05",
+        "lenke": "https://www.nrk.no/sport/hyrox-inngar-samarbeidsavtale-med-det-internasjonale-triatlonforbundet-1.18069428",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Fikk monstergjedde – så beit det på nytt",
+        "kilde": "NRK Nyheter",
+        "tid": "20:00",
+        "lenke": "https://www.nrk.no/sorlandet/fikk-monstergjedde-_-sa-beit-det-pa-nytt-1.18071601",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Justisdepartementet ber Høyesterett om å blokkere California ved å telle omstridte stemmesedler for innsending",
+        "kilde": "CNBC Top News",
+        "tid": "19:38",
+        "lenke": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Stian Blipp vil ha 18 millioner",
+        "kilde": "E24",
+        "tid": "19:10",
+        "lenke": "https://e24.no/naeringsliv/i/qy0Kxw/stian-blipp-vil-ha-18-millioner?utm_medium=rss",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Advarer om oljesjokk etter mellomvalget",
         "kilde": "E24",
@@ -172,31 +284,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Texas-guvernørkappløpet strammes til i prediksjonsmarkedene, men Abbott er fortsatt favorisert",
-        "kilde": "CNBC Top News",
-        "tid": "18:54",
-        "lenke": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Sosial sikkerhet må kanskje kutte pensjonsytelser om seks år. Her er hvor mye penger som står på spill for mottakere",
-        "kilde": "CNBC Top News",
-        "tid": "18:46",
-        "lenke": "https://www.cnbc.com/2026/11/01/social-security-benefit-cuts-2032.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "SOML – Et konfigurasjonsformat for mennesker",
+        "tittel": "Stemmeseddelavvisninger har økt i landlige fylker ettersom USPS reduserer posttjenesten",
         "kilde": "Hacker News",
-        "tid": "18:42",
-        "lenke": "https://github.com/soml-lang/soml",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Agentiske bakdører via forgiftning",
-        "kilde": "Hacker News",
-        "tid": "18:30",
-        "lenke": "https://arxiv.org/abs/2610.37741",
+        "tid": "18:48",
+        "lenke": "https://www.propublica.org/article/mail-ballot-delays-postal-service-midterms",
         "engelsk_kilde": true
       },
       {
@@ -207,45 +298,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Astra kan lese og skrive vekter for å forbedre Qwen",
-        "kilde": "Hacker News",
-        "tid": "18:21",
-        "lenke": "https://rikiyat.github.io/blog/weight-space-programming/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Snike seg inn i auditoriet for Windows 2000-lanseringsøvelsen",
-        "kilde": "Hacker News",
-        "tid": "18:12",
-        "lenke": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Justisdepartementet ber Høyesterett om å blokkere California ved å telle omstridte brevstemmer",
-        "kilde": "CNBC Top News",
-        "tid": "18:12",
-        "lenke": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Hun er en type A-personlighet’: Stemoren min vil at jeg skal betale tilbake min avdøde fars bryllupsgave på $ 40 000. Bør jeg forplikte meg?",
-        "kilde": "MarketWatch",
-        "tid": "18:00",
-        "lenke": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Kjøp frysere i syv europeiske land som er rammet av cyberangrep",
         "kilde": "BBC Business",
         "tid": "17:38",
         "lenke": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Marvells avtale for Lumentum gir tilbakeblikk til dot-com-boblen",
-        "kilde": "MarketWatch",
-        "tid": "17:32",
-        "lenke": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -270,13 +326,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "‘Det virker bisarrt’: Vi er i 80-årene med $ 950 000 i tradisjonelle IRAer. Hvorfor presser vår rådgiver oss til å gjøre Roth-konverteringer?",
-        "kilde": "MarketWatch",
-        "tid": "17:00",
-        "lenke": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Jens Ulltveit-Moe: – Sissener overdriver grovt",
         "kilde": "E24",
         "tid": "16:42",
@@ -291,31 +340,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Christian Hoel ferdig som Rema-sjef",
-        "kilde": "E24",
-        "tid": "14:28",
-        "lenke": "https://e24.no/naeringsliv/i/aO6m6O/christian-hoel-gaar-av-som-rema-sjef?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Lame Donald Duck",
-        "kilde": "E24",
-        "tid": "14:03",
-        "lenke": "https://e24.no/naeringsliv/i/77ekj9/lame-donald-duck?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Plakaten ble for sterk kost i sør: Isabel fikk beskjed om å gjemme baken",
         "kilde": "NRK Nyheter",
         "tid": "13:53",
         "lenke": "https://www.nrk.no/tromsogfinnmark/plakaten-til-isabel-odegard-skolmen-ble-for-sterk-kost-i-sor-1.18067677",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Slik rømte Bolsonaro til USA",
-        "kilde": "NRK Nyheter",
-        "tid": "13:45",
-        "lenke": "https://www.nrk.no/urix/slik-romte-bolsonaro-til-usa-1.18070372",
         "engelsk_kilde": false
       },
       {
@@ -326,39 +354,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Drapsdømd mann vil sleppe ut til kjærasten – men retten seier nei",
-        "kilde": "NRK Nyheter",
-        "tid": "12:50",
-        "lenke": "https://www.nrk.no/mr/-drapsdomd-mann-vil-sleppe-ut-til-kjaerasten-_-men-retten-seier-nei-1.18071261",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Binance-kunder har tatt ut 3,64 milliarder dollar",
-        "kilde": "E24",
-        "tid": "12:30",
-        "lenke": "https://e24.no/boers-og-finans/i/Jrzm57/binance-kunder-har-tatt-ut-3-64-milliarder-dollar?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Eksperter: Slik blir du rik på eiendom",
-        "kilde": "E24",
-        "tid": "12:22",
-        "lenke": "https://e24.no/naeringsliv/i/77rV9B/slik-blir-du-rik-paa-eiendom-alle-har-lyst-til-aa-flippe-en-leilighet?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Ryanair sier det kan fryse arbeidstakernes lønn og øke flybillettene",
         "kilde": "BBC Business",
         "tid": "12:22",
         "lenke": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Drapsdømd mann vil sleppe ut til kjærasten – men retten seier nei",
-        "kilde": "NRK Nyheter",
-        "tid": "12:21",
-        "lenke": "https://www.nrk.no/mr/mann-som-er-domd-til-psykisk-helsevern-vil-ut_-men-sunnmore-tingrett-seier-nei-1.18068207",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Binance-brukere tar ut $ 3,6 milliarder etter det største kryptohacket noensinne",
