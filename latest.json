@@ -1,21 +1,28 @@
 {
-  "dato": "2026-11-01",
-  "dato_norsk": "Søndag 1. november 2026",
-  "generert_kl": "20:52",
+  "dato": "2026-11-02",
+  "dato_norsk": "Mandag 2. november 2026",
+  "generert_kl": "00:26",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
+      "tittel": "Dette er den største trusselen mot det AI-drevne bullmarkedet",
+      "kilde": "MarketWatch",
+      "tid": "00:22",
+      "lenke": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
       "tittel": "Dommer avviser Alaska-senatets søksmål; DOJ lover anke",
       "kilde": "CNBC Top News",
-      "tid": "20:21",
+      "tid": "23:17",
       "lenke": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Stevens støtter republikaneren Rogers fremfor rivalen El-Sayed i senatsvalget i Michigan",
-      "kilde": "CNBC Top News",
-      "tid": "20:51",
-      "lenke": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
+      "tittel": "Apples nye inntektsepoke begynner på et kritisk tidspunkt for Big Tech",
+      "kilde": "MarketWatch",
+      "tid": "00:21",
+      "lenke": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
@@ -26,17 +33,10 @@
       "engelsk_kilde": false
     },
     {
-      "tittel": "Hvordan fikser vi Norge? Se til Storbritannia!",
-      "kilde": "E24",
-      "tid": "12:14",
-      "lenke": "https://e24.no/norsk-oekonomi/i/ylqW3J/hvordan-fikser-vi-norge-se-til-storbritannia?utm_medium=rss",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Midtveisvalget kan omforme MUNI-obligasjonsmarkedet. Her er hva investorer trenger å vite",
+      "tittel": "Binance ser 3,64 milliarder $ i netto utstrømning når uttakene gjenopptas etter massiv hacking",
       "kilde": "CNBC Top News",
-      "tid": "12:30",
-      "lenke": "https://www.cnbc.com/2026/11/01/election-municipal-bonds.html",
+      "tid": "00:11",
+      "lenke": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
       "engelsk_kilde": true
     }
   ],
@@ -54,7 +54,7 @@
       {
         "tittel": "Dette er den største trusselen mot det AI-drevne bullmarkedet",
         "kilde": "MarketWatch",
-        "tid": "14:00",
+        "tid": "00:22",
         "lenke": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
@@ -73,28 +73,26 @@
         "engelsk_kilde": true
       }
     ],
-    "ENERGI_RAAVARER": [
-      {
-        "tittel": "Alt endret seg for olje-, AI- og obligasjonshandelen den siste måneden",
-        "kilde": "CNBC Top News",
-        "tid": "15:58",
-        "lenke": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html",
-        "engelsk_kilde": true
-      }
-    ],
     "TEKNOLOGI": [
+      {
+        "tittel": "Apples nye inntektsepoke begynner på et kritisk tidspunkt for Big Tech",
+        "kilde": "MarketWatch",
+        "tid": "00:21",
+        "lenke": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "AI-knekk på Wall Street: – Apple har blitt en trygg havn",
+        "kilde": "E24",
+        "tid": "21:03",
+        "lenke": "https://e24.no/boers-og-finans/i/vlLRk4/ai-knekk-paa-wall-street-apple-har-blitt-en-trygg-havn?utm_medium=rss",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "For JPMorgan, Amazon, er det kanskje ikke en vinnende langsiktig strategi å bekjempe AI-roboter som Meta Muse",
         "kilde": "CNBC Top News",
         "tid": "16:34",
         "lenke": "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Apples nye inntektsepoke begynner på et kritisk tidspunkt for Big Tech",
-        "kilde": "MarketWatch",
-        "tid": "15:00",
-        "lenke": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -107,17 +105,17 @@
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Stevens støtter republikaneren Rogers fremfor rivalen El-Sayed i senatsvalget i Michigan",
+        "tittel": "Dommer avviser Alaska-senatets søksmål; DOJ lover anke",
         "kilde": "CNBC Top News",
-        "tid": "20:51",
-        "lenke": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
+        "tid": "23:17",
+        "lenke": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Dommer avviser Alaska-senatets søksmål; DOJ lover anke",
+        "tittel": "Stevens støtter republikaneren Rogers fremfor rivalen El-Sayed i senatsvalget i Michigan",
         "kilde": "CNBC Top News",
-        "tid": "20:21",
-        "lenke": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
+        "tid": "21:06",
+        "lenke": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
         "engelsk_kilde": true
       },
       {
@@ -126,16 +124,51 @@
         "tid": "15:29",
         "lenke": "https://www.nrk.no/urix/xl/putin-bruker-militaer-bistand-til-iran-for-a-presse-trump-1.18061778",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Trump saksøker Murdoch, WSJ for Epstein brev avvist med fordommer",
-        "kilde": "CNBC Top News",
-        "tid": "23:56",
-        "lenke": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
-        "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "Binance ser 3,64 milliarder $ i netto utstrømning når uttakene gjenopptas etter massiv hacking",
+        "kilde": "CNBC Top News",
+        "tid": "00:11",
+        "lenke": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ikke bli fanget opp av nye Kjøp nå Betal senere-regler",
+        "kilde": "BBC Business",
+        "tid": "23:34",
+        "lenke": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Amerikanske arbeidere tok hjem sin minste andel av kapitalen siden minst 1947",
+        "kilde": "Hacker News",
+        "tid": "23:20",
+        "lenke": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tidenes yngste i tårer over VM-gull – men for «feil» team",
+        "kilde": "NRK Nyheter",
+        "tid": "22:24",
+        "lenke": "https://www.nrk.no/sport/andrea-kimi-antonelli-blir-verdensmester-i-formel-1-1.18070787",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "AI gir «null økonomisk utbetaling» til de fleste selskaper, sier Apollo-økonom",
+        "kilde": "Hacker News",
+        "tid": "22:10",
+        "lenke": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Dette kvier jeg meg for å fortelle fra Midtøsten",
+        "kilde": "NRK Nyheter",
+        "tid": "21:22",
+        "lenke": "https://www.nrk.no/urix/dette-kvier-jeg-meg-for-a-fortelle-fra-midtosten-1.18068309",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Kilder til NRK: FIS frykter Russland-blemme – kan føre til Bolsjunov-retur",
         "kilde": "NRK Nyheter",
@@ -172,24 +205,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Det var ikke AI som snudde Protons ladning",
-        "kilde": "Hacker News",
-        "tid": "18:53",
-        "lenke": "https://blog.raed.dev/posts/proton-loser-thinking/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Sykepleiere lyder alarmen som «Uber for sykepleie» -apper. Trykk for å avregulere helsevesenet",
-        "kilde": "Hacker News",
-        "tid": "18:53",
-        "lenke": "https://nurse.org/news/uber-for-nursing-gig-apps-report/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Henting av jobber i USA kan holde deg på sporet til å øke prisene igjen",
-        "kilde": "Hacker News",
-        "tid": "18:51",
-        "lenke": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
+        "tittel": "Connecticut-senator Chris Murphy har hjerneslag og er på sykehuset, sier kontoret",
+        "kilde": "CNBC Top News",
+        "tid": "19:10",
+        "lenke": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
         "engelsk_kilde": true
       },
       {
@@ -218,6 +237,13 @@
         "kilde": "MarketWatch",
         "tid": "17:30",
         "lenke": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Patrick Stewart lærte oss hva gode menn gjør med makt",
+        "kilde": "Hacker News",
+        "tid": "17:28",
+        "lenke": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
         "engelsk_kilde": true
       },
       {
@@ -263,6 +289,13 @@
         "engelsk_kilde": true
       },
       {
+        "tittel": "Sosial sikkerhet må kanskje kutte pensjonsytelser om seks år. Her er hvor mye penger som står på spill for mottakere",
+        "kilde": "CNBC Top News",
+        "tid": "15:18",
+        "lenke": "https://www.cnbc.com/2026/11/01/social-security-benefit-cuts-2032.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Ut mot Brann-spillerne: – De herset litt med ham",
         "kilde": "NRK Nyheter",
         "tid": "14:58",
@@ -274,20 +307,6 @@
         "kilde": "NRK Nyheter",
         "tid": "14:43",
         "lenke": "https://www.nrk.no/tromsogfinnmark/bilulykke-i-gullesfjorden_-de-involverte-skal-vaere-kritisk-skadd-1.18070643",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Magnus (30) er narkodealer på si",
-        "kilde": "NRK Nyheter",
-        "tid": "13:28",
-        "lenke": "https://www.nrk.no/innlandet/xl/_magnus_-har-solgt-narkotika-i-15-ar-_-mener-det-er-vanskelig-for-politiet-a-ha-kontroll-1.17212721",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Bilulykke i Gullesfjorden: De involverte skal være kritisk skadd",
-        "kilde": "NRK Nyheter",
-        "tid": "13:23",
-        "lenke": "https://www.nrk.no/tromsogfinnmark/bilulykke-i-gullesfjorden_-de-involverte-skal-vaere-kritisk-skadd-1.18070547",
         "engelsk_kilde": false
       },
       {
@@ -319,13 +338,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Binance gjenopptar uttak etter $ 6,3 milliarder hack, sier 90% av stjålne brukerressurser er dekket",
-        "kilde": "CNBC Top News",
-        "tid": "12:19",
-        "lenke": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Etter mellomvalget: Vil Maga splittes?",
         "kilde": "E24",
         "tid": "11:39",
@@ -345,20 +357,6 @@
         "tid": "11:09",
         "lenke": "https://e24.no/boers-og-finans/i/KrV01e/kan-bond-vigilantes-forhindre-den-neste-gjeldskrisen?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kompisene satser alt på ny Haaland-favoritt",
-        "kilde": "E24",
-        "tid": "10:17",
-        "lenke": "https://e24.no/naeringsliv/i/L3rWOR/kompisene-satser-alt-paa-ny-haaland-favoritt?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Ikke mer oppvask: Hvordan Airbnbs nye husregler har delt verter og gjester",
-        "kilde": "BBC Business",
-        "tid": "00:17",
-        "lenke": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
       }
     ]
   }
