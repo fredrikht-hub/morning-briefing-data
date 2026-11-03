@@ -1,231 +1,352 @@
 {
   "dato": "2026-11-03",
   "dato_norsk": "Tirsdag 3. november 2026",
-  "generert_kl": "12:41",
+  "generert_kl": "16:47",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Hvilke analytikere forteller oss mens Apples aksjer faller etter inntjeningsrapporten",
-      "kilde": "MarketWatch",
-      "tid": "12:20",
-      "lenke": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
+      "tittel": "Råoljeprisen faller for andre dag da markedet håper på diplomatisk løsning på Iran-krigen",
+      "kilde": "CNBC Top News",
+      "tid": "16:01",
+      "lenke": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Apples John Ternus står overfor tidlig test som global minnekrise skader fortjeneste",
+      "tittel": "Ledige stillinger postet stor septembergevinst i positivt tegn for arbeidsmarkedet foran lønnsrapporten",
       "kilde": "CNBC Top News",
-      "tid": "12:10",
+      "tid": "16:10",
+      "lenke": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Hva midtveisvalget i 2026 kan bety for Trumps siste to år",
+      "kilde": "CNBC Top News",
+      "tid": "16:01",
+      "lenke": "https://www.cnbc.com/2026/11/03/midterm-elections-congress-trump-democrats-republicans.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Apple-aksjen synker i takt med at den globale minnekrisen gjør vondt i fortjenesten, noe som gir Ternus hans første store test",
+      "kilde": "CNBC Top News",
+      "tid": "14:38",
       "lenke": "https://www.cnbc.com/2026/11/03/apple-earnings-john-ternus-faces-first-test-amid-high-memory-costs.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Styrker droneovervåkingen ved den norsk-russiske grensen",
-      "kilde": "NRK Nyheter",
-      "tid": "12:00",
-      "lenke": "https://www.nrk.no/tromsogfinnmark/forsvaret-plasserer-ut-luftovervaking-i-kirkenes-som-kan-oppdage-droner-pa-avveie-1.18072276",
+      "tittel": "Norsk varehus tror det er rammet av et hackerangrep",
+      "kilde": "E24",
+      "tid": "15:13",
+      "lenke": "https://e24.no/norsk-oekonomi/i/d7yE8B/norsk-varehus-tror-det-er-rammet-av-hackerangrep-melder-nrk?utm_medium=rss",
       "engelsk_kilde": false
-    },
-    {
-      "tittel": "Midtveisvalg kan rykke aksjer hvis demokratene feier kongressen",
-      "kilde": "CNBC Top News",
-      "tid": "11:54",
-      "lenke": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Yum Brands inntjening slår estimater, men syklospora utbrudd veier på Taco Bell",
-      "kilde": "CNBC Top News",
-      "tid": "12:37",
-      "lenke": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html",
-      "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
+        "tittel": "NRK-funn: Blokkerte nettkasinoer hadde millioner besøk fra Norge",
+        "kilde": "NRK Nyheter",
+        "tid": "15:21",
+        "lenke": "https://www.nrk.no/trondelag/nrk-funn_-blokkerte-nettkasinoer-hadde-72-millioner-besok-fra-norge-1.18067063",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Norsk varehus tror det er rammet av et hackerangrep",
+        "kilde": "E24",
+        "tid": "15:13",
+        "lenke": "https://e24.no/norsk-oekonomi/i/d7yE8B/norsk-varehus-tror-det-er-rammet-av-hackerangrep-melder-nrk?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Norsk gründer garanterer millioner i Myanmar-søksmål mot Telenor",
+        "kilde": "E24",
+        "tid": "15:02",
+        "lenke": "https://e24.no/boers-og-finans/i/jvRnPe/norsk-grunder-garanterer-millioner-i-myanmar-soeksmaal-mot-telenor?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Mulig hackerangrep mot norsk varehus: – Skade av betydelig omfang",
+        "kilde": "NRK Nyheter",
+        "tid": "14:59",
+        "lenke": "https://www.nrk.no/stor-oslo/mulig-hackerangrep-mot-norsk-varehus_-_-skade-av-betydelig-omfang-1.18072469",
+        "engelsk_kilde": false
+      },
+      {
         "tittel": "Styrker droneovervåkingen ved den norsk-russiske grensen",
         "kilde": "NRK Nyheter",
         "tid": "12:00",
-        "lenke": "https://www.nrk.no/tromsogfinnmark/forsvaret-plasserer-ut-luftovervaking-i-kirkenes-som-kan-oppdage-droner-pa-avveie-1.18072276",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/forsvaret-plasserer-ut-luftovervaking-i-kirkenes-som-kan-oppdage-droner-pa-avveier-1.18072276",
         "engelsk_kilde": false
-      },
+      }
+    ],
+    "MAKRO": [
       {
-        "tittel": "Mindre kupping og færre bud i Oslo",
-        "kilde": "E24",
-        "tid": "09:16",
-        "lenke": "https://e24.no/norsk-oekonomi/i/ylWMbJ/mindre-kupping-og-faerre-bud-i-oslo?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Flatt på Oslo Børs",
-        "kilde": "E24",
-        "tid": "08:00",
-        "lenke": "https://e24.no/boers-og-finans/i/0B5ggB/nedgang-paa-oslo-boers?utm_medium=rss",
-        "engelsk_kilde": false
+        "tittel": "Ledige stillinger postet stor septembergevinst i positivt tegn for arbeidsmarkedet foran lønnsrapporten",
+        "kilde": "CNBC Top News",
+        "tid": "16:10",
+        "lenke": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
+        "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "Yum Brands inntjening slår estimater, men syklospora utbrudd veier på Taco Bell",
-        "kilde": "CNBC Top News",
-        "tid": "12:37",
-        "lenke": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "11 rimelige aksjer i selskaper som har stort vekstpotensial i løpet av de neste to årene",
+        "tittel": "USA klarerer bane for første regulerte aksjeterminer",
         "kilde": "MarketWatch",
-        "tid": "12:28",
-        "lenke": "https://www.marketwatch.com/story/11-bargain-priced-stocks-of-companies-that-have-huge-growth-potential-over-the-next-two-years-d62618e6?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Wall Streets mest forhatte aksjer er langt bedre enn favorittene",
-        "kilde": "MarketWatch",
-        "tid": "12:22",
-        "lenke": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvilke analytikere forteller oss mens Apples aksjer faller etter inntjeningsrapporten",
-        "kilde": "MarketWatch",
-        "tid": "12:20",
-        "lenke": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Aksjemarkedet elsker gridlock. Men midtveisvalg vil ikke løse to store pengekamper.",
-        "kilde": "MarketWatch",
-        "tid": "12:12",
-        "lenke": "https://www.marketwatch.com/story/the-stock-market-loves-gridlock-but-midterm-elections-wont-resolve-two-big-money-fights-97ed4f64?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Versant inntjening slår forventningene ettersom digitale plattformer driver vekst",
-        "kilde": "CNBC Top News",
-        "tid": "12:06",
-        "lenke": "https://www.cnbc.com/2026/11/03/versant-vsnt-q3-2026-earnings.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Palantir aksjen er ned 8%. Analytikere sier at det er bestillingsveksten som er skylden.",
-        "kilde": "MarketWatch",
-        "tid": "12:06",
-        "lenke": "https://www.marketwatch.com/story/palantir-stock-is-down-8-analysts-say-bookings-growth-is-to-blame-0492921b?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nasdaq-100 faller inn i sin tredje korreksjon i år etter hvert som AI bekymrer seg",
-        "kilde": "MarketWatch",
-        "tid": "11:56",
-        "lenke": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories",
+        "tid": "16:46",
+        "lenke": "https://www.marketwatch.com/story/u-s-clears-path-for-first-regulated-equity-perpetual-futures-6bb35905?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
         "tittel": "Midtveisvalg kan rykke aksjer hvis demokratene feier kongressen",
         "kilde": "CNBC Top News",
-        "tid": "11:54",
+        "tid": "16:45",
         "lenke": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Antropisk IPO-innlevering: $ 1,7 milliarder kvartalsvis lønn, omtrent $ 107 000 per ansatt månedlig",
-        "kilde": "Hacker News",
-        "tid": "11:16",
-        "lenke": "https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html",
+        "tittel": "Shopifys aksjeslides etter inntjening. Dette er det som bekymrer Wall Street.",
+        "kilde": "MarketWatch",
+        "tid": "16:31",
+        "lenke": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bill Ackman advarer om 'casino' aksjemarkedet etter hvert som spekulativ handel vokser",
+        "kilde": "CNBC Top News",
+        "tid": "16:23",
+        "lenke": "https://www.cnbc.com/2026/11/03/bill-ackman-casino-stock-market.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Her er grunnen til at Palantirs aksjer er nede til tross for et \"bombastisk\" kvartal",
+        "kilde": "MarketWatch",
+        "tid": "16:21",
+        "lenke": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Oppgang på Wall Street",
+        "kilde": "E24",
+        "tid": "14:32",
+        "lenke": "https://e24.no/boers-og-finans/i/2VQxXl/oppgang-paa-wall-street?utm_medium=rss",
+        "engelsk_kilde": false
       }
     ],
     "ENERGI_RAAVARER": [
       {
-        "tittel": "Oljeprisen stiger etter at USA angriper Irans Qeshm-øy",
+        "tittel": "Råoljeprisen faller for andre dag da markedet håper på diplomatisk løsning på Iran-krigen",
         "kilde": "CNBC Top News",
-        "tid": "09:58",
+        "tid": "16:01",
         "lenke": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Olje- og gassprisen faller brått",
+        "kilde": "E24",
+        "tid": "13:56",
+        "lenke": "https://e24.no/boers-og-finans/i/Og47Ok/olje-og-gassprisen-faller-braatt-drar-med-seg-oslo-boers-nedover?utm_medium=rss",
+        "engelsk_kilde": false
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Apples John Ternus står overfor tidlig test som global minnekrise skader fortjeneste",
+        "tittel": "Google slår av søk etter skoler som avviser A.I",
+        "kilde": "Hacker News",
+        "tid": "16:15",
+        "lenke": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vis HN: Interaktive notater om RLHF, oppmerksomhet, LoRA og LLM evals",
+        "kilde": "Hacker News",
+        "tid": "15:48",
+        "lenke": "https://concepts.laxmena.com/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "5 spørsmål for å spørre om sjefen din tilbyr deg et oppkjøp, slik Microsoft gjorde med 60 000 ansatte",
+        "kilde": "MarketWatch",
+        "tid": "15:04",
+        "lenke": "https://www.marketwatch.com/story/5-questions-to-ask-if-your-boss-offers-you-a-buyout-as-microsoft-did-with-60-000-employees-03d037a5?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Apple-aksjen synker i takt med at den globale minnekrisen gjør vondt i fortjenesten, noe som gir Ternus hans første store test",
         "kilde": "CNBC Top News",
-        "tid": "12:10",
+        "tid": "14:38",
         "lenke": "https://www.cnbc.com/2026/11/03/apple-earnings-john-ternus-faces-first-test-amid-high-memory-costs.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Apple er usikker på når det blir flere sammenleggbare iPhones før jul",
-        "kilde": "BBC Business",
-        "tid": "11:10",
-        "lenke": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Apples aksjer glir etter svake marginutsikter; Palantir synker 8% etter inntjening",
-        "kilde": "CNBC Top News",
-        "tid": "10:34",
-        "lenke": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
         "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
+      {
+        "tittel": "Hva midtveisvalget i 2026 kan bety for Trumps siste to år",
+        "kilde": "CNBC Top News",
+        "tid": "16:01",
+        "lenke": "https://www.cnbc.com/2026/11/03/midterm-elections-congress-trump-democrats-republicans.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump sier han vil avslutte USAs støtte til Israel i slutten av året",
+        "kilde": "NRK Nyheter",
+        "tid": "13:38",
+        "lenke": "https://www.nrk.no/nyheter/trump-sier-han-vil-avslutte-usas-stotte-til-israel-i-slutten-av-aret-1.18072465",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Russland bekrefter nye fredsforhandlinger i Ukraina mens Melania Trump forbereder seg på å være vert for våpenhvile-møte",
+        "kilde": "CNBC Top News",
+        "tid": "13:22",
+        "lenke": "https://www.cnbc.com/2026/11/03/russia-ukraine-peace-talks-abu-dhabi-trump-putin-xi.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Storbritannia og EU er enige om utkast til avtale om å avskaffe Brexit-byråkrati over matvare",
         "kilde": "BBC Business",
         "tid": "12:07",
         "lenke": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Medier: USA med nye angrep mot Iran",
-        "kilde": "E24",
-        "tid": "08:05",
-        "lenke": "https://e24.no/boers-og-finans/i/d7yG9O/medier-usa-med-nye-angrep-mot-iran?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ],
     "VILLKORT": [
       {
-        "tittel": "Pfizer øker utsiktene for hele året, taper bedriftsveteran som ny økonomidirektør",
+        "tittel": "Binance co-CEO Richard Teng sier hackere brukte falske jobbintervjuer, AI-verktøy for å stjele $ 6,3 milliarder i krypto 108511116",
         "kilde": "CNBC Top News",
-        "tid": "12:36",
+        "tid": "16:46",
+        "lenke": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Det er godt å være gammel’: Jeg har blitt invitert til et dusin gratis måltider som blir til annuitetssalg. Skal jeg slutte å gå?",
+        "kilde": "MarketWatch",
+        "tid": "16:30",
+        "lenke": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vil du hjelpe dine voksne barn og barnebarn? Gi dem penger mens du fortsatt er i live.",
+        "kilde": "MarketWatch",
+        "tid": "16:25",
+        "lenke": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Legg merke til hvordan gamle nettsteder ser bedre ut enn nye nettsteder",
+        "kilde": "Hacker News",
+        "tid": "16:14",
+        "lenke": "https://yingster.net/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Rekordskoen vekkjer oppsikt: Åtvarar mosjonistar mot bruk",
+        "kilde": "NRK Nyheter",
+        "tid": "16:09",
+        "lenke": "https://www.nrk.no/sport/rekordskoen-vekkjer-oppsikt_-atvarar-mosjonistar-mot-bruk-1.18062938",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Shippingfasit: – Blir veldig spennende",
+        "kilde": "E24",
+        "tid": "16:08",
+        "lenke": "https://e24.no/boers-og-finans/i/JranK6/shippingfasit-blir-veldig-spennende?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Disney planlegger flere tusen permitteringer, ber noen ledere om å kutte kostnadene med opptil 20%",
+        "kilde": "CNBC Top News",
+        "tid": "15:51",
+        "lenke": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Quili AI",
+        "kilde": "Hacker News",
+        "tid": "15:49",
+        "lenke": "https://www.quili.ai/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tidligere NRK-journalist Audun Tjomsland er død",
+        "kilde": "NRK Nyheter",
+        "tid": "15:48",
+        "lenke": "https://www.nrk.no/nyheter/tidligere-nrk-journalist-audun-tjomsland-er-dod-1.18072575",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Texas-guvernørens løp kan være en make-or-break-konkurranse for en vaklende AI-handel",
+        "kilde": "MarketWatch",
+        "tid": "15:44",
+        "lenke": "https://www.marketwatch.com/story/the-texas-governors-race-might-be-a-make-or-break-contest-for-a-wobbling-ai-trade-7764aa29?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vis HN: HackerChurn – hvilke SaaS-verktøy HN ønsker å avbryte",
+        "kilde": "Hacker News",
+        "tid": "15:41",
+        "lenke": "https://hissingkitty.com/hacker-churn",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Asda ansetter ex-Morrisons-sjef i et forsøk på å vokse",
+        "kilde": "BBC Business",
+        "tid": "15:12",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Gruvegiganten blir med i kampen for å stoppe drapsmannens paddemarsj gjennom Australia",
+        "kilde": "BBC Business",
+        "tid": "15:05",
+        "lenke": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Lære av ‘Kjærlighet er blind’ pengedrama",
+        "kilde": "MarketWatch",
+        "tid": "14:46",
+        "lenke": "https://www.marketwatch.com/story/learning-from-love-is-blind-money-drama-810175f9?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Pfizer øker utsiktene for hele året etter hvert som nyere produkter vokser, tapper selskapets veteran som ny økonomidirektør",
+        "kilde": "CNBC Top News",
+        "tid": "14:18",
         "lenke": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "‘Det virker bisarrt’: Vi er i 80-årene med $ 950 000 i tradisjonelle IRAer. Hvorfor presser vår rådgiver Roth-konverteringer?",
-        "kilde": "MarketWatch",
-        "tid": "12:30",
-        "lenke": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-        "engelsk_kilde": true
+        "tittel": "Mer bråk i Washington?",
+        "kilde": "E24",
+        "tid": "14:11",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/lK6j6y/mer-braak-i-washington?utm_medium=rss",
+        "engelsk_kilde": false
       },
       {
-        "tittel": "‘Hun er en type A-personlighet’: Stemoren min vil at jeg skal betale tilbake min avdøde fars bryllupsgave på $ 40 000. Bør jeg forplikte meg?",
-        "kilde": "MarketWatch",
-        "tid": "12:15",
-        "lenke": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-        "engelsk_kilde": true
+        "tittel": "Rød-Larsens og Juuls Frogner-leilighet er solgt for 26 mill. kroner",
+        "kilde": "E24",
+        "tid": "13:59",
+        "lenke": "https://e24.no/norsk-oekonomi/i/zlajo9/roed-larsen-og-juuls-frogner-leilighet-er-solgt-for-26-mill-kroner?utm_medium=rss",
+        "engelsk_kilde": false
       },
       {
-        "tittel": "Bakt av Melissa kommer inn i Target med den første cupcakeblandingen hjemme",
-        "kilde": "CNBC Top News",
-        "tid": "12:11",
-        "lenke": "https://www.cnbc.com/2026/11/03/baked-by-melissa-cupcake-kits-target.html",
-        "engelsk_kilde": true
+        "tittel": "David (16) veltet på ATV – mener hjelmen reddet han",
+        "kilde": "NRK Nyheter",
+        "tid": "12:59",
+        "lenke": "https://www.nrk.no/sorlandet/hjelm-pa-atv_-blir-pabudt-fra-1.-januar-2027-1.18071226",
+        "engelsk_kilde": false
       },
       {
-        "tittel": "Supermarkedkjøleskap er under angrep i Europa — her er hva som skjer",
-        "kilde": "CNBC Top News",
-        "tid": "12:11",
-        "lenke": "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html",
-        "engelsk_kilde": true
+        "tittel": "Chiakha etter rasismebråket: – Jeg er ikke i tvil om hva jeg hørte",
+        "kilde": "NRK Nyheter",
+        "tid": "12:46",
+        "lenke": "https://www.nrk.no/trondelag/amin-chiakha-uttaler-seg-etter-rasismebraket-under-kampen-mellom-rosenborg-og-fredrikstad-1.18072111",
+        "engelsk_kilde": false
       },
       {
-        "tittel": "Sava Trust (YC F25) ansetter en grunnleggende ingeniør i NYC",
-        "kilde": "Hacker News",
-        "tid": "12:01",
-        "lenke": "https://www.ycombinator.com/companies/sava-trust-company/jobs",
-        "engelsk_kilde": true
+        "tittel": "Også din fryser kan hackes",
+        "kilde": "E24",
+        "tid": "12:45",
+        "lenke": "https://e24.no/naeringsliv/i/zlaQn4/ogsaa-din-fryser-kan-hackes?utm_medium=rss",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Sjåfører kan få kompensasjonstilbud før bilfinansieringssagaen avsluttes",
@@ -239,13 +360,6 @@
         "kilde": "E24",
         "tid": "11:39",
         "lenke": "https://e24.no/naeringsliv/i/d7XEmz/storentreprenoer-konkurs-130-rammes?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Anne Lise er et av få unntak – fotballtopp blir flau av tallene",
-        "kilde": "NRK Nyheter",
-        "tid": "11:32",
-        "lenke": "https://www.nrk.no/sport/anne-lise-olsen-i-bryne-er-et-av-fa-unntak-_-fotballtopp-marianne-solheim-blir-flau-av-tallene-1.18065796",
         "engelsk_kilde": false
       },
       {
@@ -263,62 +377,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Viking-treneren om Glimt-bråket: – Har ikke forstyrret oss",
-        "kilde": "NRK Nyheter",
-        "tid": "10:43",
-        "lenke": "https://www.nrk.no/rogaland/viking-moter-pressen-for-mesterliga-kampen-mot-sabah-fk-1.18069079",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "– Drit i julekosen, eg skal vinne!",
-        "kilde": "NRK Nyheter",
-        "tid": "10:00",
-        "lenke": "https://www.nrk.no/vestland/forste-sesong-av-_bakemesterskapet-julespesial_-med-kjendisar-1.18068135",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Revolut går over til selvbetjent GLM",
-        "kilde": "Hacker News",
-        "tid": "09:53",
-        "lenke": "https://twitter.com/guilleflorvs/status/2117379073785696395",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vil øke alkoholkvoten hvis du dropper tobakk",
-        "kilde": "E24",
-        "tid": "09:40",
-        "lenke": "https://e24.no/norsk-oekonomi/i/w3a9Wd/vil-oeke-alkoholkvoten-hvis-du-dropper-tobakk?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "En lite kjent bioteknologis innsats på kreft med høye innsatser betalte seg nettopp, og aksjene doblet seg",
-        "kilde": "CNBC Top News",
-        "tid": "09:35",
-        "lenke": "https://www.cnbc.com/2026/11/03/genmab-cancer-drugs-petosemtamab.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvordan vil valget i USA påvirke aksjemarkedet?",
-        "kilde": "E24",
-        "tid": "09:15",
-        "lenke": "https://e24.no/boers-og-finans/i/GrVwRV/hvordan-vil-valget-i-usa-paavirke-aksjemarkedet?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Grønt lys for pilotanlegg på Fensfeltet – investerer 250 millioner",
-        "kilde": "NRK Nyheter",
-        "tid": "09:00",
-        "lenke": "https://www.nrk.no/vestfoldogtelemark/gront-lys-for-testanlegg-pa-fensfeltet-1.18071486",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Regjeringa gir grønt lys for å fjerne elbilrabatten i bomringen",
-        "kilde": "NRK Nyheter",
-        "tid": "08:55",
-        "lenke": "https://www.nrk.no/rogaland/regjeringa-har-gitt-gront-lys-for-a-fjerne-elbilrabatten-i-bomringen-_-mdg-varslar-omkamp-1.18069419",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Nord-Korea benekter å være bak rekord $ 6,3 milliarder Binance-hack",
         "kilde": "BBC Business",
         "tid": "08:33",
@@ -326,66 +384,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Tredje varmeste oktober registrert: «Ekstremt varmt» flere steder i nord",
-        "kilde": "NRK Nyheter",
-        "tid": "08:28",
-        "lenke": "https://www.nrk.no/tromsogfinnmark/tredje-varmeste-oktober-registrert_-_ekstremt-varmt_-flere-steder-i-nord-1.18071950",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Alvorlig elsparkesykkel-ulykke: Mann fløyet til sykehus",
-        "kilde": "NRK Nyheter",
-        "tid": "08:23",
-        "lenke": "https://www.nrk.no/ostfold/floyet-til-sykehuset-etter-sparkesykkelulykke-1.18071970",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kunne en moderne sjakkmotor på en Pentium ha beseiret Kasparov i 1996?",
-        "kilde": "Hacker News",
-        "tid": "07:56",
-        "lenke": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Fra scootere til sjampo - folkene som redder hundrevis fra dumpsterdykking",
         "kilde": "BBC Business",
         "tid": "07:50",
         "lenke": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "uBlock Origin-filter for å blokkere automatisk avspilling av videoer i TechCrunch",
-        "kilde": "Hacker News",
-        "tid": "07:36",
-        "lenke": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Salmar slo forventningene i tredje kvartal",
-        "kilde": "E24",
-        "tid": "05:30",
-        "lenke": "https://e24.no/hav-og-sjoemat/i/n9pmA5/salmar-hadde-driftsresultat-paa-1-6-milliarder-kroner-i-tredje-kvartal?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kraftige AI-fall: Skal du ta gevinst nå?",
-        "kilde": "E24",
-        "tid": "05:14",
-        "lenke": "https://e24.no/boers-og-finans/i/lKqMbA/aksjeoppturen-kan-bremse-frykt-er-en-daarlig-raadgiver?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Mener turistene presser ut ansatte: –⁠ Gedigent problem",
-        "kilde": "E24",
-        "tid": "04:00",
-        "lenke": "https://e24.no/naeringsliv/i/4OP4ae/mener-turistene-presser-ut-ansatte-gedigent-problem?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Julens 2026 frimerker avduket av Royal Mail",
-        "kilde": "BBC Business",
-        "tid": "02:27",
-        "lenke": "https://www.bbc.co.uk/news/articles/cw62yeq7958ro?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
