@@ -1,42 +1,42 @@
 {
-  "dato": "2026-11-02",
-  "dato_norsk": "Mandag 2. november 2026",
-  "generert_kl": "22:11",
+  "dato": "2026-11-03",
+  "dato_norsk": "Tirsdag 3. november 2026",
+  "generert_kl": "02:49",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Trump fokuserer på Reflecting Pool i siste offentlige tale før midterms",
-      "kilde": "CNBC Top News",
-      "tid": "21:15",
-      "lenke": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
+      "tittel": "Intels aksjekollaps forverres etter hvert som rutespredningen på $ 3,5 tonn brikke sprer seg",
+      "kilde": "Hacker News",
+      "tid": "00:08",
+      "lenke": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Trump-kontoinnehavere får SpaceX-aksjer fra Gwynne Shotwell i desember",
-      "kilde": "CNBC Top News",
-      "tid": "19:46",
-      "lenke": "https://www.cnbc.com/2026/11/02/trump-accounts-spacex-shares-shotwell.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Chip-aksjer lider av en \"tillitskrise\" — men ting er ikke så dystre som de ser ut til å være",
+      "tittel": "Her er grunnen til at Palantirs aksjer er nede til tross for et \"bombastisk\" kvartal",
       "kilde": "MarketWatch",
-      "tid": "20:30",
-      "lenke": "https://www.marketwatch.com/story/chip-stocks-are-suffering-from-a-crisis-of-confidence-but-things-arent-as-gloomy-as-they-seem-6ed14ea9?mod=mw_rss_topstories",
+      "tid": "00:59",
+      "lenke": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Ekspert: – Ser lignende i Norge nærmest daglig",
-      "kilde": "E24",
-      "tid": "21:00",
-      "lenke": "https://e24.no/naeringsliv/i/31ylyv/kjoeleskap-hacket-i-svergie-sikkerhetsekspert-mener-norge-ikke-er-sikkeret-fra-slike-angrep?utm_medium=rss",
-      "engelsk_kilde": false
+      "tittel": "Nasdaq-100 faller inn i sin tredje korreksjon i år etter hvert som AI bekymrer seg",
+      "kilde": "MarketWatch",
+      "tid": "00:03",
+      "lenke": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories",
+      "engelsk_kilde": true
     },
     {
-      "tittel": "Palantir rapporterer om blomstrende kommersiell inntektsvekst i USA, som toppet regjeringen for første gang",
+      "tittel": "Storbritannia og EU er enige om utkast til avtale om å avskaffe Brexit-byråkrati over matvare",
+      "kilde": "BBC Business",
+      "tid": "02:11",
+      "lenke": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "CNBCs The China Connection-nyhetsbrev: Nvidias humanoide push er avhengig av Kina-produserte robothender",
       "kilde": "CNBC Top News",
-      "tid": "21:46",
-      "lenke": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
+      "tid": "23:00",
+      "lenke": "https://www.cnbc.com/2026/11/02/cnbcs-the-china-connection-newsletter-nvidias-humanoid-push-relies-on-china-made-robot-hands.html",
       "engelsk_kilde": true
     }
   ],
@@ -59,6 +59,41 @@
     ],
     "MARKEDER": [
       {
+        "tittel": "Her er grunnen til at Palantirs aksjer er nede til tross for et \"bombastisk\" kvartal",
+        "kilde": "MarketWatch",
+        "tid": "00:59",
+        "lenke": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nasdaq-100 faller inn i sin tredje korreksjon i år etter hvert som AI bekymrer seg",
+        "kilde": "MarketWatch",
+        "tid": "00:03",
+        "lenke": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Aksjonærene i Marvell og Lumentum går sammen om en fusjonsavtale: «Det er et søppel-tilbud»",
+        "kilde": "MarketWatch",
+        "tid": "23:39",
+        "lenke": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Aksjemarkedet etter midtveisvalg: Hva S&P 500-historien viser",
+        "kilde": "CNBC Top News",
+        "tid": "23:13",
+        "lenke": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Palantir rapporterer om blomstrende kommersiell inntektsvekst i USA, som toppet regjeringen for første gang",
+        "kilde": "CNBC Top News",
+        "tid": "22:53",
+        "lenke": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Næringsdrivende som rusler inn i en giret ETF for å gjøre en bullish innsats på Nasdaq-100, ble nettopp brent",
         "kilde": "MarketWatch",
         "tid": "22:03",
@@ -66,52 +101,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Palantir rapporterer om blomstrende kommersiell inntektsvekst i USA, som toppet regjeringen for første gang",
-        "kilde": "CNBC Top News",
-        "tid": "21:46",
-        "lenke": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Wall Streets mest forhatte aksjer er langt bedre enn favorittene",
         "kilde": "MarketWatch",
         "tid": "21:45",
         "lenke": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Aksjemarkedet har ikke gått noe sted de siste 5 månedene. Det ser nå ut som et røverkjøp.",
-        "kilde": "MarketWatch",
-        "tid": "21:29",
-        "lenke": "https://www.marketwatch.com/story/the-stock-market-has-gone-nowhere-for-the-past-5-months-its-now-looking-like-a-bargain-150914c2?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Palantir inntjening avslører et stort AI vendepunkt",
-        "kilde": "MarketWatch",
-        "tid": "21:09",
-        "lenke": "https://www.marketwatch.com/story/palantir-earnings-reveal-a-major-ai-turning-point-db766110?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Oracle-filer for å selge $ 20B i nye aksjer, obligasjoner for å finansiere AI-utbygging",
-        "kilde": "Hacker News",
-        "tid": "19:27",
-        "lenke": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Aksjemarkedet etter midtveisvalg: Hva S&P 500-historien viser",
-        "kilde": "CNBC Top News",
-        "tid": "17:57",
-        "lenke": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Anthropic rapporterer $ 17 milliarder i Q3-inntekter, kjøpsforpliktelser på $ 895,4 milliarder i revidert S-1",
-        "kilde": "CNBC Top News",
-        "tid": "17:52",
-        "lenke": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
         "engelsk_kilde": true
       },
       {
@@ -133,18 +126,53 @@
     ],
     "TEKNOLOGI": [
       {
+        "tittel": "OpenAI ansetter den tidligere amerikanske hærministeren Dan Driscoll for rollen som nasjonal sikkerhet",
+        "kilde": "CNBC Top News",
+        "tid": "02:47",
+        "lenke": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Apples iPhone-virksomhet blomstrer. Her er grunnen til at aksjen faller uansett.",
+        "kilde": "MarketWatch",
+        "tid": "00:52",
+        "lenke": "https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Apple er usikker på når flere sammenleggbare iPhones vil være tilgjengelige etter utsolgt",
+        "kilde": "BBC Business",
+        "tid": "00:29",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Intels aksjekollaps forverres etter hvert som rutespredningen på $ 3,5 tonn brikke sprer seg",
+        "kilde": "Hacker News",
+        "tid": "00:08",
+        "lenke": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "CNBCs The China Connection-nyhetsbrev: Nvidias humanoide push er avhengig av Kina-produserte robothender",
+        "kilde": "CNBC Top News",
+        "tid": "23:00",
+        "lenke": "https://www.cnbc.com/2026/11/02/cnbcs-the-china-connection-newsletter-nvidias-humanoid-push-relies-on-china-made-robot-hands.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Intel støperi push står overfor kritisk test etter aksjestigningen på 45% i oktober",
+        "kilde": "CNBC Top News",
+        "tid": "21:59",
+        "lenke": "https://www.cnbc.com/2026/11/02/intel-foundry-faces-critical-test-after-stocks-45percent-plunge-in-october.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Apple slår forventningene",
         "kilde": "E24",
         "tid": "21:30",
         "lenke": "https://e24.no/boers-og-finans/i/JrzPQ4/apple-slaar-forventningene?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Chip-aksjer lider av en \"tillitskrise\" — men ting er ikke så dystre som de ser ut til å være",
-        "kilde": "MarketWatch",
-        "tid": "20:30",
-        "lenke": "https://www.marketwatch.com/story/chip-stocks-are-suffering-from-a-crisis-of-confidence-but-things-arent-as-gloomy-as-they-seem-6ed14ea9?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Trump-kontoinnehavere får SpaceX-aksjer fra Gwynne Shotwell i desember",
@@ -156,6 +184,13 @@
     ],
     "GEOPOLITIKK": [
       {
+        "tittel": "Storbritannia og EU er enige om utkast til avtale om å avskaffe Brexit-byråkrati over matvare",
+        "kilde": "BBC Business",
+        "tid": "02:11",
+        "lenke": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Trump fokuserer på Reflecting Pool i siste offentlige tale før midterms",
         "kilde": "CNBC Top News",
         "tid": "21:15",
@@ -165,10 +200,59 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "BYD solgte flere elbiler forrige måned enn USA gjorde i hele kvartalet, og toppet 300 000",
+        "tittel": "Vis HN: Hacker Times, en New York Times-inspirert versjon av Hacker News",
         "kilde": "Hacker News",
-        "tid": "21:38",
-        "lenke": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/",
+        "tid": "01:53",
+        "lenke": "https://hackertimes.ca/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nord-Korea avviser koblinger til Binance-hack da forskere sporer stjålne milliarder",
+        "kilde": "CNBC Top News",
+        "tid": "01:52",
+        "lenke": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "DiscImageStudio: Brenn synlig grafikk på CD-er, DVD-er og Blu-ray-plater",
+        "kilde": "Hacker News",
+        "tid": "01:33",
+        "lenke": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Høyesterett avviser DOJs bud om å blokkere California fra å telle omstridte stemmesedler",
+        "kilde": "CNBC Top News",
+        "tid": "01:32",
+        "lenke": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nord-Korea benekter å være bak rekord $ 6,3 milliarder Binance-hack",
+        "kilde": "BBC Business",
+        "tid": "01:23",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fra scootere til sjampo - folkene som redder hundrevis fra dumpsterdykking",
+        "kilde": "BBC Business",
+        "tid": "00:41",
+        "lenke": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Spør HN: Er det noen som har kontakt med Cleveland-området Ham club?",
+        "kilde": "Hacker News",
+        "tid": "00:09",
+        "lenke": "https://news.ycombinator.com/item?id=50346164",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "GUI64 – GUI for Commodore 64 som kjører på toppen av den innebygde rom",
+        "kilde": "Hacker News",
+        "tid": "23:32",
+        "lenke": "https://www.c64-wiki.com/wiki/GUI64",
         "engelsk_kilde": true
       },
       {
@@ -186,13 +270,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Texas-guvernørkappløpet strammes til i prediksjonsmarkedene, men Abbott er fortsatt favorisert",
-        "kilde": "CNBC Top News",
-        "tid": "21:13",
-        "lenke": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Palantir dro inn 2,3 milliarder dollar i tredje kvartal",
         "kilde": "E24",
         "tid": "21:06",
@@ -200,39 +277,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "‘Det virker bisarrt’: Vi er i 80-årene med $ 950 000 i tradisjonelle IRAer. Hvorfor presser vår rådgiver Roth-konverteringer?",
-        "kilde": "MarketWatch",
-        "tid": "21:00",
-        "lenke": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg obligasjoner betaler nå 5,51% — men det er avveininger. Hva du bør vite før du kjøper",
-        "kilde": "CNBC Top News",
-        "tid": "20:57",
-        "lenke": "https://www.cnbc.com/2026/11/02/i-bonds-rate.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Full jubel: FK Haugesund klare for Eliteserien",
         "kilde": "NRK Nyheter",
         "tid": "20:52",
         "lenke": "https://www.nrk.no/rogaland/full-jubel_-fk-haugesund-klare-for-eliteserien-1.18071730",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Forutsigelsesmarkedshandlere ser nå nesten 75% sjanse for at demokrater vinner Senatet",
-        "kilde": "CNBC Top News",
-        "tid": "20:48",
-        "lenke": "https://www.cnbc.com/2026/11/02/prediction-market-traders-now-see-nearly-75percent-chance-of-democrats-winning-the-senate.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Valve \"spilte kapitalisme så bra at de knuste den\" og nå kan ikke Steam erstattes",
-        "kilde": "Hacker News",
-        "tid": "20:42",
-        "lenke": "https://www.gamesradar.com/games/valve-played-capitalism-so-well-they-broke-it-and-now-steam-can-never-be-replaced-former-epic-dev-says-i-dont-think-this-is-fixable/",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Ryanair-sjefen varsler kraftig prishopp",
@@ -256,13 +305,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Justisdepartementet ber Høyesterett om å blokkere California ved å telle omstridte stemmesedler for innsending",
-        "kilde": "CNBC Top News",
-        "tid": "19:38",
-        "lenke": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Stian Blipp vil ha 18 millioner",
         "kilde": "E24",
         "tid": "19:10",
@@ -275,20 +317,6 @@
         "tid": "19:02",
         "lenke": "https://e24.no/boers-og-finans/i/585aWW/advarer-om-oljesjokk-etter-mellomvalget?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Egoløs matematikk i AI-æraen",
-        "kilde": "Hacker News",
-        "tid": "18:54",
-        "lenke": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Stemmeseddelavvisninger har økt i landlige fylker ettersom USPS reduserer posttjenesten",
-        "kilde": "Hacker News",
-        "tid": "18:48",
-        "lenke": "https://www.propublica.org/article/mail-ballot-delays-postal-service-midterms",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Pasient døde: Innrømmer dårlig vurdering",
@@ -365,13 +393,6 @@
         "kilde": "BBC Business",
         "tid": "07:42",
         "lenke": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Ikke bli fanget opp av nye Kjøp nå Betal senere-regler",
-        "kilde": "BBC Business",
-        "tid": "23:34",
-        "lenke": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ]
