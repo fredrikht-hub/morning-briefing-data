@@ -1,0 +1,398 @@
+{
+  "dato": "2026-11-04",
+  "dato_norsk": "Onsdag 4. november 2026",
+  "generert_kl": "01:07",
+  "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
+  "dagens_fokus": [
+    {
+      "tittel": "Hvilke analytikere forteller oss mens Apples aksjer faller etter inntjeningsrapporten",
+      "kilde": "MarketWatch",
+      "tid": "22:48",
+      "lenke": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Trumps justisdepartement sender målbrev til demokrater i Alaskas senats kriminelle etterforskning: Rapporter",
+      "kilde": "CNBC Top News",
+      "tid": "23:26",
+      "lenke": "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "AMD-aksjen øker inntektene med 8% etter hvert som datasenterinntektene nesten dobles",
+      "kilde": "CNBC Top News",
+      "tid": "23:04",
+      "lenke": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Shopifys aksjeslides etter inntjening. Dette er det som bekymrer Wall Street.",
+      "kilde": "MarketWatch",
+      "tid": "22:45",
+      "lenke": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Google reagerer på politisk bakslag over å fjerne søk fra skoler som forbyr kunstig intelligens",
+      "kilde": "CNBC Top News",
+      "tid": "01:07",
+      "lenke": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+      "engelsk_kilde": true
+    }
+  ],
+  "kategorier": {
+    "NORGE": [
+      {
+        "tittel": "Anthropic åpner for norske småaksjonærer",
+        "kilde": "E24",
+        "tid": "20:52",
+        "lenke": "https://e24.no/boers-og-finans/i/vlqE9V/anthropic-aapner-for-norske-smaaaksjonaerer?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Norsk gründer garanterer millioner i Myanmar-søksmål mot Telenor",
+        "kilde": "E24",
+        "tid": "15:02",
+        "lenke": "https://e24.no/boers-og-finans/i/jvRnPe/norsk-grunder-garanterer-millioner-i-myanmar-soeksmaal-mot-telenor?utm_medium=rss",
+        "engelsk_kilde": false
+      }
+    ],
+    "MARKEDER": [
+      {
+        "tittel": "AMD-aksjen øker inntektene med 8% etter hvert som datasenterinntektene nesten dobles",
+        "kilde": "CNBC Top News",
+        "tid": "23:04",
+        "lenke": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvilke analytikere forteller oss mens Apples aksjer faller etter inntjeningsrapporten",
+        "kilde": "MarketWatch",
+        "tid": "22:48",
+        "lenke": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Shopifys aksjeslides etter inntjening. Dette er det som bekymrer Wall Street.",
+        "kilde": "MarketWatch",
+        "tid": "22:45",
+        "lenke": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "AIs kontroll over obligasjonsmarkedet øker — til og med konkurrerer med krig og valg",
+        "kilde": "MarketWatch",
+        "tid": "22:06",
+        "lenke": "https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "S&P 500 ser over kanten av en teknisk klippe — hva skjer hvis den faller av?",
+        "kilde": "MarketWatch",
+        "tid": "21:30",
+        "lenke": "https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Super Micros aksjer dukker opp etter hvert som inntektene viser økende etterspørsel etter AI-servere",
+        "kilde": "MarketWatch",
+        "tid": "21:13",
+        "lenke": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Anthropics børsnotering er en folkeavstemning med høy innsats om Big Tech — og dette diagrammet beviser det",
+        "kilde": "MarketWatch",
+        "tid": "21:04",
+        "lenke": "https://www.marketwatch.com/story/anthropics-ipo-is-a-high-stakes-referendum-on-big-tech-and-this-chart-proves-it-d1c54d33?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Aksjemarkedet etter midtveisvalg: Hva S&P 500-historien viser",
+        "kilde": "CNBC Top News",
+        "tid": "18:21",
+        "lenke": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Midtveisvalg kan rykke aksjer hvis demokratene feier kongressen",
+        "kilde": "CNBC Top News",
+        "tid": "18:05",
+        "lenke": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Wall Street-oppgang på valgdagen",
+        "kilde": "E24",
+        "tid": "14:32",
+        "lenke": "https://e24.no/boers-og-finans/i/2VQxXl/oppgang-paa-wall-street?utm_medium=rss",
+        "engelsk_kilde": false
+      }
+    ],
+    "TEKNOLOGI": [
+      {
+        "tittel": "Google reagerer på politisk bakslag over å fjerne søk fra skoler som forbyr kunstig intelligens",
+        "kilde": "CNBC Top News",
+        "tid": "01:07",
+        "lenke": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Her er grunnen til at AMDs aksjer stiger — og sender en trygg melding om AI-handelen",
+        "kilde": "MarketWatch",
+        "tid": "00:17",
+        "lenke": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "AMD slår forventningene – AI-inntektene nesten doblet",
+        "kilde": "E24",
+        "tid": "21:16",
+        "lenke": "https://e24.no/boers-og-finans/i/0B5R8E/amd-omsatte-for-13-4-mrd-dollar?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Apple advarer mot risiko knyttet til AI-agenter som oppfører seg på \"utilsiktede eller uforutsigbare\" måter",
+        "kilde": "CNBC Top News",
+        "tid": "20:10",
+        "lenke": "https://www.cnbc.com/2026/11/03/apple-warns-of-ai-agents-behave-in-unintended-or-unpredictable-ways.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "GEOPOLITIKK": [
+      {
+        "tittel": "Trumps justisdepartement sender målbrev til demokrater i Alaskas senats kriminelle etterforskning: Rapporter",
+        "kilde": "CNBC Top News",
+        "tid": "23:26",
+        "lenke": "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Storbritannia og EU er enige om utkast til avtale om å avskaffe Brexit-byråkrati over matvare",
+        "kilde": "BBC Business",
+        "tid": "20:53",
+        "lenke": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hva midtveisvalget i 2026 kan bety for Trumps siste to år",
+        "kilde": "CNBC Top News",
+        "tid": "18:29",
+        "lenke": "https://www.cnbc.com/2026/11/03/midterm-elections-congress-trump-democrats-republicans.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "VILLKORT": [
+      {
+        "tittel": "Canva kunngjør store jobbnedskjæringer etter 'vårt vanskeligste år hittil'",
+        "kilde": "BBC Business",
+        "tid": "00:09",
+        "lenke": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nyutdannede administrerer AI - men lærer de mye annet?",
+        "kilde": "BBC Business",
+        "tid": "00:04",
+        "lenke": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Poundland-leverandør \"vil tape millioner\" hvis forhandleren kollapser",
+        "kilde": "BBC Business",
+        "tid": "00:03",
+        "lenke": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "CrowdStrikes nye kill-switch kan stoppe rogue AI-agenter i deres spor, sier administrerende direktør",
+        "kilde": "CNBC Top News",
+        "tid": "23:37",
+        "lenke": "https://www.cnbc.com/2026/11/03/crowdstrikes-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Interne funksjoner i PostgreSQL",
+        "kilde": "Hacker News",
+        "tid": "21:51",
+        "lenke": "https://www.interdb.jp/pg/index.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tafatt Bodø/Glimt: – De får ikke til noen ting",
+        "kilde": "NRK Nyheter",
+        "tid": "21:48",
+        "lenke": "https://www.nrk.no/sport/mesterligaen_-tafatt-bodo_glimt-tok-ett-poeng-mot-lille-1.18072822",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "The Little Book of Generative AI Foundations: En intuitiv matematisk grunning",
+        "kilde": "Hacker News",
+        "tid": "21:40",
+        "lenke": "https://arxiv.org/abs/2605.29713",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Safari introduserer adaptiv mørk modus i 27.3",
+        "kilde": "Hacker News",
+        "tid": "21:39",
+        "lenke": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Deprimerende, men sant: Hvis du ønsker å komme deg videre på jobben, bør du omfavne dydssignalisering",
+        "kilde": "MarketWatch",
+        "tid": "21:27",
+        "lenke": "https://www.marketwatch.com/story/depressing-but-true-if-you-want-to-get-ahead-at-work-embrace-virtue-signaling-b4e72f0a?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "De amerikanske teknologigigantenes skjulte AI-gjeld øker med 90% til $ 3,2 T på 6 måneder",
+        "kilde": "Hacker News",
+        "tid": "21:26",
+        "lenke": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vis HN: Kairos – Åpen kildekode risiko- og svindelbeslutningsplattform",
+        "kilde": "Hacker News",
+        "tid": "21:16",
+        "lenke": "https://github.com/finic-ai/kairos",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Carrick hyllet fansen etter Mesterliga-drama: – De er desperate",
+        "kilde": "NRK Nyheter",
+        "tid": "20:49",
+        "lenke": "https://www.nrk.no/sport/mirakel-comeback-for-carricks-manchester-united_-_-fansen-bar-oss_gjennom-kampen-1.18072849",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Binance-brudd setter forvaring i sentrum for handel med kryptoinfrastruktur",
+        "kilde": "CNBC Top News",
+        "tid": "20:13",
+        "lenke": "https://www.cnbc.com/2026/11/03/binance-breach-puts-custody-at-center-of-crypto-infrastructure-trade.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "7500 høner avlivet etter smitteutbrudd på Jæren: Innfører portforbud i stort område",
+        "kilde": "NRK Nyheter",
+        "tid": "19:45",
+        "lenke": "https://www.nrk.no/rogaland/7500-honer-avlivet-etter-smitteutbrudd-pa-jaeren_-innforer-portforbud-i-stort-omrade-1.18072752",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Wall Streets perfekte valgrekke: Tror på videre oppgang",
+        "kilde": "E24",
+        "tid": "19:27",
+        "lenke": "https://e24.no/boers-og-finans/i/Wgwr8K/wall-streets-perfekte-valgrekke-tror-paa-videre-oppgang?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Binance co-CEO Richard Teng sier hackere brukte falske jobbintervjuer, AI-verktøy for å stjele $ 6,3 milliarder i krypto",
+        "kilde": "CNBC Top News",
+        "tid": "18:40",
+        "lenke": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Det er fortsatt sprik i målingene",
+        "kilde": "E24",
+        "tid": "18:34",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/gdbGaJ/det-er-fortsatt-sprik-i-maalingene?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Når sjefen har en favoritt",
+        "kilde": "E24",
+        "tid": "17:51",
+        "lenke": "https://e24.no/karriere-og-ledelse/i/zlaX55/naar-sjefen-har-en-favoritt?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Ut mot Listhaugs plan for integrering: – En motorvei til franske tilstander",
+        "kilde": "NRK Nyheter",
+        "tid": "17:31",
+        "lenke": "https://www.nrk.no/norge/arbeiderpartiet-ut-mot-fremskrittspartiets-integreringspolitikk-1.18071335",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Menneskehandelssak må gjennomføres på nytt etter at forsvarer ble pågrepet",
+        "kilde": "NRK Nyheter",
+        "tid": "17:21",
+        "lenke": "https://www.nrk.no/vestfoldogtelemark/menneskehandelssak-ma-gjennomfores-pa-nytt-etter-at-forsvarer-ble-pagrepet-1.18071708",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Avslører ny jobb: – Har vore den vesle babyen min dei siste åra",
+        "kilde": "NRK Nyheter",
+        "tid": "17:13",
+        "lenke": "https://www.nrk.no/sport/amalie-iuel-avslorer-ny-jobb_-_-har-vore-den-vesle-babyen-min-dei-siste-ara-1.18072344",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Store forskjeller i boligmarkedet: – Ingen klare tegn til at det snur",
+        "kilde": "E24",
+        "tid": "17:04",
+        "lenke": "https://e24.no/norsk-oekonomi/i/WgEz5G/store-forskjeller-i-boligmarkedet-ingen-klare-tegn-til-at-det-snur?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Rekordhøg førehandsstemming i USA",
+        "kilde": "NRK Nyheter",
+        "tid": "16:39",
+        "lenke": "https://www.nrk.no/nyheter/rekordhog-forehandsstemming-i-usa-1.18072657",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Binance sier at falske jobbintervjuer brukes som en del av $ 6,3 milliarder kryptohack",
+        "kilde": "BBC Business",
+        "tid": "16:19",
+        "lenke": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Rekordskoen vekkjer oppsikt: Åtvarar mosjonistar mot bruk",
+        "kilde": "NRK Nyheter",
+        "tid": "16:09",
+        "lenke": "https://www.nrk.no/sport/rekordskoen-vekkjer-oppsikt_-atvarar-mosjonistar-mot-bruk-1.18062938",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Shippingfasit: – Blir veldig spennende",
+        "kilde": "E24",
+        "tid": "16:08",
+        "lenke": "https://e24.no/boers-og-finans/i/JranK6/shippingfasit-blir-veldig-spennende?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Mulig hackerangrep mot fruktlager og varehus",
+        "kilde": "E24",
+        "tid": "15:13",
+        "lenke": "https://e24.no/norsk-oekonomi/i/d7yE8B/norsk-varehus-tror-det-er-rammet-av-hackerangrep-melder-nrk?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Asda ansetter ex-Morrisons-sjef i et forsøk på å vokse",
+        "kilde": "BBC Business",
+        "tid": "15:12",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Gruvegiganten blir med i kampen for å stoppe drapsmannens paddemarsj gjennom Australia",
+        "kilde": "BBC Business",
+        "tid": "15:05",
+        "lenke": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Sjåfører kan få kompensasjonstilbud før bilfinansieringssagaen avsluttes",
+        "kilde": "BBC Business",
+        "tid": "11:56",
+        "lenke": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      }
+    ]
+  }
+}
