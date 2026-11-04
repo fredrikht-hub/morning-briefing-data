@@ -1,148 +1,148 @@
 {
   "dato": "2026-11-04",
   "dato_norsk": "Onsdag 4. november 2026",
-  "generert_kl": "16:47",
+  "generert_kl": "20:18",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Analyse: Demokratene har en sjanse til å hente innrømmelser fra Trump. Markedene vil hate det",
+      "tittel": "Disse aksjene har steget mest i dag etter at demokratene slo Trump",
+      "kilde": "MarketWatch",
+      "tid": "18:29",
+      "lenke": "https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Disse 12 aksjene er gode spill for å slå den 10-årige statskassen i løpet av det neste tiåret",
+      "kilde": "MarketWatch",
+      "tid": "18:03",
+      "lenke": "https://www.marketwatch.com/story/these-12-stocks-are-good-bets-to-beat-the-10-year-treasury-over-the-next-decade-cc4f308b?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Hva republikanernes enorme tap betyr for Trump",
       "kilde": "CNBC Top News",
-      "tid": "15:05",
-      "lenke": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+      "tid": "19:46",
+      "lenke": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
       "engelsk_kilde": true
     },
     {
       "tittel": "Trump hamrer Fox News, og klandrer nettverket for GOP-tap når rangeringene skyves",
       "kilde": "CNBC Top News",
-      "tid": "15:45",
+      "tid": "18:37",
       "lenke": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "CVS skal dele opp apotekvirksomheten i stor oppdeling av helsevesenets gigant; aksjene faller 10%",
+      "tittel": "Analyse: Demokratene har en sjanse til å hente innrømmelser fra Trump. Markedene vil hate det",
       "kilde": "CNBC Top News",
-      "tid": "16:35",
-      "lenke": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "McDonalds aksjer stiger etter hvert som inntektene slår, amerikanske restauranter viser forbedring",
-      "kilde": "CNBC Top News",
-      "tid": "15:05",
-      "lenke": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Datadogs aksjer strekker seg bratte nedganger i kjølvannet av inntjeningen",
-      "kilde": "MarketWatch",
-      "tid": "15:16",
-      "lenke": "https://www.marketwatch.com/story/datadogs-stock-extends-steep-declines-in-the-wake-of-earnings-af412874?mod=mw_rss_topstories",
+      "tid": "17:32",
+      "lenke": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "Republikaner i Norge: – Ikke slutten for MAGA",
-        "kilde": "NRK Nyheter",
-        "tid": "12:59",
-        "lenke": "https://www.nrk.no/buskerud/republikaner-i-norge_-_-ikke-slutten-for-maga-1.18073354",
+        "tittel": "Oljefondet har Starlink for «større nedetids­scenarier»",
+        "kilde": "E24",
+        "tid": "20:04",
+        "lenke": "https://e24.no/boers-og-finans/i/L37qQ9/oljefondet-har-starlink-for-stoerre-nedetidsscenarier?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
-        "tittel": "Aker-sjefen tror AI-boomen fortsetter etter USA-valget",
+        "tittel": "Vil selge aksjer Aker BP-aksjer verdt 11 milliarder",
         "kilde": "E24",
-        "tid": "12:35",
-        "lenke": "https://e24.no/boers-og-finans/i/PgKmQ6/aker-sjefen-tror-ai-boomen-fortsetter-etter-usa-valget?utm_medium=rss",
+        "tid": "17:13",
+        "lenke": "https://e24.no/boers-og-finans/i/lKB6B7/akerbp-storeier-vurderer-storsalg-vil-selge-aksjer-verdt-11-milliarder?utm_medium=rss",
         "engelsk_kilde": false
+      }
+    ],
+    "MAKRO": [
+      {
+        "tittel": "Disse 12 aksjene er gode spill for å slå den 10-årige statskassen i løpet av det neste tiåret",
+        "kilde": "MarketWatch",
+        "tid": "18:03",
+        "lenke": "https://www.marketwatch.com/story/these-12-stocks-are-good-bets-to-beat-the-10-year-treasury-over-the-next-decade-cc4f308b?mod=mw_rss_topstories",
+        "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "CVS skal dele opp apotekvirksomheten i stor oppdeling av helsevesenets gigant; aksjene faller 10%",
-        "kilde": "CNBC Top News",
-        "tid": "16:35",
-        "lenke": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Datadogs aksjer strekker seg bratte nedganger i kjølvannet av inntjeningen",
+        "tittel": "Disse aksjene har steget mest i dag etter at demokratene slo Trump",
         "kilde": "MarketWatch",
-        "tid": "15:16",
-        "lenke": "https://www.marketwatch.com/story/datadogs-stock-extends-steep-declines-in-the-wake-of-earnings-af412874?mod=mw_rss_topstories",
+        "tid": "18:29",
+        "lenke": "https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "McDonalds aksjer stiger etter hvert som inntektene slår, amerikanske restauranter viser forbedring",
-        "kilde": "CNBC Top News",
-        "tid": "15:05",
-        "lenke": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Midtveisvalg gir en \"blå bølge\". Aksjemarkedet ser grønt.",
+        "tittel": "Se opp for Big Tech-selskaper som Meta og Alphabet som utsteder flere aksjer og utvanner aksjeeierskapet ditt",
         "kilde": "MarketWatch",
-        "tid": "14:59",
-        "lenke": "https://www.marketwatch.com/story/midterm-elections-deliver-a-blue-wave-the-stock-market-sees-green-5900a779?mod=mw_rss_topstories",
+        "tid": "17:44",
+        "lenke": "https://www.marketwatch.com/story/watch-out-for-big-tech-companies-like-meta-and-alphabet-issuing-more-shares-and-diluting-your-stock-ownership-283e8c96?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Uber slår på inntektene selv om mobilitets- og leveringsenheter ikke overholder anslagene",
-        "kilde": "CNBC Top News",
-        "tid": "13:46",
-        "lenke": "https://www.cnbc.com/2026/11/04/uber-stock-q3-2026-earnings.html",
-        "engelsk_kilde": true
-      }
-    ],
-    "ENERGI_RAAVARER": [
-      {
-        "tittel": "Kraft Heinz selger sin nordamerikanske kaffevirksomhet i en avtale på 650 millioner $",
-        "kilde": "CNBC Top News",
-        "tid": "15:35",
-        "lenke": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
+        "tittel": "Sykehusaksjer samles mens legemiddelprodusenter forbereder seg på gransking. Her er hva den demokratiske bølgen betyr for helsevesenet.",
+        "kilde": "MarketWatch",
+        "tid": "17:19",
+        "lenke": "https://www.marketwatch.com/story/hospital-stocks-rally-while-drugmakers-brace-for-scrutiny-heres-what-the-democratic-wave-means-for-healthcare-625b79f3?mod=mw_rss_topstories",
         "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "AMD forventer å utkonkurrere Intel i fjerde kvartal for første gang i historien",
-        "kilde": "Hacker News",
-        "tid": "15:38",
-        "lenke": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+        "tittel": "Microsoft og Amazon kombineres for å øke markedsandelen med $ 400 milliarder — og disse faktorene viser hvorfor",
+        "kilde": "MarketWatch",
+        "tid": "20:04",
+        "lenke": "https://www.marketwatch.com/story/microsoft-and-amazon-combine-for-a-400-billion-market-cap-boost-and-these-factors-show-why-6655d1a9?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Mikron og andre brikkeaksjer glir når valgresultatene treffer kjernen i datasenteroptimismen",
-        "kilde": "MarketWatch",
-        "tid": "15:17",
-        "lenke": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
+        "tittel": "Hyperscalere og Apple-stigning etter valgresultater fjerner investorusikkerhet",
+        "kilde": "CNBC Top News",
+        "tid": "19:37",
+        "lenke": "https://www.cnbc.com/2026/11/04/apple-and-other-big-tech-stocks-surge-after-2026-midterm-elections.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Qualcomm satt ut halvlederstevnet. Kan et SpaceX-partnerskap endre det?",
+        "tittel": "SpaceXs Qualcomm-avtale kan være en forløper til en telekomovertakelse",
         "kilde": "MarketWatch",
-        "tid": "15:13",
+        "tid": "18:57",
         "lenke": "https://www.marketwatch.com/story/qualcomm-sat-out-the-semiconductor-rally-can-a-spacex-partnership-change-that-5bb4c0b2?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "AI-datasenteraksjer og Musks SpaceX-nedgang ettersom Texas-guvernørresultatet øker risikoen for en nedgang",
-        "kilde": "CNBC Top News",
-        "tid": "14:43",
-        "lenke": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "SpaceX signerer avtale med Qualcomm om å levere nettverksteknologi for amerikansk mobiltjeneste",
-        "kilde": "CNBC Top News",
-        "tid": "13:53",
-        "lenke": "https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html",
         "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "JD Vance skylder på Iran-krigen",
+        "tittel": "Demokratene tar kongressen i en blå bølge. Her er hva det betyr for pengene dine",
+        "kilde": "CNBC Top News",
+        "tid": "19:53",
+        "lenke": "https://www.cnbc.com/2026/11/04/blue-wave-democrats-control-congress-your-money.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hva republikanernes enorme tap betyr for Trump",
+        "kilde": "CNBC Top News",
+        "tid": "19:46",
+        "lenke": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump hamrer Fox News, og klandrer nettverket for GOP-tap når rangeringene skyves",
+        "kilde": "CNBC Top News",
+        "tid": "18:37",
+        "lenke": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Analyse: Demokratene har en sjanse til å hente innrømmelser fra Trump. Markedene vil hate det",
+        "kilde": "CNBC Top News",
+        "tid": "17:32",
+        "lenke": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump skylder på krigen etter valgnederlaget",
         "kilde": "E24",
         "tid": "16:39",
         "lenke": "https://e24.no/internasjonal-oekonomi/i/2VErWB/jd-vance-skylder-paa-iran-krigen?utm_medium=rss",
@@ -156,31 +156,17 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Trump hamrer Fox News, og klandrer nettverket for GOP-tap når rangeringene skyves",
-        "kilde": "CNBC Top News",
-        "tid": "15:45",
-        "lenke": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Analyse: Demokratene har en sjanse til å hente innrømmelser fra Trump. Markedene vil hate det",
-        "kilde": "CNBC Top News",
-        "tid": "15:05",
-        "lenke": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Amerikanerne har sagt «nei til KRIG», sier Iran-taleren mens demokratene inntar Kongressen",
-        "kilde": "CNBC Top News",
-        "tid": "13:43",
-        "lenke": "https://www.cnbc.com/2026/11/04/us-midterm-elections-iran-war-speaker.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "5 midtveisvalgoppslag: Tech-milliardærer lider som demokrater drub republikanere",
         "kilde": "CNBC Top News",
         "tid": "12:51",
         "lenke": "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hva Trumps tap av makt over Kongressen betyr for Iran, Ukraina og utenrikspolitikken",
+        "kilde": "CNBC Top News",
+        "tid": "12:07",
+        "lenke": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html",
         "engelsk_kilde": true
       },
       {
@@ -193,32 +179,130 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "Kostnadene for reseptbelagte medisiner vil øke med 50% i 2027. Å ikke gjøre noe kan koste deg.",
-        "kilde": "MarketWatch",
-        "tid": "16:38",
-        "lenke": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
+        "tittel": "CVS Health planlegger å dele seg opp. Her er grunnen til at et brudd kan være fornuftig nå",
+        "kilde": "CNBC Top News",
+        "tid": "19:58",
+        "lenke": "https://www.cnbc.com/2026/11/04/cvs-health-pharmacy-aetna-split.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Stor vannlekkasje på Grønland: – Anses som farlig",
+        "tittel": "Velgerne avviser datasentre i alle stemmeseddelmål unntatt ett under midtveisvalgene i 2026",
+        "kilde": "CNBC Top News",
+        "tid": "19:51",
+        "lenke": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Poundland-eier i knaseprat når forhandlerens kollaps truer",
+        "kilde": "BBC Business",
+        "tid": "19:44",
+        "lenke": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kelloggs innrømmer at snap, crackle og pop er roligere etter opprør over Rice Krispies oppskriftsendring",
+        "kilde": "BBC Business",
+        "tid": "19:38",
+        "lenke": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Aleksander (22) om den nye jobben: – Det gir livet mening",
         "kilde": "NRK Nyheter",
-        "tid": "16:21",
-        "lenke": "https://www.nrk.no/stor-oslo/stor-vannlekkasje-pa-gronland---ber-folk-trekke-unna-1.18073838",
+        "tid": "19:36",
+        "lenke": "https://www.nrk.no/sorlandet/aleksander-_22_-fikk-jobb-gjennom-ungdomsprogrammet-1.18052385",
         "engelsk_kilde": false
       },
       {
-        "tittel": "'It's just vape, nail, charity shops': Kan noe redde britisk high street?",
-        "kilde": "Hacker News",
-        "tid": "16:11",
-        "lenke": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
+        "tittel": "4 markedsbevegende problemer investorer bør se på nå som midtveisvilkårene er over",
+        "kilde": "MarketWatch",
+        "tid": "19:12",
+        "lenke": "https://www.marketwatch.com/story/4-market-moving-issues-investors-should-watch-now-that-the-midterms-are-over-9a77b3de?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Den amerikanske økonomien barrer fremover — men det er ett stort problem",
-        "kilde": "MarketWatch",
-        "tid": "16:05",
-        "lenke": "https://www.marketwatch.com/story/the-u-s-economy-is-barreling-ahead-but-theres-one-big-problem-6d62e3b3?mod=mw_rss_topstories",
+        "tittel": "Kronen kan redde julefreden",
+        "kilde": "E24",
+        "tid": "19:08",
+        "lenke": "https://e24.no/norsk-oekonomi/i/X9PQmW/kronen-kan-redde-julefreden?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Odfjell varsler «høy usikkerhet»: Dette må du vite",
+        "kilde": "E24",
+        "tid": "19:06",
+        "lenke": "https://e24.no/boers-og-finans/i/oK4OAa/odfjell-tjente-40-mill-dollar-i-tredje-kvartal?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Demokratene kartlegger en agenda for å adressere overkommelighet og korrupsjon etter midterm sweep",
+        "kilde": "CNBC Top News",
+        "tid": "19:00",
+        "lenke": "https://www.cnbc.com/2026/11/04/congressional-democrats-affordability-oversight.html",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ripple-65B Preview: US Open-Weight SOTA på Agentic Coding",
+        "kilde": "Hacker News",
+        "tid": "18:53",
+        "lenke": "https://www.ricursive.com/ripple",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Har jeg blitt venn med en morder?",
+        "kilde": "Hacker News",
+        "tid": "18:40",
+        "lenke": "https://longreads.com/2026/11/03/murder-friendship-doubt/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Jeg har ikke noe økonomisk sikkerhetsnett’: Jeg er 66, er avhengig av trygd og har $ 500 i besparelser. Hvilken politiker snakker for meg?",
+        "kilde": "MarketWatch",
+        "tid": "18:37",
+        "lenke": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Utdanning bør ikke holdes for løsepenger",
+        "kilde": "Hacker News",
+        "tid": "18:33",
+        "lenke": "https://blog.kagi.com/education-should-not-be-held-for-ransom",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Benchfmt.rs: Tar Go's benchmarking og benchstat-arbeidsflyt til Rust",
+        "kilde": "Hacker News",
+        "tid": "18:20",
+        "lenke": "https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Denne måneden i Ladybird – oktober 2026",
+        "kilde": "Hacker News",
+        "tid": "17:59",
+        "lenke": "https://ladybird.org/newsletter/2026-10-31/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Oljeprisen raser – faller under 95 dollar",
+        "kilde": "E24",
+        "tid": "16:51",
+        "lenke": "https://e24.no/energi-og-klima/i/X9PKjx/oljeprisen-raser-faller-under-100-dollar?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "16-åring planla å sende terrorangrep mot barnehagar direkte på nett",
+        "kilde": "NRK Nyheter",
+        "tid": "16:34",
+        "lenke": "https://www.nrk.no/vestfoldogtelemark/16-aring-fra-vestfold-sikta-for-terrorplan-mot-barnehage-i-oslo-1.18067954",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Stor vannlekkasje – 1500 uten varmtvann og varme",
+        "kilde": "NRK Nyheter",
+        "tid": "16:21",
+        "lenke": "https://www.nrk.no/stor-oslo/stor-vannlekkasje-pa-gronland-_-ber-folk-trekke-unna-1.18073838",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Senga som hindrer kriser",
@@ -242,46 +326,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Poundland-eier i knaseprat når forhandlerens kollaps truer",
-        "kilde": "BBC Business",
-        "tid": "15:45",
-        "lenke": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Denne løsningen er uaktuell for Solbakken: – Krever at du legger vekk egoet",
         "kilde": "NRK Nyheter",
         "tid": "15:40",
         "lenke": "https://www.nrk.no/sport/bjarte-lunde-aarsheim-og-mortens-jensens-losning-er-uaktuell-for-solbakken_-_-alt-ma-diskuteres-1.18072528",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Deprimerende, men sant: Hvis du ønsker å komme deg videre på jobben, bør du omfavne dydssignalisering",
-        "kilde": "MarketWatch",
-        "tid": "15:33",
-        "lenke": "https://www.marketwatch.com/story/depressing-but-true-if-you-want-to-get-ahead-at-work-embrace-virtue-signaling-b4e72f0a?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Slik at brukerne kan stole på sine egne MCP-klienter, uten å åpne et phishing-hull",
-        "kilde": "Hacker News",
-        "tid": "15:30",
-        "lenke": "https://streamvessel.com/blog/mcp-trusted-redirect-uris",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kimi K3.1 Pro-modellvekter er ute",
-        "kilde": "Hacker News",
-        "tid": "15:30",
-        "lenke": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "YCs Garry Tan bruker AI-agenter så mye at han bruker opptil $ 200 000 i året på polletter",
-        "kilde": "Hacker News",
-        "tid": "15:28",
-        "lenke": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Investerer i batterilagring: – Stadig viktigere",
@@ -291,24 +340,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Kelloggs innrømmer at snap, crackle og pop er roligere etter opprør over Rice Krispies oppskriftsendring",
-        "kilde": "BBC Business",
-        "tid": "15:13",
-        "lenke": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Tre ting som forklarer hva som endrer seg med Obamacare i 2027",
-        "kilde": "MarketWatch",
-        "tid": "15:03",
-        "lenke": "https://www.marketwatch.com/story/three-things-that-explain-whats-changing-with-obamacare-in-2027-7c94585b?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Paragliderulykke i Rogaland – én person er alvorlig skadet",
+        "tittel": "Mann i 60-årene omkom i paragliderulykke i Gjesdal",
         "kilde": "NRK Nyheter",
         "tid": "15:01",
-        "lenke": "https://www.nrk.no/rogaland/paragliderulykke-i-rogaland-_-en-person-alvorlig-skadet-1.18073770",
+        "lenke": "https://www.nrk.no/rogaland/paragliderulykke-i-gjesdal-i-rogaland-_-mann-i-60-arene-omkom-1.18073770",
         "engelsk_kilde": false
       },
       {
@@ -330,41 +365,6 @@
         "kilde": "E24",
         "tid": "14:06",
         "lenke": "https://e24.no/boers-og-finans/i/d76p21/aksjeadvarsel-loep-til-doera-og-selg?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "USA: Bytter ut AI med helse",
-        "kilde": "E24",
-        "tid": "14:05",
-        "lenke": "https://e24.no/boers-og-finans/i/9kPWVM/usa-investorer-bytter-ut-ai-med-helse?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Maga kvesser knivene",
-        "kilde": "E24",
-        "tid": "13:57",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/Wgnq1j/maga-kvesser-knivene?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Ski stasjon var stengt: – Regn med forsinkelser",
-        "kilde": "NRK Nyheter",
-        "tid": "13:39",
-        "lenke": "https://www.nrk.no/ostfold/full-stans-i-togtrafikken_-ski-stasjon-stengt-1.18073646",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Dette er vinnerne og taperne i boligmarkedet",
-        "kilde": "E24",
-        "tid": "12:47",
-        "lenke": "https://e24.no/norsk-oekonomi/i/589M0O/dette-er-vinnerne-og-taperne-i-boligmarkedet?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Thorstvedt-villaen solgt: – Blir mye god vin på oss",
-        "kilde": "E24",
-        "tid": "12:03",
-        "lenke": "https://e24.no/naeringsliv/i/31vPPv/thorstvedt-villaen-solgt-blir-mye-god-vin-paa-oss?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
