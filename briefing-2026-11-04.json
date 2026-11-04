@@ -1,47 +1,54 @@
 {
   "dato": "2026-11-04",
   "dato_norsk": "Onsdag 4. november 2026",
-  "generert_kl": "20:18",
+  "generert_kl": "22:16",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Disse aksjene har steget mest i dag etter at demokratene slo Trump",
+      "tittel": "These stocks soared the most today after the Democrats trounced Trump",
       "kilde": "MarketWatch",
-      "tid": "18:29",
+      "tid": "21:55",
       "lenke": "https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Disse 12 aksjene er gode spill for å slå den 10-årige statskassen i løpet av det neste tiåret",
-      "kilde": "MarketWatch",
-      "tid": "18:03",
-      "lenke": "https://www.marketwatch.com/story/these-12-stocks-are-good-bets-to-beat-the-10-year-treasury-over-the-next-decade-cc4f308b?mod=mw_rss_topstories",
+      "tittel": "What was really behind Wednesday's monster rally? Trump quickly making peace",
+      "kilde": "CNBC Top News",
+      "tid": "21:32",
+      "lenke": "https://www.cnbc.com/2026/11/04/stock-market-rally-trump-midterms.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Hva republikanernes enorme tap betyr for Trump",
+      "tittel": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war",
       "kilde": "CNBC Top News",
-      "tid": "19:46",
-      "lenke": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
+      "tid": "20:14",
+      "lenke": "https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Trump hamrer Fox News, og klandrer nettverket for GOP-tap når rangeringene skyves",
+      "tittel": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
       "kilde": "CNBC Top News",
-      "tid": "18:37",
-      "lenke": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Analyse: Demokratene har en sjanse til å hente innrømmelser fra Trump. Markedene vil hate det",
-      "kilde": "CNBC Top News",
-      "tid": "17:32",
+      "tid": "20:28",
       "lenke": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "What Republicans' huge loss means for Trump",
+      "kilde": "CNBC Top News",
+      "tid": "21:50",
+      "lenke": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
+      {
+        "tittel": "VG: Oslo kutter antall elsparkesykler og hever aldersgrensen",
+        "kilde": "NRK Nyheter",
+        "tid": "20:58",
+        "lenke": "https://www.nrk.no/nyheter/vg_-oslo-kutter-antall-elsparkesykler-og-hever-aldersgrensen-1.18074020",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Oljefondet har Starlink for «større nedetids­scenarier»",
         "kilde": "E24",
@@ -57,96 +64,129 @@
         "engelsk_kilde": false
       }
     ],
-    "MAKRO": [
-      {
-        "tittel": "Disse 12 aksjene er gode spill for å slå den 10-årige statskassen i løpet av det neste tiåret",
-        "kilde": "MarketWatch",
-        "tid": "18:03",
-        "lenke": "https://www.marketwatch.com/story/these-12-stocks-are-good-bets-to-beat-the-10-year-treasury-over-the-next-decade-cc4f308b?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      }
-    ],
     "MARKEDER": [
       {
-        "tittel": "Disse aksjene har steget mest i dag etter at demokratene slo Trump",
+        "tittel": "Qualcomm stock drops 6% on weak earnings forecast as memory shortage weighs on smartphone sales",
+        "kilde": "CNBC Top News",
+        "tid": "22:03",
+        "lenke": "https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Qualcomm’s stock falls as twin forces pressure sales",
         "kilde": "MarketWatch",
-        "tid": "18:29",
+        "tid": "22:03",
+        "lenke": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "These stocks soared the most today after the Democrats trounced Trump",
+        "kilde": "MarketWatch",
+        "tid": "21:55",
         "lenke": "https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Se opp for Big Tech-selskaper som Meta og Alphabet som utsteder flere aksjer og utvanner aksjeeierskapet ditt",
-        "kilde": "MarketWatch",
-        "tid": "17:44",
-        "lenke": "https://www.marketwatch.com/story/watch-out-for-big-tech-companies-like-meta-and-alphabet-issuing-more-shares-and-diluting-your-stock-ownership-283e8c96?mod=mw_rss_topstories",
+        "tittel": "Every stock that moved because of the election",
+        "kilde": "CNBC Top News",
+        "tid": "21:48",
+        "lenke": "https://www.cnbc.com/2026/11/04/every-stock-thats-moving-as-a-result-of-the-election.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Sykehusaksjer samles mens legemiddelprodusenter forbereder seg på gransking. Her er hva den demokratiske bølgen betyr for helsevesenet.",
+        "tittel": "Figma’s stock falls as investors worry that AI momentum is coming at a high price",
         "kilde": "MarketWatch",
-        "tid": "17:19",
-        "lenke": "https://www.marketwatch.com/story/hospital-stocks-rally-while-drugmakers-brace-for-scrutiny-heres-what-the-democratic-wave-means-for-healthcare-625b79f3?mod=mw_rss_topstories",
+        "tid": "21:48",
+        "lenke": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Figma sinks after earnings beat as company prioritizes long-term growth with AI changes",
+        "kilde": "CNBC Top News",
+        "tid": "21:38",
+        "lenke": "https://www.cnbc.com/2026/11/04/figma-fig-q3-earnings-report-2026.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Snap shares fall over 10% on third-quarter revenue miss",
+        "kilde": "CNBC Top News",
+        "tid": "21:36",
+        "lenke": "https://www.cnbc.com/2026/11/04/snap-q3-earnings-report-2026.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Big Tech is driving a historic divide in the S&P 500. Why investors need to take notice.",
+        "kilde": "MarketWatch",
+        "tid": "21:33",
+        "lenke": "https://www.marketwatch.com/story/wall-street-veteran-says-these-are-some-of-the-most-unbelievable-charts-he-has-ever-seen-2c78e677?mod=mw_rss_topstories",
         "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Microsoft og Amazon kombineres for å øke markedsandelen med $ 400 milliarder — og disse faktorene viser hvorfor",
+        "tittel": "Micron and other chip stocks slip as election results strike at the core of data-center optimism",
         "kilde": "MarketWatch",
-        "tid": "20:04",
+        "tid": "21:55",
+        "lenke": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Microsoft and Amazon combined to see a $424 billion market-cap boost — and these factors show why",
+        "kilde": "MarketWatch",
+        "tid": "21:33",
         "lenke": "https://www.marketwatch.com/story/microsoft-and-amazon-combine-for-a-400-billion-market-cap-boost-and-these-factors-show-why-6655d1a9?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hyperscalere og Apple-stigning etter valgresultater fjerner investorusikkerhet",
-        "kilde": "CNBC Top News",
-        "tid": "19:37",
-        "lenke": "https://www.cnbc.com/2026/11/04/apple-and-other-big-tech-stocks-surge-after-2026-midterm-elections.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "SpaceXs Qualcomm-avtale kan være en forløper til en telekomovertakelse",
-        "kilde": "MarketWatch",
-        "tid": "18:57",
-        "lenke": "https://www.marketwatch.com/story/qualcomm-sat-out-the-semiconductor-rally-can-a-spacex-partnership-change-that-5bb4c0b2?mod=mw_rss_topstories",
         "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Demokratene tar kongressen i en blå bølge. Her er hva det betyr for pengene dine",
+        "tittel": "Prediction markets cement their status after forecasting Democratic sweep of Congress",
         "kilde": "CNBC Top News",
-        "tid": "19:53",
-        "lenke": "https://www.cnbc.com/2026/11/04/blue-wave-democrats-control-congress-your-money.html",
+        "tid": "21:57",
+        "lenke": "https://www.cnbc.com/2026/11/04/prediction-markets-2026-midterms-election-results.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hva republikanernes enorme tap betyr for Trump",
+        "tittel": "What Republicans' huge loss means for Trump",
         "kilde": "CNBC Top News",
-        "tid": "19:46",
+        "tid": "21:50",
         "lenke": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Trump hamrer Fox News, og klandrer nettverket for GOP-tap når rangeringene skyves",
-        "kilde": "CNBC Top News",
-        "tid": "18:37",
-        "lenke": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
+        "tittel": "Pound rises to its highest level since the Brexit referendum",
+        "kilde": "BBC Business",
+        "tid": "21:35",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Analyse: Demokratene har en sjanse til å hente innrømmelser fra Trump. Markedene vil hate det",
+        "tittel": "What was really behind Wednesday's monster rally? Trump quickly making peace",
         "kilde": "CNBC Top News",
-        "tid": "17:32",
+        "tid": "21:32",
+        "lenke": "https://www.cnbc.com/2026/11/04/stock-market-rally-trump-midterms.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Residential proxies detected on White House network",
+        "kilde": "Hacker News",
+        "tid": "20:45",
+        "lenke": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+        "kilde": "CNBC Top News",
+        "tid": "20:28",
         "lenke": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Trump skylder på krigen etter valgnederlaget",
-        "kilde": "E24",
-        "tid": "16:39",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/2VErWB/jd-vance-skylder-paa-iran-krigen?utm_medium=rss",
-        "engelsk_kilde": false
+        "tittel": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war",
+        "kilde": "CNBC Top News",
+        "tid": "20:14",
+        "lenke": "https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html",
+        "engelsk_kilde": true
       },
       {
         "tittel": "JD Vance: Republikanerne tapte mellomvalget på grunn av Iran-krigen",
@@ -154,53 +194,95 @@
         "tid": "15:53",
         "lenke": "https://www.nrk.no/nyheter/jd-vance_-republikanerne-tapte-mellomvalget-pa-grunn-av-iran-krigen-1.18073823",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "5 midtveisvalgoppslag: Tech-milliardærer lider som demokrater drub republikanere",
-        "kilde": "CNBC Top News",
-        "tid": "12:51",
-        "lenke": "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hva Trumps tap av makt over Kongressen betyr for Iran, Ukraina og utenrikspolitikken",
-        "kilde": "CNBC Top News",
-        "tid": "12:07",
-        "lenke": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Storbritannia og EU er enige om utkast til avtale om å avskaffe Brexit-byråkrati over matvare",
-        "kilde": "BBC Business",
-        "tid": "20:53",
-        "lenke": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
       {
-        "tittel": "CVS Health planlegger å dele seg opp. Her er grunnen til at et brudd kan være fornuftig nå",
-        "kilde": "CNBC Top News",
-        "tid": "19:58",
-        "lenke": "https://www.cnbc.com/2026/11/04/cvs-health-pharmacy-aetna-split.html",
+        "tittel": "How do Americans feel about the midterm results? It depends on how much money they make.",
+        "kilde": "MarketWatch",
+        "tid": "22:06",
+        "lenke": "https://www.marketwatch.com/story/how-do-americans-feel-about-the-midterm-results-it-depends-on-how-much-money-they-make-e2a43f08?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Velgerne avviser datasentre i alle stemmeseddelmål unntatt ett under midtveisvalgene i 2026",
-        "kilde": "CNBC Top News",
-        "tid": "19:51",
-        "lenke": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
+        "tittel": "Nusa herjet mot City, men Haaland ble matchvinner",
+        "kilde": "NRK Nyheter",
+        "tid": "21:54",
+        "lenke": "https://www.nrk.no/sport/rb-leipzig-manchester-city-med-mal-av-bade-nusa-og-haaland-1.18074017",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Raste i historisk seier: – Direkte usportslig",
+        "kilde": "NRK Nyheter",
+        "tid": "21:54",
+        "lenke": "https://www.nrk.no/rogaland/historisk-viking-seier-i-mesterligaen-_-slo-sabah-fc-4_1-1.18072343",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+        "kilde": "BBC Business",
+        "tid": "21:41",
+        "lenke": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Poundland-eier i knaseprat når forhandlerens kollaps truer",
+        "tittel": "‘It’s good to be old’: I’ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?",
+        "kilde": "MarketWatch",
+        "tid": "21:30",
+        "lenke": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Snap raser i etterhandelen",
+        "kilde": "E24",
+        "tid": "21:10",
+        "lenke": "https://e24.no/boers-og-finans/i/qy2p1m/snap-omsatte-for-1-72-mrd-dollar?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Everything is an AI scam now",
+        "kilde": "Hacker News",
+        "tid": "21:05",
+        "lenke": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "AR guitar with just a laptop and scissors",
+        "kilde": "Hacker News",
+        "tid": "20:54",
+        "lenke": "https://www.arguitar.com/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Democrats map out an agenda to address affordability and corruption after midterm sweep",
+        "kilde": "CNBC Top News",
+        "tid": "20:53",
+        "lenke": "https://www.cnbc.com/2026/11/04/congressional-democrats-affordability-oversight.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "If you're on Replit Pro, you have until November 8 to opt out of arbitration",
+        "kilde": "Hacker News",
+        "tid": "20:52",
+        "lenke": "https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+        "kilde": "Hacker News",
+        "tid": "19:55",
+        "lenke": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Poundland owner in crunch talks as retailer's collapse looms",
         "kilde": "BBC Business",
         "tid": "19:44",
         "lenke": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Kelloggs innrømmer at snap, crackle og pop er roligere etter opprør over Rice Krispies oppskriftsendring",
+        "tittel": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
         "kilde": "BBC Business",
         "tid": "19:38",
         "lenke": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
@@ -212,13 +294,6 @@
         "tid": "19:36",
         "lenke": "https://www.nrk.no/sorlandet/aleksander-_22_-fikk-jobb-gjennom-ungdomsprogrammet-1.18052385",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "4 markedsbevegende problemer investorer bør se på nå som midtveisvilkårene er over",
-        "kilde": "MarketWatch",
-        "tid": "19:12",
-        "lenke": "https://www.marketwatch.com/story/4-market-moving-issues-investors-should-watch-now-that-the-midterms-are-over-9a77b3de?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Kronen kan redde julefreden",
@@ -233,55 +308,6 @@
         "tid": "19:06",
         "lenke": "https://e24.no/boers-og-finans/i/oK4OAa/odfjell-tjente-40-mill-dollar-i-tredje-kvartal?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Demokratene kartlegger en agenda for å adressere overkommelighet og korrupsjon etter midterm sweep",
-        "kilde": "CNBC Top News",
-        "tid": "19:00",
-        "lenke": "https://www.cnbc.com/2026/11/04/congressional-democrats-affordability-oversight.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Ripple-65B Preview: US Open-Weight SOTA på Agentic Coding",
-        "kilde": "Hacker News",
-        "tid": "18:53",
-        "lenke": "https://www.ricursive.com/ripple",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Har jeg blitt venn med en morder?",
-        "kilde": "Hacker News",
-        "tid": "18:40",
-        "lenke": "https://longreads.com/2026/11/03/murder-friendship-doubt/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Jeg har ikke noe økonomisk sikkerhetsnett’: Jeg er 66, er avhengig av trygd og har $ 500 i besparelser. Hvilken politiker snakker for meg?",
-        "kilde": "MarketWatch",
-        "tid": "18:37",
-        "lenke": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Utdanning bør ikke holdes for løsepenger",
-        "kilde": "Hacker News",
-        "tid": "18:33",
-        "lenke": "https://blog.kagi.com/education-should-not-be-held-for-ransom",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Benchfmt.rs: Tar Go's benchmarking og benchstat-arbeidsflyt til Rust",
-        "kilde": "Hacker News",
-        "tid": "18:20",
-        "lenke": "https://www.bwplotka.dev/2026/rust-microbenchmarks-benchstat/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Denne måneden i Ladybird – oktober 2026",
-        "kilde": "Hacker News",
-        "tid": "17:59",
-        "lenke": "https://ladybird.org/newsletter/2026-10-31/",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Oljeprisen raser – faller under 95 dollar",
@@ -319,31 +345,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Elon Musks millioner klarer ikke å levere Texas til republikanerne i harde midtveisvalg",
-        "kilde": "BBC Business",
-        "tid": "15:51",
-        "lenke": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Denne løsningen er uaktuell for Solbakken: – Krever at du legger vekk egoet",
-        "kilde": "NRK Nyheter",
-        "tid": "15:40",
-        "lenke": "https://www.nrk.no/sport/bjarte-lunde-aarsheim-og-mortens-jensens-losning-er-uaktuell-for-solbakken_-_-alt-ma-diskuteres-1.18072528",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Investerer i batterilagring: – Stadig viktigere",
         "kilde": "E24",
         "tid": "15:16",
         "lenke": "https://e24.no/boers-og-finans/i/JrkmX6/oljefondet-gjoer-sin-foerste-direkte-investering-i-batterilagring-kjoeper-10-prosent-av-amerikanske-aypa-power?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Mann i 60-årene omkom i paragliderulykke i Gjesdal",
-        "kilde": "NRK Nyheter",
-        "tid": "15:01",
-        "lenke": "https://www.nrk.no/rogaland/paragliderulykke-i-gjesdal-i-rogaland-_-mann-i-60-arene-omkom-1.18073770",
         "engelsk_kilde": false
       },
       {
@@ -354,13 +359,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Høiby blir fortsatt varetektsfengslet",
-        "kilde": "NRK Nyheter",
-        "tid": "14:13",
-        "lenke": "https://www.nrk.no/nyheter/hoiby-blir-fortsatt-varetektsfengslet--1.18073687",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Aksjeadvarsel: – Løp til døra og selg",
         "kilde": "E24",
         "tid": "14:06",
@@ -368,14 +366,14 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Canva kunngjør store jobbnedskjæringer etter 'vårt vanskeligste år hittil'",
+        "tittel": "Canva announces major job cuts after 'our hardest year yet'",
         "kilde": "BBC Business",
         "tid": "00:09",
         "lenke": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nyutdannede administrerer AI - men lærer de mye annet?",
+        "tittel": "Graduates are managing AI - but are they learning much else?",
         "kilde": "BBC Business",
         "tid": "00:04",
         "lenke": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
