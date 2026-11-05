@@ -1,43 +1,43 @@
 {
   "dato": "2026-11-05",
   "dato_norsk": "Torsdag 5. november 2026",
-  "generert_kl": "20:29",
+  "generert_kl": "22:24",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Trumps Iran-krig har endret fremtiden for trygdeordninger",
+      "tittel": "Kjøper du en dukkert eller venter du på den? Unge investorer reagerer når detaljhandel med aksjer når et av de høyeste nivåene siden COVID-krasjet.",
       "kilde": "MarketWatch",
-      "tid": "19:32",
-      "lenke": "https://www.marketwatch.com/story/trumps-iran-war-has-changed-the-future-of-social-security-7a500f9f?mod=mw_rss_topstories",
+      "tid": "21:44",
+      "lenke": "https://www.marketwatch.com/story/buy-the-dip-or-wait-it-out-young-investors-react-as-retail-stock-selling-hits-one-of-its-highest-levels-since-covid-crash-610d8087?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Mens Nvidias aksjer leder mot et bjørnemarked, ser kuppjegere en gylden kjøpsmulighet",
+      "tittel": "Når Nvidias aksjer kommer inn i et bjørnemarked, ser kuppjegere en gylden kjøpsmulighet",
       "kilde": "MarketWatch",
-      "tid": "18:59",
+      "tid": "21:31",
       "lenke": "https://www.marketwatch.com/story/as-nvidias-stock-heads-for-a-bear-market-bargain-hunters-see-a-golden-buying-opportunity-1a5917e6?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Oktoberjobbrapporten er ute fredag. Her er alt du kan forvente",
+      "kilde": "CNBC Top News",
+      "tid": "21:32",
+      "lenke": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
       "engelsk_kilde": true
     },
     {
       "tittel": "Etter teknisk lagerruting kan rapporten om oktoberjobber gi lindring — eller mer smerte",
       "kilde": "MarketWatch",
-      "tid": "19:46",
+      "tid": "21:39",
       "lenke": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Trumps energiaftaler er i ferd med å møte en bølge av undersøkelser fra Demokratene",
+      "tittel": "Nvidias Huang blir bedt om å orientere Kongressen om rapportert kinesisk spionforhold",
       "kilde": "CNBC Top News",
-      "tid": "19:13",
-      "lenke": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html",
+      "tid": "22:21",
+      "lenke": "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html",
       "engelsk_kilde": true
-    },
-    {
-      "tittel": "Her forbereder de seg på framtidas krig – 20 mil fra Russland",
-      "kilde": "NRK Nyheter",
-      "tid": "17:51",
-      "lenke": "https://www.nrk.no/tromsogfinnmark/xl/finnmarksbrigaden-bygger-droneforsvar-for-arktiske-forhold-med-erfaringer-fra-ukraina-1.18067802",
-      "engelsk_kilde": false
     }
   ],
   "kategorier": {
@@ -54,8 +54,15 @@
       {
         "tittel": "Etter teknisk lagerruting kan rapporten om oktoberjobber gi lindring — eller mer smerte",
         "kilde": "MarketWatch",
-        "tid": "19:46",
+        "tid": "21:39",
         "lenke": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Oktoberjobbrapporten er ute fredag. Her er alt du kan forvente",
+        "kilde": "CNBC Top News",
+        "tid": "21:32",
+        "lenke": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
         "engelsk_kilde": true
       },
       {
@@ -75,38 +82,80 @@
     ],
     "MARKEDER": [
       {
-        "tittel": "Bloom Energys aksjer er en av S&P 500s største tapere blant frykten for datasenterforsinkelser",
-        "kilde": "MarketWatch",
-        "tid": "20:21",
-        "lenke": "https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "AI-smelting: Chip-aksjer og neoclouds stuper, og skyver Nasdaq til verste dag siden april 2025",
+        "tittel": "Storslått 7 taper $ 1 billion. De mest iøynefallende statistikkene fra torsdagens tech stock stupe",
         "kilde": "CNBC Top News",
-        "tid": "20:08",
-        "lenke": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
+        "tid": "22:22",
+        "lenke": "https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Wall Streets fryktmåler øker mest siden april. Hvorfor handelsmenn mener det bør være enda høyere",
+        "tittel": "Her er hva som driver Irens aksjer høyere etter et brutalt salg",
+        "kilde": "MarketWatch",
+        "tid": "22:21",
+        "lenke": "https://www.marketwatch.com/story/heres-whats-driving-irens-stock-higher-after-a-brutal-selloff-0ced09b0?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nasdaq faller inn i korreksjonsterritorium - her er hva som vanligvis skjer neste",
         "kilde": "CNBC Top News",
-        "tid": "19:20",
-        "lenke": "https://www.cnbc.com/2026/11/05/wall-streets-fear-gauge-surges-the-most-since-april-why-traders-think-it-should-be-even-higher.html",
+        "tid": "22:19",
+        "lenke": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Mens Nvidias aksjer leder mot et bjørnemarked, ser kuppjegere en gylden kjøpsmulighet",
-        "kilde": "MarketWatch",
-        "tid": "18:59",
-        "lenke": "https://www.marketwatch.com/story/as-nvidias-stock-heads-for-a-bear-market-bargain-hunters-see-a-golden-buying-opportunity-1a5917e6?mod=mw_rss_topstories",
+        "tittel": "Store tech-aksjer stuper som amerikanske midterms legger til frykt for AI-nedgang",
+        "kilde": "BBC Business",
+        "tid": "22:13",
+        "lenke": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Micron, Sandisk og andre AI-aksjer faller hardt: «Investorer liker ikke usikkerhet»",
+        "tittel": "Neocloud IREN sier at $ 4 milliarder i årlig omsetning blir forsinket på grunn av kundeforespørsel",
+        "kilde": "CNBC Top News",
+        "tid": "22:12",
+        "lenke": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tech-aksjer loggfører den verste dagen siden 2020 når blodbadet kommer til AI-handelen",
         "kilde": "MarketWatch",
-        "tid": "18:18",
+        "tid": "22:00",
+        "lenke": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kjøper du en dukkert eller venter du på den? Unge investorer reagerer når detaljhandel med aksjer når et av de høyeste nivåene siden COVID-krasjet.",
+        "kilde": "MarketWatch",
+        "tid": "21:44",
+        "lenke": "https://www.marketwatch.com/story/buy-the-dip-or-wait-it-out-young-investors-react-as-retail-stock-selling-hits-one-of-its-highest-levels-since-covid-crash-610d8087?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "$ 2.5T har blitt slettet fra amerikanske aksjer",
+        "kilde": "Hacker News",
+        "tid": "21:39",
+        "lenke": "https://www.reddit.com/r/StockMarket/comments/1xopjao/25_trillion_has_been_wiped_from_us_stocks/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Er dette \"den store\" for aksjemarkedet? Wall Street høres ut som teknologi stuper.",
+        "kilde": "MarketWatch",
+        "tid": "21:37",
+        "lenke": "https://www.marketwatch.com/story/is-this-the-big-one-for-the-stock-market-wall-street-sounds-off-as-tech-plunges-185df529?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Micron, Sandisk og andre AI-aksjer ser bratte fall: ‘Investorer liker ikke usikkerhet’",
+        "kilde": "MarketWatch",
+        "tid": "21:32",
         "lenke": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Når Nvidias aksjer kommer inn i et bjørnemarked, ser kuppjegere en gylden kjøpsmulighet",
+        "kilde": "MarketWatch",
+        "tid": "21:31",
+        "lenke": "https://www.marketwatch.com/story/as-nvidias-stock-heads-for-a-bear-market-bargain-hunters-see-a-golden-buying-opportunity-1a5917e6?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -117,18 +166,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "AI-frykt sender Wall Street kraftig ned: – Ganske brutalt",
+        "tittel": "Årets verste dag på Wall Street: – Ganske brutalt",
         "kilde": "E24",
         "tid": "14:32",
         "lenke": "https://e24.no/boers-og-finans/i/w3MPVM/blandet-aapning-paa-wall-street?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Hva Wall Street-milliardærer sier om demokratenes midterm sweep",
-        "kilde": "CNBC Top News",
-        "tid": "13:44",
-        "lenke": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
-        "engelsk_kilde": true
       }
     ],
     "ENERGI_RAAVARER": [
@@ -142,48 +184,34 @@
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "\"Musk-salget\" blir dypere når Tesla og SpaceX slår seg sammen for $ 450 milliarder to-dagers wipeout",
-        "kilde": "MarketWatch",
-        "tid": "19:29",
-        "lenke": "https://www.marketwatch.com/story/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-billion-two-day-wipeout-d300ab4f?mod=mw_rss_topstories",
+        "tittel": "Nvidias Huang blir bedt om å orientere Kongressen om rapportert kinesisk spionforhold",
+        "kilde": "CNBC Top News",
+        "tid": "22:21",
+        "lenke": "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Aksjer i Musks SpaceX stuper etter hvert som teknologi- og AI-aksjer faller",
-        "kilde": "BBC Business",
-        "tid": "17:57",
-        "lenke": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+        "tittel": "Elon Musks Tesla og SpaceX taper over $ 420 milliarder i kombinert markedsverdi etter midterms",
+        "kilde": "CNBC Top News",
+        "tid": "22:16",
+        "lenke": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "\"Musk-salget\" blir dypere når Tesla og SpaceX slår seg sammen for $ 456 milliarder to-dagers wipeout",
+        "kilde": "MarketWatch",
+        "tid": "21:43",
+        "lenke": "https://www.marketwatch.com/story/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-billion-two-day-wipeout-d300ab4f?mod=mw_rss_topstories",
         "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
-      {
-        "tittel": "Trumps Iran-krig har endret fremtiden for trygdeordninger",
-        "kilde": "MarketWatch",
-        "tid": "19:32",
-        "lenke": "https://www.marketwatch.com/story/trumps-iran-war-has-changed-the-future-of-social-security-7a500f9f?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trumps energiaftaler er i ferd med å møte en bølge av undersøkelser fra Demokratene",
-        "kilde": "CNBC Top News",
-        "tid": "19:13",
-        "lenke": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html",
-        "engelsk_kilde": true
-      },
       {
         "tittel": "Her forbereder de seg på framtidas krig – 20 mil fra Russland",
         "kilde": "NRK Nyheter",
         "tid": "17:51",
         "lenke": "https://www.nrk.no/tromsogfinnmark/xl/finnmarksbrigaden-bygger-droneforsvar-for-arktiske-forhold-med-erfaringer-fra-ukraina-1.18067802",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Her er hva den demokratiske valgkampen kan bety for den amerikanske økonomien",
-        "kilde": "CNBC Top News",
-        "tid": "14:33",
-        "lenke": "https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Pundet stiger til sitt høyeste nivå siden Brexit-folkeavstemningen",
@@ -195,6 +223,41 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "IRS avdekker høyere skatteparenteser for kapitalgevinster for 2027",
+        "kilde": "CNBC Top News",
+        "tid": "21:46",
+        "lenke": "https://www.cnbc.com/2026/11/05/capital-gains-tax-2027-federal.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "IRS kunngjør skattefritak for større eiendommer og gaver for 2027",
+        "kilde": "CNBC Top News",
+        "tid": "20:51",
+        "lenke": "https://www.cnbc.com/2026/11/05/2027-estate-and-gift-tax-exemption-irs-raises-limit.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nordea-sjefen om nordisk vekstfond: – Stiller oss 100 prosent bak",
+        "kilde": "E24",
+        "tid": "20:48",
+        "lenke": "https://e24.no/boers-og-finans/i/OgGMEq/nordea-sjefen-om-nordisk-vekstfond-stiller-oss-100-prosent-bak?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "MS Paint eksternt sikkerhetsproblem for kjøring av kode",
+        "kilde": "Hacker News",
+        "tid": "20:43",
+        "lenke": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "IRS kunngjør nye føderale inntektsskattesatser for 2027",
+        "kilde": "CNBC Top News",
+        "tid": "20:37",
+        "lenke": "https://www.cnbc.com/2026/11/05/2027-federal-tax-brackets.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Felishia (19) ber politikarane høyre på dei unge: – Føler utsegnene våre ikkje blir lesne",
         "kilde": "NRK Nyheter",
         "tid": "20:28",
@@ -202,17 +265,17 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Seksten år og enke",
+        "tittel": "Gift som 14-åring: Jeg gråter over den tapte barndommen min",
         "kilde": "NRK Nyheter",
         "tid": "20:24",
-        "lenke": "https://www.nrk.no/norge/seksten-ar-og-enke.-flere-barn-blir-giftet-bort-etter-krigen-i-gaza-1.18050659",
+        "lenke": "https://www.nrk.no/norge/flere-barn-blir-giftet-bort-etter-krigen-i-gaza_-ifolge-fn-1.18050659",
         "engelsk_kilde": false
       },
       {
-        "tittel": "Skatteparentesene for 2027 er ute. Se hva standardfradrag og SALTSKATTELETTELSER vil være.",
-        "kilde": "MarketWatch",
-        "tid": "20:22",
-        "lenke": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
+        "tittel": "Tencent lanserer Hy4, en av de ledende AI-modellene med åpen kildekode",
+        "kilde": "Hacker News",
+        "tid": "20:21",
+        "lenke": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
         "engelsk_kilde": true
       },
       {
@@ -223,10 +286,17 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Farvel fra salongen",
+        "tittel": "Kostnaden ved å blogge",
+        "kilde": "Hacker News",
+        "tid": "20:14",
+        "lenke": "https://onlinegoddess.net/2026/11/the-cost-of-blogging/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kagi Søk etter alle",
         "kilde": "Hacker News",
         "tid": "20:03",
-        "lenke": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+        "lenke": "https://kagi.com/changelog",
         "engelsk_kilde": true
       },
       {
@@ -237,20 +307,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "IRS kunngjør skattefritak for større eiendommer og gaver for 2027",
-        "kilde": "CNBC Top News",
-        "tid": "19:54",
-        "lenke": "https://www.cnbc.com/2026/11/05/2027-estate-and-gift-tax-exemption-irs-raises-limit.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "IRS kunngjør nye føderale inntektsskattesatser for 2027",
-        "kilde": "CNBC Top News",
-        "tid": "19:53",
-        "lenke": "https://www.cnbc.com/2026/11/05/2027-federal-tax-brackets.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Feilene florerte for Lillestrøm: – Må luke bort",
         "kilde": "NRK Nyheter",
         "tid": "19:38",
@@ -258,53 +314,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Denne kreftbehandlingen i bukspyttkjertelen er i rute for \"en av de beste medikamentlanseringene gjennom tidene\"",
-        "kilde": "MarketWatch",
-        "tid": "19:32",
-        "lenke": "https://www.marketwatch.com/story/this-pancreatic-cancer-treatment-is-on-track-for-one-of-the-best-drug-launches-of-all-time-37bf86ce?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Ungarn: Filer fra kommunisttiden utgitt, opptil 60 000 tidligere agenter avslørt",
-        "kilde": "Hacker News",
-        "tid": "19:16",
-        "lenke": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hackintosh Reborn",
-        "kilde": "Hacker News",
-        "tid": "19:08",
-        "lenke": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvordan lyve med statistikk (1954)",
-        "kilde": "Hacker News",
-        "tid": "18:29",
-        "lenke": "https://archive.org/details/howtoliewithstat00huff",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "NTS: Godkjent tid på Meta",
-        "kilde": "Hacker News",
-        "tid": "18:24",
-        "lenke": "https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Konge­eiendommer verdt flere hundre millioner overført",
         "kilde": "E24",
         "tid": "18:02",
         "lenke": "https://e24.no/norsk-oekonomi/i/9kyRGq/kongeeiendommer-verdt-flere-hundre-millioner-overfoert?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Demokratene undersøker JPMorgans forhold til Jeffrey Epstein når de tar kontroll over Senatet",
-        "kilde": "CNBC Top News",
-        "tid": "17:42",
-        "lenke": "https://www.cnbc.com/2026/11/05/jpmorgan-epstein-democrats-erdoes-midterm-election.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Renten økte til 4% i første økning på over tre år",
@@ -326,13 +340,6 @@
         "tid": "16:37",
         "lenke": "https://e24.no/naeringsliv/i/2VRpJ4/lier-hansen-saken-skal-behandles-paa-nytt?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Californias milliardærskatt står overfor nederlag, men demokratene planlegger høyere skatter på de velstående",
-        "kilde": "CNBC Top News",
-        "tid": "16:19",
-        "lenke": "https://www.cnbc.com/2026/11/05/as-california-billionaire-tax-fizzles-democrats-plan-taxes-on-wealthy.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Fylte og farlige elsyklister risikerer bøter på stedet under tilslag",
@@ -374,13 +381,6 @@
         "kilde": "E24",
         "tid": "12:41",
         "lenke": "https://e24.no/boers-og-finans/i/77b4Wo/roekke-holder-paa-penga?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Renteheving i Storbritannia",
-        "kilde": "E24",
-        "tid": "12:20",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/8Grr1x/renteheving-i-storbritannia?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
