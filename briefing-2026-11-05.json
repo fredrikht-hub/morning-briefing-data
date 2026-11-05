@@ -1,0 +1,384 @@
+{
+  "dato": "2026-11-05",
+  "dato_norsk": "Torsdag 5. november 2026",
+  "generert_kl": "01:23",
+  "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
+  "dagens_fokus": [
+    {
+      "tittel": "Hva lå egentlig bak onsdagens monstermøte? Trump skaper fred raskt",
+      "kilde": "CNBC Top News",
+      "tid": "22:55",
+      "lenke": "https://www.cnbc.com/2026/11/04/stock-market-rally-trump-midterms.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Analyse: Demokratene har en sjanse til å hente innrømmelser fra Trump. Markedene vil hate det",
+      "kilde": "CNBC Top News",
+      "tid": "22:46",
+      "lenke": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Ukjent drama: Norge-hjelper tatt av politiet – måtte møte i retten under VM",
+      "kilde": "NRK Nyheter",
+      "tid": "23:01",
+      "lenke": "https://www.nrk.no/sport/ukjent-drama_-norge-hjelper-tatt-av-politiet-_-matte-mote-i-retten-midt-i-vm-1.18070065",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Hva Wall Street-milliardærer sier om demokratenes midterm sweep",
+      "kilde": "CNBC Top News",
+      "tid": "23:17",
+      "lenke": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Jim Cramer advarer investorer om at de kan lese for mye inn i Wall Streets valgmøte etter valget",
+      "kilde": "CNBC Top News",
+      "tid": "23:18",
+      "lenke": "https://www.cnbc.com/2026/11/04/cramer-midterms-ai-stocks.html",
+      "engelsk_kilde": true
+    }
+  ],
+  "kategorier": {
+    "NORGE": [
+      {
+        "tittel": "Ukjent drama: Norge-hjelper tatt av politiet – måtte møte i retten under VM",
+        "kilde": "NRK Nyheter",
+        "tid": "23:01",
+        "lenke": "https://www.nrk.no/sport/ukjent-drama_-norge-hjelper-tatt-av-politiet-_-matte-mote-i-retten-midt-i-vm-1.18070065",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "VG: Oslo kutter antall elsparkesykler og hever aldersgrensen",
+        "kilde": "NRK Nyheter",
+        "tid": "20:58",
+        "lenke": "https://www.nrk.no/nyheter/vg_-oslo-kutter-antall-elsparkesykler-og-hever-aldersgrensen-1.18074020",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Oljefondet har Starlink for «større nedetids­scenarier»",
+        "kilde": "E24",
+        "tid": "20:04",
+        "lenke": "https://e24.no/boers-og-finans/i/L37qQ9/oljefondet-har-starlink-for-stoerre-nedetidsscenarier?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vil selge aksjer Aker BP-aksjer verdt 11 milliarder",
+        "kilde": "E24",
+        "tid": "17:13",
+        "lenke": "https://e24.no/boers-og-finans/i/lKB6B7/akerbp-storeier-vurderer-storsalg-vil-selge-aksjer-verdt-11-milliarder?utm_medium=rss",
+        "engelsk_kilde": false
+      }
+    ],
+    "MARKEDER": [
+      {
+        "tittel": "Qualcomms aksjer faller etter hvert som tvillingkrefter presser salg",
+        "kilde": "MarketWatch",
+        "tid": "01:06",
+        "lenke": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Årets dårligste S&P 500-aksje ser endelig noen store lettelser",
+        "kilde": "MarketWatch",
+        "tid": "01:05",
+        "lenke": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Figmas aksjekurs synker etter hvert som investorer bekymrer seg for at AI-momentumet kommer til en høy pris",
+        "kilde": "MarketWatch",
+        "tid": "01:03",
+        "lenke": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Etter hvert som Vistra og andre energilager glir, advarer noen analytikere om en \"overdreven kne-jerk\" -reaksjon",
+        "kilde": "MarketWatch",
+        "tid": "00:38",
+        "lenke": "https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jim Cramer advarer investorer om at de kan lese for mye inn i Wall Streets valgmøte etter valget",
+        "kilde": "CNBC Top News",
+        "tid": "23:18",
+        "lenke": "https://www.cnbc.com/2026/11/04/cramer-midterms-ai-stocks.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hva Wall Street-milliardærer sier om demokratenes midterm sweep",
+        "kilde": "CNBC Top News",
+        "tid": "23:17",
+        "lenke": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "TEKNOLOGI": [
+      {
+        "tittel": "SpaceX – Starfall",
+        "kilde": "Hacker News",
+        "tid": "00:18",
+        "lenke": "https://www.spacex.com/starfall",
+        "engelsk_kilde": true
+      }
+    ],
+    "GEOPOLITIKK": [
+      {
+        "tittel": "Panelet i Det hvite hus utsetter høringen om Feds Lisa Cook til 14. desember",
+        "kilde": "CNBC Top News",
+        "tid": "01:11",
+        "lenke": "https://www.cnbc.com/2026/11/04/trump-federal-reserve-lisa-cook-hearing.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Pundet stiger til sitt høyeste nivå siden Brexit-folkeavstemningen",
+        "kilde": "BBC Business",
+        "tid": "23:30",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Demokratene tar kongressen i en blå bølge. Her er hva det betyr for pengene dine",
+        "kilde": "CNBC Top News",
+        "tid": "23:11",
+        "lenke": "https://www.cnbc.com/2026/11/04/blue-wave-democrats-control-congress-your-money.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hva lå egentlig bak onsdagens monstermøte? Trump skaper fred raskt",
+        "kilde": "CNBC Top News",
+        "tid": "22:55",
+        "lenke": "https://www.cnbc.com/2026/11/04/stock-market-rally-trump-midterms.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Analyse: Demokratene har en sjanse til å hente innrømmelser fra Trump. Markedene vil hate det",
+        "kilde": "CNBC Top News",
+        "tid": "22:46",
+        "lenke": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hva republikanernes enorme tap betyr for Trump",
+        "kilde": "CNBC Top News",
+        "tid": "21:50",
+        "lenke": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Råoljeprisen faller under $ 90 per fat da Vance skylder GOP-valgets nederlag på Iran-krigen",
+        "kilde": "CNBC Top News",
+        "tid": "20:14",
+        "lenke": "https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "JD Vance: Republikanerne tapte mellomvalget på grunn av Iran-krigen",
+        "kilde": "NRK Nyheter",
+        "tid": "15:53",
+        "lenke": "https://www.nrk.no/nyheter/jd-vance_-republikanerne-tapte-mellomvalget-pa-grunn-av-iran-krigen-1.18073823",
+        "engelsk_kilde": false
+      }
+    ],
+    "VILLKORT": [
+      {
+        "tittel": "McDonalds tester ny verdi meny som hurtigmat rabatt kriger varme opp",
+        "kilde": "MarketWatch",
+        "tid": "01:01",
+        "lenke": "https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Australias eldste varehus David Jones kollapser etter 188 år",
+        "kilde": "BBC Business",
+        "tid": "00:59",
+        "lenke": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Du trenger nerver av stål for å jobbe med AI-agenter",
+        "kilde": "Hacker News",
+        "tid": "00:01",
+        "lenke": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Forventet rentestigning for første gang på over tre år",
+        "kilde": "BBC Business",
+        "tid": "00:00",
+        "lenke": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "\"Livet mitt kan bli forkortet\": Jeg er 55, gift med $ 4,3 millioner og har en hjernesvulst. Skal jeg kjøpe en $ 210 000 tilpasset Porsche?",
+        "kilde": "MarketWatch",
+        "tid": "23:45",
+        "lenke": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Demokratene snur dusinvis av GOP-seter. Republikanerne har ikke vendt en eneste en",
+        "kilde": "CNBC Top News",
+        "tid": "23:44",
+        "lenke": "https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bilder 2.6",
+        "kilde": "Hacker News",
+        "tid": "23:35",
+        "lenke": "https://openai.com/index/introducing-images-2-6/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tusen færre baner til rot",
+        "kilde": "Hacker News",
+        "tid": "23:33",
+        "lenke": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Det virker bisarrt’: Vi er i 80-årene med $ 950 000 i tradisjonelle IRAer. Hvorfor presser vår rådgiver Roth-konverteringer?",
+        "kilde": "MarketWatch",
+        "tid": "22:15",
+        "lenke": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hva synes amerikanerne om midtveisresultatene? Det avhenger av hvor mye penger de tjener.",
+        "kilde": "MarketWatch",
+        "tid": "22:06",
+        "lenke": "https://www.marketwatch.com/story/how-do-americans-feel-about-the-midterm-results-it-depends-on-how-much-money-they-make-e2a43f08?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hacking av Xbox 360-hypervisoren Del 3: Dårlige oppdateringsforbedringer",
+        "kilde": "Hacker News",
+        "tid": "22:01",
+        "lenke": "https://icode4.coffee/?p=1746",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nusa herjet mot City, men Haaland ble matchvinner",
+        "kilde": "NRK Nyheter",
+        "tid": "21:54",
+        "lenke": "https://www.nrk.no/sport/rb-leipzig-manchester-city-med-mal-av-bade-nusa-og-haaland-1.18074017",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Raste i historisk seier: – Ikke sånn spillet skal være",
+        "kilde": "NRK Nyheter",
+        "tid": "21:54",
+        "lenke": "https://www.nrk.no/rogaland/historisk-viking-seier-i-mesterligaen-_-slo-sabah-fc-4_1-1.18072343",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Elon Musks millioner klarte ikke å levere republikanske seire i harde midtveisvalg",
+        "kilde": "BBC Business",
+        "tid": "21:41",
+        "lenke": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Snap raser i etterhandelen",
+        "kilde": "E24",
+        "tid": "21:10",
+        "lenke": "https://e24.no/boers-og-finans/i/qy2p1m/snap-omsatte-for-1-72-mrd-dollar?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Demokratene kartlegger en agenda for å adressere overkommelighet og korrupsjon etter midterm sweep",
+        "kilde": "CNBC Top News",
+        "tid": "20:53",
+        "lenke": "https://www.cnbc.com/2026/11/04/congressional-democrats-affordability-oversight.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Poundland-eier i knaseprat når forhandlerens kollaps truer",
+        "kilde": "BBC Business",
+        "tid": "19:44",
+        "lenke": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kelloggs innrømmer at snap, crackle og pop er roligere etter opprør over Rice Krispies oppskriftsendring",
+        "kilde": "BBC Business",
+        "tid": "19:38",
+        "lenke": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Aleksander (22) om den nye jobben: – Det gir livet mening",
+        "kilde": "NRK Nyheter",
+        "tid": "19:36",
+        "lenke": "https://www.nrk.no/sorlandet/aleksander-_22_-fikk-jobb-gjennom-ungdomsprogrammet-1.18052385",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kronen kan redde julefreden",
+        "kilde": "E24",
+        "tid": "19:08",
+        "lenke": "https://e24.no/norsk-oekonomi/i/X9PQmW/kronen-kan-redde-julefreden?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Odfjell varsler «høy usikkerhet»: Dette må du vite",
+        "kilde": "E24",
+        "tid": "19:06",
+        "lenke": "https://e24.no/boers-og-finans/i/oK4OAa/odfjell-tjente-40-mill-dollar-i-tredje-kvartal?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Oljeprisen raser – faller under 95 dollar",
+        "kilde": "E24",
+        "tid": "16:51",
+        "lenke": "https://e24.no/energi-og-klima/i/X9PKjx/oljeprisen-raser-faller-under-100-dollar?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "16-åring planla å sende terrorangrep mot barnehagar direkte på nett",
+        "kilde": "NRK Nyheter",
+        "tid": "16:34",
+        "lenke": "https://www.nrk.no/vestfoldogtelemark/16-aring-fra-vestfold-sikta-for-terrorplan-mot-barnehage-i-oslo-1.18067954",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Stor vannlekkasje – 1500 uten varmtvann og varme",
+        "kilde": "NRK Nyheter",
+        "tid": "16:21",
+        "lenke": "https://www.nrk.no/stor-oslo/stor-vannlekkasje-pa-gronland-_-ber-folk-trekke-unna-1.18073838",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Handelsrush hos Firi etter Binance-angrep",
+        "kilde": "E24",
+        "tid": "15:55",
+        "lenke": "https://e24.no/boers-og-finans/i/581Jd1/handelsrush-hos-firi-etter-binance-angrep?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Investerer i batterilagring: – Stadig viktigere",
+        "kilde": "E24",
+        "tid": "15:16",
+        "lenke": "https://e24.no/boers-og-finans/i/JrkmX6/oljefondet-gjoer-sin-foerste-direkte-investering-i-batterilagring-kjoeper-10-prosent-av-amerikanske-aypa-power?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Italiensk TV: Pro-russiske hackegrupper påtar seg ansvaret for angrep",
+        "kilde": "E24",
+        "tid": "14:55",
+        "lenke": "https://e24.no/naeringsliv/i/jvo5kA/nsr-datasenterangrep-mot-norske-kjoeleanlegg-avverget?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Aksjeadvarsel: – Løp til døra og selg",
+        "kilde": "E24",
+        "tid": "14:06",
+        "lenke": "https://e24.no/boers-og-finans/i/d76p21/aksjeadvarsel-loep-til-doera-og-selg?utm_medium=rss",
+        "engelsk_kilde": false
+      }
+    ]
+  }
+}
