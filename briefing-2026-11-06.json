@@ -1,56 +1,63 @@
 {
   "dato": "2026-11-06",
   "dato_norsk": "Fredag 6. november 2026",
-  "generert_kl": "16:33",
+  "generert_kl": "19:52",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Amerikansk økonomi økte 165 000 arbeidsplasser i oktober, langt mer enn forventet; arbeidsledigheten synker til 4,1%",
+      "tittel": "Amerikanerne er på en \"tredemølle med høy inflasjon\" og flere renteøkninger er sannsynlig, sier Feds Daly",
       "kilde": "CNBC Top News",
-      "tid": "16:06",
-      "lenke": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "tid": "19:05",
+      "lenke": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Nvidia, AMD og andre brikkeaksjer går tilbake. Er det «voldelige» AI-salget over?",
-      "kilde": "MarketWatch",
-      "tid": "15:48",
-      "lenke": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+      "tittel": "Trump sier Stephen Miller skal erstatte Susie Wiles som stabssjef i Det hvite hus",
+      "kilde": "CNBC Top News",
+      "tid": "19:51",
+      "lenke": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Dømt til 20 års fengsel i England: Norsk 19-åring anker ikke drapsforbund-dom",
+      "tittel": "Topphusets tilsynsdemokrat advarer Trump-familien om å 'advokat opp'",
+      "kilde": "CNBC Top News",
+      "tid": "19:42",
+      "lenke": "https://www.cnbc.com/2026/11/06/robert-garcia-trump-congress-oversight-investigations.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Trump: Stephen Miller blir ny stabssjef",
       "kilde": "NRK Nyheter",
-      "tid": "14:23",
-      "lenke": "https://www.nrk.no/rogaland/domt-til-20-ars-fengsel-i-england_-norsk-19-aring-anker-ikke-drapsforbund-dom-1.18075930",
+      "tid": "18:55",
+      "lenke": "https://www.nrk.no/nyheter/trump_-stephen-miller-blir-ny-stabssjef-1.18076143",
       "engelsk_kilde": false
     },
     {
-      "tittel": "Se live: Jim Cramer sier at en antropisk børsnotering ville være en indikasjon på å begynne å kjøpe igjen",
-      "kilde": "CNBC Top News",
-      "tid": "16:33",
-      "lenke": "https://www.cnbc.com/investingclub/2026/11/06/watch-jim-cramer-live.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Wall Streets fryktmåler kan blinke med et kjøpsskilt",
-      "kilde": "CNBC Top News",
-      "tid": "16:29",
-      "lenke": "https://www.cnbc.com/2026/11/06/wall-streets-fear-gauge-may-be-flashing-a-buy-sign.html",
+      "tittel": "Nvidia, AMD og andre brikkelager går tilbake — men er lettelse fra det \"voldelige\" salg bare midlertidig?",
+      "kilde": "MarketWatch",
+      "tid": "18:00",
+      "lenke": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "Dømt til 20 års fengsel i England: Norsk 19-åring anker ikke drapsforbund-dom",
+        "tittel": "Togene kjører igjen etter full stans ved Oslo S",
         "kilde": "NRK Nyheter",
-        "tid": "14:23",
-        "lenke": "https://www.nrk.no/rogaland/domt-til-20-ars-fengsel-i-england_-norsk-19-aring-anker-ikke-drapsforbund-dom-1.18075930",
+        "tid": "17:19",
+        "lenke": "https://www.nrk.no/stor-oslo/jordfeil-pa-oslo-s-forer-til-full-stans-i-togtrafikken-1.18076087",
         "engelsk_kilde": false
       }
     ],
     "MAKRO": [
+      {
+        "tittel": "Amerikanerne er på en \"tredemølle med høy inflasjon\" og flere renteøkninger er sannsynlig, sier Feds Daly",
+        "kilde": "CNBC Top News",
+        "tid": "19:05",
+        "lenke": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Amerikansk økonomi økte 165 000 arbeidsplasser i oktober, langt mer enn forventet; arbeidsledigheten synker til 4,1%",
         "kilde": "CNBC Top News",
@@ -61,127 +68,220 @@
     ],
     "MARKEDER": [
       {
-        "tittel": "Se live: Jim Cramer sier at en antropisk børsnotering ville være en indikasjon på å begynne å kjøpe igjen",
-        "kilde": "CNBC Top News",
-        "tid": "16:33",
-        "lenke": "https://www.cnbc.com/investingclub/2026/11/06/watch-jim-cramer-live.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Wall Streets fryktmåler kan blinke med et kjøpsskilt",
-        "kilde": "CNBC Top News",
-        "tid": "16:29",
-        "lenke": "https://www.cnbc.com/2026/11/06/wall-streets-fear-gauge-may-be-flashing-a-buy-sign.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hims & Hers inngikk en GLP-1 avtale med Lilly. Lagerbeholdningen er i full gang.",
-        "kilde": "MarketWatch",
-        "tid": "16:29",
-        "lenke": "https://www.marketwatch.com/story/hims-hers-struck-a-glp-1-deal-with-lilly-its-stock-is-rallying-d06ebe60?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "AI-aksjer stiger etter at billioner er fjernet fra markedsverdiene",
         "kilde": "BBC Business",
-        "tid": "16:23",
+        "tid": "19:37",
         "lenke": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Disse tre stjernene må justeres før investorer skynder seg tilbake til aksjer, sier Bank of America-strategen",
-        "kilde": "MarketWatch",
-        "tid": "15:27",
-        "lenke": "https://www.marketwatch.com/story/these-three-stars-need-to-align-before-investors-rush-back-into-stocks-bank-of-america-strategist-says-52879caa?mod=mw_rss_topstories",
+        "tittel": "Hvorfor de amerikanske midtveisvalgene utløste et salg av AI-aksjer",
+        "kilde": "BBC Business",
+        "tid": "18:32",
+        "lenke": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Moderna øker sine inntektsutsikter — men alles øyne er rettet mot hva som skjer videre med kreftvaksinen",
-        "kilde": "MarketWatch",
-        "tid": "15:09",
-        "lenke": "https://www.marketwatch.com/story/modernas-stock-jumps-after-biotech-raises-sales-outlook-65363127?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvor hver amerikansk stat får sine skatteinntekter fra",
-        "kilde": "Hacker News",
-        "tid": "15:02",
-        "lenke": "https://www.visualcapitalist.com/where-each-states-tax-revenue-comes-from/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Markedssalg treffer hardt: Rådgivere sier \"hold kursen med et øye på kjøp\"",
+        "tittel": "AI Crush driver en aksje til skyhøye verdsettelser",
         "kilde": "CNBC Top News",
-        "tid": "13:56",
-        "lenke": "https://www.cnbc.com/2026/11/06/market-sell-off-hits-hard-advisors-say-stay-the-course-with-an-eye-on-buying-.html",
+        "tid": "18:15",
+        "lenke": "https://www.cnbc.com/2026/11/06/ai-crush-is-powering-one-stock-to-sky-high-valuations.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nasdaq faller inn i korreksjonsterritorium - her er hva som vanligvis skjer neste",
-        "kilde": "CNBC Top News",
-        "tid": "13:47",
-        "lenke": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
+        "tittel": "DraftKings ’dyre innsats på prediksjonsmarkeder knuser aksjen",
+        "kilde": "MarketWatch",
+        "tid": "17:51",
+        "lenke": "https://www.marketwatch.com/story/draftkings-expensive-bet-on-prediction-markets-is-crushing-its-stock-277bee0d?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Brikkeaksje-rekyl på Nasdaq",
-        "kilde": "E24",
-        "tid": "11:21",
-        "lenke": "https://e24.no/boers-og-finans/i/w3yQy5/forsiktig-opppgang-i-foerhandelen-paa-wall-street?utm_medium=rss",
-        "engelsk_kilde": false
+        "tittel": "Hva er det neste for porteføljen din etter nedgangen i Big Tech-aksjer?",
+        "kilde": "MarketWatch",
+        "tid": "17:47",
+        "lenke": "https://www.marketwatch.com/story/whats-next-for-your-portfolio-after-the-decline-in-big-tech-stocks-2873452f?mod=mw_rss_topstories",
+        "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "OpenAI vil fortsette å investere i AI-datasentre til tross for valgresultatene, sier økonomidirektør til CNBC",
+        "tittel": "OpenAI avlytting mistenkt Alfozan erklærer seg ikke skyldig",
         "kilde": "CNBC Top News",
-        "tid": "16:28",
-        "lenke": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+        "tid": "19:52",
+        "lenke": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nvidia, AMD og andre brikkeaksjer går tilbake. Er det «voldelige» AI-salget over?",
+        "tittel": "Demokratene lanserer kongressundersøkelser av SpaceXAI, META og Apple",
+        "kilde": "Hacker News",
+        "tid": "19:24",
+        "lenke": "https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nvidia, AMD og andre brikkelager går tilbake — men er lettelse fra det \"voldelige\" salg bare midlertidig?",
         "kilde": "MarketWatch",
-        "tid": "15:48",
+        "tid": "18:00",
         "lenke": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
         "engelsk_kilde": true
+      }
+    ],
+    "GEOPOLITIKK": [
+      {
+        "tittel": "Trump sier Stephen Miller skal erstatte Susie Wiles som stabssjef i Det hvite hus",
+        "kilde": "CNBC Top News",
+        "tid": "19:51",
+        "lenke": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
+        "engelsk_kilde": true
       },
       {
-        "tittel": "Tesla vil avvikle Cybertruck-produksjonen i Texas neste år for å rampe Cybercab, sier Musk",
+        "tittel": "Topphusets tilsynsdemokrat advarer Trump-familien om å 'advokat opp'",
         "kilde": "CNBC Top News",
-        "tid": "15:06",
-        "lenke": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
+        "tid": "19:42",
+        "lenke": "https://www.cnbc.com/2026/11/06/robert-garcia-trump-congress-oversight-investigations.html",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump: Stephen Miller blir ny stabssjef",
+        "kilde": "NRK Nyheter",
+        "tid": "18:55",
+        "lenke": "https://www.nrk.no/nyheter/trump_-stephen-miller-blir-ny-stabssjef-1.18076143",
+        "engelsk_kilde": false
       }
     ],
     "VILLKORT": [
       {
-        "tittel": "Oppsigelser med verdighet? Hvorfor tilbyr disse teknologiselskapene gratis bærbare datamaskiner og LinkedIn Premium.",
-        "kilde": "MarketWatch",
-        "tid": "16:27",
-        "lenke": "https://www.marketwatch.com/story/layoffs-with-dignity-why-these-tech-firms-are-offering-free-laptops-and-linkedin-premium-28750d39?mod=mw_rss_topstories",
+        "tittel": "En urovekkende sysselsettingstrend gjemmer seg under de siste sterke jobbtallene",
+        "kilde": "CNBC Top News",
+        "tid": "19:49",
+        "lenke": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Mississippi Senatet: Longshot Ty Pinkins sier han hadde som mål å ødelegge Hyde-Smith, øke Colom stemme",
+        "kilde": "CNBC Top News",
+        "tid": "19:44",
+        "lenke": "https://www.cnbc.com/2026/11/06/mississippi-senate-ty-pinkins-colom-hyde-smith.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Firecracker VM Escape: PwnEscape del 2",
+        "kilde": "Hacker News",
+        "tid": "19:33",
+        "lenke": "https://pwn.ai/blog/firecracker-escape",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Mitt første og siste telegram var fra Rebecca West",
+        "kilde": "Hacker News",
+        "tid": "19:30",
+        "lenke": "https://thelampmagazine.com/blog/rebecca-wests-nightingale",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Restaurantleveringsbetaling - simmingskampanje",
+        "kilde": "Hacker News",
+        "tid": "19:19",
+        "lenke": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Gjenoppbygd sin sandkasse motor med microVMs",
+        "kilde": "Hacker News",
+        "tid": "19:06",
+        "lenke": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
         "engelsk_kilde": true
       },
       {
         "tittel": "Dobbel nedkobling av datasenter: Hassett sier at Blue Wave ikke vil stoppe AI-utbyggingen",
         "kilde": "CNBC Top News",
-        "tid": "16:22",
+        "tid": "18:54",
         "lenke": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
         "engelsk_kilde": true
       },
       {
         "tittel": "Cybertrucks løp avsluttes når Musk dreper et dyrt kjæledyrprosjekt",
         "kilde": "MarketWatch",
-        "tid": "16:17",
+        "tid": "18:54",
         "lenke": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Kan de amerikanske midtveisvalgene sprekke AI-boblen?",
-        "kilde": "BBC Business",
-        "tid": "16:14",
-        "lenke": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+        "tittel": "Rådgiveren min anbefalte en livrente. Er det riktig trekk i dette markedsmiljøet?",
+        "kilde": "MarketWatch",
+        "tid": "18:53",
+        "lenke": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "E6 ved Eidsvoll sperret etter ulykke",
+        "kilde": "NRK Nyheter",
+        "tid": "18:28",
+        "lenke": "https://www.nrk.no/nyheter/e6-ved-eidsvoll-sperret-etter-ulykke-1.18076075",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Dropper Cybertruck",
+        "kilde": "E24",
+        "tid": "18:17",
+        "lenke": "https://e24.no/boers-og-finans/i/VgOyV4/dropper-cybertruck?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Norgesgruppen henter fra Høyre",
+        "kilde": "E24",
+        "tid": "18:17",
+        "lenke": "https://e24.no/naeringsliv/i/QgQakR/norgesgruppen-henter-fra-hoeyre?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "‘Det føles som om han bygger et eget liv’: Mannen min arvet $ 500 000, men han nekter å bruke det på hjemmet vårt",
+        "kilde": "MarketWatch",
+        "tid": "18:15",
+        "lenke": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Du får sparken! Men du kan beholde den bærbare PC-en og forsikringen. Og her er 10 000 $.",
+        "kilde": "MarketWatch",
+        "tid": "18:03",
+        "lenke": "https://www.marketwatch.com/story/layoffs-with-dignity-why-these-tech-firms-are-offering-free-laptops-and-linkedin-premium-28750d39?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg er 65 og verdt mer enn $ 5,6 millioner. Har jeg råd til en $ 200 000 bobil?",
+        "kilde": "MarketWatch",
+        "tid": "18:00",
+        "lenke": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kan ha funne Infantino sitt svake punkt – ber om Noregs hjelp til å felle han",
+        "kilde": "NRK Nyheter",
+        "tid": "17:48",
+        "lenke": "https://www.nrk.no/sport/fairsquare-vil-felle-gianni-infantino-_-ber-om-hjelp-fra-lise-klaveness-1.18072479",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Togtrafikken er i gang igjen",
+        "kilde": "NRK Nyheter",
+        "tid": "17:13",
+        "lenke": "https://www.nrk.no/stor-oslo/togtrafikken-er-i-gang-igjen--1.18075737",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "AI- \"kredittkortet\" blir dyrere etter hvert som CoreWeave-obligasjonsavkastningen topper 16%",
+        "kilde": "CNBC Top News",
+        "tid": "17:09",
+        "lenke": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bjørn Terje Axelsen fra «Tangerud­bakken» er død",
+        "kilde": "NRK Nyheter",
+        "tid": "16:05",
+        "lenke": "https://www.nrk.no/nyheter/bjorn-terje-axelsen-fra-_tangerudbakken_-er-dod-1.18076037",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Kronen svekkes etter global børssmell",
@@ -191,13 +291,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Deus Ex",
-        "kilde": "Hacker News",
-        "tid": "15:44",
-        "lenke": "https://www.filfre.net/2026/11/deus-ex/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Hold deg fast",
         "kilde": "E24",
         "tid": "15:40",
@@ -205,52 +298,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Faren til hertuginne Meghan Markle pågrepet",
-        "kilde": "NRK Nyheter",
-        "tid": "15:35",
-        "lenke": "https://www.nrk.no/nyheter/faren-til-hertuginne-meghan-markle-pagrepet-1.18076003",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "‘Det virker bisarrt’: Vi er i 80-årene med $ 950 000 i tradisjonelle IRAer. Hvorfor presser vår rådgiver Roth-konverteringer?",
-        "kilde": "MarketWatch",
-        "tid": "15:30",
-        "lenke": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Jeg har ikke noe økonomisk sikkerhetsnett’: Jeg er 66, er avhengig av trygd og har bare $ 500 i besparelser. Hvilket håp har jeg?",
-        "kilde": "MarketWatch",
-        "tid": "15:30",
-        "lenke": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "PM ber firmaer om å publisere lønn i stillingsannonser i forkant av ny lov",
         "kilde": "BBC Business",
         "tid": "15:25",
         "lenke": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vis HN: Agentidentitetsmegler, OAuth-delegasjon for AI-agenter",
-        "kilde": "Hacker News",
-        "tid": "15:07",
-        "lenke": "https://github.com/zalando-incubator/agentic-identity-broker",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "FAA begynner å trekke tiår gamle disketter fra flytrafikkontrollen",
-        "kilde": "Hacker News",
-        "tid": "15:03",
-        "lenke": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "RIP CYBERTRUCK",
-        "kilde": "Hacker News",
-        "tid": "15:01",
-        "lenke": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
         "engelsk_kilde": true
       },
       {
@@ -265,20 +316,6 @@
         "kilde": "E24",
         "tid": "14:09",
         "lenke": "https://e24.no/privatoekonomi/i/BM72zw/dette-boer-du-gjoere-med-sparepengene-naa?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Fostermor dømt for seksuell omgang med fostersønn",
-        "kilde": "NRK Nyheter",
-        "tid": "14:06",
-        "lenke": "https://www.nrk.no/sorlandet/fostermor-domt-til-fengsel-1.18066874",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Personalia fra nordmenns flyreiser de siste tre årene på avveier",
-        "kilde": "NRK Nyheter",
-        "tid": "13:51",
-        "lenke": "https://www.nrk.no/tromsogfinnmark/personalia-fra-nordmenns-flyreiser-de-siste-tre-arene-pa-avveier--berg-hansen-og-norwegian-bekrefter-1.18075424",
         "engelsk_kilde": false
       },
       {
@@ -303,34 +340,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "En person død etter voldshendelse på Drammen sykehus – etterforskes som drap",
-        "kilde": "NRK Nyheter",
-        "tid": "13:00",
-        "lenke": "https://www.nrk.no/buskerud/en-person-dod-etter-voldshendelse-pa-drammen-sykehus-_-etterforskes-som-drap-1.18075804",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Demokratisk sveip gir markedene grunn til å revurdere rentens kurs",
-        "kilde": "CNBC Top News",
-        "tid": "12:30",
-        "lenke": "https://www.cnbc.com/2026/11/06/oil-prices-interest-rates-midterms.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Henlegger rasismesak mot FFK-spiller",
-        "kilde": "NRK Nyheter",
-        "tid": "11:59",
-        "lenke": "https://www.nrk.no/ostfold/henlegger-rasismesak-mot-ffk-spiller-1.18075441",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Ibrahim (12) omkom i E18-ulykken: – Vi kommer til å savne ham",
-        "kilde": "NRK Nyheter",
-        "tid": "11:49",
-        "lenke": "https://www.nrk.no/vestfoldogtelemark/ibrahim-mujanovic-omkom-i-ulykken-pa-e18-i-larvik-1.18075524",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "– Aldri bra at fondet faller i verdi",
         "kilde": "E24",
         "tid": "11:37",
@@ -338,17 +347,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Bastøferga på grunn",
+        "tittel": "Styrkar dronevernet ved Russland-grensa: – Vi vil forsvare kvar kvadratmeter",
         "kilde": "NRK Nyheter",
-        "tid": "10:46",
-        "lenke": "https://www.nrk.no/ostfold/bastoferga-pa-grunn-1.18075674",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Ukens Investtech: Kjøp disse aksjene nå",
-        "kilde": "E24",
-        "tid": "10:21",
-        "lenke": "https://e24.no/boers-og-finans/i/Wg4Xzj/ukens-investtech-kjoep-disse-aksjene-naa?utm_medium=rss",
+        "tid": "10:56",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/styrkar-dronevernet-ved-russland-grensa_-_-vi-vil-forsvare-kvar-kvadratmeter-1.18075429",
         "engelsk_kilde": false
       },
       {
@@ -366,13 +368,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Mississippis senat: Colom, Hyde-Smith gird for stemmeseddel juridisk kamp i syltynt løp",
-        "kilde": "CNBC Top News",
-        "tid": "02:58",
-        "lenke": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Motordelene som \"bekjemper universets lover\"",
         "kilde": "BBC Business",
         "tid": "00:06",
@@ -387,11 +382,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Renten økte til 4% i første økning på over tre år",
-        "kilde": "BBC Business",
-        "tid": "17:09",
-        "lenke": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
+        "tittel": "Gift som 14-åring: – Jeg gråter over den tapte barndommen min",
+        "kilde": "NRK Nyheter",
+        "tid": "20:24",
+        "lenke": "https://www.nrk.no/norge/flere-barn-blir-giftet-bort-etter-krigen-i-gaza_-ifolge-fn-1.18050659",
+        "engelsk_kilde": false
       }
     ]
   }
