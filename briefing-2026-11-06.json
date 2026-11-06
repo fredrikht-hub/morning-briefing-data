@@ -1,20 +1,13 @@
 {
   "dato": "2026-11-06",
   "dato_norsk": "Fredag 6. november 2026",
-  "generert_kl": "19:52",
+  "generert_kl": "21:49",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Amerikanerne er på en \"tredemølle med høy inflasjon\" og flere renteøkninger er sannsynlig, sier Feds Daly",
-      "kilde": "CNBC Top News",
-      "tid": "19:05",
-      "lenke": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
-      "engelsk_kilde": true
-    },
-    {
       "tittel": "Trump sier Stephen Miller skal erstatte Susie Wiles som stabssjef i Det hvite hus",
       "kilde": "CNBC Top News",
-      "tid": "19:51",
+      "tid": "20:42",
       "lenke": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
       "engelsk_kilde": true
     },
@@ -35,8 +28,15 @@
     {
       "tittel": "Nvidia, AMD og andre brikkelager går tilbake — men er lettelse fra det \"voldelige\" salg bare midlertidig?",
       "kilde": "MarketWatch",
-      "tid": "18:00",
+      "tid": "21:24",
       "lenke": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Investorer forbereder seg på lavere antropisk verdsettelse, og kaller $ 1,5 billioner en \"strekk\"",
+      "kilde": "CNBC Top News",
+      "tid": "21:07",
+      "lenke": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
       "engelsk_kilde": true
     }
   ],
@@ -50,28 +50,26 @@
         "engelsk_kilde": false
       }
     ],
-    "MAKRO": [
+    "MARKEDER": [
       {
-        "tittel": "Amerikanerne er på en \"tredemølle med høy inflasjon\" og flere renteøkninger er sannsynlig, sier Feds Daly",
+        "tittel": "Investorer forbereder seg på lavere antropisk verdsettelse, og kaller $ 1,5 billioner en \"strekk\"",
         "kilde": "CNBC Top News",
-        "tid": "19:05",
-        "lenke": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
+        "tid": "21:07",
+        "lenke": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Amerikansk økonomi økte 165 000 arbeidsplasser i oktober, langt mer enn forventet; arbeidsledigheten synker til 4,1%",
-        "kilde": "CNBC Top News",
-        "tid": "16:06",
-        "lenke": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
-        "engelsk_kilde": true
-      }
-    ],
-    "MARKEDER": [
-      {
         "tittel": "AI-aksjer stiger etter at billioner er fjernet fra markedsverdiene",
         "kilde": "BBC Business",
-        "tid": "19:37",
+        "tid": "21:06",
         "lenke": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Microns aksjer er billige — og det setter i gang en heftig nettdebatt",
+        "kilde": "MarketWatch",
+        "tid": "20:58",
+        "lenke": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -80,49 +78,49 @@
         "tid": "18:32",
         "lenke": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "AI Crush driver en aksje til skyhøye verdsettelser",
-        "kilde": "CNBC Top News",
-        "tid": "18:15",
-        "lenke": "https://www.cnbc.com/2026/11/06/ai-crush-is-powering-one-stock-to-sky-high-valuations.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "DraftKings ’dyre innsats på prediksjonsmarkeder knuser aksjen",
-        "kilde": "MarketWatch",
-        "tid": "17:51",
-        "lenke": "https://www.marketwatch.com/story/draftkings-expensive-bet-on-prediction-markets-is-crushing-its-stock-277bee0d?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hva er det neste for porteføljen din etter nedgangen i Big Tech-aksjer?",
-        "kilde": "MarketWatch",
-        "tid": "17:47",
-        "lenke": "https://www.marketwatch.com/story/whats-next-for-your-portfolio-after-the-decline-in-big-tech-stocks-2873452f?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "OpenAI avlytting mistenkt Alfozan erklærer seg ikke skyldig",
-        "kilde": "CNBC Top News",
-        "tid": "19:52",
-        "lenke": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Demokratene lanserer kongressundersøkelser av SpaceXAI, META og Apple",
-        "kilde": "Hacker News",
-        "tid": "19:24",
-        "lenke": "https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/",
+        "tittel": "Elon Musk åpner døren for et stort SpaceX-oppkjøp",
+        "kilde": "MarketWatch",
+        "tid": "21:45",
+        "lenke": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
         "tittel": "Nvidia, AMD og andre brikkelager går tilbake — men er lettelse fra det \"voldelige\" salg bare midlertidig?",
         "kilde": "MarketWatch",
-        "tid": "18:00",
+        "tid": "21:24",
         "lenke": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "OpenAI avlytting mistenkt Alfozan erklærer seg ikke skyldig",
+        "kilde": "CNBC Top News",
+        "tid": "21:15",
+        "lenke": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Microsoft planlegger å bruke færre neoclouds ettersom AI-utbyggingen viser tegn på belastning",
+        "kilde": "CNBC Top News",
+        "tid": "18:40",
+        "lenke": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ledere i OpenAI, Arm og Qualcomm reagerer på salg av kunstig intelligens etter mellomtiden",
+        "kilde": "CNBC Top News",
+        "tid": "18:35",
+        "lenke": "https://www.cnbc.com/2026/11/06/tech-executives-ai-data-center-selloff-midterms.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "OpenAI vil fortsette å investere i AI-datasentre til tross for valgresultatene, sier økonomidirektør til CNBC",
+        "kilde": "CNBC Top News",
+        "tid": "17:24",
+        "lenke": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
         "engelsk_kilde": true
       }
     ],
@@ -130,7 +128,7 @@
       {
         "tittel": "Trump sier Stephen Miller skal erstatte Susie Wiles som stabssjef i Det hvite hus",
         "kilde": "CNBC Top News",
-        "tid": "19:51",
+        "tid": "20:42",
         "lenke": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
         "engelsk_kilde": true
       },
@@ -151,45 +149,94 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "‘Jeg har ikke noe økonomisk sikkerhetsnett’: Jeg er 66, er avhengig av trygd og har bare $ 500 i besparelser. Hvilket håp har jeg?",
+        "kilde": "MarketWatch",
+        "tid": "21:45",
+        "lenke": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Sen. Chris Murphy utskrevet fra sykehuset etter hjerneslag, vil gå glipp av stemmer i \"flere uker\" mens han rehabs",
+        "kilde": "CNBC Top News",
+        "tid": "21:40",
+        "lenke": "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Datasentre kjører på gjeld. Det var et problem for obligasjoner i år — og det kommer bare til å bli verre.",
+        "kilde": "MarketWatch",
+        "tid": "21:37",
+        "lenke": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Det virker bisarrt’: Vi er i 80-årene med $ 950 000 i tradisjonelle IRAer. Hvorfor presser vår rådgiver Roth-konverteringer?",
+        "kilde": "MarketWatch",
+        "tid": "21:15",
+        "lenke": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Det føles som om han bygger et eget liv’: Mannen min arvet $ 500 000, men han nekter å bruke det på hjemmet vårt",
+        "kilde": "MarketWatch",
+        "tid": "21:15",
+        "lenke": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Pornofilmer av kommunedirektør dukket opp – Trekker seg umiddelbart",
+        "kilde": "NRK Nyheter",
+        "tid": "20:43",
+        "lenke": "https://www.nrk.no/sapmi/kommunedirektor-i-jokkmokk-sluttet-etter-pornoavsloring-1.18073650",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Dalsboblen brekker",
+        "kilde": "Hacker News",
+        "tid": "20:42",
+        "lenke": "https://quirksmode.org/quirksblog/2026/1106-valley-bubble.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "SketchAgentBench – evaluer LLM-er basert på romlig 3D-resonnement",
+        "kilde": "Hacker News",
+        "tid": "20:28",
+        "lenke": "https://sketchagent.dev/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "AI akselererer AI-forskningen dramatisk",
+        "kilde": "Hacker News",
+        "tid": "20:27",
+        "lenke": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Min 93 år gamle far forandret testamentet sitt i ellevte time, og etterlot broren hele boet sitt på $ 500 000. Kan jeg utfordre det?",
+        "kilde": "MarketWatch",
+        "tid": "20:15",
+        "lenke": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "En urovekkende sysselsettingstrend gjemmer seg under de siste sterke jobbtallene",
         "kilde": "CNBC Top News",
-        "tid": "19:49",
+        "tid": "20:11",
         "lenke": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Mississippi Senatet: Longshot Ty Pinkins sier han hadde som mål å ødelegge Hyde-Smith, øke Colom stemme",
-        "kilde": "CNBC Top News",
-        "tid": "19:44",
-        "lenke": "https://www.cnbc.com/2026/11/06/mississippi-senate-ty-pinkins-colom-hyde-smith.html",
+        "tittel": "En Jev som kan be Opus om hjelp, gir Opus-nøyaktighet til fire ganger lavere kostnader",
+        "kilde": "Hacker News",
+        "tid": "19:48",
+        "lenke": "https://hightouch.com/blog/llm-judges-identity-resolution",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Firecracker VM Escape: PwnEscape del 2",
+        "tittel": "Vis HN: Agenter utleder Lego-mekanismer fra kilder, og animerer dem deretter",
         "kilde": "Hacker News",
-        "tid": "19:33",
-        "lenke": "https://pwn.ai/blog/firecracker-escape",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Mitt første og siste telegram var fra Rebecca West",
-        "kilde": "Hacker News",
-        "tid": "19:30",
-        "lenke": "https://thelampmagazine.com/blog/rebecca-wests-nightingale",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Restaurantleveringsbetaling - simmingskampanje",
-        "kilde": "Hacker News",
-        "tid": "19:19",
-        "lenke": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Gjenoppbygd sin sandkasse motor med microVMs",
-        "kilde": "Hacker News",
-        "tid": "19:06",
-        "lenke": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
+        "tid": "19:41",
+        "lenke": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
         "engelsk_kilde": true
       },
       {
@@ -197,20 +244,6 @@
         "kilde": "CNBC Top News",
         "tid": "18:54",
         "lenke": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Cybertrucks løp avsluttes når Musk dreper et dyrt kjæledyrprosjekt",
-        "kilde": "MarketWatch",
-        "tid": "18:54",
-        "lenke": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Rådgiveren min anbefalte en livrente. Er det riktig trekk i dette markedsmiljøet?",
-        "kilde": "MarketWatch",
-        "tid": "18:53",
-        "lenke": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -235,27 +268,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "‘Det føles som om han bygger et eget liv’: Mannen min arvet $ 500 000, men han nekter å bruke det på hjemmet vårt",
-        "kilde": "MarketWatch",
-        "tid": "18:15",
-        "lenke": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Du får sparken! Men du kan beholde den bærbare PC-en og forsikringen. Og her er 10 000 $.",
-        "kilde": "MarketWatch",
-        "tid": "18:03",
-        "lenke": "https://www.marketwatch.com/story/layoffs-with-dignity-why-these-tech-firms-are-offering-free-laptops-and-linkedin-premium-28750d39?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg er 65 og verdt mer enn $ 5,6 millioner. Har jeg råd til en $ 200 000 bobil?",
-        "kilde": "MarketWatch",
-        "tid": "18:00",
-        "lenke": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Kan ha funne Infantino sitt svake punkt – ber om Noregs hjelp til å felle han",
         "kilde": "NRK Nyheter",
         "tid": "17:48",
@@ -263,18 +275,18 @@
         "engelsk_kilde": false
       },
       {
+        "tittel": "Hvorfor røykfylte baconchips truer med å reignite rader over EU-regler",
+        "kilde": "BBC Business",
+        "tid": "17:19",
+        "lenke": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Togtrafikken er i gang igjen",
         "kilde": "NRK Nyheter",
         "tid": "17:13",
         "lenke": "https://www.nrk.no/stor-oslo/togtrafikken-er-i-gang-igjen--1.18075737",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "AI- \"kredittkortet\" blir dyrere etter hvert som CoreWeave-obligasjonsavkastningen topper 16%",
-        "kilde": "CNBC Top News",
-        "tid": "17:09",
-        "lenke": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Bjørn Terje Axelsen fra «Tangerud­bakken» er død",
@@ -380,13 +392,6 @@
         "tid": "00:02",
         "lenke": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Gift som 14-åring: – Jeg gråter over den tapte barndommen min",
-        "kilde": "NRK Nyheter",
-        "tid": "20:24",
-        "lenke": "https://www.nrk.no/norge/flere-barn-blir-giftet-bort-etter-krigen-i-gaza_-ifolge-fn-1.18050659",
-        "engelsk_kilde": false
       }
     ]
   }
