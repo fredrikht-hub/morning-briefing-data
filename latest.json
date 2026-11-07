@@ -1,52 +1,66 @@
 {
   "dato": "2026-11-07",
   "dato_norsk": "Lørdag 7. november 2026",
-  "generert_kl": "11:35",
+  "generert_kl": "15:22",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Trump sier at USA utførte «mindre angrep» mot Iran da raketter traff Qeshm-øya",
+      "tittel": "Trumps Iran-krig har endret fremtiden for trygdeordninger",
+      "kilde": "MarketWatch",
+      "tid": "15:18",
+      "lenke": "https://www.marketwatch.com/story/trumps-iran-war-has-changed-the-future-of-social-security-7a500f9f?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Risikoen for opptrapping av Iran-krigen er fortsatt høy til tross for demokratenes feiing i amerikanske midtveisvalg",
       "kilde": "CNBC Top News",
-      "tid": "07:37",
-      "lenke": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
+      "tid": "13:03",
+      "lenke": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Hvorfor en bølge av bombetrusler viser seg å være så vanskelig for Europas luftfartsmyndigheter å kontrollere",
+      "tittel": "Hva midtveisvalg blå bølge irettesettelse av Trump betyr for fornybar energi",
       "kilde": "CNBC Top News",
-      "tid": "09:01",
-      "lenke": "https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html",
+      "tid": "14:33",
+      "lenke": "https://www.cnbc.com/2026/11/07/midterm-election-blue-wave-trump-renewable-energy.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Last opp RAM",
-      "kilde": "Hacker News",
-      "tid": "10:15",
-      "lenke": "https://uploadyourram.org",
+      "tittel": "Berkshire Hathaway mer enn dobler tilbakekjøpene i tredje kvartal ettersom inntjeningen går ned",
+      "kilde": "CNBC Top News",
+      "tid": "14:02",
+      "lenke": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Hver Mac leveres med en (udokumentert) familiemedlemsklassifiserer",
-      "kilde": "Hacker News",
-      "tid": "09:46",
-      "lenke": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Port 0: Porten som ikke eksisterer",
-      "kilde": "Hacker News",
-      "tid": "09:38",
-      "lenke": "https://acid.vegas/blog/the-port-that-does-not-exist/",
+      "tittel": "Antropisk IPO møter AI tilbakeslag etter midterms show stikkende irettesettelse av datasentre",
+      "kilde": "CNBC Top News",
+      "tid": "13:00",
+      "lenke": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "MARKEDER": [
       {
-        "tittel": "Investorer forbereder seg på lavere antropisk verdsettelse, og kaller $ 1,5 billioner en \"strekk\"",
+        "tittel": "Berkshire Hathaway mer enn dobler tilbakekjøpene i tredje kvartal ettersom inntjeningen går ned",
         "kilde": "CNBC Top News",
-        "tid": "21:07",
-        "lenke": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
+        "tid": "14:02",
+        "lenke": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "AI-handelen regner nå med Anthropics børsnotering — men det kunne ikke ha skjedd på et verre tidspunkt",
+        "kilde": "MarketWatch",
+        "tid": "13:30",
+        "lenke": "https://www.marketwatch.com/story/the-ai-trade-is-now-counting-on-anthropics-ipo-but-it-couldnt-be-happening-at-a-worse-time-8bd0f1c4?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Antropisk IPO møter AI tilbakeslag etter midterms show stikkende irettesettelse av datasentre",
+        "kilde": "CNBC Top News",
+        "tid": "13:00",
+        "lenke": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
         "engelsk_kilde": true
       },
       {
@@ -54,13 +68,6 @@
         "kilde": "BBC Business",
         "tid": "21:06",
         "lenke": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Microns aksjer er billige — og det setter i gang en heftig nettdebatt",
-        "kilde": "MarketWatch",
-        "tid": "20:58",
-        "lenke": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -73,58 +80,156 @@
     ],
     "TEKNOLOGI": [
       {
+        "tittel": "Å drive et advokatfirma på fri programvare",
+        "kilde": "Hacker News",
+        "tid": "09:39",
+        "lenke": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Elon Musk åpner døren for et stort SpaceX-oppkjøp",
         "kilde": "MarketWatch",
         "tid": "21:45",
         "lenke": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nvidia, AMD og andre brikkelager går tilbake — men er lettelse fra det \"voldelige\" salg bare midlertidig?",
-        "kilde": "MarketWatch",
-        "tid": "21:24",
-        "lenke": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "OpenAI avlytting mistenkt Alfozan erklærer seg ikke skyldig",
-        "kilde": "CNBC Top News",
-        "tid": "21:15",
-        "lenke": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Microsoft planlegger å bruke færre neoclouds ettersom AI-utbyggingen viser tegn på belastning",
-        "kilde": "CNBC Top News",
-        "tid": "18:40",
-        "lenke": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html",
-        "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
+      {
+        "tittel": "Trumps Iran-krig har endret fremtiden for trygdeordninger",
+        "kilde": "MarketWatch",
+        "tid": "15:18",
+        "lenke": "https://www.marketwatch.com/story/trumps-iran-war-has-changed-the-future-of-social-security-7a500f9f?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hva midtveisvalg blå bølge irettesettelse av Trump betyr for fornybar energi",
+        "kilde": "CNBC Top News",
+        "tid": "14:33",
+        "lenke": "https://www.cnbc.com/2026/11/07/midterm-election-blue-wave-trump-renewable-energy.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vil denne ukens blåbølgevalg innlede en demokratisk president i 2028?",
+        "kilde": "CNBC Top News",
+        "tid": "14:00",
+        "lenke": "https://www.cnbc.com/2026/11/07/2026-midterm-election-blue-wave-2028-president.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Risikoen for opptrapping av Iran-krigen er fortsatt høy til tross for demokratenes feiing i amerikanske midtveisvalg",
+        "kilde": "CNBC Top News",
+        "tid": "13:03",
+        "lenke": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Trump sier at USA utførte «mindre angrep» mot Iran da raketter traff Qeshm-øya",
         "kilde": "CNBC Top News",
         "tid": "07:37",
         "lenke": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Paraguays president avsatt og pågrepet",
-        "kilde": "NRK Nyheter",
-        "tid": "23:27",
-        "lenke": "https://www.nrk.no/nyheter/paraguays-president-avsatt-og-pagrepet-1.18076275",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Trump sier Stephen Miller skal erstatte Susie Wiles som stabssjef i Det hvite hus",
-        "kilde": "CNBC Top News",
-        "tid": "22:22",
-        "lenke": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
-        "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "Minst tre døde i skyting i Polen",
+        "kilde": "NRK Nyheter",
+        "tid": "15:19",
+        "lenke": "https://www.nrk.no/nyheter/minst-tre-dode-i-skyting-i-polen-1.18076530",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "‘Vi taper mot cottage cheese’: Protein-maxxing-manien gjør vondt i salget av kremost",
+        "kilde": "MarketWatch",
+        "tid": "14:50",
+        "lenke": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvor mye i Roth-konverteringer kan du gjøre i 2027 med de nye skatteparentesene?",
+        "kilde": "MarketWatch",
+        "tid": "14:30",
+        "lenke": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Mestere to år på rad: – Avslutter med stil",
+        "kilde": "NRK Nyheter",
+        "tid": "14:16",
+        "lenke": "https://www.nrk.no/vestland/mestere-to-ar-pa-rad_-_-kunne-nyte-gullet-1.18076313",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "En alvorlig skadd i ulykke på E6 i Lillehammer",
+        "kilde": "NRK Nyheter",
+        "tid": "14:15",
+        "lenke": "https://www.nrk.no/innlandet/en-person-skadd-i-ulykke-pa-e6-i-lillehammer-1.18076481",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "– Ikke vedta regler som kan gi dyrere mat",
+        "kilde": "E24",
+        "tid": "14:14",
+        "lenke": "https://e24.no/naeringsliv/i/Ogv5nb/ikke-vedta-regler-som-kan-gi-dyrere-mat?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Mark Cuban sier at han ikke gir faen i å øke sin nettoverdi - et sunt tankesett også for ikke-milliardærer, sier en finansiell terapeut",
+        "kilde": "CNBC Top News",
+        "tid": "14:05",
+        "lenke": "https://www.cnbc.com/make-it/2026/11/07/mark-cuban-net-worth-money-mindset.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Linux-datamaskinen $ 8 (2022)",
+        "kilde": "Hacker News",
+        "tid": "14:00",
+        "lenke": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Denne pensjonerte professoren har gjenoppfunnet seg selv — som en Taylor Swift-lærd",
+        "kilde": "MarketWatch",
+        "tid": "14:00",
+        "lenke": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Alvorlig trafikkulykke på E6 i Lillehammer",
+        "kilde": "NRK Nyheter",
+        "tid": "13:51",
+        "lenke": "https://www.nrk.no/innlandet/alvorlig-trafikkulykke-pa-e6-i-lillehammer-1.18076433",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Amerika liker ikke sosialisme. Så hvorfor vinner sosialister?",
+        "kilde": "CNBC Top News",
+        "tid": "13:01",
+        "lenke": "https://www.cnbc.com/2026/11/07/socialism-elections-economy.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Teknologiselskaper står overfor barnesikringssøksmål mens de skyver AI inn på skolene",
+        "kilde": "CNBC Top News",
+        "tid": "12:00",
+        "lenke": "https://www.cnbc.com/2026/11/07/snap-social-media-teen-safety-lawsuits.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fyller 70 år: – Jeg er mye bedre nå",
+        "kilde": "E24",
+        "tid": "11:55",
+        "lenke": "https://e24.no/norsk-oekonomi/i/0prMJ0/fyller-70-aar-jeg-er-mye-bedre-naa?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kinesarane sperrar opp auga når dei ser Ragnar (25): – Eg blir tatt bilde av",
+        "kilde": "NRK Nyheter",
+        "tid": "11:48",
+        "lenke": "https://www.nrk.no/sport/vektlofter-ragnar-holme-blir-stoppa-pa-gata-i-kina-for-vm_-_-vi-blir-sett-rart-pa-1.18072451",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Last opp RAM",
         "kilde": "Hacker News",
@@ -161,13 +266,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Need for Speed Underground 2 online i nettleseren",
-        "kilde": "Hacker News",
-        "tid": "09:36",
-        "lenke": "https://nfsu2.xyz/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Macklemore: USA-arenaer sa nei til Fri Palestina-turné",
         "kilde": "NRK Nyheter",
         "tid": "09:22",
@@ -182,46 +280,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Hvorfor en bølge av bombetrusler viser seg å være så vanskelig for Europas luftfartsmyndigheter å kontrollere",
-        "kilde": "CNBC Top News",
-        "tid": "09:01",
-        "lenke": "https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Avslørte hemmeligheten til Europas minste sjøfugl: – Kunnskapen er svært begrenset",
         "kilde": "NRK Nyheter",
         "tid": "08:40",
         "lenke": "https://www.nrk.no/trondelag/har-forsket-pa-havsvalene-pa-sklinna-utenfor-trondelag-1.18062564",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Får og framsteg",
-        "kilde": "NRK Nyheter",
-        "tid": "06:47",
-        "lenke": "https://www.nrk.no/norge/xl/den-nye-fpu-leiaren-hadde-forlate-ungdomspartiet-_-sa-matte-nokon-ta-styringa.-1.18065962",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Komponentene i agentminnet",
-        "kilde": "Hacker News",
-        "tid": "06:39",
-        "lenke": "https://www.anthropic.com/research/components-of-agent-memory",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Måpar av «Helt Ramme sporter»-bragd: – Køddar du?",
-        "kilde": "NRK Nyheter",
-        "tid": "06:37",
-        "lenke": "https://www.nrk.no/sport/helt-ramme-sporter_-tonje-frigstad-imponerer-nicolay-ramm_-birk-ruud-og-fridykkarmiljoet-1.18048856",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Løpet er i gang med å bygge det første fusjonskraftverket — og Europa ser til Japan for å få hjelp",
-        "kilde": "CNBC Top News",
-        "tid": "06:00",
-        "lenke": "https://www.cnbc.com/2026/11/07/proxima-fusion-power-japan-supply-chain.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Nå kommer regningen",
@@ -231,18 +294,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Inne i kortklassifiseringsimperiet forme prisen på Pokémon-kort",
+        "tittel": "Mississippis senat: Colom øker ledelsen over Hyde-Smith til nesten 2500 stemmer",
         "kilde": "CNBC Top News",
-        "tid": "02:00",
-        "lenke": "https://www.cnbc.com/2026/11/06/card-pokemon-grading-psa-collectors-price.html",
+        "tid": "23:12",
+        "lenke": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Ruud fikk revansje i Paris – klar for første semifinale siden mai",
-        "kilde": "NRK Nyheter",
-        "tid": "23:57",
-        "lenke": "https://www.nrk.no/sport/ruud-fikk-revansje-i-paris-_-klar-for-forste-semifinale-siden-mai-1.18076278",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Elon Musk ser ut til å signalisere slutten på veien for Cybertruck",
@@ -259,52 +315,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Brann i historisk bygning i Kongsvinger",
-        "kilde": "NRK Nyheter",
-        "tid": "21:44",
-        "lenke": "https://www.nrk.no/nyheter/brann-i-historisk-bygning-i-kongsvinger-1.18076202",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Datasentre kjører på gjeld. Det var et problem for obligasjoner i år — og det kommer bare til å bli verre.",
         "kilde": "MarketWatch",
         "tid": "21:37",
         "lenke": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Det virker bisarrt’: Vi er i 80-årene med $ 950 000 i tradisjonelle IRAer. Hvorfor presser vår rådgiver Roth-konverteringer?",
-        "kilde": "MarketWatch",
-        "tid": "21:15",
-        "lenke": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Det føles som om han bygger et eget liv’: Mannen min arvet $ 500 000, men han nekter å bruke det på hjemmet vårt",
-        "kilde": "MarketWatch",
-        "tid": "21:15",
-        "lenke": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Min 93 år gamle far forandret testamentet sitt i ellevte time, og etterlot broren hele boet sitt på $ 500 000. Kan jeg utfordre det?",
-        "kilde": "MarketWatch",
-        "tid": "20:15",
-        "lenke": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Mississippi Senatet: Longshot Ty Pinkins sier han hadde som mål å ødelegge Hyde-Smith, øke Colom stemme",
-        "kilde": "CNBC Top News",
-        "tid": "19:44",
-        "lenke": "https://www.cnbc.com/2026/11/06/mississippi-senate-ty-pinkins-colom-hyde-smith.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Dobbel nedkobling av datasenter: Hassett sier at Blue Wave ikke vil stoppe AI-utbyggingen",
-        "kilde": "CNBC Top News",
-        "tid": "18:54",
-        "lenke": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
         "engelsk_kilde": true
       },
       {
@@ -348,27 +362,6 @@
         "tid": "15:25",
         "lenke": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Norwegian rammet av datalekkasje",
-        "kilde": "E24",
-        "tid": "14:14",
-        "lenke": "https://e24.no/norsk-oekonomi/i/d7gxkB/norwegian-rammet-av-datalekkasje?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Dette bør du gjøre med sparepengene nå",
-        "kilde": "E24",
-        "tid": "14:09",
-        "lenke": "https://e24.no/privatoekonomi/i/BM72zw/dette-boer-du-gjoere-med-sparepengene-naa?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Det ble skapt 165.000 nye jobber i USA",
-        "kilde": "E24",
-        "tid": "13:30",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/GrvbEQ/det-ble-skapt-165-000-nye-jobber-utenfor-landbruket-i-usa-i-oktober?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ]
   }
