@@ -1,29 +1,29 @@
 {
   "dato": "2026-11-07",
   "dato_norsk": "Lørdag 7. november 2026",
-  "generert_kl": "17:57",
+  "generert_kl": "20:34",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Berkshire Hathaway mer enn dobler tilbakekjøpene i tredje kvartal ettersom inntjeningen går ned",
+      "tittel": "Trump tilbyr UFC-sjef Dana White pressesekretær jobb",
       "kilde": "CNBC Top News",
-      "tid": "15:23",
-      "lenke": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+      "tid": "20:27",
+      "lenke": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Hvorfor prognosen for helseaksjer er usikker i forkant av kongressens nye sammensetning",
+      "tittel": "Trump retter seg mot Slotkin i oppfordring til justisdepartementet om å etterforske påståtte demokratiske trusler mot republikanere",
       "kilde": "CNBC Top News",
-      "tid": "16:02",
-      "lenke": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
+      "tid": "20:28",
+      "lenke": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "S&P 500 kan bli farlig eksponert for AI. Her er noen enkle alternativer.",
-      "kilde": "MarketWatch",
-      "tid": "16:40",
-      "lenke": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
-      "engelsk_kilde": true
+      "tittel": "Trump tilbyr Dana White jobben som pressetalsperson",
+      "kilde": "NRK Nyheter",
+      "tid": "18:46",
+      "lenke": "https://www.nrk.no/nyheter/trump-tilbyr-dana-white-jobben-som-pressetalsperson-1.18076605",
+      "engelsk_kilde": false
     },
     {
       "tittel": "Demokratenes store valgseier gjenoppliver et vanskelig trygdespørsmål: Hvem betaler?",
@@ -33,11 +33,11 @@
       "engelsk_kilde": true
     },
     {
-      "tittel": "Meta Chief Strategy Officer Dave Wehner slutter som CFO for oppstart av AI-infrastrukturen Fireworks",
-      "kilde": "CNBC Top News",
-      "tid": "17:51",
-      "lenke": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
-      "engelsk_kilde": true
+      "tittel": "Eisenkot får i oppdrag å danne regjering i Israel",
+      "kilde": "NRK Nyheter",
+      "tid": "20:03",
+      "lenke": "https://www.nrk.no/nyheter/eisenkot-far-i-oppdrag-a-danne-regjering-i-israel-1.18076617",
+      "engelsk_kilde": false
     }
   ],
   "kategorier": {
@@ -47,13 +47,6 @@
         "kilde": "MarketWatch",
         "tid": "16:40",
         "lenke": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvorfor prognosen for helseaksjer er usikker i forkant av kongressens nye sammensetning",
-        "kilde": "CNBC Top News",
-        "tid": "16:02",
-        "lenke": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
         "engelsk_kilde": true
       },
       {
@@ -76,44 +69,65 @@
         "tid": "21:06",
         "lenke": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvorfor de amerikanske midtveisvalgene utløste et salg av AI-aksjer",
-        "kilde": "BBC Business",
-        "tid": "18:32",
-        "lenke": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
+      {
+        "tittel": "Slutten på Microsoft Researchs AI Frontiers-gruppe",
+        "kilde": "Hacker News",
+        "tid": "18:02",
+        "lenke": "https://hunch.net/?p=13764006",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "GeoWorks, Microsoft Windows 'Upstart' 90-tallskonkurrent",
+        "kilde": "Hacker News",
+        "tid": "17:54",
+        "lenke": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Meta Chief Strategy Officer Dave Wehner slutter som CFO for oppstart av AI-infrastrukturen Fireworks",
         "kilde": "CNBC Top News",
         "tid": "17:51",
         "lenke": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Apple Keyboard har en svarteliste med fraser du ikke kan sveipe",
-        "kilde": "Hacker News",
-        "tid": "17:06",
-        "lenke": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-        "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
+      {
+        "tittel": "Trump retter seg mot Slotkin i oppfordring til justisdepartementet om å etterforske påståtte demokratiske trusler mot republikanere",
+        "kilde": "CNBC Top News",
+        "tid": "20:28",
+        "lenke": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump tilbyr UFC-sjef Dana White pressesekretær jobb",
+        "kilde": "CNBC Top News",
+        "tid": "20:27",
+        "lenke": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Eisenkot får i oppdrag å danne regjering i Israel",
+        "kilde": "NRK Nyheter",
+        "tid": "20:03",
+        "lenke": "https://www.nrk.no/nyheter/eisenkot-far-i-oppdrag-a-danne-regjering-i-israel-1.18076617",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Trump tilbyr Dana White jobben som pressetalsperson",
+        "kilde": "NRK Nyheter",
+        "tid": "18:46",
+        "lenke": "https://www.nrk.no/nyheter/trump-tilbyr-dana-white-jobben-som-pressetalsperson-1.18076605",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Demokratenes store valgseier gjenoppliver et vanskelig trygdespørsmål: Hvem betaler?",
         "kilde": "MarketWatch",
         "tid": "17:43",
         "lenke": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vil denne ukens blåbølgevalg innlede en demokratisk president i 2028?",
-        "kilde": "CNBC Top News",
-        "tid": "14:00",
-        "lenke": "https://www.cnbc.com/2026/11/07/2026-midterm-election-blue-wave-2028-president.html",
         "engelsk_kilde": true
       },
       {
@@ -133,6 +147,62 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "To bilforhandlere har gått konkurs",
+        "kilde": "E24",
+        "tid": "20:04",
+        "lenke": "https://e24.no/naeringsliv/i/2VLR64/to-bilforhandlere-har-gaatt-konkurs?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Her er skattesatsene for kapitalgevinster for 2027 for hvert inntektsnivå",
+        "kilde": "MarketWatch",
+        "tid": "19:48",
+        "lenke": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Reagerer på «tafatt» City: – Det er oppsiktsvekkende",
+        "kilde": "NRK Nyheter",
+        "tid": "19:25",
+        "lenke": "https://www.nrk.no/sport/premier-league_-kjempesmell-for-haaland-og-city-mot-nottingham-forest-1.18076577",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kostnadene for reseptbelagte medisiner vil øke med 50% i 2027. Å ikke gjøre noe kan koste deg.",
+        "kilde": "MarketWatch",
+        "tid": "19:20",
+        "lenke": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kraftig priskutt for Schumacher-hytta – solgt for 23 mill.",
+        "kilde": "E24",
+        "tid": "19:01",
+        "lenke": "https://e24.no/naeringsliv/i/Jrz2m6/kraftig-priskutt-for-schumacher-hytta-solgt-for-23-mill?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "I år får vi ei ekstra veke: – Blir fort konflikt av det",
+        "kilde": "NRK Nyheter",
+        "tid": "18:42",
+        "lenke": "https://www.nrk.no/nordland/veke-53-gjer-planlegging-vanskeleg-for-foreldre-med-delt-omsorg-1.18061571",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Rådgiveren min anbefalte en livrente. Er det riktig trekk i dette markedsmiljøet?",
+        "kilde": "MarketWatch",
+        "tid": "18:36",
+        "lenke": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hva jeg kjører på min $ 10 USD OpenStick-hjemmelab",
+        "kilde": "Hacker News",
+        "tid": "18:12",
+        "lenke": "https://blog.bosscher.ch/posts/openstick/",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Berkshire-resultatet faller – Abel øker tilbakekjøpene",
         "kilde": "E24",
         "tid": "17:48",
@@ -147,6 +217,13 @@
         "engelsk_kilde": true
       },
       {
+        "tittel": "Fem minneverdige bøker om programmering (2008)",
+        "kilde": "Hacker News",
+        "tid": "17:30",
+        "lenke": "https://prog21.dadgum.com/19.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Vis HN: Coldframe, en honningkrukke som gir seg ut for å være en supermarked-kjøleskapskontroller",
         "kilde": "Hacker News",
         "tid": "17:27",
@@ -157,7 +234,7 @@
         "tittel": "Søreide møtt med kraftig diesel-kritikk i nord: – Folk melder seg ut i protest",
         "kilde": "NRK Nyheter",
         "tid": "17:20",
-        "lenke": "https://www.nrk.no/nordland/hoyre-leder-ine-eriksen-soreide-fikk-kraftig-diesel-kritkk-fra-nordland-nordland-1.18076470",
+        "lenke": "https://www.nrk.no/nordland/hoyre-leder-ine-eriksen-soreide-fikk-kraftig-diesel-kritikk-fra-nordland-hoyre-1.18076470",
         "engelsk_kilde": false
       },
       {
@@ -189,41 +266,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Skatteparentesene for 2027 er ute. Se hva standardfradrag og SALTSKATTELETTELSER vil være.",
-        "kilde": "MarketWatch",
-        "tid": "16:30",
-        "lenke": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg deltar på gratis måltider arrangert av folk som promoterer livrenter. Jeg har ingen planer om å kjøpe noen. Skal jeg slutte å gå?",
-        "kilde": "MarketWatch",
-        "tid": "16:30",
-        "lenke": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvor lenge kan livet vente?",
-        "kilde": "Hacker News",
-        "tid": "16:22",
-        "lenke": "https://mceglowski.substack.com/p/how-long-can-life-wait",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "De lager dem ikke sånn lenger: Borland Turbo Pascal 7",
-        "kilde": "Hacker News",
-        "tid": "16:06",
-        "lenke": "https://kevinboone.me/tpwin.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Min 93 år gamle far forandret testamentet sitt i ellevte time, og etterlot broren hele boet sitt på $ 500 000. Kan jeg utfordre det?",
-        "kilde": "MarketWatch",
-        "tid": "16:00",
-        "lenke": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Minst seks døde i skyting i Polen",
         "kilde": "NRK Nyheter",
         "tid": "15:19",
@@ -231,24 +273,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Vis HN: Vi komprimerte en 31B video+ lyddiffusjonsmodell til 14B, 6 trinn, INT8",
-        "kilde": "Hacker News",
-        "tid": "15:16",
-        "lenke": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Mestere to år på rad: – Avslutter med stil",
         "kilde": "NRK Nyheter",
         "tid": "14:16",
         "lenke": "https://www.nrk.no/vestland/mestere-to-ar-pa-rad_-_-kunne-nyte-gullet-1.18076313",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "En alvorlig skadd i ulykke på E6 i Lillehammer",
-        "kilde": "NRK Nyheter",
-        "tid": "14:15",
-        "lenke": "https://www.nrk.no/innlandet/en-person-skadd-i-ulykke-pa-e6-i-lillehammer-1.18076481",
         "engelsk_kilde": false
       },
       {
@@ -273,13 +301,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Alvorlig trafikkulykke på E6 i Lillehammer",
-        "kilde": "NRK Nyheter",
-        "tid": "13:51",
-        "lenke": "https://www.nrk.no/innlandet/alvorlig-trafikkulykke-pa-e6-i-lillehammer-1.18076433",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Amerika liker ikke sosialisme. Så hvorfor vinner sosialister?",
         "kilde": "CNBC Top News",
         "tid": "13:01",
@@ -291,13 +312,6 @@
         "kilde": "E24",
         "tid": "11:55",
         "lenke": "https://e24.no/norsk-oekonomi/i/0prMJ0/fyller-70-aar-jeg-er-mye-bedre-naa?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kinesarane sperrar opp auga når dei ser Ragnar (25): – Eg blir tatt bilde av",
-        "kilde": "NRK Nyheter",
-        "tid": "11:48",
-        "lenke": "https://www.nrk.no/sport/vektlofter-ragnar-holme-blir-stoppa-pa-gata-i-kina-for-vm_-_-vi-blir-sett-rart-pa-1.18072451",
         "engelsk_kilde": false
       },
       {
@@ -315,13 +329,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Macklemore: USA-arenaer sa nei til Fri Palestina-turné",
-        "kilde": "NRK Nyheter",
-        "tid": "09:22",
-        "lenke": "https://www.nrk.no/nyheter/macklemore_-usa-arenaer-sa-nei-til-fri-palestina-turne-1.18076286",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Nå kommer regningen",
         "kilde": "E24",
         "tid": "05:56",
@@ -334,20 +341,6 @@
         "tid": "21:49",
         "lenke": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Dropper Cybertruck",
-        "kilde": "E24",
-        "tid": "18:17",
-        "lenke": "https://e24.no/boers-og-finans/i/VgOyV4/dropper-cybertruck?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Norgesgruppen henter fra Høyre",
-        "kilde": "E24",
-        "tid": "18:17",
-        "lenke": "https://e24.no/naeringsliv/i/QgQakR/norgesgruppen-henter-fra-hoeyre?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ]
   }
