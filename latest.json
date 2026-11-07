@@ -1,21 +1,28 @@
 {
-  "dato": "2026-11-06",
-  "dato_norsk": "Fredag 6. november 2026",
-  "generert_kl": "21:49",
+  "dato": "2026-11-07",
+  "dato_norsk": "Lørdag 7. november 2026",
+  "generert_kl": "00:45",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
       "tittel": "Trump sier Stephen Miller skal erstatte Susie Wiles som stabssjef i Det hvite hus",
       "kilde": "CNBC Top News",
-      "tid": "20:42",
+      "tid": "22:22",
       "lenke": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Topphusets tilsynsdemokrat advarer Trump-familien om å 'advokat opp'",
+      "tittel": "OpenAI vil fortsette å investere i AI-datasentre til tross for valgresultatene, sier økonomidirektør til CNBC",
       "kilde": "CNBC Top News",
-      "tid": "19:42",
-      "lenke": "https://www.cnbc.com/2026/11/06/robert-garcia-trump-congress-oversight-investigations.html",
+      "tid": "22:25",
+      "lenke": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "ChatGPT sender stille data mellom kontakter og dusøren ønsker et ID-kort",
+      "kilde": "Hacker News",
+      "tid": "22:50",
+      "lenke": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
       "engelsk_kilde": true
     },
     {
@@ -30,13 +37,6 @@
       "kilde": "MarketWatch",
       "tid": "21:24",
       "lenke": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Investorer forbereder seg på lavere antropisk verdsettelse, og kaller $ 1,5 billioner en \"strekk\"",
-      "kilde": "CNBC Top News",
-      "tid": "21:07",
-      "lenke": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
       "engelsk_kilde": true
     }
   ],
@@ -82,6 +82,20 @@
     ],
     "TEKNOLOGI": [
       {
+        "tittel": "ChatGPT sender stille data mellom kontakter og dusøren ønsker et ID-kort",
+        "kilde": "Hacker News",
+        "tid": "22:50",
+        "lenke": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "OpenAI vil fortsette å investere i AI-datasentre til tross for valgresultatene, sier økonomidirektør til CNBC",
+        "kilde": "CNBC Top News",
+        "tid": "22:25",
+        "lenke": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Elon Musk åpner døren for et stort SpaceX-oppkjøp",
         "kilde": "MarketWatch",
         "tid": "21:45",
@@ -115,28 +129,14 @@
         "tid": "18:35",
         "lenke": "https://www.cnbc.com/2026/11/06/tech-executives-ai-data-center-selloff-midterms.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "OpenAI vil fortsette å investere i AI-datasentre til tross for valgresultatene, sier økonomidirektør til CNBC",
-        "kilde": "CNBC Top News",
-        "tid": "17:24",
-        "lenke": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
-        "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
         "tittel": "Trump sier Stephen Miller skal erstatte Susie Wiles som stabssjef i Det hvite hus",
         "kilde": "CNBC Top News",
-        "tid": "20:42",
+        "tid": "22:22",
         "lenke": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Topphusets tilsynsdemokrat advarer Trump-familien om å 'advokat opp'",
-        "kilde": "CNBC Top News",
-        "tid": "19:42",
-        "lenke": "https://www.cnbc.com/2026/11/06/robert-garcia-trump-congress-oversight-investigations.html",
         "engelsk_kilde": true
       },
       {
@@ -149,11 +149,53 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "Ruud fikk revansje i Paris – klar for første semifinale siden mai",
+        "kilde": "NRK Nyheter",
+        "tid": "23:57",
+        "lenke": "https://www.nrk.no/sport/ruud-fikk-revansje-i-paris-_-klar-for-forste-semifinale-siden-mai-1.18076278",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Libghostty 1.0",
+        "kilde": "Hacker News",
+        "tid": "23:30",
+        "lenke": "https://mitchellh.com/writing/libghostty-1-0",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Utgående SIP-anrop er nå tilgjengelig for alle organisasjoner",
+        "kilde": "Hacker News",
+        "tid": "23:03",
+        "lenke": "https://developers.openai.com/api/docs/guides/voice-sip",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "CATL-natriumbatteri når LFP-kostnadsparitet i 2026: 15 000 sykluser, 30 års levetid",
+        "kilde": "Hacker News",
+        "tid": "23:00",
+        "lenke": "https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Elon Musk ser ut til å signalisere slutten på veien for Cybertruck",
+        "kilde": "BBC Business",
+        "tid": "21:49",
+        "lenke": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "‘Jeg har ikke noe økonomisk sikkerhetsnett’: Jeg er 66, er avhengig av trygd og har bare $ 500 i besparelser. Hvilket håp har jeg?",
         "kilde": "MarketWatch",
         "tid": "21:45",
         "lenke": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Brann i historisk bygning i Kongsvinger",
+        "kilde": "NRK Nyheter",
+        "tid": "21:44",
+        "lenke": "https://www.nrk.no/nyheter/brann-i-historisk-bygning-i-kongsvinger-1.18076202",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Sen. Chris Murphy utskrevet fra sykehuset etter hjerneslag, vil gå glipp av stemmer i \"flere uker\" mens han rehabs",
@@ -191,20 +233,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Dalsboblen brekker",
-        "kilde": "Hacker News",
-        "tid": "20:42",
-        "lenke": "https://quirksmode.org/quirksblog/2026/1106-valley-bubble.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "SketchAgentBench – evaluer LLM-er basert på romlig 3D-resonnement",
-        "kilde": "Hacker News",
-        "tid": "20:28",
-        "lenke": "https://sketchagent.dev/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "AI akselererer AI-forskningen dramatisk",
         "kilde": "Hacker News",
         "tid": "20:27",
@@ -226,17 +254,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "En Jev som kan be Opus om hjelp, gir Opus-nøyaktighet til fire ganger lavere kostnader",
-        "kilde": "Hacker News",
-        "tid": "19:48",
-        "lenke": "https://hightouch.com/blog/llm-judges-identity-resolution",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vis HN: Agenter utleder Lego-mekanismer fra kilder, og animerer dem deretter",
-        "kilde": "Hacker News",
-        "tid": "19:41",
-        "lenke": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
+        "tittel": "Mississippi Senatet: Longshot Ty Pinkins sier han hadde som mål å ødelegge Hyde-Smith, øke Colom stemme",
+        "kilde": "CNBC Top News",
+        "tid": "19:44",
+        "lenke": "https://www.cnbc.com/2026/11/06/mississippi-senate-ty-pinkins-colom-hyde-smith.html",
         "engelsk_kilde": true
       },
       {
@@ -280,20 +301,6 @@
         "tid": "17:19",
         "lenke": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Togtrafikken er i gang igjen",
-        "kilde": "NRK Nyheter",
-        "tid": "17:13",
-        "lenke": "https://www.nrk.no/stor-oslo/togtrafikken-er-i-gang-igjen--1.18075737",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Bjørn Terje Axelsen fra «Tangerud­bakken» er død",
-        "kilde": "NRK Nyheter",
-        "tid": "16:05",
-        "lenke": "https://www.nrk.no/nyheter/bjorn-terje-axelsen-fra-_tangerudbakken_-er-dod-1.18076037",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Kronen svekkes etter global børssmell",
@@ -366,31 +373,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Elon Musk ser ut til å signalisere slutten på veien for Cybertruck",
-        "kilde": "BBC Business",
-        "tid": "09:57",
-        "lenke": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Hvordan påvirker det meg hvis aksjekursene faller?",
         "kilde": "BBC Business",
         "tid": "09:21",
         "lenke": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Motordelene som \"bekjemper universets lover\"",
-        "kilde": "BBC Business",
-        "tid": "00:06",
-        "lenke": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "'Jeg ble spurt om jeg gråt': Dine verste jobbintervjuer avslørte",
-        "kilde": "BBC Business",
-        "tid": "00:02",
-        "lenke": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ]
