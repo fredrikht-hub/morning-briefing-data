@@ -1,15 +1,36 @@
 {
   "dato": "2026-11-08",
   "dato_norsk": "Søndag 8. november 2026",
-  "generert_kl": "18:14",
+  "generert_kl": "20:49",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
       "tittel": "Nvidias administrerende direktør Jensen Huang står overfor tverrpolitisk kongressgransking over rapportert Kina-spionkobling",
       "kilde": "CNBC Top News",
-      "tid": "18:06",
+      "tid": "18:18",
       "lenke": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
       "engelsk_kilde": true
+    },
+    {
+      "tittel": "Demokratene forsterker Trumps etterforskningstrusler, Blanche kontrer at han kan undersøke lovgivere",
+      "kilde": "CNBC Top News",
+      "tid": "18:57",
+      "lenke": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Nvidias styre etterforsker Jensen Huang",
+      "kilde": "Hacker News",
+      "tid": "20:26",
+      "lenke": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Nvidia frykter toppsjefen ble forført av en spion",
+      "kilde": "E24",
+      "tid": "20:15",
+      "lenke": "https://e24.no/boers-og-finans/i/Jn1Ay8/nvidia-gransker-mulig-spionaksjon-mot-toppsjefen-jeg-var-utro-mot-min-kone-innroemmer-jensen-huang?utm_medium=rss",
+      "engelsk_kilde": false
     },
     {
       "tittel": "Hvordan Demokratene vil prøve å få slutt på Trumps tariffer",
@@ -17,59 +38,15 @@
       "tid": "15:36",
       "lenke": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
       "engelsk_kilde": true
-    },
-    {
-      "tittel": "Ønskene om kraft: – Spinnvilt mye",
-      "kilde": "E24",
-      "tid": "15:25",
-      "lenke": "https://e24.no/energi-og-klima/i/MAzdjJ/oenskene-om-kraft-spinnvilt-mye?utm_medium=rss",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Ny norsk gulltriumf i VM i skyting",
-      "kilde": "NRK Nyheter",
-      "tid": "12:29",
-      "lenke": "https://www.nrk.no/sport/ny-norsk-gulltriumf-i-vm-i-skyting-1.18076796",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Russland skyver Norge ut av junior-VM: – Et gedigent kaos",
-      "kilde": "NRK Nyheter",
-      "tid": "09:25",
-      "lenke": "https://www.nrk.no/sport/russland-skyver-norge-ut-av-junior-vm-i-ishockey-1.18076757",
-      "engelsk_kilde": false
     }
   ],
   "kategorier": {
-    "NORGE": [
-      {
-        "tittel": "Ny norsk gulltriumf i VM i skyting",
-        "kilde": "NRK Nyheter",
-        "tid": "12:29",
-        "lenke": "https://www.nrk.no/sport/ny-norsk-gulltriumf-i-vm-i-skyting-1.18076796",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Russland skyver Norge ut av junior-VM: – Et gedigent kaos",
-        "kilde": "NRK Nyheter",
-        "tid": "09:25",
-        "lenke": "https://www.nrk.no/sport/russland-skyver-norge-ut-av-junior-vm-i-ishockey-1.18076757",
-        "engelsk_kilde": false
-      }
-    ],
     "MARKEDER": [
       {
         "tittel": "Bedrifts-Amerikas fortjenestetall bare knapt slår Wall Streets forventninger",
         "kilde": "MarketWatch",
         "tid": "15:00",
         "lenke": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Topp Wall Street-analytikere som disse 3 utbytteaksjene for konsistent inntekt",
-        "kilde": "CNBC Top News",
-        "tid": "11:47",
-        "lenke": "https://www.cnbc.com/2026/11/08/top-analysts-like-these-3-dividend-stocks-for-consistent-income.html",
         "engelsk_kilde": true
       }
     ],
@@ -84,17 +61,24 @@
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Nvidias administrerende direktør Jensen Huang står overfor tverrpolitisk kongressgransking over rapportert Kina-spionkobling",
-        "kilde": "CNBC Top News",
-        "tid": "18:06",
-        "lenke": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
+        "tittel": "Nvidias styre etterforsker Jensen Huang",
+        "kilde": "Hacker News",
+        "tid": "20:26",
+        "lenke": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
         "engelsk_kilde": true
       },
       {
-        "tittel": "OpenAI øker $ 11B til en $ 1,25T verdivurdering",
-        "kilde": "Hacker News",
-        "tid": "14:49",
-        "lenke": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+        "tittel": "Nvidia frykter toppsjefen ble forført av en spion",
+        "kilde": "E24",
+        "tid": "20:15",
+        "lenke": "https://e24.no/boers-og-finans/i/Jn1Ay8/nvidia-gransker-mulig-spionaksjon-mot-toppsjefen-jeg-var-utro-mot-min-kone-innroemmer-jensen-huang?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Nvidias administrerende direktør Jensen Huang står overfor tverrpolitisk kongressgransking over rapportert Kina-spionkobling",
+        "kilde": "CNBC Top News",
+        "tid": "18:18",
+        "lenke": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
         "engelsk_kilde": true
       },
       {
@@ -114,6 +98,13 @@
     ],
     "GEOPOLITIKK": [
       {
+        "tittel": "Demokratene forsterker Trumps etterforskningstrusler, Blanche kontrer at han kan undersøke lovgivere",
+        "kilde": "CNBC Top News",
+        "tid": "18:57",
+        "lenke": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Hvordan Demokratene vil prøve å få slutt på Trumps tariffer",
         "kilde": "CNBC Top News",
         "tid": "15:36",
@@ -130,17 +121,66 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "Aursnes melder forfall til landslagssamlingen",
+        "kilde": "NRK Nyheter",
+        "tid": "20:02",
+        "lenke": "https://www.nrk.no/sport/aursnes-melder-forfall-til-landslagssamlingen-1.18077034",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Starship Flight 15 on 11/13 planlegger å fange både booster og skip",
+        "kilde": "Hacker News",
+        "tid": "19:49",
+        "lenke": "https://www.spacex.com/launches/starship-flight-15",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Slik bekjemper jeg AI Brain Fry",
+        "kilde": "Hacker News",
+        "tid": "19:37",
+        "lenke": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Outlook.com avviser stille e-post fra domener uten DMARC",
+        "kilde": "Hacker News",
+        "tid": "19:20",
+        "lenke": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "DUX: Gratis Wayland-skrivebordsskall med åpen kildekode, filbehandling og temaer",
+        "kilde": "Hacker News",
+        "tid": "19:08",
+        "lenke": "https://duxlabs.dev/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "– Når du setter på taklampe, er det ikke en VIP-bil lenger",
+        "kilde": "E24",
+        "tid": "19:00",
+        "lenke": "https://e24.no/naeringsliv/i/eGbr4R/naar-du-setter-paa-taklampe-er-det-ikke-en-vip-bil-lenger?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Fikk nedrykksspørsmål: – Jeg liker ikke situasjonen",
+        "kilde": "NRK Nyheter",
+        "tid": "18:30",
+        "lenke": "https://www.nrk.no/sport/manchester-united-reddet-poeng-mot-aston-villa_-men-ekspertene-lar-seg-ikke-imponere-1.18076937",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Anne har fluktruten klar i tilfelle sønnen kommer hjem",
+        "kilde": "NRK Nyheter",
+        "tid": "18:21",
+        "lenke": "https://www.nrk.no/dokumentar/xl/hun-frykter-sitt-eget-barn-1.18057081",
+        "engelsk_kilde": false
+      },
+      {
         "tittel": "‘Det virker bisarrt’: Vi er i 80-årene med $ 950 000 i tradisjonelle IRAer. Hvorfor presser vår rådgiver Roth-konverteringer?",
         "kilde": "MarketWatch",
         "tid": "18:00",
         "lenke": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Annonser i populære apper gir politiet et kraftig verktøy for å spionere på brukere",
-        "kilde": "Hacker News",
-        "tid": "17:32",
-        "lenke": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
         "engelsk_kilde": true
       },
       {
@@ -165,25 +205,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Vis HN: FuckCaptcha – en feltguide til 39 CAPTCHA-TYPER og hvordan de bryter",
-        "kilde": "Hacker News",
-        "tid": "17:09",
-        "lenke": "https://github.com/vsmutok/FuckCaptcha",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Meldinger avslører kriminelt nettverk: – Ekstremt provoserende",
         "kilde": "E24",
         "tid": "17:00",
         "lenke": "https://e24.no/naeringsliv/i/31LnBe/meldinger-avsloerer-kriminelt-nettverk-ekstremt-provoserende?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Topp astrofysiker forlater USA",
-        "kilde": "Hacker News",
-        "tid": "16:17",
-        "lenke": "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "‘Det føles som om han bygger et eget liv’: Mannen min arvet $ 500 000, men han nekter å bruke det på hjemmet vårt",
@@ -228,13 +254,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Droner bygget for å se ut som fugler unngikk oppdagelse på Air Force tech-øvelse",
-        "kilde": "Hacker News",
-        "tid": "15:00",
-        "lenke": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Politiet oppretter straffesak mot mann som trengte seg inn hos Høiby",
         "kilde": "NRK Nyheter",
         "tid": "14:33",
@@ -242,10 +261,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Én til sykehus etter tribunedramatikk: – Det er helt forferdelig",
+        "tittel": "Sendt til sykehus etter tribunedramatikk: – Det er helt forferdelig",
         "kilde": "NRK Nyheter",
         "tid": "14:21",
-        "lenke": "https://www.nrk.no/sport/tromso-bodo_glimt-stoppet-1.18076852",
+        "lenke": "https://www.nrk.no/sport/tromso---bodo_glimt-stoppet-etter-dramatikk-pa-bortetribunen-_-en-person-ble-sendt-til-sykehus-1.18076852",
         "engelsk_kilde": false
       },
       {
@@ -319,25 +338,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Bør pressen fortelle åpent om etnisk bakgrunn?",
-        "kilde": "E24",
-        "tid": "07:07",
-        "lenke": "https://e24.no/norsk-oekonomi/i/mM6wj4/boer-pressen-fortelle-aapent-om-etnisk-bakgrunn?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Cathie Wood \"føler seg alltid bedre når markedet er bekymret\" — her er hvorfor",
         "kilde": "CNBC Top News",
         "tid": "06:00",
         "lenke": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Julepølse-strid mellom Rema og staten",
-        "kilde": "E24",
-        "tid": "23:05",
-        "lenke": "https://e24.no/naeringsliv/i/PgMGBe/helg-julepoelse-strid-mellom-rema-og-staten?utm_medium=rss",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Han brukte $ 50 000 på Labubus, men nå er mani døende",
