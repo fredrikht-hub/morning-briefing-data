@@ -1,28 +1,21 @@
 {
   "dato": "2026-11-08",
   "dato_norsk": "Søndag 8. november 2026",
-  "generert_kl": "15:44",
+  "generert_kl": "18:14",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
+    {
+      "tittel": "Nvidias administrerende direktør Jensen Huang står overfor tverrpolitisk kongressgransking over rapportert Kina-spionkobling",
+      "kilde": "CNBC Top News",
+      "tid": "18:06",
+      "lenke": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
+      "engelsk_kilde": true
+    },
     {
       "tittel": "Hvordan Demokratene vil prøve å få slutt på Trumps tariffer",
       "kilde": "CNBC Top News",
       "tid": "15:36",
       "lenke": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Bedrifts-Amerikas fortjenestetall bare knapt slår Wall Streets forventninger",
-      "kilde": "MarketWatch",
-      "tid": "15:00",
-      "lenke": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Aksjene beveger seg synkronisert igjen for første gang på en stund. Det er bare ett problem.",
-      "kilde": "MarketWatch",
-      "tid": "14:00",
-      "lenke": "https://www.marketwatch.com/story/stocks-are-moving-in-sync-again-for-the-first-time-in-a-while-theres-just-one-problem-c953bf72?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
@@ -33,11 +26,18 @@
       "engelsk_kilde": false
     },
     {
-      "tittel": "Amazons Astro-hjemmerobot har vifter, men ser ut til å være ment for søppelhaugen.' Derfor prøver den igjen",
-      "kilde": "CNBC Top News",
-      "tid": "13:00",
-      "lenke": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
-      "engelsk_kilde": true
+      "tittel": "Ny norsk gulltriumf i VM i skyting",
+      "kilde": "NRK Nyheter",
+      "tid": "12:29",
+      "lenke": "https://www.nrk.no/sport/ny-norsk-gulltriumf-i-vm-i-skyting-1.18076796",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Russland skyver Norge ut av junior-VM: – Et gedigent kaos",
+      "kilde": "NRK Nyheter",
+      "tid": "09:25",
+      "lenke": "https://www.nrk.no/sport/russland-skyver-norge-ut-av-junior-vm-i-ishockey-1.18076757",
+      "engelsk_kilde": false
     }
   ],
   "kategorier": {
@@ -55,13 +55,6 @@
         "tid": "09:25",
         "lenke": "https://www.nrk.no/sport/russland-skyver-norge-ut-av-junior-vm-i-ishockey-1.18076757",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Russland skyver Norge ut av junior-VM i ishockey",
-        "kilde": "NRK Nyheter",
-        "tid": "09:02",
-        "lenke": "https://www.nrk.no/sport/russland-skyver-norge-ut-av-junior-vm-i-ishockey-1.18076739",
-        "engelsk_kilde": false
       }
     ],
     "MARKEDER": [
@@ -73,31 +66,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Aksjene beveger seg synkronisert igjen for første gang på en stund. Det er bare ett problem.",
-        "kilde": "MarketWatch",
-        "tid": "14:00",
-        "lenke": "https://www.marketwatch.com/story/stocks-are-moving-in-sync-again-for-the-first-time-in-a-while-theres-just-one-problem-c953bf72?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Dette markedssignalet kalles teknologisalg. Nå sender den en ny advarsel.",
-        "kilde": "MarketWatch",
-        "tid": "12:00",
-        "lenke": "https://www.marketwatch.com/story/this-market-signal-called-the-tech-selloff-now-its-sending-another-warning-f7f8eb9b?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Topp Wall Street-analytikere som disse 3 utbytteaksjene for konsistent inntekt",
         "kilde": "CNBC Top News",
         "tid": "11:47",
         "lenke": "https://www.cnbc.com/2026/11/08/top-analysts-like-these-3-dividend-stocks-for-consistent-income.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvorfor prognosen for helseaksjer er usikker i forkant av kongressens nye sammensetning",
-        "kilde": "CNBC Top News",
-        "tid": "16:02",
-        "lenke": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
         "engelsk_kilde": true
       }
     ],
@@ -112,7 +84,14 @@
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "OpenAI øker $ 11B til en verdi av $ 1,25T",
+        "tittel": "Nvidias administrerende direktør Jensen Huang står overfor tverrpolitisk kongressgransking over rapportert Kina-spionkobling",
+        "kilde": "CNBC Top News",
+        "tid": "18:06",
+        "lenke": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "OpenAI øker $ 11B til en $ 1,25T verdivurdering",
         "kilde": "Hacker News",
         "tid": "14:49",
         "lenke": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
@@ -151,6 +130,69 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "‘Det virker bisarrt’: Vi er i 80-årene med $ 950 000 i tradisjonelle IRAer. Hvorfor presser vår rådgiver Roth-konverteringer?",
+        "kilde": "MarketWatch",
+        "tid": "18:00",
+        "lenke": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Annonser i populære apper gir politiet et kraftig verktøy for å spionere på brukere",
+        "kilde": "Hacker News",
+        "tid": "17:32",
+        "lenke": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "To måneder etter min fars begravelse, ba stemoren min meg om å betale tilbake hans $ 40 000 bryllupsgave. Skal jeg gjøre som hun sier?",
+        "kilde": "MarketWatch",
+        "tid": "17:30",
+        "lenke": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Begravelsesbyråer finner nytt liv som vert for bryllup og golfutflukter, etter hvert som den tradisjonelle begravelsesvirksomheten dør ut",
+        "kilde": "MarketWatch",
+        "tid": "17:23",
+        "lenke": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Datt gjennom tribunen: – Heldigvis bare ribbeinsbrudd",
+        "kilde": "NRK Nyheter",
+        "tid": "17:20",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/sigurd-brakk-ribbeinet-etter-at-han-datt-gjennom-tribunen-pa-romssa-arena-i-tromso-1.18076953",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vis HN: FuckCaptcha – en feltguide til 39 CAPTCHA-TYPER og hvordan de bryter",
+        "kilde": "Hacker News",
+        "tid": "17:09",
+        "lenke": "https://github.com/vsmutok/FuckCaptcha",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Meldinger avslører kriminelt nettverk: – Ekstremt provoserende",
+        "kilde": "E24",
+        "tid": "17:00",
+        "lenke": "https://e24.no/naeringsliv/i/31LnBe/meldinger-avsloerer-kriminelt-nettverk-ekstremt-provoserende?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Topp astrofysiker forlater USA",
+        "kilde": "Hacker News",
+        "tid": "16:17",
+        "lenke": "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Det føles som om han bygger et eget liv’: Mannen min arvet $ 500 000, men han nekter å bruke det på hjemmet vårt",
+        "kilde": "MarketWatch",
+        "tid": "16:00",
+        "lenke": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Regjeringen «ser alvorlig» på å forby barn under 16 år fra Vinted og eBay",
         "kilde": "BBC Business",
         "tid": "15:37",
@@ -186,6 +228,13 @@
         "engelsk_kilde": false
       },
       {
+        "tittel": "Droner bygget for å se ut som fugler unngikk oppdagelse på Air Force tech-øvelse",
+        "kilde": "Hacker News",
+        "tid": "15:00",
+        "lenke": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Politiet oppretter straffesak mot mann som trengte seg inn hos Høiby",
         "kilde": "NRK Nyheter",
         "tid": "14:33",
@@ -193,7 +242,7 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Kamp stoppet etter dramatikk på tribunen – én til sykehus",
+        "tittel": "Én til sykehus etter tribunedramatikk: – Det er helt forferdelig",
         "kilde": "NRK Nyheter",
         "tid": "14:21",
         "lenke": "https://www.nrk.no/sport/tromso-bodo_glimt-stoppet-1.18076852",
@@ -242,39 +291,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Person av interesse",
-        "kilde": "Hacker News",
-        "tid": "11:23",
-        "lenke": "https://krthr.co/person-of-interest/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Kongen fullførte maraton på tiden 4.43.01",
         "kilde": "NRK Nyheter",
         "tid": "11:18",
         "lenke": "https://www.nrk.no/nyheter/kongen-fullforte-maraton-pa-tiden-4.43.01-1.18076803",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Petered (hva skjer etter Peter-prinsippet)",
-        "kilde": "Hacker News",
-        "tid": "10:56",
-        "lenke": "https://aworkinglibrary.com/writing/petered",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "JIT bitmap-tekstgjengivelse for mikrokontrollere",
-        "kilde": "Hacker News",
-        "tid": "10:42",
-        "lenke": "https://linebender.org/blog/jit-bitmap-text/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Skriving som et tenkeverktøy",
-        "kilde": "Hacker News",
-        "tid": "10:41",
-        "lenke": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "– Spørsmålet er om vi står overfor «de dårlige årene»",
@@ -324,27 +345,6 @@
         "tid": "23:02",
         "lenke": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Denne pensjonerte professoren har gjenoppfunnet seg selv — som en Taylor Swift-lærd",
-        "kilde": "MarketWatch",
-        "tid": "20:48",
-        "lenke": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Andre gjetning av rådgiveren min: Er en livrente det rette trekket i dette markedet?",
-        "kilde": "MarketWatch",
-        "tid": "20:36",
-        "lenke": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "To bilforhandlere har gått konkurs",
-        "kilde": "E24",
-        "tid": "20:04",
-        "lenke": "https://e24.no/naeringsliv/i/2VLR64/to-bilforhandlere-har-gaatt-konkurs?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ]
   }
