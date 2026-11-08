@@ -1,20 +1,27 @@
 {
-  "dato": "2026-11-07",
-  "dato_norsk": "Lørdag 7. november 2026",
-  "generert_kl": "20:34",
+  "dato": "2026-11-08",
+  "dato_norsk": "Søndag 8. november 2026",
+  "generert_kl": "00:17",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
       "tittel": "Trump tilbyr UFC-sjef Dana White pressesekretær jobb",
       "kilde": "CNBC Top News",
-      "tid": "20:27",
+      "tid": "23:13",
       "lenke": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Risikoen for opptrapping av Iran-krigen er fortsatt høy til tross for demokratenes feiing i amerikanske midtveisvalg",
+      "kilde": "CNBC Top News",
+      "tid": "22:17",
+      "lenke": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
       "engelsk_kilde": true
     },
     {
       "tittel": "Trump retter seg mot Slotkin i oppfordring til justisdepartementet om å etterforske påståtte demokratiske trusler mot republikanere",
       "kilde": "CNBC Top News",
-      "tid": "20:28",
+      "tid": "21:59",
       "lenke": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
       "engelsk_kilde": true
     },
@@ -26,29 +33,15 @@
       "engelsk_kilde": false
     },
     {
-      "tittel": "Demokratenes store valgseier gjenoppliver et vanskelig trygdespørsmål: Hvem betaler?",
-      "kilde": "MarketWatch",
-      "tid": "17:43",
-      "lenke": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
+      "tittel": "Antropisk IPO møter AI tilbakeslag etter midterms show stikkende irettesettelse av datasentre",
+      "kilde": "CNBC Top News",
+      "tid": "13:00",
+      "lenke": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
       "engelsk_kilde": true
-    },
-    {
-      "tittel": "Eisenkot får i oppdrag å danne regjering i Israel",
-      "kilde": "NRK Nyheter",
-      "tid": "20:03",
-      "lenke": "https://www.nrk.no/nyheter/eisenkot-far-i-oppdrag-a-danne-regjering-i-israel-1.18076617",
-      "engelsk_kilde": false
     }
   ],
   "kategorier": {
     "MARKEDER": [
-      {
-        "tittel": "S&P 500 kan bli farlig eksponert for AI. Her er noen enkle alternativer.",
-        "kilde": "MarketWatch",
-        "tid": "16:40",
-        "lenke": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
       {
         "tittel": "Berkshire Hathaway mer enn dobler tilbakekjøpene i tredje kvartal ettersom inntjeningen går ned",
         "kilde": "CNBC Top News",
@@ -57,56 +50,40 @@
         "engelsk_kilde": true
       },
       {
+        "tittel": "Berkshire aksjer bølge som Wall Street swoons midt AI frykt",
+        "kilde": "CNBC Top News",
+        "tid": "14:06",
+        "lenke": "https://www.cnbc.com/2026/11/07/berkshire-shares-surge-as-wall-street-swoons-amid-ai-fears.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Antropisk IPO møter AI tilbakeslag etter midterms show stikkende irettesettelse av datasentre",
         "kilde": "CNBC Top News",
         "tid": "13:00",
         "lenke": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "AI-aksjer stiger etter at billioner er fjernet fra markedsverdiene",
-        "kilde": "BBC Business",
-        "tid": "21:06",
-        "lenke": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      }
-    ],
-    "TEKNOLOGI": [
-      {
-        "tittel": "Slutten på Microsoft Researchs AI Frontiers-gruppe",
-        "kilde": "Hacker News",
-        "tid": "18:02",
-        "lenke": "https://hunch.net/?p=13764006",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "GeoWorks, Microsoft Windows 'Upstart' 90-tallskonkurrent",
-        "kilde": "Hacker News",
-        "tid": "17:54",
-        "lenke": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Meta Chief Strategy Officer Dave Wehner slutter som CFO for oppstart av AI-infrastrukturen Fireworks",
-        "kilde": "CNBC Top News",
-        "tid": "17:51",
-        "lenke": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
-        "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Trump retter seg mot Slotkin i oppfordring til justisdepartementet om å etterforske påståtte demokratiske trusler mot republikanere",
+        "tittel": "Trump tilbyr UFC-sjef Dana White pressesekretær jobb",
         "kilde": "CNBC Top News",
-        "tid": "20:28",
-        "lenke": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+        "tid": "23:13",
+        "lenke": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Trump tilbyr UFC-sjef Dana White pressesekretær jobb",
+        "tittel": "Risikoen for opptrapping av Iran-krigen er fortsatt høy til tross for demokratenes feiing i amerikanske midtveisvalg",
         "kilde": "CNBC Top News",
-        "tid": "20:27",
-        "lenke": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+        "tid": "22:17",
+        "lenke": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump retter seg mot Slotkin i oppfordring til justisdepartementet om å etterforske påståtte demokratiske trusler mot republikanere",
+        "kilde": "CNBC Top News",
+        "tid": "21:59",
+        "lenke": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
         "engelsk_kilde": true
       },
       {
@@ -131,13 +108,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Risikoen for opptrapping av Iran-krigen er fortsatt høy til tross for demokratenes feiing i amerikanske midtveisvalg",
-        "kilde": "CNBC Top News",
-        "tid": "13:03",
-        "lenke": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Trump sier at USA utførte «mindre angrep» mot Iran da raketter traff Qeshm-øya",
         "kilde": "CNBC Top News",
         "tid": "07:37",
@@ -146,6 +116,76 @@
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "GitHub Ny oversiktsside for pull-forespørsel i offentlig forhåndsvisning",
+        "kilde": "Hacker News",
+        "tid": "23:09",
+        "lenke": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Julepølse-strid mellom Rema og staten",
+        "kilde": "E24",
+        "tid": "23:05",
+        "lenke": "https://e24.no/naeringsliv/i/PgMGBe/helg-julepoelse-strid-mellom-rema-og-staten?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Ira Velinsky – Commodores industridesigner",
+        "kilde": "Hacker News",
+        "tid": "22:45",
+        "lenke": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Gjør hvilket som helst heltall med fire 2s (2025)",
+        "kilde": "Hacker News",
+        "tid": "22:38",
+        "lenke": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vis HN: En frakoblet stasjonær følgesvenn som bidrar til å opprettholde en sunn blinkrytme",
+        "kilde": "Hacker News",
+        "tid": "21:47",
+        "lenke": "https://eyesrhythm.com/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Dana White takker nei til å bli Trumps pressesekretær",
+        "kilde": "NRK Nyheter",
+        "tid": "21:42",
+        "lenke": "https://www.nrk.no/nyheter/dana-white-takker-nei-til-a-bli-trumps-pressesekretaer-1.18076663",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "MeccanicOS",
+        "kilde": "Hacker News",
+        "tid": "21:13",
+        "lenke": "https://meccanicos.com/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Denne pensjonerte professoren har gjenoppfunnet seg selv — som en Taylor Swift-lærd",
+        "kilde": "MarketWatch",
+        "tid": "20:48",
+        "lenke": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tannlegestudentene kaster nesten bare plast: – Vi snakker om et overforbruk",
+        "kilde": "NRK Nyheter",
+        "tid": "20:45",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/ny-studie-fra-tromso-og-bergen_-98-prosent-av-avfallet-hos-tannlegestudentene-er-plast-1.18076514",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Andre gjetning av rådgiveren min: Er en livrente det rette trekket i dette markedet?",
+        "kilde": "MarketWatch",
+        "tid": "20:36",
+        "lenke": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "To bilforhandlere har gått konkurs",
         "kilde": "E24",
@@ -161,10 +201,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Reagerer på «tafatt» City: – Det er oppsiktsvekkende",
+        "tittel": "Haaland-sjef i villrede: – Har aldri skjedd før",
         "kilde": "NRK Nyheter",
         "tid": "19:25",
-        "lenke": "https://www.nrk.no/sport/premier-league_-kjempesmell-for-haaland-og-city-mot-nottingham-forest-1.18076577",
+        "lenke": "https://www.nrk.no/sport/premier-league_-kjempesmell-for-erling-braut-haaland-og-manchester-city-mot-nottingham-forest-1.18076577",
         "engelsk_kilde": false
       },
       {
@@ -189,20 +229,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Rådgiveren min anbefalte en livrente. Er det riktig trekk i dette markedsmiljøet?",
-        "kilde": "MarketWatch",
-        "tid": "18:36",
-        "lenke": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hva jeg kjører på min $ 10 USD OpenStick-hjemmelab",
-        "kilde": "Hacker News",
-        "tid": "18:12",
-        "lenke": "https://blog.bosscher.ch/posts/openstick/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Berkshire-resultatet faller – Abel øker tilbakekjøpene",
         "kilde": "E24",
         "tid": "17:48",
@@ -214,20 +240,6 @@
         "kilde": "MarketWatch",
         "tid": "17:33",
         "lenke": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Fem minneverdige bøker om programmering (2008)",
-        "kilde": "Hacker News",
-        "tid": "17:30",
-        "lenke": "https://prog21.dadgum.com/19.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vis HN: Coldframe, en honningkrukke som gir seg ut for å være en supermarked-kjøleskapskontroller",
-        "kilde": "Hacker News",
-        "tid": "17:27",
-        "lenke": "https://github.com/hedgerow-dev/coldframe",
         "engelsk_kilde": true
       },
       {
@@ -263,20 +275,6 @@
         "kilde": "NRK Nyheter",
         "tid": "16:54",
         "lenke": "https://www.nrk.no/sport/premier-league_-martin-odegaard-ble-matchvinner-hjemme-mot-hull-1.18076515",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Minst seks døde i skyting i Polen",
-        "kilde": "NRK Nyheter",
-        "tid": "15:19",
-        "lenke": "https://www.nrk.no/nyheter/minst-seks-dode-i-skyting-i-polen-1.18076530",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Mestere to år på rad: – Avslutter med stil",
-        "kilde": "NRK Nyheter",
-        "tid": "14:16",
-        "lenke": "https://www.nrk.no/vestland/mestere-to-ar-pa-rad_-_-kunne-nyte-gullet-1.18076313",
         "engelsk_kilde": false
       },
       {
@@ -334,13 +332,6 @@
         "tid": "05:56",
         "lenke": "https://e24.no/naeringsliv/i/jvVXgL/naa-kommer-regningen?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Elon Musk ser ut til å signalisere slutten på veien for Cybertruck",
-        "kilde": "BBC Business",
-        "tid": "21:49",
-        "lenke": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
       }
     ]
   }

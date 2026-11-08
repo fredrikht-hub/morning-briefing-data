@@ -1,0 +1,338 @@
+{
+  "dato": "2026-11-08",
+  "dato_norsk": "Søndag 8. november 2026",
+  "generert_kl": "00:17",
+  "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
+  "dagens_fokus": [
+    {
+      "tittel": "Trump tilbyr UFC-sjef Dana White pressesekretær jobb",
+      "kilde": "CNBC Top News",
+      "tid": "23:13",
+      "lenke": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Risikoen for opptrapping av Iran-krigen er fortsatt høy til tross for demokratenes feiing i amerikanske midtveisvalg",
+      "kilde": "CNBC Top News",
+      "tid": "22:17",
+      "lenke": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Trump retter seg mot Slotkin i oppfordring til justisdepartementet om å etterforske påståtte demokratiske trusler mot republikanere",
+      "kilde": "CNBC Top News",
+      "tid": "21:59",
+      "lenke": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Trump tilbyr Dana White jobben som pressetalsperson",
+      "kilde": "NRK Nyheter",
+      "tid": "18:46",
+      "lenke": "https://www.nrk.no/nyheter/trump-tilbyr-dana-white-jobben-som-pressetalsperson-1.18076605",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Antropisk IPO møter AI tilbakeslag etter midterms show stikkende irettesettelse av datasentre",
+      "kilde": "CNBC Top News",
+      "tid": "13:00",
+      "lenke": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+      "engelsk_kilde": true
+    }
+  ],
+  "kategorier": {
+    "MARKEDER": [
+      {
+        "tittel": "Berkshire Hathaway mer enn dobler tilbakekjøpene i tredje kvartal ettersom inntjeningen går ned",
+        "kilde": "CNBC Top News",
+        "tid": "15:23",
+        "lenke": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Berkshire aksjer bølge som Wall Street swoons midt AI frykt",
+        "kilde": "CNBC Top News",
+        "tid": "14:06",
+        "lenke": "https://www.cnbc.com/2026/11/07/berkshire-shares-surge-as-wall-street-swoons-amid-ai-fears.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Antropisk IPO møter AI tilbakeslag etter midterms show stikkende irettesettelse av datasentre",
+        "kilde": "CNBC Top News",
+        "tid": "13:00",
+        "lenke": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "GEOPOLITIKK": [
+      {
+        "tittel": "Trump tilbyr UFC-sjef Dana White pressesekretær jobb",
+        "kilde": "CNBC Top News",
+        "tid": "23:13",
+        "lenke": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Risikoen for opptrapping av Iran-krigen er fortsatt høy til tross for demokratenes feiing i amerikanske midtveisvalg",
+        "kilde": "CNBC Top News",
+        "tid": "22:17",
+        "lenke": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump retter seg mot Slotkin i oppfordring til justisdepartementet om å etterforske påståtte demokratiske trusler mot republikanere",
+        "kilde": "CNBC Top News",
+        "tid": "21:59",
+        "lenke": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Eisenkot får i oppdrag å danne regjering i Israel",
+        "kilde": "NRK Nyheter",
+        "tid": "20:03",
+        "lenke": "https://www.nrk.no/nyheter/eisenkot-far-i-oppdrag-a-danne-regjering-i-israel-1.18076617",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Trump tilbyr Dana White jobben som pressetalsperson",
+        "kilde": "NRK Nyheter",
+        "tid": "18:46",
+        "lenke": "https://www.nrk.no/nyheter/trump-tilbyr-dana-white-jobben-som-pressetalsperson-1.18076605",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Demokratenes store valgseier gjenoppliver et vanskelig trygdespørsmål: Hvem betaler?",
+        "kilde": "MarketWatch",
+        "tid": "17:43",
+        "lenke": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump sier at USA utførte «mindre angrep» mot Iran da raketter traff Qeshm-øya",
+        "kilde": "CNBC Top News",
+        "tid": "07:37",
+        "lenke": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "VILLKORT": [
+      {
+        "tittel": "GitHub Ny oversiktsside for pull-forespørsel i offentlig forhåndsvisning",
+        "kilde": "Hacker News",
+        "tid": "23:09",
+        "lenke": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Julepølse-strid mellom Rema og staten",
+        "kilde": "E24",
+        "tid": "23:05",
+        "lenke": "https://e24.no/naeringsliv/i/PgMGBe/helg-julepoelse-strid-mellom-rema-og-staten?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Ira Velinsky – Commodores industridesigner",
+        "kilde": "Hacker News",
+        "tid": "22:45",
+        "lenke": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Gjør hvilket som helst heltall med fire 2s (2025)",
+        "kilde": "Hacker News",
+        "tid": "22:38",
+        "lenke": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vis HN: En frakoblet stasjonær følgesvenn som bidrar til å opprettholde en sunn blinkrytme",
+        "kilde": "Hacker News",
+        "tid": "21:47",
+        "lenke": "https://eyesrhythm.com/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Dana White takker nei til å bli Trumps pressesekretær",
+        "kilde": "NRK Nyheter",
+        "tid": "21:42",
+        "lenke": "https://www.nrk.no/nyheter/dana-white-takker-nei-til-a-bli-trumps-pressesekretaer-1.18076663",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "MeccanicOS",
+        "kilde": "Hacker News",
+        "tid": "21:13",
+        "lenke": "https://meccanicos.com/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Denne pensjonerte professoren har gjenoppfunnet seg selv — som en Taylor Swift-lærd",
+        "kilde": "MarketWatch",
+        "tid": "20:48",
+        "lenke": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tannlegestudentene kaster nesten bare plast: – Vi snakker om et overforbruk",
+        "kilde": "NRK Nyheter",
+        "tid": "20:45",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/ny-studie-fra-tromso-og-bergen_-98-prosent-av-avfallet-hos-tannlegestudentene-er-plast-1.18076514",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Andre gjetning av rådgiveren min: Er en livrente det rette trekket i dette markedet?",
+        "kilde": "MarketWatch",
+        "tid": "20:36",
+        "lenke": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "To bilforhandlere har gått konkurs",
+        "kilde": "E24",
+        "tid": "20:04",
+        "lenke": "https://e24.no/naeringsliv/i/2VLR64/to-bilforhandlere-har-gaatt-konkurs?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Her er skattesatsene for kapitalgevinster for 2027 for hvert inntektsnivå",
+        "kilde": "MarketWatch",
+        "tid": "19:48",
+        "lenke": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Haaland-sjef i villrede: – Har aldri skjedd før",
+        "kilde": "NRK Nyheter",
+        "tid": "19:25",
+        "lenke": "https://www.nrk.no/sport/premier-league_-kjempesmell-for-erling-braut-haaland-og-manchester-city-mot-nottingham-forest-1.18076577",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kostnadene for reseptbelagte medisiner vil øke med 50% i 2027. Å ikke gjøre noe kan koste deg.",
+        "kilde": "MarketWatch",
+        "tid": "19:20",
+        "lenke": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kraftig priskutt for Schumacher-hytta – solgt for 23 mill.",
+        "kilde": "E24",
+        "tid": "19:01",
+        "lenke": "https://e24.no/naeringsliv/i/Jrz2m6/kraftig-priskutt-for-schumacher-hytta-solgt-for-23-mill?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "I år får vi ei ekstra veke: – Blir fort konflikt av det",
+        "kilde": "NRK Nyheter",
+        "tid": "18:42",
+        "lenke": "https://www.nrk.no/nordland/veke-53-gjer-planlegging-vanskeleg-for-foreldre-med-delt-omsorg-1.18061571",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Berkshire-resultatet faller – Abel øker tilbakekjøpene",
+        "kilde": "E24",
+        "tid": "17:48",
+        "lenke": "https://e24.no/boers-og-finans/i/53VzdO/berkshire-resultatet-faller-abel-oeker-tilbakekjoepene?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Jeg er 65 og verdt mer enn $ 5,6 millioner. Har jeg råd til en $ 200 000 bobil?",
+        "kilde": "MarketWatch",
+        "tid": "17:33",
+        "lenke": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Søreide møtt med kraftig diesel-kritikk i nord: – Folk melder seg ut i protest",
+        "kilde": "NRK Nyheter",
+        "tid": "17:20",
+        "lenke": "https://www.nrk.no/nordland/hoyre-leder-ine-eriksen-soreide-fikk-kraftig-diesel-kritikk-fra-nordland-hoyre-1.18076470",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "De rikeste 10% av amerikanerne trekker foran alle andre. Det er dette som gjør dem rikere.",
+        "kilde": "MarketWatch",
+        "tid": "17:04",
+        "lenke": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Det føles som om han bygger et eget liv’: Mannen min arvet $ 500 000, men han nekter å bruke det på hjemmet vårt",
+        "kilde": "MarketWatch",
+        "tid": "17:01",
+        "lenke": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "AI ga bolig ekstra sol",
+        "kilde": "E24",
+        "tid": "17:00",
+        "lenke": "https://e24.no/norsk-oekonomi/i/dJ5nbj/ai-ga-bolig-ekstra-sol?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Roser Ødegaard-manøver: – Som en spiss",
+        "kilde": "NRK Nyheter",
+        "tid": "16:54",
+        "lenke": "https://www.nrk.no/sport/premier-league_-martin-odegaard-ble-matchvinner-hjemme-mot-hull-1.18076515",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "31 år gammel dumpster-dykker hentet inn $ 140 000 på 12 måneder: Jeg 'gjorde mye mer enn jeg trodde var mulig'",
+        "kilde": "CNBC Top News",
+        "tid": "14:15",
+        "lenke": "https://www.cnbc.com/make-it/2026/11/07/dumpster-diver-resale-business.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "– Ikke vedta regler som kan gi dyrere mat",
+        "kilde": "E24",
+        "tid": "14:14",
+        "lenke": "https://e24.no/naeringsliv/i/Ogv5nb/ikke-vedta-regler-som-kan-gi-dyrere-mat?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Mark Cuban sier at han ikke gir faen i å øke sin nettoverdi - et sunt tankesett også for ikke-milliardærer, sier en finansiell terapeut",
+        "kilde": "CNBC Top News",
+        "tid": "14:05",
+        "lenke": "https://www.cnbc.com/make-it/2026/11/07/mark-cuban-net-worth-money-mindset.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Amerika liker ikke sosialisme. Så hvorfor vinner sosialister?",
+        "kilde": "CNBC Top News",
+        "tid": "13:01",
+        "lenke": "https://www.cnbc.com/2026/11/07/socialism-elections-economy.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fyller 70 år: – Jeg er mye bedre nå",
+        "kilde": "E24",
+        "tid": "11:55",
+        "lenke": "https://e24.no/norsk-oekonomi/i/0prMJ0/fyller-70-aar-jeg-er-mye-bedre-naa?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "– Du blir trolig rikere om ett år hvis du går inn nå",
+        "kilde": "E24",
+        "tid": "10:06",
+        "lenke": "https://e24.no/boers-og-finans/i/d7gP1o/du-blir-trolig-rikere-om-ett-aar-hvis-du-gaar-inn-naa?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Oljefond-utvalg: Spekulerer i fransk hevn",
+        "kilde": "E24",
+        "tid": "09:45",
+        "lenke": "https://e24.no/naeringsliv/i/b8VXnk/oljefond-utvalg-spekulerer-i-fransk-hevn?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Nå kommer regningen",
+        "kilde": "E24",
+        "tid": "05:56",
+        "lenke": "https://e24.no/naeringsliv/i/jvVXgL/naa-kommer-regningen?utm_medium=rss",
+        "engelsk_kilde": false
+      }
+    ]
+  }
+}
