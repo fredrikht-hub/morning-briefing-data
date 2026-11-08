@@ -1,47 +1,54 @@
 {
   "dato": "2026-11-08",
   "dato_norsk": "Søndag 8. november 2026",
-  "generert_kl": "11:47",
+  "generert_kl": "15:44",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Russland skyver Norge ut av junior-VM: – Et gedigent kaos",
-      "kilde": "NRK Nyheter",
-      "tid": "09:25",
-      "lenke": "https://www.nrk.no/sport/russland-skyver-norge-ut-av-junior-vm-i-ishockey-1.18076757",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Russland skyver Norge ut av junior-VM i ishockey",
-      "kilde": "NRK Nyheter",
-      "tid": "09:02",
-      "lenke": "https://www.nrk.no/sport/russland-skyver-norge-ut-av-junior-vm-i-ishockey-1.18076739",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "På bilder: Protestene i Frankrike trekker 146 000 mens sammenstøtene bryter ut for fjerde helg på rad",
+      "tittel": "Hvordan Demokratene vil prøve å få slutt på Trumps tariffer",
       "kilde": "CNBC Top News",
-      "tid": "09:29",
-      "lenke": "https://www.cnbc.com/2026/11/08/france-protests-clashes-arrests.html",
+      "tid": "15:36",
+      "lenke": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Regjeringen «ser alvorlig» på å forby barn under 16 år fra Vinted og eBay",
-      "kilde": "BBC Business",
-      "tid": "11:25",
-      "lenke": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "tittel": "Bedrifts-Amerikas fortjenestetall bare knapt slår Wall Streets forventninger",
+      "kilde": "MarketWatch",
+      "tid": "15:00",
+      "lenke": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Person av interesse",
-      "kilde": "Hacker News",
-      "tid": "11:23",
-      "lenke": "https://krthr.co/person-of-interest/",
+      "tittel": "Aksjene beveger seg synkronisert igjen for første gang på en stund. Det er bare ett problem.",
+      "kilde": "MarketWatch",
+      "tid": "14:00",
+      "lenke": "https://www.marketwatch.com/story/stocks-are-moving-in-sync-again-for-the-first-time-in-a-while-theres-just-one-problem-c953bf72?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Ønskene om kraft: – Spinnvilt mye",
+      "kilde": "E24",
+      "tid": "15:25",
+      "lenke": "https://e24.no/energi-og-klima/i/MAzdjJ/oenskene-om-kraft-spinnvilt-mye?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Amazons Astro-hjemmerobot har vifter, men ser ut til å være ment for søppelhaugen.' Derfor prøver den igjen",
+      "kilde": "CNBC Top News",
+      "tid": "13:00",
+      "lenke": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
+      {
+        "tittel": "Ny norsk gulltriumf i VM i skyting",
+        "kilde": "NRK Nyheter",
+        "tid": "12:29",
+        "lenke": "https://www.nrk.no/sport/ny-norsk-gulltriumf-i-vm-i-skyting-1.18076796",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Russland skyver Norge ut av junior-VM: – Et gedigent kaos",
         "kilde": "NRK Nyheter",
@@ -59,56 +66,86 @@
     ],
     "MARKEDER": [
       {
-        "tittel": "Berkshire Hathaway mer enn dobler tilbakekjøpene i tredje kvartal ettersom inntjeningen går ned",
-        "kilde": "CNBC Top News",
-        "tid": "15:23",
-        "lenke": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+        "tittel": "Bedrifts-Amerikas fortjenestetall bare knapt slår Wall Streets forventninger",
+        "kilde": "MarketWatch",
+        "tid": "15:00",
+        "lenke": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Antropisk IPO møter AI tilbakeslag etter midterms show stikkende irettesettelse av datasentre",
-        "kilde": "CNBC Top News",
-        "tid": "13:00",
-        "lenke": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+        "tittel": "Aksjene beveger seg synkronisert igjen for første gang på en stund. Det er bare ett problem.",
+        "kilde": "MarketWatch",
+        "tid": "14:00",
+        "lenke": "https://www.marketwatch.com/story/stocks-are-moving-in-sync-again-for-the-first-time-in-a-while-theres-just-one-problem-c953bf72?mod=mw_rss_topstories",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Dette markedssignalet kalles teknologisalg. Nå sender den en ny advarsel.",
+        "kilde": "MarketWatch",
+        "tid": "12:00",
+        "lenke": "https://www.marketwatch.com/story/this-market-signal-called-the-tech-selloff-now-its-sending-another-warning-f7f8eb9b?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Topp Wall Street-analytikere som disse 3 utbytteaksjene for konsistent inntekt",
+        "kilde": "CNBC Top News",
+        "tid": "11:47",
+        "lenke": "https://www.cnbc.com/2026/11/08/top-analysts-like-these-3-dividend-stocks-for-consistent-income.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvorfor prognosen for helseaksjer er usikker i forkant av kongressens nye sammensetning",
+        "kilde": "CNBC Top News",
+        "tid": "16:02",
+        "lenke": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "ENERGI_RAAVARER": [
+      {
+        "tittel": "Ønskene om kraft: – Spinnvilt mye",
+        "kilde": "E24",
+        "tid": "15:25",
+        "lenke": "https://e24.no/energi-og-klima/i/MAzdjJ/oenskene-om-kraft-spinnvilt-mye?utm_medium=rss",
+        "engelsk_kilde": false
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Meta Chief Strategy Officer Dave Wehner slutter som CFO for oppstart av AI-infrastrukturen Fireworks",
+        "tittel": "OpenAI øker $ 11B til en verdi av $ 1,25T",
+        "kilde": "Hacker News",
+        "tid": "14:49",
+        "lenke": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Poppi-grunnleggerne går etter PepsiCo's Gatorade med ny oppstartsbrygge for drikkevarer",
         "kilde": "CNBC Top News",
-        "tid": "22:01",
-        "lenke": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
+        "tid": "14:00",
+        "lenke": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Amazons Astro-hjemmerobot har vifter, men ser ut til å være ment for søppelhaugen.' Derfor prøver den igjen",
+        "kilde": "CNBC Top News",
+        "tid": "13:00",
+        "lenke": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
         "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
+        "tittel": "Hvordan Demokratene vil prøve å få slutt på Trumps tariffer",
+        "kilde": "CNBC Top News",
+        "tid": "15:36",
+        "lenke": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Trump tilbyr UFC-sjef Dana White pressesekretær jobb",
         "kilde": "CNBC Top News",
         "tid": "23:13",
         "lenke": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Risikoen for opptrapping av Iran-krigen er fortsatt høy til tross for demokratenes feiing i amerikanske midtveisvalg",
-        "kilde": "CNBC Top News",
-        "tid": "22:17",
-        "lenke": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trump retter seg mot Slotkin i oppfordring til justisdepartementet om å etterforske påståtte demokratiske trusler mot republikanere",
-        "kilde": "CNBC Top News",
-        "tid": "21:59",
-        "lenke": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Demokratenes store valgseier gjenoppliver et vanskelig trygdespørsmål: Hvem betaler?",
-        "kilde": "MarketWatch",
-        "tid": "17:43",
-        "lenke": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
         "engelsk_kilde": true
       }
     ],
@@ -116,9 +153,93 @@
       {
         "tittel": "Regjeringen «ser alvorlig» på å forby barn under 16 år fra Vinted og eBay",
         "kilde": "BBC Business",
-        "tid": "11:25",
+        "tid": "15:37",
         "lenke": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Jeg har ikke noe økonomisk sikkerhetsnett’: Jeg er 66, er avhengig av trygd og har bare $ 500 i besparelser. Hvilket håp har jeg?",
+        "kilde": "MarketWatch",
+        "tid": "15:30",
+        "lenke": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nordmenns favorittaksjer: – Priset på tro, håp og kjærlighet",
+        "kilde": "E24",
+        "tid": "15:20",
+        "lenke": "https://e24.no/boers-og-finans/i/QgpbK4/nordmenns-favorittaksjer-priset-paa-tro-haap-og-kjaerlighet?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Min 93 år gamle far forandret testamentet sitt i ellevte time, og etterlot broren hele boet sitt på $ 500 000. Kan jeg utfordre det?",
+        "kilde": "MarketWatch",
+        "tid": "15:16",
+        "lenke": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Den nye AUF-lederen vil splitte opp dagligvare­gigantene",
+        "kilde": "E24",
+        "tid": "15:01",
+        "lenke": "https://e24.no/naeringsliv/i/lKGq7y/den-nye-auf-lederen-vil-splitte-opp-dagligvaregigantene?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Politiet oppretter straffesak mot mann som trengte seg inn hos Høiby",
+        "kilde": "NRK Nyheter",
+        "tid": "14:33",
+        "lenke": "https://www.nrk.no/nyheter/politiet-oppretter-straffesak-mot-mann-som-trengte-seg-inn-hos-hoiby-1.18076838",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kamp stoppet etter dramatikk på tribunen – én til sykehus",
+        "kilde": "NRK Nyheter",
+        "tid": "14:21",
+        "lenke": "https://www.nrk.no/sport/tromso-bodo_glimt-stoppet-1.18076852",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Nylige eksperimenter med AI-agenter avslører en risikabel fremtid for maskinsamarbeid i bedrifter",
+        "kilde": "CNBC Top News",
+        "tid": "14:14",
+        "lenke": "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Vi taper mot cottage cheese’: Protein-maxxing-manien gjør vondt i salget av kremost",
+        "kilde": "MarketWatch",
+        "tid": "14:13",
+        "lenke": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Marerittet fortsetter: Sogndal må ut i kvalifiseringsrunde",
+        "kilde": "NRK Nyheter",
+        "tid": "13:55",
+        "lenke": "https://www.nrk.no/vestland/marerittet-fortsetter_-sogndal-ma-ut-i-kvalifiseringsrunde-1.18076767",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "AI-smellen kan treffe fondet ditt",
+        "kilde": "E24",
+        "tid": "13:07",
+        "lenke": "https://e24.no/boers-og-finans/i/9BmrEd/ai-smellen-kan-treffe-fondet-ditt?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Bruke miles til å fly til Thanksgiving? Dette er de dyreste og billigste rutene",
+        "kilde": "CNBC Top News",
+        "tid": "13:00",
+        "lenke": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Europas lysende fremtid",
+        "kilde": "E24",
+        "tid": "11:58",
+        "lenke": "https://e24.no/boers-og-finans/i/bkKb2d/europas-lysende-fremtid?utm_medium=rss",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Person av interesse",
@@ -128,10 +249,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Kongen og kronprinsessen løper maraton i Nice",
+        "tittel": "Kongen fullførte maraton på tiden 4.43.01",
         "kilde": "NRK Nyheter",
         "tid": "11:18",
-        "lenke": "https://www.nrk.no/nyheter/kongen-og-kronprinsessen-loper-maraton-i-nice-1.18076803",
+        "lenke": "https://www.nrk.no/nyheter/kongen-fullforte-maraton-pa-tiden-4.43.01-1.18076803",
         "engelsk_kilde": false
       },
       {
@@ -149,10 +270,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Llama-modellbrikke: 284 B DeepSeek på 64 GB RAM, ingen GPU",
+        "tittel": "Skriving som et tenkeverktøy",
         "kilde": "Hacker News",
-        "tid": "10:22",
-        "lenke": "https://github.com/synchopate/llama-modchip",
+        "tid": "10:41",
+        "lenke": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
         "engelsk_kilde": true
       },
       {
@@ -161,13 +282,6 @@
         "tid": "10:14",
         "lenke": "https://e24.no/boers-og-finans/i/pM648o/spoersmaalet-er-om-vi-staar-overfor-de-daarlige-aarene?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "GitHub nede igjen?",
-        "kilde": "Hacker News",
-        "tid": "09:56",
-        "lenke": "https://github.com/torvalds/linux",
-        "engelsk_kilde": true
       },
       {
         "tittel": "På bilder: Protestene i Frankrike trekker 146 000 mens sammenstøtene bryter ut for fjerde helg på rad",
@@ -184,38 +298,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Vil tappe ned elv for å lage kunstsnø: – Sjokkert over at det i det heile tatt går an å foreslå",
-        "kilde": "NRK Nyheter",
-        "tid": "07:36",
-        "lenke": "https://www.nrk.no/trondelag/vil-tappe-ned-elv-for-a-lage-kunstsno_-_-sjokkert-over-at-det-i-det-heile-tatt-gar-an-a-foresla-1.18069127",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Bør pressen fortelle åpent om etnisk bakgrunn?",
         "kilde": "E24",
         "tid": "07:07",
         "lenke": "https://e24.no/norsk-oekonomi/i/mM6wj4/boer-pressen-fortelle-aapent-om-etnisk-bakgrunn?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Legenden ringte med «uimotståelig» tilbud: – Første gang jeg er ansatt",
-        "kilde": "NRK Nyheter",
-        "tid": "06:54",
-        "lenke": "https://www.nrk.no/trondelag/skoyteloperen-bjorn-magnussen-med-proffkontrakt-i-nederland-1.18070995",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Heidra av Versace og A$AP Rocky: Slik blei Haaland popkulturen sin yndling",
-        "kilde": "NRK Nyheter",
-        "tid": "06:37",
-        "lenke": "https://www.nrk.no/sport/heidra-av-versace-og-a_ap-rocky_-slik-blei-haaland-popkulturen-sin-yndling-1.18073038",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Reagerer på hijab i lærebok for seksåringer",
-        "kilde": "NRK Nyheter",
-        "tid": "06:37",
-        "lenke": "https://www.nrk.no/stor-oslo/barneombudet-reagerer-pa-hijabbruk-i-barnebok-1.18072080",
         "engelsk_kilde": false
       },
       {
@@ -226,13 +312,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Flere skadet etter kraftig jordskjelv sentralt i Japan",
-        "kilde": "NRK Nyheter",
-        "tid": "23:29",
-        "lenke": "https://www.nrk.no/nyheter/flere-skadet-etter-kraftig-jordskjelv-sentralt-i-japan-1.18076688",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Julepølse-strid mellom Rema og staten",
         "kilde": "E24",
         "tid": "23:05",
@@ -240,7 +319,7 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Labubu-hype virket ustoppelig, nå er den myke monstermanien døende",
+        "tittel": "Han brukte $ 50 000 på Labubus, men nå er mani døende",
         "kilde": "BBC Business",
         "tid": "23:02",
         "lenke": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
@@ -265,90 +344,6 @@
         "kilde": "E24",
         "tid": "20:04",
         "lenke": "https://e24.no/naeringsliv/i/2VLR64/to-bilforhandlere-har-gaatt-konkurs?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Her er skattesatsene for kapitalgevinster for 2027 for hvert inntektsnivå",
-        "kilde": "MarketWatch",
-        "tid": "19:48",
-        "lenke": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kostnadene for reseptbelagte medisiner vil øke med 50% i 2027. Å ikke gjøre noe kan koste deg.",
-        "kilde": "MarketWatch",
-        "tid": "19:20",
-        "lenke": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kraftig priskutt for Schumacher-hytta – solgt for 23 mill.",
-        "kilde": "E24",
-        "tid": "19:01",
-        "lenke": "https://e24.no/naeringsliv/i/Jrz2m6/kraftig-priskutt-for-schumacher-hytta-solgt-for-23-mill?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Berkshire-resultatet faller – Abel øker tilbakekjøpene",
-        "kilde": "E24",
-        "tid": "17:48",
-        "lenke": "https://e24.no/boers-og-finans/i/53VzdO/berkshire-resultatet-faller-abel-oeker-tilbakekjoepene?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Jeg er 65 og verdt mer enn $ 5,6 millioner. Har jeg råd til en $ 200 000 bobil?",
-        "kilde": "MarketWatch",
-        "tid": "17:33",
-        "lenke": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "De rikeste 10% av amerikanerne trekker foran alle andre. Det er dette som gjør dem rikere.",
-        "kilde": "MarketWatch",
-        "tid": "17:04",
-        "lenke": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Det føles som om han bygger et eget liv’: Mannen min arvet $ 500 000, men han nekter å bruke det på hjemmet vårt",
-        "kilde": "MarketWatch",
-        "tid": "17:01",
-        "lenke": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "AI ga bolig ekstra sol",
-        "kilde": "E24",
-        "tid": "17:00",
-        "lenke": "https://e24.no/norsk-oekonomi/i/dJ5nbj/ai-ga-bolig-ekstra-sol?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "31 år gammel dumpster-dykker hentet inn $ 140 000 på 12 måneder: Jeg 'gjorde mye mer enn jeg trodde var mulig'",
-        "kilde": "CNBC Top News",
-        "tid": "14:15",
-        "lenke": "https://www.cnbc.com/make-it/2026/11/07/dumpster-diver-resale-business.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "– Ikke vedta regler som kan gi dyrere mat",
-        "kilde": "E24",
-        "tid": "14:14",
-        "lenke": "https://e24.no/naeringsliv/i/Ogv5nb/ikke-vedta-regler-som-kan-gi-dyrere-mat?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Mark Cuban sier at han ikke gir faen i å øke sin nettoverdi - et sunt tankesett også for ikke-milliardærer, sier en finansiell terapeut",
-        "kilde": "CNBC Top News",
-        "tid": "14:05",
-        "lenke": "https://www.cnbc.com/make-it/2026/11/07/mark-cuban-net-worth-money-mindset.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Fyller 70 år: – Jeg er mye bedre nå",
-        "kilde": "E24",
-        "tid": "11:55",
-        "lenke": "https://e24.no/norsk-oekonomi/i/0prMJ0/fyller-70-aar-jeg-er-mye-bedre-naa?utm_medium=rss",
         "engelsk_kilde": false
       }
     ]
