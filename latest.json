@@ -1,47 +1,61 @@
 {
   "dato": "2026-11-09",
   "dato_norsk": "Mandag 9. november 2026",
-  "generert_kl": "19:26",
+  "generert_kl": "22:53",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Den varme amerikanske inflasjonen har ikke avtatt. Stigende forbrukerpriser for å holde Fed-renteøkningen på sporet.",
+      "tittel": "En nøkkelrapport for hvor inflasjonen sto i oktober kommer ut tirsdag. Her er hva du kan forvente",
+      "kilde": "CNBC Top News",
+      "tid": "21:03",
+      "lenke": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Federal Reserve Board kunngjør godkjenning av to søknader fra Mutual Federal Bancorp, MHC, og MFB Bancorp, Inc.",
+      "kilde": "Federal Reserve",
+      "tid": "21:00",
+      "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Nvidias Trump-bånd trekker granskning etter rapporter Huang ble målrettet av kinesisk etterretning",
+      "kilde": "CNBC Top News",
+      "tid": "22:40",
+      "lenke": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Når Nvidias aksjer faller, er dette hva Wall Street har å si om Jensen Huang-skandalen",
       "kilde": "MarketWatch",
-      "tid": "18:16",
-      "lenke": "https://www.marketwatch.com/story/hot-u-s-inflation-hasnt-cooled-off-rising-consumer-prices-to-keep-fed-rate-hike-on-track-926c44b0?mod=mw_rss_topstories",
+      "tid": "21:55",
+      "lenke": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Poundland ute av stand til å kjøpe nye aksjer etter hvert som frykten for kollaps vokser",
-      "kilde": "BBC Business",
-      "tid": "16:46",
-      "lenke": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Trump stiller spørsmål ved midtveisvalgresultater, gjenoppliver stemme-maskinkonspirasjon",
-      "kilde": "CNBC Top News",
-      "tid": "18:02",
-      "lenke": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Nvidias administrerende direktør turmoil gir nylig bemyndiget demokrater fersk ammunisjon i jakten på tilsyn",
-      "kilde": "CNBC Top News",
-      "tid": "17:05",
-      "lenke": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "En massiv handel i Nvidia bare gikk av – her er detaljene",
-      "kilde": "CNBC Top News",
-      "tid": "18:37",
-      "lenke": "https://www.cnbc.com/2026/11/09/a-massive-trade-in-nvidia-just-went-off-here-are-the-details.html",
+      "tittel": "Børsmøtet fortsetter å spre seg utover Big Tech. Inflasjonsdata for oktober kan sette det på prøve.",
+      "kilde": "MarketWatch",
+      "tid": "21:24",
+      "lenke": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
+      {
+        "tittel": "Mangel på fisk i Vest-Afrika - blir mat for norsk laks",
+        "kilde": "NRK Nyheter",
+        "tid": "21:06",
+        "lenke": "https://www.nrk.no/urix/xl/mangel-pa-fisk-i-vest-afrika-_-blir-mat-for-norsk-laks-1.18024114",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vil ha forbud i norsk fotball etter tribunekollaps: – En stor skandale",
+        "kilde": "NRK Nyheter",
+        "tid": "19:32",
+        "lenke": "https://www.nrk.no/sport/supportere-reagerer_-ole-kristian-sandvik-mener-norske-stadioner-ikke-tar-sikkerheten-pa-alvor-1.18077066",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Prisveksten: – Norges Bank er bekymret",
         "kilde": "E24",
@@ -52,26 +66,47 @@
     ],
     "MAKRO": [
       {
-        "tittel": "Den varme amerikanske inflasjonen har ikke avtatt. Stigende forbrukerpriser for å holde Fed-renteøkningen på sporet.",
-        "kilde": "MarketWatch",
-        "tid": "18:16",
-        "lenke": "https://www.marketwatch.com/story/hot-u-s-inflation-hasnt-cooled-off-rising-consumer-prices-to-keep-fed-rate-hike-on-track-926c44b0?mod=mw_rss_topstories",
+        "tittel": "3 uventede grunner til at jobbrapporten for oktober var så sterk",
+        "kilde": "CNBC Top News",
+        "tid": "22:23",
+        "lenke": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "En nøkkelrapport for hvor inflasjonen sto i oktober kommer ut tirsdag. Her er hva du kan forvente",
+        "kilde": "CNBC Top News",
+        "tid": "21:03",
+        "lenke": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Federal Reserve Board kunngjør godkjenning av to søknader fra Mutual Federal Bancorp, MHC, og MFB Bancorp, Inc.",
+        "kilde": "Federal Reserve",
+        "tid": "21:00",
+        "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
         "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "Anthropic lanserer de første frontier-modellene siden Amodeis oppfordring til nedbremsing etter hvert som børsnoteringen øker",
-        "kilde": "CNBC Top News",
-        "tid": "19:00",
-        "lenke": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
+        "tittel": "Når Nvidias aksjer faller, er dette hva Wall Street har å si om Jensen Huang-skandalen",
+        "kilde": "MarketWatch",
+        "tid": "21:55",
+        "lenke": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Tror du obligasjonsmarkedet er ødelagt? Historien sier at en massiv snuoperasjon kan komme.",
+        "tittel": "Dow ser sitt tredje sving på 1000 poeng på fire dager. Hvorfor volatiliteten ikke er over ennå.",
         "kilde": "MarketWatch",
-        "tid": "18:26",
-        "lenke": "https://www.marketwatch.com/story/think-the-bond-market-is-broken-history-says-a-massive-turnaround-could-be-coming-dfaae450?mod=mw_rss_topstories",
+        "tid": "21:52",
+        "lenke": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Børsmøtet fortsetter å spre seg utover Big Tech. Inflasjonsdata for oktober kan sette det på prøve.",
+        "kilde": "MarketWatch",
+        "tid": "21:24",
+        "lenke": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -89,64 +124,48 @@
         "engelsk_kilde": false
       }
     ],
-    "ENERGI_RAAVARER": [
-      {
-        "tittel": "Årets dyreste strøm på tirsdag",
-        "kilde": "NRK Nyheter",
-        "tid": "12:59",
-        "lenke": "https://www.nrk.no/rogaland/arets-dyreste-strom-i-morgen-1.18077555",
-        "engelsk_kilde": false
-      }
-    ],
     "TEKNOLOGI": [
       {
-        "tittel": "Jensen Huang exit odds er lave på prediksjonsmarkeder etter Nvidia sonde",
+        "tittel": "Jensen Huang-affæren setter Nvidias fremtid i fare, uten noen klar etterfølger til den anerkjente konsernsjefen",
         "kilde": "CNBC Top News",
-        "tid": "18:46",
-        "lenke": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
+        "tid": "22:40",
+        "lenke": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "En massiv handel i Nvidia bare gikk av – her er detaljene",
+        "tittel": "Nvidias Trump-bånd trekker granskning etter rapporter Huang ble målrettet av kinesisk etterretning",
         "kilde": "CNBC Top News",
-        "tid": "18:37",
-        "lenke": "https://www.cnbc.com/2026/11/09/a-massive-trade-in-nvidia-just-went-off-here-are-the-details.html",
+        "tid": "22:40",
+        "lenke": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Zoe Kleinman: Nvidias administrerende direktørs affære vil forårsake krusninger over hele USA og utover",
+        "kilde": "BBC Business",
+        "tid": "21:52",
+        "lenke": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
         "tittel": "Er AMD og Broadcom de virkelige vinnerne av Nvidia-spionskandalen?",
         "kilde": "MarketWatch",
-        "tid": "18:33",
+        "tid": "21:43",
         "lenke": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nvidia deler tumle over etterforskningen av Huangs affære med angivelig kinesisk spion",
-        "kilde": "BBC Business",
-        "tid": "18:11",
-        "lenke": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
         "tittel": "Nvidias administrerende direktør turmoil gir nylig bemyndiget demokrater fersk ammunisjon i jakten på tilsyn",
         "kilde": "CNBC Top News",
-        "tid": "17:05",
+        "tid": "20:29",
         "lenke": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nvidia faller tungt etter toppsjefens utroskap",
-        "kilde": "E24",
-        "tid": "14:40",
-        "lenke": "https://e24.no/boers-og-finans/i/3Bjaqd/nvidia-faller-tungt-etter-toppsjefens-utroskap?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Utro Nvidia-sjef og stengt strømkø",
-        "kilde": "E24",
-        "tid": "13:06",
-        "lenke": "https://e24.no/naeringsliv/i/z0LorO/utro-nvidia-sjef-og-stengt-stroemkoe?utm_medium=rss",
-        "engelsk_kilde": false
+        "tittel": "Nvidia deler tumle over etterforskningen av Huangs affære med angivelig kinesisk spion",
+        "kilde": "BBC Business",
+        "tid": "19:58",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
       },
       {
         "tittel": "Hva vet vi om Nvidias administrerende direktørs affære med en mistenkt kinesisk spion?",
@@ -158,16 +177,9 @@
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Millioner av dollar strømmet inn i prediksjonsmarkeder på valgkvelden, og handlet på demokratisk kontroll av kongressen og Texas-guvernørens rase",
-        "kilde": "CNBC Top News",
-        "tid": "19:03",
-        "lenke": "https://www.cnbc.com/2026/11/09/millions-of-dollars-poured-into-prediction-markets-on-election-night.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Trump stiller spørsmål ved midtveisvalgresultater, gjenoppliver stemme-maskinkonspirasjon",
         "kilde": "CNBC Top News",
-        "tid": "18:02",
+        "tid": "22:40",
         "lenke": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
         "engelsk_kilde": true
       },
@@ -181,18 +193,144 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "Honda investerer $ 3 milliarder i ny bilmonteringsfabrikk i Ohio",
-        "kilde": "CNBC Top News",
-        "tid": "18:59",
-        "lenke": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html",
+        "tittel": "Rocket Lab aksjedykk etter at selskapets \"definerende\" kvartal bommer på merket",
+        "kilde": "MarketWatch",
+        "tid": "22:49",
+        "lenke": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Claude Fable 5.2 og Mythos 5.2",
-        "kilde": "Hacker News",
-        "tid": "18:56",
-        "lenke": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+        "tittel": "Slik ønsker Bernie Sanders å beholde trygdeløsningsmidlet ‘i generasjoner’",
+        "kilde": "MarketWatch",
+        "tid": "22:49",
+        "lenke": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hegseth impeachment artikler introdusert av Rep. Massie",
+        "kilde": "CNBC Top News",
+        "tid": "22:41",
+        "lenke": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Et år etter 100% AI-mandatet er det ingen som forstår koden vår",
+        "kilde": "Hacker News",
+        "tid": "22:19",
+        "lenke": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "TPU-er",
+        "kilde": "Hacker News",
+        "tid": "21:56",
+        "lenke": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "\"Vi hadde den verste krangelen\": Jeg vil at mannen min skal gå av med pensjon som 65-åring, men jeg vil ikke miste lønnen på 280 000 $. Er det urimelig?",
+        "kilde": "MarketWatch",
+        "tid": "21:45",
+        "lenke": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Skydance skisserer sine $ 6 milliarder i planlagte kostnadsbesparelser. Her er oversikten",
+        "kilde": "CNBC Top News",
+        "tid": "21:28",
+        "lenke": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "– Forsikrings­selskapene tjener mer penger",
+        "kilde": "E24",
+        "tid": "21:25",
+        "lenke": "https://e24.no/privatoekonomi/i/BMp88Q/forsikringsselskapene-tjener-mer-penger?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "En mislykket studie for et hjertemedikament kaster skygge over rivaler som utvikler lignende behandlinger",
+        "kilde": "MarketWatch",
+        "tid": "21:21",
+        "lenke": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Forsyningskjedeangrep på Qubole-kunder",
+        "kilde": "Hacker News",
+        "tid": "21:07",
+        "lenke": "https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Barnas stedsfiler for konkursbeskyttelse, søker kjøper",
+        "kilde": "CNBC Top News",
+        "tid": "20:57",
+        "lenke": "https://www.cnbc.com/2026/11/09/childrens-place-chapter-11-sale.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "PepsiCo vil kutte rundt 1000 arbeidsplasser etter hvert som nordamerikanske bedrifter sliter",
+        "kilde": "CNBC Top News",
+        "tid": "20:41",
+        "lenke": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ble nabolagets helt: Eliah (19) reddet både hund og hus fra brann",
+        "kilde": "NRK Nyheter",
+        "tid": "20:39",
+        "lenke": "https://www.nrk.no/ostfold/eliah-_19_-reddet-bade-hund-og-hus-fra-brann-i-orje-1.18077725",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Spår reduserte AI-investeringer",
+        "kilde": "E24",
+        "tid": "20:21",
+        "lenke": "https://e24.no/boers-og-finans/i/QgpkgQ/spaar-reduserte-ai-investeringer?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Moesgaard med tirade etter Vålerenga-tap: – Sjokkerende lite beskyttende overfor spillerne",
+        "kilde": "NRK Nyheter",
+        "tid": "20:13",
+        "lenke": "https://www.nrk.no/sport/eliteserien_-valerenga-trener-johannes-moesgaard-med-tirade-etter-tapet-mot-kristiansund-1.18077889",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Claude Fable 5.2 skårer 65 på kunstig analyse, høyest så langt",
+        "kilde": "Hacker News",
+        "tid": "20:04",
+        "lenke": "https://artificialanalysis.ai/models/claude-fable-5-2",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "USPS tilbyr nå offisielle postnummergrensepolygoner",
+        "kilde": "Hacker News",
+        "tid": "19:58",
+        "lenke": "https://postalpro.usps.com/zcb",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvem er Alice Huang?",
+        "kilde": "E24",
+        "tid": "19:53",
+        "lenke": "https://e24.no/boers-og-finans/i/oMRgMK/hvem-er-alice-huang?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Brått fall i oljeprisen",
+        "kilde": "E24",
+        "tid": "19:45",
+        "lenke": "https://e24.no/boers-og-finans/i/0B5rAG/braatt-fall-i-oljeprisen?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Republikaner fremmer riksrettsforslag mot forsvarsminister Pete Hegseth",
+        "kilde": "NRK Nyheter",
+        "tid": "19:34",
+        "lenke": "https://www.nrk.no/nyheter/republikaner-fremmer-riksrettsforslag-mot-forsvarsminister-pete-hegseth-1.18077871",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Hvordan en tjenestemann slapp unna med å sjonglere fem jobber så lenge",
@@ -202,88 +340,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Vis HN: MeowDisplay er iPhone Mirroring, men i revers",
-        "kilde": "Hacker News",
-        "tid": "18:39",
-        "lenke": "https://meowdisplay.app/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "DeepX hevder inferens opptil 100B parametere ved mindre enn 5 W",
-        "kilde": "Hacker News",
-        "tid": "18:33",
-        "lenke": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "For mange menn lider i stillhet, finner nasjonal helserapport (Canada)",
-        "kilde": "Hacker News",
-        "tid": "18:27",
-        "lenke": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Infineon markerer innovasjonsmilepæl med 300 mm kraft silisiumkarbidskive",
-        "kilde": "Hacker News",
-        "tid": "18:25",
-        "lenke": "https://www.infineon.com/press-release/2026/infpr202611-028",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Boeing kutter 5% av kommersielle flyarbeidere ettersom produksjonsøkningen tar lengre tid enn forventet",
-        "kilde": "CNBC Top News",
-        "tid": "18:16",
-        "lenke": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Goldman CEO Solomon sier at AI-finansiering fortsatt er sterk til tross for markedsjitters",
-        "kilde": "CNBC Top News",
-        "tid": "18:14",
-        "lenke": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Begravelsesbyråer finner nytt liv som vert for bryllup og golfutflukter, etter hvert som den tradisjonelle begravelsesvirksomheten dør ut",
-        "kilde": "MarketWatch",
-        "tid": "18:11",
-        "lenke": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hans, min eller vår? Jeg er 53 og ikke sikker på hvordan jeg skal håndtere sammenslåing av økonomi med min langsiktige partner.",
-        "kilde": "MarketWatch",
-        "tid": "18:08",
-        "lenke": "https://www.marketwatch.com/story/his-mine-or-ours-im-53-and-not-sure-how-to-handle-merging-finances-with-my-long-term-partner-4c34c914?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Økokrim mottok hackermateriale - kunne ikke bruke det",
         "kilde": "E24",
         "tid": "18:01",
         "lenke": "https://e24.no/naeringsliv/i/Oyn5kl/oekokrim-mottok-hackermateriale-kunne-ikke-bruke-det?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "\"Vi hadde den verste krangelen\": Jeg vil at mannen min skal gå av med pensjon som 65-åring, men jeg vil ikke miste lønnen på 280 000 $. Er det urimelig?",
-        "kilde": "MarketWatch",
-        "tid": "18:00",
-        "lenke": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Ozempic, Zepbound og andre GLP-1-legemidler har en mulig risiko for synstap",
-        "kilde": "MarketWatch",
-        "tid": "17:52",
-        "lenke": "https://www.marketwatch.com/story/ozempic-zepbound-and-other-glp-1-drugs-have-a-possible-risk-of-vision-loss-b3738f36?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Skal en enke forlate sin avdøde partners hjem til stebarna sine — eller kutte kontakten med dem?",
-        "kilde": "MarketWatch",
-        "tid": "17:30",
-        "lenke": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Offentlig tjenestemann som i hemmelighet holdt fem jobber funnet skyldig i svindel",
@@ -300,7 +361,7 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Russisk Nussir-eier ga feil informasjon om Moskva-exit",
+        "tittel": "Sa han dro fra Russland i 2013 – ble intervjuet i Moskva tre år etter",
         "kilde": "NRK Nyheter",
         "tid": "16:59",
         "lenke": "https://www.nrk.no/tromsogfinnmark/russisk-nussir-eier-ga-feil-informasjon-om-moskva-exit-1.18077614",
@@ -332,62 +393,6 @@
         "kilde": "E24",
         "tid": "15:20",
         "lenke": "https://e24.no/naeringsliv/i/pM6aVV/fellesforbundet-varsler-sympatistreik-til-stoette-for-sas-link-kabinansatte?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Disse statene tilbyr ekstra ACA-premiesubsidier i 2027",
-        "kilde": "CNBC Top News",
-        "tid": "13:00",
-        "lenke": "https://www.cnbc.com/2026/11/09/aca-state-subsidies-2027.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Boligannonse fikk ekstra sjøutsikt og kirkespir",
-        "kilde": "E24",
-        "tid": "12:28",
-        "lenke": "https://e24.no/naeringsliv/i/mM6beO/boligannonse-fikk-ekstra-sjoeutsikt-og-kirkespir?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Politiet fann samling på 7400 fugleegg hos mann i 50-åra",
-        "kilde": "NRK Nyheter",
-        "tid": "12:25",
-        "lenke": "https://www.nrk.no/rogaland/mann-tiltalt-for-a-ha-kjopt-rundt-1500-freda-fugleegg-1.18077364",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Regjeringens EV-mål forventes å bli redusert denne uken",
-        "kilde": "BBC Business",
-        "tid": "12:06",
-        "lenke": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Skyr tankaksjer: – Ikke bærekraftig",
-        "kilde": "E24",
-        "tid": "12:02",
-        "lenke": "https://e24.no/boers-og-finans/i/dJde3w/skyr-tankaksjer-ikke-baerekraftig?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Her henger bilen på kanten av kvikkleireskredet: Veien kan bli stengt i flere uker",
-        "kilde": "NRK Nyheter",
-        "tid": "11:50",
-        "lenke": "https://www.nrk.no/tromsogfinnmark/ras-pa-fylkesvei-i-malselv-1.18077445",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Jeanett blei del av statistikken: – Skulle vere ei av dei som klarte alt",
-        "kilde": "NRK Nyheter",
-        "tid": "11:46",
-        "lenke": "https://www.nrk.no/nordland/sjukemelding-av-modrer-og-fedrar-_-jeanett-meiner-kvinner-med-barn-bor-fa-kortare-arbeidsdag-1.18070653",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Politiet etterforsker tribunekollapsen i Tromsø som en straffesak",
-        "kilde": "NRK Nyheter",
-        "tid": "11:43",
-        "lenke": "https://www.nrk.no/tromsogfinnmark/politiet-undersoker-tribunekollapsen-pa-romssa-arena-1.18077457",
         "engelsk_kilde": false
       },
       {
