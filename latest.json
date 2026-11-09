@@ -1,98 +1,149 @@
 {
   "dato": "2026-11-09",
   "dato_norsk": "Mandag 9. november 2026",
-  "generert_kl": "00:39",
+  "generert_kl": "13:42",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Trump sier at fornyet Iran streiker \"svært usannsynlig\" hvis samtalene går fremover, men advarer om at han fortsatt kan slå til",
+      "tittel": "Nvidia-aksjen faller 5% etter hvert som granskingen dreier seg om Jensen Huangs forhold til påstått kinesisk spion",
       "kilde": "CNBC Top News",
-      "tid": "21:53",
-      "lenke": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
+      "tid": "13:32",
+      "lenke": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Nvidia etterforsker administrerende direktør Jensen Huangs forhold til påstått kinesisk spion",
+      "tittel": "Nvidias administrerende direktør turmoil gir nylig bemyndiget demokrater fersk ammunisjon i jakten på tilsyn",
       "kilde": "CNBC Top News",
-      "tid": "22:53",
-      "lenke": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+      "tid": "13:13",
+      "lenke": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Et nytt tilbakeslag for AI-handelen: Nvidias styre undersøker administrerende direktør Huangs forhold til påstått spion",
+      "tittel": "Et nytt tilbakeslag for AI-handelen: Nvidias styre undersøker administrerende direktør Huangs forhold til en påstått spion",
       "kilde": "MarketWatch",
-      "tid": "23:05",
+      "tid": "12:26",
       "lenke": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Nvidia lanserer etterforskning av konsernsjefens affære med mistenkt kinesisk spion",
-      "kilde": "BBC Business",
-      "tid": "00:16",
-      "lenke": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+      "tittel": "Kan AI-handelen ta en pause? Nvidia, Anthropic og CoreWeave kan ha noe å si.",
+      "kilde": "MarketWatch",
+      "tid": "12:08",
+      "lenke": "https://www.marketwatch.com/story/can-the-ai-trade-catch-a-break-nvidia-anthropic-and-coreweave-may-have-a-say-d00c9ab3?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Nvidias administrerende direktør Jensen Huangs brev til ansatte om affære",
-      "kilde": "Hacker News",
-      "tid": "22:20",
-      "lenke": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
-      "engelsk_kilde": true
+      "tittel": "Utro Nvidia-sjef og stengt strømkø",
+      "kilde": "E24",
+      "tid": "13:06",
+      "lenke": "https://e24.no/naeringsliv/i/z0LorO/utro-nvidia-sjef-og-stengt-stroemkoe?utm_medium=rss",
+      "engelsk_kilde": false
     }
   ],
   "kategorier": {
+    "NORGE": [
+      {
+        "tittel": "Tribunekollapser skaper bekymring i norsk fotball: – Kan få alvorlige konsekvenser",
+        "kilde": "NRK Nyheter",
+        "tid": "07:03",
+        "lenke": "https://www.nrk.no/sport/oversikt_-tribunekollapsene-i-norsk-fotball-skaper-bekymring_-_-kan-fa-alvorlige-konsekvenser-1.18077127",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Norge gir 600 regnskogmillioner til Brasil",
+        "kilde": "NRK Nyheter",
+        "tid": "05:00",
+        "lenke": "https://www.nrk.no/nyheter/norge-gir-600-regnskogmillioner-til-brasil-1.18077109",
+        "engelsk_kilde": false
+      }
+    ],
     "MARKEDER": [
       {
-        "tittel": "Du følger reglene for smart aksjehandel. Men er det de riktige reglene?",
+        "tittel": "Bedrifts-Amerikas fortjenestetall bare knapt slår Wall Streets forventninger",
         "kilde": "MarketWatch",
-        "tid": "23:15",
-        "lenke": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
+        "tid": "13:36",
+        "lenke": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Den største takeawayen fra Berkshire Hathaways siste kvartal er ikke kontanter på $ 357 milliarder eller tilbakekjøp av aksjer",
+        "kilde": "MarketWatch",
+        "tid": "12:27",
+        "lenke": "https://www.marketwatch.com/story/the-biggest-takeaway-from-berkshire-hathaways-latest-quarter-isnt-the-357-billion-cash-or-its-stock-buybacks-3069f6a9?mod=mw_rss_topstories",
         "engelsk_kilde": true
       }
     ],
     "ENERGI_RAAVARER": [
       {
-        "tittel": "Ønskene om kraft: – Spinnvilt mye",
+        "tittel": "Statnett: Midlertidig stans i kraft til datasentre",
         "kilde": "E24",
-        "tid": "15:25",
-        "lenke": "https://e24.no/energi-og-klima/i/MAzdjJ/oenskene-om-kraft-spinnvilt-mye?utm_medium=rss",
+        "tid": "07:50",
+        "lenke": "https://e24.no/energi-og-klima/i/Pv38Rb/statnett-midlertidig-stans-i-kraft-til-datasentre?utm_medium=rss",
         "engelsk_kilde": false
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Nvidia lanserer etterforskning av konsernsjefens affære med mistenkt kinesisk spion",
-        "kilde": "BBC Business",
-        "tid": "00:16",
-        "lenke": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+        "tittel": "Nvidia-aksjen faller 5% etter hvert som granskingen dreier seg om Jensen Huangs forhold til påstått kinesisk spion",
+        "kilde": "CNBC Top News",
+        "tid": "13:32",
+        "lenke": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Et nytt tilbakeslag for AI-handelen: Nvidias styre undersøker administrerende direktør Huangs forhold til påstått spion",
+        "tittel": "Nvidias administrerende direktør turmoil gir nylig bemyndiget demokrater fersk ammunisjon i jakten på tilsyn",
+        "kilde": "CNBC Top News",
+        "tid": "13:13",
+        "lenke": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Utro Nvidia-sjef og stengt strømkø",
+        "kilde": "E24",
+        "tid": "13:06",
+        "lenke": "https://e24.no/naeringsliv/i/z0LorO/utro-nvidia-sjef-og-stengt-stroemkoe?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Et nytt tilbakeslag for AI-handelen: Nvidias styre undersøker administrerende direktør Huangs forhold til en påstått spion",
         "kilde": "MarketWatch",
-        "tid": "23:05",
+        "tid": "12:26",
         "lenke": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nvidia etterforsker administrerende direktør Jensen Huangs forhold til påstått kinesisk spion",
-        "kilde": "CNBC Top News",
-        "tid": "22:53",
-        "lenke": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+        "tittel": "Kan AI-handelen ta en pause? Nvidia, Anthropic og CoreWeave kan ha noe å si.",
+        "kilde": "MarketWatch",
+        "tid": "12:08",
+        "lenke": "https://www.marketwatch.com/story/can-the-ai-trade-catch-a-break-nvidia-anthropic-and-coreweave-may-have-a-say-d00c9ab3?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nvidias administrerende direktør Jensen Huangs brev til ansatte om affære",
+        "tittel": "Timer med YouTube og 85 håndskrevne sider med notater om LLM Inference – Start her",
         "kilde": "Hacker News",
-        "tid": "22:20",
-        "lenke": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+        "tid": "11:36",
+        "lenke": "https://github.com/samir-sarwar/samir-vllm",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nvidia frykter toppsjefen ble forført av en spion",
+        "tittel": "Nvidia lanserer etterforskning av konsernsjefens affære med mistenkt kinesisk spion",
+        "kilde": "BBC Business",
+        "tid": "08:10",
+        "lenke": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hva vet vi om Nvidias administrerende direktørs affære med en mistenkt kinesisk spion?",
+        "kilde": "BBC Business",
+        "tid": "07:10",
+        "lenke": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nvidia-sjefen var utro med mistenkt spion – aksjen barbert med 2.100 mrd.",
         "kilde": "E24",
-        "tid": "20:15",
-        "lenke": "https://e24.no/boers-og-finans/i/Jn1Ay8/nvidia-gransker-mulig-spionaksjon-mot-toppsjefen-jeg-var-utro-mot-min-kone-innroemmer-jensen-huang?utm_medium=rss",
+        "tid": "05:29",
+        "lenke": "https://e24.no/boers-og-finans/i/ez1Ldg/trump-stoetter-nvidia-sjefen-etter-utroskap-med-mistenkt-spion?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
@@ -101,28 +152,14 @@
         "tid": "14:00",
         "lenke": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Amazons Astro-hjemmerobot har vifter, men ser ut til å være ment for søppelhaugen.' Derfor prøver den igjen",
-        "kilde": "CNBC Top News",
-        "tid": "13:00",
-        "lenke": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
-        "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Trump sier at fornyet Iran streiker \"svært usannsynlig\" hvis samtalene går fremover, men advarer om at han fortsatt kan slå til",
+        "tittel": "Kongressen kommer tilbake med statlig finansiering, Pete Hegseth og gjeldsgrensen på agendaen",
         "kilde": "CNBC Top News",
-        "tid": "21:53",
-        "lenke": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Demokratene forsterker Trumps etterforskningstrusler, Blanche kontrer at han kan undersøke lovgivere",
-        "kilde": "CNBC Top News",
-        "tid": "18:57",
-        "lenke": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
+        "tid": "11:00",
+        "lenke": "https://www.cnbc.com/2026/11/09/congress-government-funding-debt-limit-elections.html",
         "engelsk_kilde": true
       },
       {
@@ -135,11 +172,193 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "Jeg gjetter på rådgiveren min: Er en livrente det rette trekket i dette markedet?",
+        "tittel": "Min 93 år gamle far forandret testamentet sitt i ellevte time, og etterlot broren hele boet sitt på $ 500 000. Kan jeg utfordre det?",
         "kilde": "MarketWatch",
-        "tid": "00:30",
-        "lenke": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+        "tid": "13:30",
+        "lenke": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Pensjonering er nå en del av overkommelighetskrisen. Politikere bør være oppmerksomme.",
+        "kilde": "MarketWatch",
+        "tid": "13:30",
+        "lenke": "https://www.marketwatch.com/story/retirement-is-now-part-of-the-affordability-crisis-politicians-should-pay-attention-2923b2d7?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kan kosttilskudd være den neste store muligheten i GLP-1 vekt-tap narkotika boom?",
+        "kilde": "CNBC Top News",
+        "tid": "13:27",
+        "lenke": "https://www.cnbc.com/2026/11/09/novonesis-glp1-weight-loss-drugs-supplements-probiotics.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Det vi vet så langt om Jensen Huangs affære med mistenkt kinesisk spion",
+        "kilde": "BBC Business",
+        "tid": "13:10",
+        "lenke": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Disse statene tilbyr ekstra ACA-premiesubsidier i 2027",
+        "kilde": "CNBC Top News",
+        "tid": "13:00",
+        "lenke": "https://www.cnbc.com/2026/11/09/aca-state-subsidies-2027.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Mennesker vil aldri mer lage et prosjekt som Wikipedia",
+        "kilde": "Hacker News",
+        "tid": "12:30",
+        "lenke": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Boligannonse fikk ekstra sjøutsikt og kirkespir",
+        "kilde": "E24",
+        "tid": "12:28",
+        "lenke": "https://e24.no/naeringsliv/i/mM6beO/boligannonse-fikk-ekstra-sjoeutsikt-og-kirkespir?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Politiet fann samling på 7400 fugleegg hos mann i 50-åra",
+        "kilde": "NRK Nyheter",
+        "tid": "12:25",
+        "lenke": "https://www.nrk.no/rogaland/mann-tiltalt-for-a-ha-kjopt-rundt-1500-freda-fugleegg-1.18077364",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Brett sammen episke papirfly",
+        "kilde": "Hacker News",
+        "tid": "12:19",
+        "lenke": "https://www.foldableflight.com",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Det føles som om han bygger et eget liv’: Mannen min arvet $ 500 000, men han nekter å bruke det på hjemmet vårt",
+        "kilde": "MarketWatch",
+        "tid": "12:15",
+        "lenke": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Regjeringens EV-mål forventes å bli redusert denne uken",
+        "kilde": "BBC Business",
+        "tid": "12:06",
+        "lenke": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Skyr tankaksjer: – Ikke bærekraftig",
+        "kilde": "E24",
+        "tid": "12:02",
+        "lenke": "https://e24.no/boers-og-finans/i/dJde3w/skyr-tankaksjer-ikke-baerekraftig?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Restaurantkjeder fokuserer på matkvalitet for å bringe gjestene tilbake",
+        "kilde": "CNBC Top News",
+        "tid": "12:00",
+        "lenke": "https://www.cnbc.com/2026/11/09/restaurant-chains-better-food-diners.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "CoreWeave konfronterer \"doom cycle\" narrativ som neocloud kredittrisiko overskygger vekst",
+        "kilde": "CNBC Top News",
+        "tid": "12:00",
+        "lenke": "https://www.cnbc.com/2026/11/09/coreweave-debt-credit-risk-neoclouds.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Prøv Gleam",
+        "kilde": "Hacker News",
+        "tid": "11:55",
+        "lenke": "https://nchagnet.eu/blog/you-should-try-gleam",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Her henger bilen på kanten av kvikkleireskredet: Evakuerer hytter og hus",
+        "kilde": "NRK Nyheter",
+        "tid": "11:50",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/ras-pa-fylkesvei-i-malselv-1.18077445",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Jeanett blei del av statistikken: – Skulle vere ei av dei som klarte alt",
+        "kilde": "NRK Nyheter",
+        "tid": "11:46",
+        "lenke": "https://www.nrk.no/nordland/sjukemelding-av-modrer-og-fedrar-_-jeanett-meiner-kvinner-med-barn-bor-fa-kortare-arbeidsdag-1.18070653",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Hva gjør Malloc, forresten?",
+        "kilde": "Hacker News",
+        "tid": "11:31",
+        "lenke": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Inntil AI-sentimentet forbedres, er det bedre å sitte utenfor den globale teknologibransjen, forteller Citi investorer",
+        "kilde": "MarketWatch",
+        "tid": "11:25",
+        "lenke": "https://www.marketwatch.com/story/until-sentiment-in-the-ai-trade-improves-citi-tells-investors-its-better-to-sit-out-the-global-tech-trade-ed939f30?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Rubio ser lite håp om diplomatisk gjennombrudd til mellomøstlig fastlåsthet midt i 'opprørende' iranske krav",
+        "kilde": "CNBC Top News",
+        "tid": "11:09",
+        "lenke": "https://www.cnbc.com/2026/11/09/us-iran-war-trump-hormuz.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Datasentergrep: Frykter «politisk og byråkratisk kaos»",
+        "kilde": "E24",
+        "tid": "10:53",
+        "lenke": "https://e24.no/naeringsliv/i/mM6bxp/datasentergrep-frykter-politisk-og-byraakratisk-kaos?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Datasentre: Dette er regjeringens hovedgrep",
+        "kilde": "E24",
+        "tid": "08:36",
+        "lenke": "https://e24.no/energi-og-klima/i/3Bj0kX/datasentre-vil-ha-konsesjonsordning?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Haalands millionbok er på plass i hjembyen: – Jeg og sønnen min er litt impulsive",
+        "kilde": "NRK Nyheter",
+        "tid": "08:35",
+        "lenke": "https://www.nrk.no/rogaland/millionbok-gaven-fra-erling-braut-haaland-har-ankommet-biblioteket-1.18076031",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Autostore stiger kraftig etter ny kjøpsanbefaling",
+        "kilde": "E24",
+        "tid": "08:00",
+        "lenke": "https://e24.no/boers-og-finans/i/ez1gpO/oppgang-paa-oslo-boers?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Statnett setter bremsene på for nye datasentre frem til sommeren 2027",
+        "kilde": "NRK Nyheter",
+        "tid": "07:49",
+        "lenke": "https://www.nrk.no/nyheter/statnett-setter-bremsene-pa-for-nye-datasentre-frem-til-sommeren-2027-1.18077188",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Analytikere: Dette bør du vite før DNBs kapitalmarkedsdag",
+        "kilde": "E24",
+        "tid": "05:12",
+        "lenke": "https://e24.no/boers-og-finans/i/X9GnEE/analytikere-dette-boer-du-vite-foer-dnbs-kapitalmarkedsdag?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "«Real Cash Out»",
+        "kilde": "E24",
+        "tid": "04:00",
+        "lenke": "https://e24.no/naeringsliv/i/gk59BL/real-cash-out?utm_medium=rss",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Å gjøre disse tingene nå vil hjelpe deg med å spare penger i julen",
@@ -149,213 +368,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "‘Det føles som om han bygger et eget liv’: Mannen min arvet $ 500 000, men han nekter å bruke det på hjemmet vårt",
-        "kilde": "MarketWatch",
-        "tid": "00:02",
-        "lenke": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Begravelsesbyråer finner nytt liv som vert for bryllup og golfutflukter, etter hvert som den tradisjonelle begravelsesvirksomheten dør ut",
-        "kilde": "MarketWatch",
-        "tid": "00:00",
-        "lenke": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvor mye i Roth-konverteringer kan du gjøre i 2027 med de nye skatteparentesene?",
-        "kilde": "MarketWatch",
-        "tid": "23:50",
-        "lenke": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg er 65 og verdt mer enn $ 5,6 millioner. Har jeg råd til en $ 200 000 bobil?",
-        "kilde": "MarketWatch",
-        "tid": "23:49",
-        "lenke": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Denne pensjonerte professoren har gjenoppfunnet seg selv — som en Taylor Swift-lærd",
-        "kilde": "MarketWatch",
-        "tid": "23:35",
-        "lenke": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Herb Sutter: Når et språks skaper og dets eiere er sterkt uenige [pdf]",
-        "kilde": "Hacker News",
-        "tid": "23:28",
-        "lenke": "https://isocpp.org/files/papers/P4454R0.pdf",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Chimera vokalsynth",
-        "kilde": "Hacker News",
-        "tid": "22:36",
-        "lenke": "https://chimera-vocal-synth.vercel.app/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "KetchUp – Open-source SketchUp-alternativ bygget med Rust og WebGPU",
-        "kilde": "Hacker News",
-        "tid": "22:35",
-        "lenke": "https://ketchup3d.github.io/app/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "NFF ba om gjennomgang: Tromsø kontrollerte tribunen dager før kollaps",
-        "kilde": "NRK Nyheter",
-        "tid": "21:39",
-        "lenke": "https://www.nrk.no/sport/nff-ba-om-gjennomgang_-tromso-kontrollerte-tribunen-dager-for-kollaps-1.18077071",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Spør HN: Hva jobber du med? (november 2026)",
-        "kilde": "Hacker News",
-        "tid": "21:20",
-        "lenke": "https://news.ycombinator.com/item?id=50417407",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Venter på signaler: – Kan snu opp ned på hele regnestykket",
-        "kilde": "E24",
-        "tid": "21:01",
-        "lenke": "https://e24.no/boers-og-finans/i/qOnMOg/venter-paa-signaler-kan-snu-opp-ned-paa-hele-regnestykket?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Aursnes melder forfall til landslagssamlingen",
-        "kilde": "NRK Nyheter",
-        "tid": "20:02",
-        "lenke": "https://www.nrk.no/sport/aursnes-melder-forfall-til-landslagssamlingen-1.18077034",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "– Når du setter på taklampe, er det ikke en VIP-bil lenger",
-        "kilde": "E24",
-        "tid": "19:00",
-        "lenke": "https://e24.no/naeringsliv/i/eGbr4R/naar-du-setter-paa-taklampe-er-det-ikke-en-vip-bil-lenger?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Fikk nedrykksspørsmål: – Jeg liker ikke situasjonen",
-        "kilde": "NRK Nyheter",
-        "tid": "18:30",
-        "lenke": "https://www.nrk.no/sport/manchester-united-reddet-poeng-mot-aston-villa_-men-ekspertene-lar-seg-ikke-imponere-1.18076937",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Anne har fluktruten klar i tilfelle sønnen kommer hjem",
-        "kilde": "NRK Nyheter",
-        "tid": "18:21",
-        "lenke": "https://www.nrk.no/dokumentar/xl/hun-frykter-sitt-eget-barn-1.18057081",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Datt gjennom tribunen: – Heldigvis bare ribbeinsbrudd",
-        "kilde": "NRK Nyheter",
-        "tid": "17:20",
-        "lenke": "https://www.nrk.no/tromsogfinnmark/sigurd-brakk-ribbeinet-etter-at-han-datt-gjennom-tribunen-pa-romssa-arena-i-tromso-1.18076953",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Meldinger avslører kriminelt nettverk: – Ekstremt provoserende",
-        "kilde": "E24",
-        "tid": "17:00",
-        "lenke": "https://e24.no/naeringsliv/i/31LnBe/meldinger-avsloerer-kriminelt-nettverk-ekstremt-provoserende?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Regjeringen «ser alvorlig» på å forby barn under 16 år fra Vinted og eBay",
         "kilde": "BBC Business",
         "tid": "15:37",
         "lenke": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nordmenns favorittaksjer: – Priset på tro, håp og kjærlighet",
-        "kilde": "E24",
-        "tid": "15:20",
-        "lenke": "https://e24.no/boers-og-finans/i/QgpbK4/nordmenns-favorittaksjer-priset-paa-tro-haap-og-kjaerlighet?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Den nye AUF-lederen vil splitte opp dagligvare­gigantene",
-        "kilde": "E24",
-        "tid": "15:01",
-        "lenke": "https://e24.no/naeringsliv/i/lKGq7y/den-nye-auf-lederen-vil-splitte-opp-dagligvaregigantene?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Politiet oppretter straffesak mot mann som trengte seg inn hos Høiby",
-        "kilde": "NRK Nyheter",
-        "tid": "14:33",
-        "lenke": "https://www.nrk.no/nyheter/politiet-oppretter-straffesak-mot-mann-som-trengte-seg-inn-hos-hoiby-1.18076838",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Sendt til sykehus etter tribunedramatikk: – Det er helt forferdelig",
-        "kilde": "NRK Nyheter",
-        "tid": "14:21",
-        "lenke": "https://www.nrk.no/sport/tromso---bodo_glimt-stoppet-etter-dramatikk-pa-bortetribunen-_-en-person-ble-sendt-til-sykehus-1.18076852",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Nylige eksperimenter med AI-agenter avslører en risikabel fremtid for maskinsamarbeid i bedrifter",
-        "kilde": "CNBC Top News",
-        "tid": "14:14",
-        "lenke": "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Marerittet fortsetter: Sogndal må ut i kvalifiseringsrunde",
-        "kilde": "NRK Nyheter",
-        "tid": "13:55",
-        "lenke": "https://www.nrk.no/vestland/marerittet-fortsetter_-sogndal-ma-ut-i-kvalifiseringsrunde-1.18076767",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "AI-smellen kan treffe fondet ditt",
-        "kilde": "E24",
-        "tid": "13:07",
-        "lenke": "https://e24.no/boers-og-finans/i/9BmrEd/ai-smellen-kan-treffe-fondet-ditt?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Bruke miles til å fly til Thanksgiving? Dette er de dyreste og billigste rutene",
-        "kilde": "CNBC Top News",
-        "tid": "13:00",
-        "lenke": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Europas lysende fremtid",
-        "kilde": "E24",
-        "tid": "11:58",
-        "lenke": "https://e24.no/boers-og-finans/i/bkKb2d/europas-lysende-fremtid?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "– Spørsmålet er om vi står overfor «de dårlige årene»",
-        "kilde": "E24",
-        "tid": "10:14",
-        "lenke": "https://e24.no/boers-og-finans/i/pM648o/spoersmaalet-er-om-vi-staar-overfor-de-daarlige-aarene?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "På bilder: Protestene i Frankrike trekker 146 000 mens sammenstøtene bryter ut for fjerde helg på rad",
-        "kilde": "CNBC Top News",
-        "tid": "09:29",
-        "lenke": "https://www.cnbc.com/2026/11/08/france-protests-clashes-arrests.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Cathie Wood \"føler seg alltid bedre når markedet er bekymret\" — her er hvorfor",
-        "kilde": "CNBC Top News",
-        "tid": "06:00",
-        "lenke": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
         "engelsk_kilde": true
       }
     ]
