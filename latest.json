@@ -1,52 +1,52 @@
 {
-  "dato": "2026-11-08",
-  "dato_norsk": "Søndag 8. november 2026",
-  "generert_kl": "20:49",
+  "dato": "2026-11-09",
+  "dato_norsk": "Mandag 9. november 2026",
+  "generert_kl": "00:39",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Nvidias administrerende direktør Jensen Huang står overfor tverrpolitisk kongressgransking over rapportert Kina-spionkobling",
+      "tittel": "Trump sier at fornyet Iran streiker \"svært usannsynlig\" hvis samtalene går fremover, men advarer om at han fortsatt kan slå til",
       "kilde": "CNBC Top News",
-      "tid": "18:18",
-      "lenke": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
+      "tid": "21:53",
+      "lenke": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Demokratene forsterker Trumps etterforskningstrusler, Blanche kontrer at han kan undersøke lovgivere",
+      "tittel": "Nvidia etterforsker administrerende direktør Jensen Huangs forhold til påstått kinesisk spion",
       "kilde": "CNBC Top News",
-      "tid": "18:57",
-      "lenke": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
+      "tid": "22:53",
+      "lenke": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Nvidias styre etterforsker Jensen Huang",
+      "tittel": "Et nytt tilbakeslag for AI-handelen: Nvidias styre undersøker administrerende direktør Huangs forhold til påstått spion",
+      "kilde": "MarketWatch",
+      "tid": "23:05",
+      "lenke": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Nvidia lanserer etterforskning av konsernsjefens affære med mistenkt kinesisk spion",
+      "kilde": "BBC Business",
+      "tid": "00:16",
+      "lenke": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Nvidias administrerende direktør Jensen Huangs brev til ansatte om affære",
       "kilde": "Hacker News",
-      "tid": "20:26",
-      "lenke": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Nvidia frykter toppsjefen ble forført av en spion",
-      "kilde": "E24",
-      "tid": "20:15",
-      "lenke": "https://e24.no/boers-og-finans/i/Jn1Ay8/nvidia-gransker-mulig-spionaksjon-mot-toppsjefen-jeg-var-utro-mot-min-kone-innroemmer-jensen-huang?utm_medium=rss",
-      "engelsk_kilde": false
-    },
-    {
-      "tittel": "Hvordan Demokratene vil prøve å få slutt på Trumps tariffer",
-      "kilde": "CNBC Top News",
-      "tid": "15:36",
-      "lenke": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
+      "tid": "22:20",
+      "lenke": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "MARKEDER": [
       {
-        "tittel": "Bedrifts-Amerikas fortjenestetall bare knapt slår Wall Streets forventninger",
+        "tittel": "Du følger reglene for smart aksjehandel. Men er det de riktige reglene?",
         "kilde": "MarketWatch",
-        "tid": "15:00",
-        "lenke": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
+        "tid": "23:15",
+        "lenke": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
         "engelsk_kilde": true
       }
     ],
@@ -61,10 +61,31 @@
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Nvidias styre etterforsker Jensen Huang",
+        "tittel": "Nvidia lanserer etterforskning av konsernsjefens affære med mistenkt kinesisk spion",
+        "kilde": "BBC Business",
+        "tid": "00:16",
+        "lenke": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Et nytt tilbakeslag for AI-handelen: Nvidias styre undersøker administrerende direktør Huangs forhold til påstått spion",
+        "kilde": "MarketWatch",
+        "tid": "23:05",
+        "lenke": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nvidia etterforsker administrerende direktør Jensen Huangs forhold til påstått kinesisk spion",
+        "kilde": "CNBC Top News",
+        "tid": "22:53",
+        "lenke": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nvidias administrerende direktør Jensen Huangs brev til ansatte om affære",
         "kilde": "Hacker News",
-        "tid": "20:26",
-        "lenke": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+        "tid": "22:20",
+        "lenke": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
         "engelsk_kilde": true
       },
       {
@@ -73,13 +94,6 @@
         "tid": "20:15",
         "lenke": "https://e24.no/boers-og-finans/i/Jn1Ay8/nvidia-gransker-mulig-spionaksjon-mot-toppsjefen-jeg-var-utro-mot-min-kone-innroemmer-jensen-huang?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Nvidias administrerende direktør Jensen Huang står overfor tverrpolitisk kongressgransking over rapportert Kina-spionkobling",
-        "kilde": "CNBC Top News",
-        "tid": "18:18",
-        "lenke": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Poppi-grunnleggerne går etter PepsiCo's Gatorade med ny oppstartsbrygge for drikkevarer",
@@ -98,6 +112,13 @@
     ],
     "GEOPOLITIKK": [
       {
+        "tittel": "Trump sier at fornyet Iran streiker \"svært usannsynlig\" hvis samtalene går fremover, men advarer om at han fortsatt kan slå til",
+        "kilde": "CNBC Top News",
+        "tid": "21:53",
+        "lenke": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Demokratene forsterker Trumps etterforskningstrusler, Blanche kontrer at han kan undersøke lovgivere",
         "kilde": "CNBC Top News",
         "tid": "18:57",
@@ -110,50 +131,106 @@
         "tid": "15:36",
         "lenke": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trump tilbyr UFC-sjef Dana White pressesekretær jobb",
-        "kilde": "CNBC Top News",
-        "tid": "23:13",
-        "lenke": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
-        "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "Jeg gjetter på rådgiveren min: Er en livrente det rette trekket i dette markedet?",
+        "kilde": "MarketWatch",
+        "tid": "00:30",
+        "lenke": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Å gjøre disse tingene nå vil hjelpe deg med å spare penger i julen",
+        "kilde": "BBC Business",
+        "tid": "00:09",
+        "lenke": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Det føles som om han bygger et eget liv’: Mannen min arvet $ 500 000, men han nekter å bruke det på hjemmet vårt",
+        "kilde": "MarketWatch",
+        "tid": "00:02",
+        "lenke": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Begravelsesbyråer finner nytt liv som vert for bryllup og golfutflukter, etter hvert som den tradisjonelle begravelsesvirksomheten dør ut",
+        "kilde": "MarketWatch",
+        "tid": "00:00",
+        "lenke": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvor mye i Roth-konverteringer kan du gjøre i 2027 med de nye skatteparentesene?",
+        "kilde": "MarketWatch",
+        "tid": "23:50",
+        "lenke": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg er 65 og verdt mer enn $ 5,6 millioner. Har jeg råd til en $ 200 000 bobil?",
+        "kilde": "MarketWatch",
+        "tid": "23:49",
+        "lenke": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Denne pensjonerte professoren har gjenoppfunnet seg selv — som en Taylor Swift-lærd",
+        "kilde": "MarketWatch",
+        "tid": "23:35",
+        "lenke": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Herb Sutter: Når et språks skaper og dets eiere er sterkt uenige [pdf]",
+        "kilde": "Hacker News",
+        "tid": "23:28",
+        "lenke": "https://isocpp.org/files/papers/P4454R0.pdf",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Chimera vokalsynth",
+        "kilde": "Hacker News",
+        "tid": "22:36",
+        "lenke": "https://chimera-vocal-synth.vercel.app/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "KetchUp – Open-source SketchUp-alternativ bygget med Rust og WebGPU",
+        "kilde": "Hacker News",
+        "tid": "22:35",
+        "lenke": "https://ketchup3d.github.io/app/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "NFF ba om gjennomgang: Tromsø kontrollerte tribunen dager før kollaps",
+        "kilde": "NRK Nyheter",
+        "tid": "21:39",
+        "lenke": "https://www.nrk.no/sport/nff-ba-om-gjennomgang_-tromso-kontrollerte-tribunen-dager-for-kollaps-1.18077071",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Spør HN: Hva jobber du med? (november 2026)",
+        "kilde": "Hacker News",
+        "tid": "21:20",
+        "lenke": "https://news.ycombinator.com/item?id=50417407",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Venter på signaler: – Kan snu opp ned på hele regnestykket",
+        "kilde": "E24",
+        "tid": "21:01",
+        "lenke": "https://e24.no/boers-og-finans/i/qOnMOg/venter-paa-signaler-kan-snu-opp-ned-paa-hele-regnestykket?utm_medium=rss",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Aursnes melder forfall til landslagssamlingen",
         "kilde": "NRK Nyheter",
         "tid": "20:02",
         "lenke": "https://www.nrk.no/sport/aursnes-melder-forfall-til-landslagssamlingen-1.18077034",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Starship Flight 15 on 11/13 planlegger å fange både booster og skip",
-        "kilde": "Hacker News",
-        "tid": "19:49",
-        "lenke": "https://www.spacex.com/launches/starship-flight-15",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Slik bekjemper jeg AI Brain Fry",
-        "kilde": "Hacker News",
-        "tid": "19:37",
-        "lenke": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Outlook.com avviser stille e-post fra domener uten DMARC",
-        "kilde": "Hacker News",
-        "tid": "19:20",
-        "lenke": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "DUX: Gratis Wayland-skrivebordsskall med åpen kildekode, filbehandling og temaer",
-        "kilde": "Hacker News",
-        "tid": "19:08",
-        "lenke": "https://duxlabs.dev/",
-        "engelsk_kilde": true
       },
       {
         "tittel": "– Når du setter på taklampe, er det ikke en VIP-bil lenger",
@@ -177,27 +254,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "‘Det virker bisarrt’: Vi er i 80-årene med $ 950 000 i tradisjonelle IRAer. Hvorfor presser vår rådgiver Roth-konverteringer?",
-        "kilde": "MarketWatch",
-        "tid": "18:00",
-        "lenke": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "To måneder etter min fars begravelse, ba stemoren min meg om å betale tilbake hans $ 40 000 bryllupsgave. Skal jeg gjøre som hun sier?",
-        "kilde": "MarketWatch",
-        "tid": "17:30",
-        "lenke": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Begravelsesbyråer finner nytt liv som vert for bryllup og golfutflukter, etter hvert som den tradisjonelle begravelsesvirksomheten dør ut",
-        "kilde": "MarketWatch",
-        "tid": "17:23",
-        "lenke": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Datt gjennom tribunen: – Heldigvis bare ribbeinsbrudd",
         "kilde": "NRK Nyheter",
         "tid": "17:20",
@@ -212,24 +268,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "‘Det føles som om han bygger et eget liv’: Mannen min arvet $ 500 000, men han nekter å bruke det på hjemmet vårt",
-        "kilde": "MarketWatch",
-        "tid": "16:00",
-        "lenke": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Regjeringen «ser alvorlig» på å forby barn under 16 år fra Vinted og eBay",
         "kilde": "BBC Business",
         "tid": "15:37",
         "lenke": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Jeg har ikke noe økonomisk sikkerhetsnett’: Jeg er 66, er avhengig av trygd og har bare $ 500 i besparelser. Hvilket håp har jeg?",
-        "kilde": "MarketWatch",
-        "tid": "15:30",
-        "lenke": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -238,13 +280,6 @@
         "tid": "15:20",
         "lenke": "https://e24.no/boers-og-finans/i/QgpbK4/nordmenns-favorittaksjer-priset-paa-tro-haap-og-kjaerlighet?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Min 93 år gamle far forandret testamentet sitt i ellevte time, og etterlot broren hele boet sitt på $ 500 000. Kan jeg utfordre det?",
-        "kilde": "MarketWatch",
-        "tid": "15:16",
-        "lenke": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Den nye AUF-lederen vil splitte opp dagligvare­gigantene",
@@ -272,13 +307,6 @@
         "kilde": "CNBC Top News",
         "tid": "14:14",
         "lenke": "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Vi taper mot cottage cheese’: Protein-maxxing-manien gjør vondt i salget av kremost",
-        "kilde": "MarketWatch",
-        "tid": "14:13",
-        "lenke": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -310,13 +338,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Kongen fullførte maraton på tiden 4.43.01",
-        "kilde": "NRK Nyheter",
-        "tid": "11:18",
-        "lenke": "https://www.nrk.no/nyheter/kongen-fullforte-maraton-pa-tiden-4.43.01-1.18076803",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "– Spørsmålet er om vi står overfor «de dårlige årene»",
         "kilde": "E24",
         "tid": "10:14",
@@ -331,24 +352,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "På innsiden av et kriminelt nettverk",
-        "kilde": "E24",
-        "tid": "08:57",
-        "lenke": "https://e24.no/naeringsliv/i/aJ9QV7/paa-innsiden-av-et-kriminelt-nettverk?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Cathie Wood \"føler seg alltid bedre når markedet er bekymret\" — her er hvorfor",
         "kilde": "CNBC Top News",
         "tid": "06:00",
         "lenke": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Han brukte $ 50 000 på Labubus, men nå er mani døende",
-        "kilde": "BBC Business",
-        "tid": "23:02",
-        "lenke": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ]

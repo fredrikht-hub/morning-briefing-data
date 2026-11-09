@@ -1,0 +1,363 @@
+{
+  "dato": "2026-11-09",
+  "dato_norsk": "Mandag 9. november 2026",
+  "generert_kl": "00:39",
+  "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
+  "dagens_fokus": [
+    {
+      "tittel": "Trump sier at fornyet Iran streiker \"svært usannsynlig\" hvis samtalene går fremover, men advarer om at han fortsatt kan slå til",
+      "kilde": "CNBC Top News",
+      "tid": "21:53",
+      "lenke": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Nvidia etterforsker administrerende direktør Jensen Huangs forhold til påstått kinesisk spion",
+      "kilde": "CNBC Top News",
+      "tid": "22:53",
+      "lenke": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Et nytt tilbakeslag for AI-handelen: Nvidias styre undersøker administrerende direktør Huangs forhold til påstått spion",
+      "kilde": "MarketWatch",
+      "tid": "23:05",
+      "lenke": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Nvidia lanserer etterforskning av konsernsjefens affære med mistenkt kinesisk spion",
+      "kilde": "BBC Business",
+      "tid": "00:16",
+      "lenke": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Nvidias administrerende direktør Jensen Huangs brev til ansatte om affære",
+      "kilde": "Hacker News",
+      "tid": "22:20",
+      "lenke": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+      "engelsk_kilde": true
+    }
+  ],
+  "kategorier": {
+    "MARKEDER": [
+      {
+        "tittel": "Du følger reglene for smart aksjehandel. Men er det de riktige reglene?",
+        "kilde": "MarketWatch",
+        "tid": "23:15",
+        "lenke": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      }
+    ],
+    "ENERGI_RAAVARER": [
+      {
+        "tittel": "Ønskene om kraft: – Spinnvilt mye",
+        "kilde": "E24",
+        "tid": "15:25",
+        "lenke": "https://e24.no/energi-og-klima/i/MAzdjJ/oenskene-om-kraft-spinnvilt-mye?utm_medium=rss",
+        "engelsk_kilde": false
+      }
+    ],
+    "TEKNOLOGI": [
+      {
+        "tittel": "Nvidia lanserer etterforskning av konsernsjefens affære med mistenkt kinesisk spion",
+        "kilde": "BBC Business",
+        "tid": "00:16",
+        "lenke": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Et nytt tilbakeslag for AI-handelen: Nvidias styre undersøker administrerende direktør Huangs forhold til påstått spion",
+        "kilde": "MarketWatch",
+        "tid": "23:05",
+        "lenke": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nvidia etterforsker administrerende direktør Jensen Huangs forhold til påstått kinesisk spion",
+        "kilde": "CNBC Top News",
+        "tid": "22:53",
+        "lenke": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nvidias administrerende direktør Jensen Huangs brev til ansatte om affære",
+        "kilde": "Hacker News",
+        "tid": "22:20",
+        "lenke": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nvidia frykter toppsjefen ble forført av en spion",
+        "kilde": "E24",
+        "tid": "20:15",
+        "lenke": "https://e24.no/boers-og-finans/i/Jn1Ay8/nvidia-gransker-mulig-spionaksjon-mot-toppsjefen-jeg-var-utro-mot-min-kone-innroemmer-jensen-huang?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Poppi-grunnleggerne går etter PepsiCo's Gatorade med ny oppstartsbrygge for drikkevarer",
+        "kilde": "CNBC Top News",
+        "tid": "14:00",
+        "lenke": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Amazons Astro-hjemmerobot har vifter, men ser ut til å være ment for søppelhaugen.' Derfor prøver den igjen",
+        "kilde": "CNBC Top News",
+        "tid": "13:00",
+        "lenke": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "GEOPOLITIKK": [
+      {
+        "tittel": "Trump sier at fornyet Iran streiker \"svært usannsynlig\" hvis samtalene går fremover, men advarer om at han fortsatt kan slå til",
+        "kilde": "CNBC Top News",
+        "tid": "21:53",
+        "lenke": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Demokratene forsterker Trumps etterforskningstrusler, Blanche kontrer at han kan undersøke lovgivere",
+        "kilde": "CNBC Top News",
+        "tid": "18:57",
+        "lenke": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvordan Demokratene vil prøve å få slutt på Trumps tariffer",
+        "kilde": "CNBC Top News",
+        "tid": "15:36",
+        "lenke": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "VILLKORT": [
+      {
+        "tittel": "Jeg gjetter på rådgiveren min: Er en livrente det rette trekket i dette markedet?",
+        "kilde": "MarketWatch",
+        "tid": "00:30",
+        "lenke": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Å gjøre disse tingene nå vil hjelpe deg med å spare penger i julen",
+        "kilde": "BBC Business",
+        "tid": "00:09",
+        "lenke": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Det føles som om han bygger et eget liv’: Mannen min arvet $ 500 000, men han nekter å bruke det på hjemmet vårt",
+        "kilde": "MarketWatch",
+        "tid": "00:02",
+        "lenke": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Begravelsesbyråer finner nytt liv som vert for bryllup og golfutflukter, etter hvert som den tradisjonelle begravelsesvirksomheten dør ut",
+        "kilde": "MarketWatch",
+        "tid": "00:00",
+        "lenke": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvor mye i Roth-konverteringer kan du gjøre i 2027 med de nye skatteparentesene?",
+        "kilde": "MarketWatch",
+        "tid": "23:50",
+        "lenke": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg er 65 og verdt mer enn $ 5,6 millioner. Har jeg råd til en $ 200 000 bobil?",
+        "kilde": "MarketWatch",
+        "tid": "23:49",
+        "lenke": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Denne pensjonerte professoren har gjenoppfunnet seg selv — som en Taylor Swift-lærd",
+        "kilde": "MarketWatch",
+        "tid": "23:35",
+        "lenke": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Herb Sutter: Når et språks skaper og dets eiere er sterkt uenige [pdf]",
+        "kilde": "Hacker News",
+        "tid": "23:28",
+        "lenke": "https://isocpp.org/files/papers/P4454R0.pdf",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Chimera vokalsynth",
+        "kilde": "Hacker News",
+        "tid": "22:36",
+        "lenke": "https://chimera-vocal-synth.vercel.app/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "KetchUp – Open-source SketchUp-alternativ bygget med Rust og WebGPU",
+        "kilde": "Hacker News",
+        "tid": "22:35",
+        "lenke": "https://ketchup3d.github.io/app/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "NFF ba om gjennomgang: Tromsø kontrollerte tribunen dager før kollaps",
+        "kilde": "NRK Nyheter",
+        "tid": "21:39",
+        "lenke": "https://www.nrk.no/sport/nff-ba-om-gjennomgang_-tromso-kontrollerte-tribunen-dager-for-kollaps-1.18077071",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Spør HN: Hva jobber du med? (november 2026)",
+        "kilde": "Hacker News",
+        "tid": "21:20",
+        "lenke": "https://news.ycombinator.com/item?id=50417407",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Venter på signaler: – Kan snu opp ned på hele regnestykket",
+        "kilde": "E24",
+        "tid": "21:01",
+        "lenke": "https://e24.no/boers-og-finans/i/qOnMOg/venter-paa-signaler-kan-snu-opp-ned-paa-hele-regnestykket?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Aursnes melder forfall til landslagssamlingen",
+        "kilde": "NRK Nyheter",
+        "tid": "20:02",
+        "lenke": "https://www.nrk.no/sport/aursnes-melder-forfall-til-landslagssamlingen-1.18077034",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "– Når du setter på taklampe, er det ikke en VIP-bil lenger",
+        "kilde": "E24",
+        "tid": "19:00",
+        "lenke": "https://e24.no/naeringsliv/i/eGbr4R/naar-du-setter-paa-taklampe-er-det-ikke-en-vip-bil-lenger?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Fikk nedrykksspørsmål: – Jeg liker ikke situasjonen",
+        "kilde": "NRK Nyheter",
+        "tid": "18:30",
+        "lenke": "https://www.nrk.no/sport/manchester-united-reddet-poeng-mot-aston-villa_-men-ekspertene-lar-seg-ikke-imponere-1.18076937",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Anne har fluktruten klar i tilfelle sønnen kommer hjem",
+        "kilde": "NRK Nyheter",
+        "tid": "18:21",
+        "lenke": "https://www.nrk.no/dokumentar/xl/hun-frykter-sitt-eget-barn-1.18057081",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Datt gjennom tribunen: – Heldigvis bare ribbeinsbrudd",
+        "kilde": "NRK Nyheter",
+        "tid": "17:20",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/sigurd-brakk-ribbeinet-etter-at-han-datt-gjennom-tribunen-pa-romssa-arena-i-tromso-1.18076953",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Meldinger avslører kriminelt nettverk: – Ekstremt provoserende",
+        "kilde": "E24",
+        "tid": "17:00",
+        "lenke": "https://e24.no/naeringsliv/i/31LnBe/meldinger-avsloerer-kriminelt-nettverk-ekstremt-provoserende?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Regjeringen «ser alvorlig» på å forby barn under 16 år fra Vinted og eBay",
+        "kilde": "BBC Business",
+        "tid": "15:37",
+        "lenke": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nordmenns favorittaksjer: – Priset på tro, håp og kjærlighet",
+        "kilde": "E24",
+        "tid": "15:20",
+        "lenke": "https://e24.no/boers-og-finans/i/QgpbK4/nordmenns-favorittaksjer-priset-paa-tro-haap-og-kjaerlighet?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Den nye AUF-lederen vil splitte opp dagligvare­gigantene",
+        "kilde": "E24",
+        "tid": "15:01",
+        "lenke": "https://e24.no/naeringsliv/i/lKGq7y/den-nye-auf-lederen-vil-splitte-opp-dagligvaregigantene?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Politiet oppretter straffesak mot mann som trengte seg inn hos Høiby",
+        "kilde": "NRK Nyheter",
+        "tid": "14:33",
+        "lenke": "https://www.nrk.no/nyheter/politiet-oppretter-straffesak-mot-mann-som-trengte-seg-inn-hos-hoiby-1.18076838",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Sendt til sykehus etter tribunedramatikk: – Det er helt forferdelig",
+        "kilde": "NRK Nyheter",
+        "tid": "14:21",
+        "lenke": "https://www.nrk.no/sport/tromso---bodo_glimt-stoppet-etter-dramatikk-pa-bortetribunen-_-en-person-ble-sendt-til-sykehus-1.18076852",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Nylige eksperimenter med AI-agenter avslører en risikabel fremtid for maskinsamarbeid i bedrifter",
+        "kilde": "CNBC Top News",
+        "tid": "14:14",
+        "lenke": "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Marerittet fortsetter: Sogndal må ut i kvalifiseringsrunde",
+        "kilde": "NRK Nyheter",
+        "tid": "13:55",
+        "lenke": "https://www.nrk.no/vestland/marerittet-fortsetter_-sogndal-ma-ut-i-kvalifiseringsrunde-1.18076767",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "AI-smellen kan treffe fondet ditt",
+        "kilde": "E24",
+        "tid": "13:07",
+        "lenke": "https://e24.no/boers-og-finans/i/9BmrEd/ai-smellen-kan-treffe-fondet-ditt?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Bruke miles til å fly til Thanksgiving? Dette er de dyreste og billigste rutene",
+        "kilde": "CNBC Top News",
+        "tid": "13:00",
+        "lenke": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Europas lysende fremtid",
+        "kilde": "E24",
+        "tid": "11:58",
+        "lenke": "https://e24.no/boers-og-finans/i/bkKb2d/europas-lysende-fremtid?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "– Spørsmålet er om vi står overfor «de dårlige årene»",
+        "kilde": "E24",
+        "tid": "10:14",
+        "lenke": "https://e24.no/boers-og-finans/i/pM648o/spoersmaalet-er-om-vi-staar-overfor-de-daarlige-aarene?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "På bilder: Protestene i Frankrike trekker 146 000 mens sammenstøtene bryter ut for fjerde helg på rad",
+        "kilde": "CNBC Top News",
+        "tid": "09:29",
+        "lenke": "https://www.cnbc.com/2026/11/08/france-protests-clashes-arrests.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Cathie Wood \"føler seg alltid bedre når markedet er bekymret\" — her er hvorfor",
+        "kilde": "CNBC Top News",
+        "tid": "06:00",
+        "lenke": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
+        "engelsk_kilde": true
+      }
+    ]
+  }
+}
