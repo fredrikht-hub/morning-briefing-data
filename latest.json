@@ -1,68 +1,96 @@
 {
   "dato": "2026-11-10",
   "dato_norsk": "Tirsdag 10. november 2026",
-  "generert_kl": "13:20",
+  "generert_kl": "16:44",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Nvidia kunne ikke avspore aksjemarkedets rally. Varm inflasjon kan.",
+      "tittel": "10-års Treasury avkastning raser tilbake til 5% som inflasjonsdata, Waller kommentarer drive renteøkning forventninger",
+      "kilde": "CNBC Top News",
+      "tid": "16:44",
+      "lenke": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Her er inflasjonsfordelingen for oktober 2026 — i ett diagram",
+      "kilde": "CNBC Top News",
+      "tid": "16:36",
+      "lenke": "https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Hvorfor aksjer faller og tiårsavkastningen er tilbake nær 5% etter tirsdagens inflasjonsrapport",
       "kilde": "MarketWatch",
-      "tid": "12:33",
-      "lenke": "https://www.marketwatch.com/story/nvidia-couldnt-derail-the-stock-markets-rally-hot-inflation-might-8a572024?mod=mw_rss_topstories",
+      "tid": "16:28",
+      "lenke": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "USAs inflasjon høyere enn forventet i oktober - her er hva som skjer med prisene",
+      "kilde": "BBC Business",
+      "tid": "14:45",
+      "lenke": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
       "engelsk_kilde": true
     },
     {
       "tittel": "Jensen Huangs affære med angivelig kinesisk spion kompliserer Nvidias Kina-problem ytterligere",
       "kilde": "CNBC Top News",
-      "tid": "12:00",
+      "tid": "15:04",
       "lenke": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Pete Hegseth fordømmer riksrettslig press, forsvarer krigshåndtering av Iran",
-      "kilde": "CNBC Top News",
-      "tid": "13:19",
-      "lenke": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Trumps etterfølgere i 2028 kjemper allerede om hvem de skal skylde på for GOP midterm wipeout",
-      "kilde": "CNBC Top News",
-      "tid": "11:00",
-      "lenke": "https://www.cnbc.com/2026/11/10/trump-vance-rubio-republican-desantis-midterms.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Antropisk setter IPO prisklasse på $ 70 til $ 78, ser ut til å begynne å handle 19. november, sier kilder",
-      "kilde": "CNBC Top News",
-      "tid": "12:57",
-      "lenke": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "Svak nedgang på Oslo Børs",
+        "tittel": "Aker trenger at gjeldsslaven skinner",
         "kilde": "E24",
-        "tid": "08:00",
-        "lenke": "https://e24.no/boers-og-finans/i/XowVMx/svak-nedgang-paa-oslo-boers?utm_medium=rss",
+        "tid": "16:38",
+        "lenke": "https://e24.no/boers-og-finans/i/8Pw22r/aker-trenger-at-gjeldsslaven-skinner?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kutter økostempel på laks: – Dyrevelferd og miljø er ikke godt nok",
+        "kilde": "E24",
+        "tid": "14:23",
+        "lenke": "https://e24.no/hav-og-sjoemat/i/VxRVo6/kutter-oekostempel-paa-laks-dyrevelferd-og-miljoe-er-ikke-godt-nok?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Aftenposten: Telefonnumrene til norske sikkerhetstopper lekket på det mørke nettet",
+        "kilde": "NRK Nyheter",
+        "tid": "14:13",
+        "lenke": "https://www.nrk.no/nyheter/aftenposten_-telefonnumrene-til-norske-sikkerhetstopper-lekket-pa-det-morke-nettet-1.18078501",
         "engelsk_kilde": false
       }
     ],
     "MAKRO": [
       {
-        "tittel": "Prisene stiger videre: – Endrer ikke på rente­forventningene",
-        "kilde": "E24",
-        "tid": "07:01",
-        "lenke": "https://e24.no/norsk-oekonomi/i/M5gG7R/prisveksten-laa-paa-3-6-prosent-i-oktober?utm_medium=rss",
-        "engelsk_kilde": false
+        "tittel": "10-års Treasury avkastning raser tilbake til 5% som inflasjonsdata, Waller kommentarer drive renteøkning forventninger",
+        "kilde": "CNBC Top News",
+        "tid": "16:44",
+        "lenke": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
+        "engelsk_kilde": true
       },
       {
-        "tittel": "En nøkkelrapport for hvor inflasjonen sto i oktober kommer ut tirsdag. Her er hva du kan forvente",
+        "tittel": "Her er inflasjonsfordelingen for oktober 2026 — i ett diagram",
         "kilde": "CNBC Top News",
-        "tid": "21:03",
-        "lenke": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+        "tid": "16:36",
+        "lenke": "https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvorfor aksjer faller og tiårsavkastningen er tilbake nær 5% etter tirsdagens inflasjonsrapport",
+        "kilde": "MarketWatch",
+        "tid": "16:28",
+        "lenke": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "USAs inflasjon høyere enn forventet i oktober - her er hva som skjer med prisene",
+        "kilde": "BBC Business",
+        "tid": "14:45",
+        "lenke": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
@@ -75,45 +103,24 @@
     ],
     "MARKEDER": [
       {
-        "tittel": "Antropisk for å skaffe $ 64 milliarder i større børsnotering",
-        "kilde": "BBC Business",
-        "tid": "13:19",
-        "lenke": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Polymarket sier årlig omsetning har toppet $ 1,8 milliarder",
-        "kilde": "CNBC Top News",
-        "tid": "13:00",
-        "lenke": "https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Antropisk setter IPO prisklasse på $ 70 til $ 78, ser ut til å begynne å handle 19. november, sier kilder",
         "kilde": "CNBC Top News",
-        "tid": "12:57",
+        "tid": "15:42",
         "lenke": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Antropisk å søke $ 1.3T Verdivurdering i IPO",
-        "kilde": "Hacker News",
-        "tid": "12:49",
-        "lenke": "https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669",
+        "tittel": "Rivian CEO sier at ny R2 SUV, autonomi gjør 2027 til et \"bøyingsår\", ettersom elbilprodusenten markerer fem år siden børsnoteringen",
+        "kilde": "CNBC Top News",
+        "tid": "15:11",
+        "lenke": "https://www.cnbc.com/2026/11/10/rivian-r2-autonomy-2027-rj-scaringe.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nvidia kunne ikke avspore aksjemarkedets rally. Varm inflasjon kan.",
-        "kilde": "MarketWatch",
-        "tid": "12:33",
-        "lenke": "https://www.marketwatch.com/story/nvidia-couldnt-derail-the-stock-markets-rally-hot-inflation-might-8a572024?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Anthropic setter offisielt scenen for en børsnotering som verdsetter selskapet nord for $ 1 billion",
-        "kilde": "MarketWatch",
-        "tid": "12:32",
-        "lenke": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
+        "tittel": "Antropiske hoder for lavere enn forventet $ 1,3 billioner verdivurdering i børsdebut",
+        "kilde": "BBC Business",
+        "tid": "14:46",
+        "lenke": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ],
@@ -121,8 +128,22 @@
       {
         "tittel": "Jensen Huangs affære med angivelig kinesisk spion kompliserer Nvidias Kina-problem ytterligere",
         "kilde": "CNBC Top News",
-        "tid": "12:00",
+        "tid": "15:04",
         "lenke": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nytt tungt Nvidia-fall",
+        "kilde": "E24",
+        "tid": "14:32",
+        "lenke": "https://e24.no/boers-og-finans/i/VxREEV/wall-street-faller-etter-inflasjonstall?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Amazons Ring avduker flygende drone og robot for å patruljere hjem og bedrifter",
+        "kilde": "CNBC Top News",
+        "tid": "13:30",
+        "lenke": "https://www.cnbc.com/2026/11/10/amazons-ring-unveils-flying-drone-robot-to-patrol-homes-businesses.html",
         "engelsk_kilde": true
       },
       {
@@ -142,27 +163,181 @@
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Pete Hegseth fordømmer riksrettslig press, forsvarer krigshåndtering av Iran",
-        "kilde": "CNBC Top News",
-        "tid": "13:19",
-        "lenke": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+        "tittel": "Palantir ansetter en tidligere demokratisk senator som står overfor granskning i den nye kongressen",
+        "kilde": "Hacker News",
+        "tid": "15:59",
+        "lenke": "https://text.npr.org/nx-s1-6029641",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Trumps etterfølgere i 2028 kjemper allerede om hvem de skal skylde på for GOP midterm wipeout",
+        "tittel": "Pete Hegseth fordømmer riksrettslig press, forsvarer krigshåndtering av Iran",
         "kilde": "CNBC Top News",
-        "tid": "11:00",
-        "lenke": "https://www.cnbc.com/2026/11/10/trump-vance-rubio-republican-desantis-midterms.html",
+        "tid": "14:48",
+        "lenke": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
         "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
       {
-        "tittel": "Hvordan GM prøver å overtale kjøpere av brukte biler til å kjøpe nye biler",
-        "kilde": "CNBC Top News",
-        "tid": "13:00",
-        "lenke": "https://www.cnbc.com/2026/11/10/gm-carbravo-used-car-shoppers.html",
+        "tittel": "Tailscales DNS IPv6 staver ut \"Tailscale\"",
+        "kilde": "Hacker News",
+        "tid": "16:34",
+        "lenke": "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Amerikanske gasspriser faller under $ 4 for første gang siden juli",
+        "kilde": "CNBC Top News",
+        "tid": "16:29",
+        "lenke": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "House Oversight oppfordrer Justisdepartementet til å intervjue viktige Epstein-vitner, sier regjeringen. ‘mislykkede’ overlevende",
+        "kilde": "CNBC Top News",
+        "tid": "16:17",
+        "lenke": "https://www.cnbc.com/2026/11/10/jeffrey-epstein-house-oversight-doj.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Blender 5.3 utgitt med Gaussian Splat-støtte",
+        "kilde": "Hacker News",
+        "tid": "16:15",
+        "lenke": "https://www.blender.org/download/releases/5-3/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "\"Vi hadde den verste krangelen\": Jeg vil at mannen min skal gå av med pensjon som 65-åring, men jeg vil ikke miste lønnen på 280 000 $. Er det urimelig?",
+        "kilde": "MarketWatch",
+        "tid": "16:15",
+        "lenke": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Gemini 4 Carbon er nå tilgjengelig",
+        "kilde": "Hacker News",
+        "tid": "16:07",
+        "lenke": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Strømprisen hopper: – Ikke slike julekort man ønsker seg",
+        "kilde": "E24",
+        "tid": "16:04",
+        "lenke": "https://e24.no/energi-og-klima/i/8Pw2Vw/stroemprisen-hopper-ikke-slike-julekort-man-oensker-seg?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": ".NET 11",
+        "kilde": "Hacker News",
+        "tid": "16:01",
+        "lenke": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "\"Benløse sofaer\" er de nye futonene",
+        "kilde": "MarketWatch",
+        "tid": "16:01",
+        "lenke": "https://www.marketwatch.com/story/why-renters-are-obsessed-with-these-300-boneless-couches-65a2e4fe?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Skal en enke forlate sin avdøde partners hjem til stebarna sine — eller kutte kontakten med dem?",
+        "kilde": "MarketWatch",
+        "tid": "16:01",
+        "lenke": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "‘Jeg er lei av å fly’: Jeg betalte for prioritert ombordstigning, men overhead-kassene var fulle. Ble jeg lurt?",
+        "kilde": "MarketWatch",
+        "tid": "15:45",
+        "lenke": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Komiker David Walliams anklaget for grooming",
+        "kilde": "NRK Nyheter",
+        "tid": "15:40",
+        "lenke": "https://www.nrk.no/nyheter/komiker-david-walliams-anklaget-for-grooming-1.18078634",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "\"Tanken på å leve til 100 skremmer meg\": Er trygdeordninger en gigantisk Ponzi-ordning?",
+        "kilde": "MarketWatch",
+        "tid": "15:30",
+        "lenke": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Elon Musk hadde halvveis rett i sin kommentar forrige uke om SoftBank-backpedaling på en gassturbinordre",
+        "kilde": "MarketWatch",
+        "tid": "15:30",
+        "lenke": "https://www.marketwatch.com/story/elon-musk-was-half-right-in-his-comment-last-week-about-softbank-back-pedaling-on-a-gas-turbine-order-c293d335?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tok ordet foran Infantino: «Solbakken forsto kjapt at han hadde dummet seg ut»",
+        "kilde": "NRK Nyheter",
+        "tid": "15:17",
+        "lenke": "https://www.nrk.no/sport/tok-ordet-foran-fifa-sjef-gianni-infantino_-_solbakken-forsto-kjapt-at-han-hadde-dummet-seg-ut__-1.18078617",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "GTA-utgiver: Forhåndsbestillinger på «enestående nivåer»",
+        "kilde": "E24",
+        "tid": "15:12",
+        "lenke": "https://e24.no/boers-og-finans/i/kMa7J6/gta-utgiver-forhaandsbestillinger-paa-enestaaende-nivaaer?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Salg av mat på boks og flaskevann  hopper etter lanseringen av «Vær klar» -kampanjen",
+        "kilde": "BBC Business",
+        "tid": "15:10",
+        "lenke": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bekrefter: Kongeparet skal signes i Nidarosdomen neste år",
+        "kilde": "NRK Nyheter",
+        "tid": "15:01",
+        "lenke": "https://www.nrk.no/norge/kong-haakon-og-dronning-mette-marit-skal-signes-neste-ar-1.18055826",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Glem happy hour. ‘Pengefester’ har et øyeblikk.",
+        "kilde": "MarketWatch",
+        "tid": "14:58",
+        "lenke": "https://www.marketwatch.com/story/forget-happy-hour-money-parties-are-having-a-moment-6bc6f02a?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fornebubanen: Ett års forsinkelse og mulig sprekk på 3,7 milliarder kroner",
+        "kilde": "NRK Nyheter",
+        "tid": "14:35",
+        "lenke": "https://www.nrk.no/stor-oslo/byradet-varsler-mulig-fornebubane-sprekk-pa-3_7-milliarder-1.18078256",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Hvor mye du kan tjene i 2027 og fortsatt betale 0% kapitalgevinstskatt",
+        "kilde": "CNBC Top News",
+        "tid": "14:12",
+        "lenke": "https://www.cnbc.com/2026/11/10/2027-zero-percent-capital-gains-tax.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Dumt å ta opp lønn på jobbintervju?",
+        "kilde": "E24",
+        "tid": "13:38",
+        "lenke": "https://e24.no/karriere-og-ledelse/i/Grvpd4/dumt-aa-ta-opp-loenn-paa-jobbintervju?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Prisveksten i USA var høyere enn ventet i oktober",
+        "kilde": "E24",
+        "tid": "13:30",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/pM6qn1/prisveksten-i-usa-var-hoeyere-enn-ventet-i-oktober?utm_medium=rss",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Opphever vedtak om datasenter i Sirdal",
@@ -186,53 +361,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "\"Vi hadde den verste krangelen\": Jeg vil at mannen min skal gå av med pensjon som 65-åring, men jeg vil ikke miste lønnen på 280 000 $. Er det urimelig?",
-        "kilde": "MarketWatch",
-        "tid": "12:16",
-        "lenke": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "AlphaProof-kode",
-        "kilde": "Hacker News",
-        "tid": "12:11",
-        "lenke": "https://deepmind.google/blog/introducing-alphaproof-code/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Oljeprisen faller: – En positiv utvikling",
         "kilde": "E24",
         "tid": "12:10",
         "lenke": "https://e24.no/boers-og-finans/i/Jn1018/oljeprisen-faller-en-positiv-utvikling?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Rekna som eit bombemål: Byen manglar både pengar og ressursar til beredskap",
-        "kilde": "NRK Nyheter",
-        "tid": "11:58",
-        "lenke": "https://www.nrk.no/nordland/regjeringa-vil-gi-kommunane-meir-ansvar-under-krig-_-bodo-og-oslo-krev-tydelegare-krav-1.18076073",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "17-åring dømt til forvaring i 13 år",
-        "kilde": "NRK Nyheter",
-        "tid": "11:57",
-        "lenke": "https://www.nrk.no/rogaland/17-aring-domt-for-medvirkning-til-to-gjengdrap-er-domt-til-forvaring-i-13-ar-1.18078334",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Vis HN: En 15 MB selvbetjent Netflix og Spotify for medieserveren din",
-        "kilde": "Hacker News",
-        "tid": "11:51",
-        "lenke": "https://github.com/HolyArrs/HolyArrs",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Salg av mat på boks og flaskevann  hopper etter lanseringen av «Vær klar» -kampanjen",
-        "kilde": "BBC Business",
-        "tid": "11:43",
-        "lenke": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
       },
       {
         "tittel": "AI-giganten Anthropic vil hente opptil 64,4 milliarder dollar i børsnotering",
@@ -242,83 +375,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "TV 2: Høibys anke forkastet",
-        "kilde": "NRK Nyheter",
-        "tid": "11:16",
-        "lenke": "https://www.nrk.no/nyheter/tv-2_-hoibys-anke-forkastet-1.18078296",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Skal en enke forlate sin avdøde partners hjem til stebarna sine — eller kutte kontakten med dem?",
-        "kilde": "MarketWatch",
-        "tid": "11:15",
-        "lenke": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Sykehusdrapet i Drammen: Erkjenner ikke straffskyld",
-        "kilde": "NRK Nyheter",
-        "tid": "11:14",
-        "lenke": "https://www.nrk.no/buskerud/sykehusdrapet-i-drammen_-erkjenner-ikke-straffskyld-1.18078293",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Hva konstant overvåking gjør med barn",
-        "kilde": "Hacker News",
-        "tid": "10:47",
-        "lenke": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "‘Jeg er lei av å fly’: Jeg betalte for prioritert ombordstigning, men overhead-kassene var fulle. Ble jeg lurt?",
-        "kilde": "MarketWatch",
-        "tid": "10:45",
-        "lenke": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Haalands Luxembourg-verdier økte til 483 millioner",
-        "kilde": "E24",
-        "tid": "10:44",
-        "lenke": "https://e24.no/boers-og-finans/i/KLvVxe/haalands-luxembourg-verdier-oekte-til-483-millioner?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "– Politikere som ikke kan prioritere, bør ikke være politikere",
-        "kilde": "E24",
-        "tid": "10:35",
-        "lenke": "https://e24.no/naeringsliv/i/d7xenw/langs-e24-med-ina-kamzy-gunaratnam-samferdsel-er-sexy?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "'C:\\> FORMAT C:' – slapp av, det er bare en skjermsparer",
-        "kilde": "Hacker News",
-        "tid": "10:32",
-        "lenke": "https://fakedos.com/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "\"Tanken på å leve til 100 skremmer meg\": Er trygdeordninger en gigantisk Ponzi-ordning?",
-        "kilde": "MarketWatch",
-        "tid": "10:15",
-        "lenke": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "NY Knicks-stjernen Josh Hart leier ut Florida på nytt for $ 5,7 millioner",
-        "kilde": "MarketWatch",
-        "tid": "10:01",
-        "lenke": "https://www.marketwatch.com/story/n-y-knicks-star-josh-hart-relists-florida-home-for-5-7-million-5fd3f18c?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Skuespilleren Justin Baldoni solgte i all stillhet hjemmet sitt i Los Angeles for $ 2,1 millioner etter å ha flyttet til Nashville",
-        "kilde": "MarketWatch",
-        "tid": "09:58",
-        "lenke": "https://www.marketwatch.com/story/actor-justin-baldoni-quietly-sold-his-l-a-home-for-2-1-million-after-moving-to-nashville-4cb8041e?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Kim Kardashians Skims tilbyr refusjon for $ 148 adventskalender etter tilbakeslag",
         "kilde": "BBC Business",
         "tid": "09:57",
@@ -326,52 +382,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "FDA advarer om risiko for synstap knyttet til populære GLP-1-legemidler som Wegovy, Zepbound",
-        "kilde": "CNBC Top News",
-        "tid": "09:48",
-        "lenke": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Shipping-slipp: – Aksjen er attraktiv",
-        "kilde": "E24",
-        "tid": "09:06",
-        "lenke": "https://e24.no/boers-og-finans/i/kMa5d6/shipping-slipp-aksjen-er-attraktiv?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Fed-guvernør Waller ser desemberhøyden som sannsynlig, åpner døren for mulig halvpoengsøkning",
-        "kilde": "CNBC Top News",
-        "tid": "09:00",
-        "lenke": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Merker prisveksten på kroppen: – Treffer fra alle kanter",
-        "kilde": "E24",
-        "tid": "07:50",
-        "lenke": "https://e24.no/norsk-oekonomi/i/dJdW2o/merker-prisveksten-paa-kroppen-treffer-fra-alle-kanter?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kald drøm gir het aksje",
-        "kilde": "E24",
-        "tid": "07:19",
-        "lenke": "https://e24.no/boers-og-finans/i/6Pnan8/kald-droem-gir-het-aksje?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Prisene steg med 3,6 prosent i oktober",
+        "tittel": "Evakuerer folk etter kvikkleireskred – to kommuner isolert",
         "kilde": "NRK Nyheter",
-        "tid": "07:00",
-        "lenke": "https://www.nrk.no/nyheter/prisene-steg-med-3_6-prosent-i-oktober-1.18078012",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Flere offentlige nettsider sliter med innlogging",
-        "kilde": "NRK Nyheter",
-        "tid": "06:16",
-        "lenke": "https://www.nrk.no/nyheter/flere-offentlige-nettsider-sliter-med-innlogging-1.18077993",
+        "tid": "08:41",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/stort-jordskred-i-tana-1.18078089",
         "engelsk_kilde": false
       },
       {
@@ -386,20 +400,6 @@
         "kilde": "BBC Business",
         "tid": "00:08",
         "lenke": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Barnas stedsfiler for konkursbeskyttelse, søker kjøper",
-        "kilde": "CNBC Top News",
-        "tid": "20:57",
-        "lenke": "https://www.cnbc.com/2026/11/09/childrens-place-chapter-11-sale.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvordan en tjenestemann slapp unna med å sjonglere fem jobber så lenge",
-        "kilde": "BBC Business",
-        "tid": "18:40",
-        "lenke": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ]
