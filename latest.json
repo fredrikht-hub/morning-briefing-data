@@ -1,21 +1,35 @@
 {
   "dato": "2026-11-10",
   "dato_norsk": "Tirsdag 10. november 2026",
-  "generert_kl": "20:17",
+  "generert_kl": "21:59",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "10-års Treasury avkastning raser tilbake til 5% som inflasjonsdata, Waller kommentarer drive renteøkning forventninger",
+      "tittel": "Schumer anklager Trump for å forsvare Nvidias administrerende direktør Jensen Huang på bekostning av nasjonal sikkerhet",
       "kilde": "CNBC Top News",
-      "tid": "19:51",
-      "lenke": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
+      "tid": "21:11",
+      "lenke": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Schumer anklager Trump for å forsvare Nvidias administrerende direktør Jensen Huang på bekostning av nasjonal sikkerhet",
+      "tittel": "Nvidia kan snart møte tøffere eksportregler, noe som gjør det vanskeligere å selge sjetonger til Kina etter skandale",
+      "kilde": "MarketWatch",
+      "tid": "20:37",
+      "lenke": "https://www.marketwatch.com/story/nvidia-could-soon-face-tougher-export-rules-making-it-harder-to-sell-chips-to-china-69c88cc8?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "CoreWeave slår på inntekter og løfter veiledning, noe som letter AI-nedgangsproblemer",
       "kilde": "CNBC Top News",
-      "tid": "20:13",
-      "lenke": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
+      "tid": "21:35",
+      "lenke": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Aksjer faller når tiårsavkastningen nærmer seg 5% -merket",
+      "kilde": "MarketWatch",
+      "tid": "21:42",
+      "lenke": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
@@ -23,20 +37,6 @@
       "kilde": "CNBC Top News",
       "tid": "20:01",
       "lenke": "https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "AMDs aksjer avtar etter hvert som investorer vurderer om Nvidias uro vil bety varige gevinster",
-      "kilde": "MarketWatch",
-      "tid": "19:17",
-      "lenke": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Nvidia ansetter et stort advokatfirma i New York for å etterforske Jensen Huang-affæren",
-      "kilde": "BBC Business",
-      "tid": "20:03",
-      "lenke": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
       "engelsk_kilde": true
     }
   ],
@@ -48,28 +48,21 @@
         "tid": "16:38",
         "lenke": "https://e24.no/boers-og-finans/i/8Pw22r/aker-trenger-at-gjeldsslaven-skinner?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kutter økostempel på laks: – Dyrevelferd og miljø er ikke godt nok",
-        "kilde": "E24",
-        "tid": "14:23",
-        "lenke": "https://e24.no/hav-og-sjoemat/i/VxRVo6/kutter-oekostempel-paa-laks-dyrevelferd-og-miljoe-er-ikke-godt-nok?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ],
     "MAKRO": [
       {
-        "tittel": "10-års Treasury avkastning raser tilbake til 5% som inflasjonsdata, Waller kommentarer drive renteøkning forventninger",
-        "kilde": "CNBC Top News",
-        "tid": "19:51",
-        "lenke": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
+        "tittel": "Aksjer faller når tiårsavkastningen nærmer seg 5% -merket",
+        "kilde": "MarketWatch",
+        "tid": "21:42",
+        "lenke": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Her er inflasjonsfordelingen for oktober 2026 — i ett diagram",
+        "tittel": "CoreWeave slår på inntekter og løfter veiledning, noe som letter AI-nedgangsproblemer",
         "kilde": "CNBC Top News",
-        "tid": "16:36",
-        "lenke": "https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html",
+        "tid": "21:35",
+        "lenke": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
         "engelsk_kilde": true
       },
       {
@@ -78,20 +71,20 @@
         "tid": "14:45",
         "lenke": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Federal Reserve Board kunngjør godkjenning av to søknader fra Mutual Federal Bancorp, MHC, og MFB Bancorp, Inc.",
-        "kilde": "Federal Reserve",
-        "tid": "21:00",
-        "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
-        "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "En overivrig Fed blir raskt den største risikoen for aksjer i 2027",
+        "tittel": "Hvordan aksjemarkedet har prestert etter Veterans Day det siste tiåret",
         "kilde": "MarketWatch",
-        "tid": "19:52",
+        "tid": "21:29",
+        "lenke": "https://www.marketwatch.com/story/how-the-stock-market-has-performed-after-veterans-day-over-the-past-decade-7b47233e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Aggressive Fed-renteøkninger blir raskt den største risikoen for aksjer i 2027, sier økonom",
+        "kilde": "MarketWatch",
+        "tid": "20:27",
         "lenke": "https://www.marketwatch.com/story/an-overzealous-fed-is-quickly-becoming-the-biggest-risk-to-stocks-in-2027-ba28e51d?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
@@ -121,15 +114,29 @@
       {
         "tittel": "Schumer anklager Trump for å forsvare Nvidias administrerende direktør Jensen Huang på bekostning av nasjonal sikkerhet",
         "kilde": "CNBC Top News",
-        "tid": "20:13",
+        "tid": "21:11",
         "lenke": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
         "engelsk_kilde": true
       },
       {
         "tittel": "Nvidia ansetter et stort advokatfirma i New York for å etterforske Jensen Huang-affæren",
         "kilde": "BBC Business",
-        "tid": "20:03",
+        "tid": "21:06",
         "lenke": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ignorer de ville svingningene i sjetonglagrene til de når disse \"linjene i sanden\"",
+        "kilde": "MarketWatch",
+        "tid": "20:53",
+        "lenke": "https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nvidia kan snart møte tøffere eksportregler, noe som gjør det vanskeligere å selge sjetonger til Kina etter skandale",
+        "kilde": "MarketWatch",
+        "tid": "20:37",
+        "lenke": "https://www.marketwatch.com/story/nvidia-could-soon-face-tougher-export-rules-making-it-harder-to-sell-chips-to-china-69c88cc8?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -138,27 +145,6 @@
         "tid": "20:01",
         "lenke": "https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "AMDs aksjer avtar etter hvert som investorer vurderer om Nvidias uro vil bety varige gevinster",
-        "kilde": "MarketWatch",
-        "tid": "19:17",
-        "lenke": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jensen Huangs affære med angivelig kinesisk spion kompliserer Nvidias Kina-problem ytterligere",
-        "kilde": "CNBC Top News",
-        "tid": "15:04",
-        "lenke": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nytt tungt Nvidia-fall",
-        "kilde": "E24",
-        "tid": "14:32",
-        "lenke": "https://e24.no/boers-og-finans/i/VxREEV/wall-street-faller-etter-inflasjonstall?utm_medium=rss",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Faisal Islam: Hva sjefen for den amerikanske teknologigiganten Nvidia fortalte meg om Kina og nasjonal sikkerhet",
@@ -175,12 +161,105 @@
         "engelsk_kilde": true
       }
     ],
+    "GEOPOLITIKK": [
+      {
+        "tittel": "Rep. Jim Jordan, Sen. John Thune valgte GOP-lederne i kongressen",
+        "kilde": "CNBC Top News",
+        "tid": "21:48",
+        "lenke": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Det hvite hus lover å presse på med tariffer til tross for motreaksjon over stigende priser",
+        "kilde": "CNBC Top News",
+        "tid": "21:45",
+        "lenke": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
+        "engelsk_kilde": true
+      }
+    ],
     "VILLKORT": [
       {
-        "tittel": "Jim Jordan valgt til leder av Representantenes hus",
+        "tittel": "Mississippis senat: Scott Colom strekker seg tett over Hyde-Smith etter hvert som valgfrister treffer",
         "kilde": "CNBC Top News",
-        "tid": "19:55",
-        "lenke": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
+        "tid": "21:55",
+        "lenke": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tangen hyller Jensen Huang: – Gjort en fantastisk jobb",
+        "kilde": "E24",
+        "tid": "21:25",
+        "lenke": "https://e24.no/boers-og-finans/i/Xowryr/tangen-hyller-jensen-huang-gjort-en-fantastisk-jobb?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Fossils konsernsjef sier at snuoperasjonen er foran planen etter hvert som salget går tilbake til vekst",
+        "kilde": "CNBC Top News",
+        "tid": "21:22",
+        "lenke": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vennen min føler seg fanget i jobben sin, men vil ikke gjøre noe med det. Skal jeg gripe inn?",
+        "kilde": "MarketWatch",
+        "tid": "21:22",
+        "lenke": "https://www.marketwatch.com/story/my-friend-feels-trapped-at-her-job-but-wont-do-anything-about-it-am-i-supposed-to-step-in-7e55604e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Pensjonister bør være store begunstigede av midtveisvalgene: ‘Demokratene vil holde hver eneste slange som betyr noe for aldring og offentlig politikk’",
+        "kilde": "MarketWatch",
+        "tid": "21:20",
+        "lenke": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Coreweave mangedoblet omsetningen",
+        "kilde": "E24",
+        "tid": "21:12",
+        "lenke": "https://e24.no/boers-og-finans/i/z0Lne1/nscale-konkurrenten-coreweave-mangedoblet-omsetningen-aksjen-hopper-i-etterhandelen?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Fortviler over støy fra basskasser: – Føles som hjertet stopper",
+        "kilde": "NRK Nyheter",
+        "tid": "21:00",
+        "lenke": "https://www.nrk.no/vestfoldogtelemark/fortviler-over-stoy-i-ranerbygda-bo-_-na-ber-kommunen-om-hjelp-1.18065917",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Six Math Essentials av Terence Tao",
+        "kilde": "Hacker News",
+        "tid": "20:58",
+        "lenke": "https://teorth.github.io/tao-web/six-math-essentials.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Sherman Anti-Trust Act (1890)",
+        "kilde": "Hacker News",
+        "tid": "20:56",
+        "lenke": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Datasenter-sjef reagerer på byggestans: «Svekker Norges omdømme»",
+        "kilde": "E24",
+        "tid": "20:49",
+        "lenke": "https://e24.no/naeringsliv/i/Abe9yM/datasenter-sjef-reagerer-paa-byggestans-svekker-norges-omdoemme?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Bodø/Glimt truer egne supportere med advokat",
+        "kilde": "NRK Nyheter",
+        "tid": "20:29",
+        "lenke": "https://www.nrk.no/nordland/bodo_glimt-truer-podkasten-glimtforumpodden-med-advokat-1.18077275",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Toyota-merket Scion er tilbake, og det kommer til å selge en Kei-bil i Amerika",
+        "kilde": "Hacker News",
+        "tid": "19:50",
+        "lenke": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
         "engelsk_kilde": true
       },
       {
@@ -189,27 +268,6 @@
         "tid": "19:43",
         "lenke": "https://e24.no/naeringsliv/i/0vE1b0/milliardaerbroedre-selger-bobilkjede?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Boligeiere trykker på egenkapitalen mens HELOC balanserer etter det største hoppet siden 2005: New York Fed-rapport",
-        "kilde": "CNBC Top News",
-        "tid": "19:30",
-        "lenke": "https://www.cnbc.com/2026/11/10/heloc-balances-new-york-fed.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Skal en enke forlate sin avdøde partners hjem til stebarna sine — eller kutte kontakten med dem?",
-        "kilde": "MarketWatch",
-        "tid": "19:30",
-        "lenke": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Corporate America gjør en trillion-dollar feil om pensjonering",
-        "kilde": "MarketWatch",
-        "tid": "19:29",
-        "lenke": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       },
       {
         "tittel": "The Telegraph: Nscale vurderer å utsette børsnotering",
@@ -240,13 +298,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "‘Det føles som om han bygger et eget liv’: Mannen min arvet $ 500 000, men han nekter å bruke det på hjemmet vårt",
-        "kilde": "MarketWatch",
-        "tid": "19:00",
-        "lenke": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Storbritannia: Amerikansk soldat arrestert i antiterror-etterforskning",
         "kilde": "NRK Nyheter",
         "tid": "18:48",
@@ -254,46 +305,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "\"Tanken på å leve til 100 skremmer meg\": Er trygdeordninger en gigantisk Ponzi-ordning?",
-        "kilde": "MarketWatch",
-        "tid": "18:45",
-        "lenke": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Amerikanerne er mer opptatt av pensjon enn noen gang. Politikere bør være oppmerksomme.",
-        "kilde": "MarketWatch",
-        "tid": "18:41",
-        "lenke": "https://www.marketwatch.com/story/retirement-is-now-part-of-the-affordability-crisis-politicians-should-pay-attention-2923b2d7?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Legger ned rute",
         "kilde": "E24",
         "tid": "18:36",
         "lenke": "https://e24.no/naeringsliv/i/vkmMpm/legger-ned-rute?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Starlink Mini 2",
-        "kilde": "Hacker News",
-        "tid": "18:22",
-        "lenke": "https://starlink.com/mini-2",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Synaptics-patentkrav stopper arbeidet med DisplayLink-drivere",
-        "kilde": "Hacker News",
-        "tid": "18:02",
-        "lenke": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vis HN: Få kodingsagenten din av ~2019 JavaScript, på moderne nettprimitiver",
-        "kilde": "Hacker News",
-        "tid": "18:01",
-        "lenke": "https://github.com/GoogleChrome/modern-web-guidance",
-        "engelsk_kilde": true
       },
       {
         "tittel": "– Vi må våkne fra Tornerose-søvnen",
@@ -359,32 +375,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Bekrefter: Kongeparet skal signes i Nidarosdomen neste år",
-        "kilde": "NRK Nyheter",
-        "tid": "15:01",
-        "lenke": "https://www.nrk.no/norge/kong-haakon-og-dronning-mette-marit-skal-signes-neste-ar-1.18055826",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Fornebubanen: Ett års forsinkelse og mulig sprekk på 3,7 milliarder kroner",
-        "kilde": "NRK Nyheter",
-        "tid": "14:35",
-        "lenke": "https://www.nrk.no/stor-oslo/byradet-varsler-mulig-fornebubane-sprekk-pa-3_7-milliarder-1.18078256",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Hvor mye du kan tjene i 2027 og fortsatt betale 0% kapitalgevinstskatt",
         "kilde": "CNBC Top News",
         "tid": "14:12",
         "lenke": "https://www.cnbc.com/2026/11/10/2027-zero-percent-capital-gains-tax.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Dumt å ta opp lønn på jobbintervju?",
-        "kilde": "E24",
-        "tid": "13:38",
-        "lenke": "https://e24.no/karriere-og-ledelse/i/Grvpd4/dumt-aa-ta-opp-loenn-paa-jobbintervju?utm_medium=rss",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Evakuerer folk etter kvikkleireskred – to kommuner isolert",
