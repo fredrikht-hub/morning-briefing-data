@@ -1,28 +1,21 @@
 {
-  "dato": "2026-11-09",
-  "dato_norsk": "Mandag 9. november 2026",
-  "generert_kl": "22:53",
+  "dato": "2026-11-10",
+  "dato_norsk": "Tirsdag 10. november 2026",
+  "generert_kl": "00:28",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "En nøkkelrapport for hvor inflasjonen sto i oktober kommer ut tirsdag. Her er hva du kan forvente",
-      "kilde": "CNBC Top News",
-      "tid": "21:03",
-      "lenke": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+      "tittel": "Trump sier FBI etterforsker Nvidia-sjefens affære med påstått kinesisk spion",
+      "kilde": "BBC Business",
+      "tid": "23:59",
+      "lenke": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Federal Reserve Board kunngjør godkjenning av to søknader fra Mutual Federal Bancorp, MHC, og MFB Bancorp, Inc.",
-      "kilde": "Federal Reserve",
-      "tid": "21:00",
-      "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Nvidias Trump-bånd trekker granskning etter rapporter Huang ble målrettet av kinesisk etterretning",
+      "tittel": "CNBCs nyhetsbrev The China Connection: Wall Street dukker opp igjen. Hva som må gjøres riktig",
       "kilde": "CNBC Top News",
-      "tid": "22:40",
-      "lenke": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html",
+      "tid": "23:00",
+      "lenke": "https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html",
       "engelsk_kilde": true
     },
     {
@@ -33,10 +26,17 @@
       "engelsk_kilde": true
     },
     {
-      "tittel": "Børsmøtet fortsetter å spre seg utover Big Tech. Inflasjonsdata for oktober kan sette det på prøve.",
-      "kilde": "MarketWatch",
-      "tid": "21:24",
-      "lenke": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
+      "tittel": "3 uventede grunner til at jobbrapporten for oktober var så sterk",
+      "kilde": "CNBC Top News",
+      "tid": "22:23",
+      "lenke": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Trump stiller spørsmål ved midtveisvalgresultater, gjenoppliver stemme-maskinkonspirasjon",
+      "kilde": "CNBC Top News",
+      "tid": "22:40",
+      "lenke": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
       "engelsk_kilde": true
     }
   ],
@@ -89,6 +89,13 @@
     ],
     "MARKEDER": [
       {
+        "tittel": "CNBCs nyhetsbrev The China Connection: Wall Street dukker opp igjen. Hva som må gjøres riktig",
+        "kilde": "CNBC Top News",
+        "tid": "23:00",
+        "lenke": "https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Når Nvidias aksjer faller, er dette hva Wall Street har å si om Jensen Huang-skandalen",
         "kilde": "MarketWatch",
         "tid": "21:55",
@@ -126,17 +133,17 @@
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Jensen Huang-affæren setter Nvidias fremtid i fare, uten noen klar etterfølger til den anerkjente konsernsjefen",
-        "kilde": "CNBC Top News",
-        "tid": "22:40",
-        "lenke": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
+        "tittel": "Trump sier FBI etterforsker Nvidia-sjefens affære med påstått kinesisk spion",
+        "kilde": "BBC Business",
+        "tid": "23:59",
+        "lenke": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nvidias Trump-bånd trekker granskning etter rapporter Huang ble målrettet av kinesisk etterretning",
+        "tittel": "Jensen Huang-affæren setter Nvidias fremtid i fare, uten noen klar etterfølger til den anerkjente konsernsjefen",
         "kilde": "CNBC Top News",
-        "tid": "22:40",
-        "lenke": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html",
+        "tid": "22:56",
+        "lenke": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
         "engelsk_kilde": true
       },
       {
@@ -193,6 +200,48 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "Denne pensjonerte professoren har gjenoppfunnet seg selv — som en Taylor Swift-lærd",
+        "kilde": "MarketWatch",
+        "tid": "23:52",
+        "lenke": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Det vi vet så langt om Jensen Huangs affære med mistenkt kinesisk spion",
+        "kilde": "BBC Business",
+        "tid": "23:51",
+        "lenke": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "PepsiCo vil kutte rundt 1000 arbeidsplasser etter hvert som nordamerikanske bedrifter sliter",
+        "kilde": "CNBC Top News",
+        "tid": "23:31",
+        "lenke": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Skydance skisserer sine $ 6 milliarder i planlagte kostnadsbesparelser. Her er oversikten",
+        "kilde": "CNBC Top News",
+        "tid": "23:14",
+        "lenke": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fable 5.2 one-shotted min nevøs drømmespill",
+        "kilde": "Hacker News",
+        "tid": "23:08",
+        "lenke": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nøyaktig – et nytt rammeverk for grensesnitt på tvers av plattformer av EXPO-teamet",
+        "kilde": "Hacker News",
+        "tid": "22:59",
+        "lenke": "https://github.com/expo/exact",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Rocket Lab aksjedykk etter at selskapets \"definerende\" kvartal bommer på merket",
         "kilde": "MarketWatch",
         "tid": "22:49",
@@ -235,13 +284,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Skydance skisserer sine $ 6 milliarder i planlagte kostnadsbesparelser. Her er oversikten",
-        "kilde": "CNBC Top News",
-        "tid": "21:28",
-        "lenke": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "– Forsikrings­selskapene tjener mer penger",
         "kilde": "E24",
         "tid": "21:25",
@@ -249,31 +291,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "En mislykket studie for et hjertemedikament kaster skygge over rivaler som utvikler lignende behandlinger",
-        "kilde": "MarketWatch",
-        "tid": "21:21",
-        "lenke": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Forsyningskjedeangrep på Qubole-kunder",
-        "kilde": "Hacker News",
-        "tid": "21:07",
-        "lenke": "https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Barnas stedsfiler for konkursbeskyttelse, søker kjøper",
         "kilde": "CNBC Top News",
         "tid": "20:57",
         "lenke": "https://www.cnbc.com/2026/11/09/childrens-place-chapter-11-sale.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "PepsiCo vil kutte rundt 1000 arbeidsplasser etter hvert som nordamerikanske bedrifter sliter",
-        "kilde": "CNBC Top News",
-        "tid": "20:41",
-        "lenke": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
         "engelsk_kilde": true
       },
       {
@@ -302,13 +323,6 @@
         "kilde": "Hacker News",
         "tid": "20:04",
         "lenke": "https://artificialanalysis.ai/models/claude-fable-5-2",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "USPS tilbyr nå offisielle postnummergrensepolygoner",
-        "kilde": "Hacker News",
-        "tid": "19:58",
-        "lenke": "https://postalpro.usps.com/zcb",
         "engelsk_kilde": true
       },
       {
@@ -382,25 +396,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Det vi vet så langt om Jensen Huangs affære med mistenkt kinesisk spion",
-        "kilde": "BBC Business",
-        "tid": "15:46",
-        "lenke": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Fellesforbundet varsler sympatistreik til støtte for SAS Link-kabinansatte",
         "kilde": "E24",
         "tid": "15:20",
         "lenke": "https://e24.no/naeringsliv/i/pM6aVV/fellesforbundet-varsler-sympatistreik-til-stoette-for-sas-link-kabinansatte?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Å gjøre disse tingene nå vil hjelpe deg med å spare penger i julen",
-        "kilde": "BBC Business",
-        "tid": "00:09",
-        "lenke": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
       }
     ]
   }
