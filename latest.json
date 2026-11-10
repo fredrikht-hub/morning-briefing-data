@@ -1,42 +1,42 @@
 {
   "dato": "2026-11-10",
   "dato_norsk": "Tirsdag 10. november 2026",
-  "generert_kl": "00:28",
+  "generert_kl": "03:18",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
+      "tittel": "Kortselgeren som så tegn på Nvidias Kina-skandale for flere måneder siden, hevder at Megaspeed ikke er det eneste selskapet som hjelper Kina med å få tilgang til sjetonger",
+      "kilde": "MarketWatch",
+      "tid": "00:48",
+      "lenke": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
       "tittel": "Trump sier FBI etterforsker Nvidia-sjefens affære med påstått kinesisk spion",
       "kilde": "BBC Business",
-      "tid": "23:59",
+      "tid": "01:44",
       "lenke": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
       "engelsk_kilde": true
     },
     {
-      "tittel": "CNBCs nyhetsbrev The China Connection: Wall Street dukker opp igjen. Hva som må gjøres riktig",
+      "tittel": "Trump sier at Jensen Huang fortalte ham mandag at han ikke visste at elsker 'var en spion'",
       "kilde": "CNBC Top News",
-      "tid": "23:00",
-      "lenke": "https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html",
+      "tid": "01:43",
+      "lenke": "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Når Nvidias aksjer faller, er dette hva Wall Street har å si om Jensen Huang-skandalen",
-      "kilde": "MarketWatch",
-      "tid": "21:55",
-      "lenke": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+      "tittel": "Kinas eksport, importen svever over forventningene i oktober — overskuddet smalner kraftig",
+      "kilde": "CNBC Top News",
+      "tid": "02:55",
+      "lenke": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "3 uventede grunner til at jobbrapporten for oktober var så sterk",
+      "tittel": "SoftBank Group aksjeøkning 11% som asiatiske tech aksjer spore Wall Street rebound",
       "kilde": "CNBC Top News",
-      "tid": "22:23",
-      "lenke": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Trump stiller spørsmål ved midtveisvalgresultater, gjenoppliver stemme-maskinkonspirasjon",
-      "kilde": "CNBC Top News",
-      "tid": "22:40",
-      "lenke": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
+      "tid": "01:50",
+      "lenke": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
       "engelsk_kilde": true
     }
   ],
@@ -89,10 +89,10 @@
     ],
     "MARKEDER": [
       {
-        "tittel": "CNBCs nyhetsbrev The China Connection: Wall Street dukker opp igjen. Hva som må gjøres riktig",
+        "tittel": "SoftBank Group aksjeøkning 11% som asiatiske tech aksjer spore Wall Street rebound",
         "kilde": "CNBC Top News",
-        "tid": "23:00",
-        "lenke": "https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html",
+        "tid": "01:50",
+        "lenke": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
         "engelsk_kilde": true
       },
       {
@@ -107,13 +107,6 @@
         "kilde": "MarketWatch",
         "tid": "21:52",
         "lenke": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Børsmøtet fortsetter å spre seg utover Big Tech. Inflasjonsdata for oktober kan sette det på prøve.",
-        "kilde": "MarketWatch",
-        "tid": "21:24",
-        "lenke": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -135,8 +128,15 @@
       {
         "tittel": "Trump sier FBI etterforsker Nvidia-sjefens affære med påstått kinesisk spion",
         "kilde": "BBC Business",
-        "tid": "23:59",
+        "tid": "01:44",
         "lenke": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kortselgeren som så tegn på Nvidias Kina-skandale for flere måneder siden, hevder at Megaspeed ikke er det eneste selskapet som hjelper Kina med å få tilgang til sjetonger",
+        "kilde": "MarketWatch",
+        "tid": "00:48",
+        "lenke": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -173,16 +173,23 @@
         "tid": "19:58",
         "lenke": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hva vet vi om Nvidias administrerende direktørs affære med en mistenkt kinesisk spion?",
-        "kilde": "BBC Business",
-        "tid": "07:10",
-        "lenke": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
+      {
+        "tittel": "Kinas eksport, importen svever over forventningene i oktober — overskuddet smalner kraftig",
+        "kilde": "CNBC Top News",
+        "tid": "02:55",
+        "lenke": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump sier at Jensen Huang fortalte ham mandag at han ikke visste at elsker 'var en spion'",
+        "kilde": "CNBC Top News",
+        "tid": "01:43",
+        "lenke": "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Trump stiller spørsmål ved midtveisvalgresultater, gjenoppliver stemme-maskinkonspirasjon",
         "kilde": "CNBC Top News",
@@ -200,6 +207,27 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "Qantas outsourcer 850 lokale jobber, og de fleste rollene flyttes til India",
+        "kilde": "BBC Business",
+        "tid": "01:55",
+        "lenke": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Finne kilden til et mystisk pip",
+        "kilde": "Hacker News",
+        "tid": "00:10",
+        "lenke": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Horible offentlige nøkkeltriks",
+        "kilde": "Hacker News",
+        "tid": "00:07",
+        "lenke": "https://maurycyz.com/projects/badcert/",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Denne pensjonerte professoren har gjenoppfunnet seg selv — som en Taylor Swift-lærd",
         "kilde": "MarketWatch",
         "tid": "23:52",
@@ -211,13 +239,6 @@
         "kilde": "BBC Business",
         "tid": "23:51",
         "lenke": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "PepsiCo vil kutte rundt 1000 arbeidsplasser etter hvert som nordamerikanske bedrifter sliter",
-        "kilde": "CNBC Top News",
-        "tid": "23:31",
-        "lenke": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
         "engelsk_kilde": true
       },
       {
@@ -235,7 +256,7 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nøyaktig – et nytt rammeverk for grensesnitt på tvers av plattformer av EXPO-teamet",
+        "tittel": "Exact – et nytt rammeverk for grensesnitt på tvers av plattformer",
         "kilde": "Hacker News",
         "tid": "22:59",
         "lenke": "https://github.com/expo/exact",
@@ -263,14 +284,7 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Et år etter 100% AI-mandatet er det ingen som forstår koden vår",
-        "kilde": "Hacker News",
-        "tid": "22:19",
-        "lenke": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "TPU-er",
+        "tittel": "TPU 8tx og TPU 8i Max",
         "kilde": "Hacker News",
         "tid": "21:56",
         "lenke": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
@@ -289,13 +303,6 @@
         "tid": "21:25",
         "lenke": "https://e24.no/privatoekonomi/i/BMp88Q/forsikringsselskapene-tjener-mer-penger?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Barnas stedsfiler for konkursbeskyttelse, søker kjøper",
-        "kilde": "CNBC Top News",
-        "tid": "20:57",
-        "lenke": "https://www.cnbc.com/2026/11/09/childrens-place-chapter-11-sale.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Ble nabolagets helt: Eliah (19) reddet både hund og hus fra brann",
@@ -317,13 +324,6 @@
         "tid": "20:13",
         "lenke": "https://www.nrk.no/sport/eliteserien_-valerenga-trener-johannes-moesgaard-med-tirade-etter-tapet-mot-kristiansund-1.18077889",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Claude Fable 5.2 skårer 65 på kunstig analyse, høyest så langt",
-        "kilde": "Hacker News",
-        "tid": "20:04",
-        "lenke": "https://artificialanalysis.ai/models/claude-fable-5-2",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Hvem er Alice Huang?",
