@@ -1,157 +1,171 @@
 {
   "dato": "2026-11-12",
   "dato_norsk": "Torsdag 12. november 2026",
-  "generert_kl": "17:18",
+  "generert_kl": "20:40",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Analyse: Nvidias lederkrise setter brikkeprodusentens rolle som «KI-ens sentralbank» på prøve",
-      "kilde": "CNBC Top News",
-      "tid": "16:43",
-      "lenke": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Boligsalget faller til det laveste nivået siden «den store resesjonen», mens prisene når tidenes høyeste nivå",
+      "tittel": "Inflasjonen i USA er allerede ille nok. Den kan bli verre.",
       "kilde": "MarketWatch",
-      "tid": "15:52",
-      "lenke": "https://www.marketwatch.com/story/home-sales-plummet-to-lowest-level-since-the-great-recession-as-buyers-flee-the-market-624e6270?mod=mw_rss_topstories",
+      "tid": "18:39",
+      "lenke": "https://www.marketwatch.com/story/u-s-inflation-is-already-bad-enough-it-might-get-worse-bae54da9?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Federal Reserve Board iverksetter håndhevelsestiltak mot tidligere ansatt i United Community Bank",
+      "tittel": "Federal Reserve Board kunngjør priser, med virkning fra 1. januar 2027, for betalingstjenester som Federal Reserve Banks tilbyr banker og kredittforeninger, samt endringer for å effektivisere og justere sjekktjenestene deres",
       "kilde": "Federal Reserve",
-      "tid": "16:00",
-      "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+      "tid": "18:30",
+      "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Nvidia bruker mer enn noen gang på lobbyvirksomhet i Washington. Det vil kanskje ikke hindre Kongressen i å begrense salget av brikker til Kina nå.",
+      "tittel": "Federal Reserve kunngjør en revidert foreløpig timeplan for møtene i Federal Open Market Committee i 2027",
+      "kilde": "Federal Reserve",
+      "tid": "17:45",
+      "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "S&P 500 lar seg ikke påvirke av Nvidias salg. Dette er det som holder resten av markedet flytende.",
       "kilde": "MarketWatch",
-      "tid": "15:55",
-      "lenke": "https://www.marketwatch.com/story/nvidia-is-spending-more-than-ever-on-washington-lobbying-it-still-may-not-be-able-to-stop-congress-from-limiting-its-china-chip-sales-now-d4c34c66?mod=mw_rss_topstories",
+      "tid": "19:52",
+      "lenke": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Trump sier «vi trenger ingen avtale med Iran»",
-      "kilde": "CNBC Top News",
-      "tid": "16:36",
-      "lenke": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
+      "tittel": "Salgspresset på Nvidias aksjer kan være bare begynnelsen, selv etter å ha falt 30 % fra toppen",
+      "kilde": "MarketWatch",
+      "tid": "19:15",
+      "lenke": "https://www.marketwatch.com/story/nvidias-stock-is-on-sale-after-jensen-huangs-exit-but-is-the-selloff-just-beginning-84121513?mod=mw_rss_topstories",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "PST: Skjerpet sabotasjetrussel i Norge",
-        "kilde": "NRK Nyheter",
-        "tid": "12:51",
-        "lenke": "https://www.nrk.no/nyheter/pst_-skjerpet-sabotasjetrussel-i-norge-1.18079926",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "DNB-sluttpakke­frist er ute: – Tungt for de ansatte",
         "kilde": "E24",
         "tid": "11:43",
         "lenke": "https://e24.no/boers-og-finans/i/AR2jVx/dnb-sluttpakkefrist-er-ute-tungt-for-de-ansatte?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Nvidia-smell for Oljefondet",
-        "kilde": "E24",
-        "tid": "09:24",
-        "lenke": "https://e24.no/boers-og-finans/i/XowGwx/nvidia-smell-for-oljefondet?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Norsk ektepar reddet liv i Krakow: – Jeg lå med knærne i en blodpøl",
-        "kilde": "NRK Nyheter",
-        "tid": "08:33",
-        "lenke": "https://www.nrk.no/buskerud/norsk-ektepar-reddet-liv-i-krakow_-_-jeg-la-med-knaerne-i-en-blodpol-1.18079645",
-        "engelsk_kilde": false
       }
     ],
     "MAKRO": [
       {
-        "tittel": "Analyse: Nvidias lederkrise setter brikkeprodusentens rolle som «KI-ens sentralbank» på prøve",
-        "kilde": "CNBC Top News",
-        "tid": "16:43",
-        "lenke": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+        "tittel": "Inflasjonen i USA er allerede ille nok. Den kan bli verre.",
+        "kilde": "MarketWatch",
+        "tid": "18:39",
+        "lenke": "https://www.marketwatch.com/story/u-s-inflation-is-already-bad-enough-it-might-get-worse-bae54da9?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Federal Reserve Board iverksetter håndhevelsestiltak mot tidligere ansatt i United Community Bank",
+        "tittel": "Federal Reserve Board kunngjør priser, med virkning fra 1. januar 2027, for betalingstjenester som Federal Reserve Banks tilbyr banker og kredittforeninger, samt endringer for å effektivisere og justere sjekktjenestene deres",
+        "kilde": "Federal Reserve",
+        "tid": "18:30",
+        "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Federal Reserve kunngjør en revidert foreløpig timeplan for møtene i Federal Open Market Committee i 2027",
+        "kilde": "Federal Reserve",
+        "tid": "17:45",
+        "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Federal Reserve Board iverksetter håndhevelsestiltak mot en tidligere ansatt i United Community Bank",
         "kilde": "Federal Reserve",
         "tid": "16:00",
         "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Boligsalget faller til det laveste nivået siden «den store resesjonen», mens prisene når tidenes høyeste nivå",
-        "kilde": "MarketWatch",
-        "tid": "15:52",
-        "lenke": "https://www.marketwatch.com/story/home-sales-plummet-to-lowest-level-since-the-great-recession-as-buyers-flee-the-market-624e6270?mod=mw_rss_topstories",
         "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
+        "tittel": "S&P 500 lar seg ikke påvirke av Nvidias salg. Dette er det som holder resten av markedet flytende.",
+        "kilde": "MarketWatch",
+        "tid": "19:52",
+        "lenke": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Obligasjonsmarkedet har nå en enda større frykt enn konsekvensene av KI",
         "kilde": "MarketWatch",
-        "tid": "17:11",
+        "tid": "19:29",
         "lenke": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Kona mi og jeg er i 70-årene. Bør vi betale ned boliglånet vårt med 2,5 % rente eller investere i et aksjemarked drevet av KI?",
+        "tittel": "Salgspresset på Nvidias aksjer kan være bare begynnelsen, selv etter å ha falt 30 % fra toppen",
         "kilde": "MarketWatch",
-        "tid": "17:00",
-        "lenke": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+        "tid": "19:15",
+        "lenke": "https://www.marketwatch.com/story/nvidias-stock-is-on-sale-after-jensen-huangs-exit-but-is-the-selloff-just-beginning-84121513?mod=mw_rss_topstories",
         "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
+        "tittel": "Alice Huang knyttet til Nvidias største kinesiske konkurrent",
+        "kilde": "CNBC Top News",
+        "tid": "20:34",
+        "lenke": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jensen Huangs avgang fra Nvidia reiser kritiske spørsmål om KI-ens fremtid",
+        "kilde": "CNBC Top News",
+        "tid": "20:32",
+        "lenke": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jensen Huang er ute, og Nvidia-aksjen har falt – dette sier markedseksperter om å kjøpe på nedgang",
+        "kilde": "CNBC Top News",
+        "tid": "20:01",
+        "lenke": "https://www.cnbc.com/make-it/2026/11/12/nvidia-what-market-pros-say-about-buying-dips.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nvidia: Tidligere aktor Joon Kim og Wachtell, Lipton har en solid merittliste i forbindelse med etterforskningen",
+        "kilde": "CNBC Top News",
+        "tid": "19:58",
+        "lenke": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tidligere Nvidia-sjef Huang hadde et forhold til en annen ansatt, sier kilder",
+        "kilde": "Hacker News",
+        "tid": "19:51",
+        "lenke": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Dette skrev Nvidias midlertidige administrerende direktør Colette Kress og styreleder Harvey Jones til Nvidias ansatte",
         "kilde": "CNBC Top News",
-        "tid": "17:17",
+        "tid": "19:42",
         "lenke": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html",
         "engelsk_kilde": true
       },
       {
         "tittel": "Jensen Huangs avgang fra Nvidia kaster skygge over Wall Streets satsing på 500 milliarder dollar i AI-finansiering",
         "kilde": "CNBC Top News",
-        "tid": "17:06",
+        "tid": "19:33",
         "lenke": "https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nvidia-aksjen reduserer tapene fra morgenen etter at administrerende direktør Jensen Huang kunngjør sin avgang",
-        "kilde": "CNBC Top News",
-        "tid": "16:59",
-        "lenke": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
-        "engelsk_kilde": true
+        "tittel": "Reuters: Jensen Huang har hatt forhold til enda en Nvidia-ansatt",
+        "kilde": "E24",
+        "tid": "19:33",
+        "lenke": "https://e24.no/boers-og-finans/i/0vnEz6/reuters-jensen-huang-har-hatt-forhold-til-enda-en-nvidia-ansatt?utm_medium=rss",
+        "engelsk_kilde": false
       },
       {
-        "tittel": "Jensen Huangs avgang fra Nvidia reiser kritiske spørsmål om KI-ens fremtid",
-        "kilde": "CNBC Top News",
-        "tid": "16:43",
-        "lenke": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nvidia bruker mer enn noen gang på lobbyvirksomhet i Washington. Det vil kanskje ikke hindre Kongressen i å begrense salget av brikker til Kina nå.",
-        "kilde": "MarketWatch",
-        "tid": "15:55",
-        "lenke": "https://www.marketwatch.com/story/nvidia-is-spending-more-than-ever-on-washington-lobbying-it-still-may-not-be-able-to-stop-congress-from-limiting-its-china-chip-sales-now-d4c34c66?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "«En mørk dag for Nvidia»: Dette har analytikere sagt om Jensen Huangs avgang",
-        "kilde": "CNBC Top News",
-        "tid": "15:22",
-        "lenke": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html",
-        "engelsk_kilde": true
+        "tittel": "Nvidia-sjefen går av: Dette bør du gjøre med aksjen",
+        "kilde": "E24",
+        "tid": "17:30",
+        "lenke": "https://e24.no/boers-og-finans/i/R1Rbkd/nvidia-sjefen-gaar-av-dette-boer-du-gjoere-med-aksjen?utm_medium=rss",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Hvem er Nvidias midlertidige administrerende direktør Colette Kress – og hvem kan overta stillingen permanent?",
@@ -161,14 +175,7 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Jensen og Lori Huangs Nvidia-formue kontrolleres i fellesskap. Hvordan det kompliserer ting nå som han har sagt opp",
-        "kilde": "CNBC Top News",
-        "tid": "15:03",
-        "lenke": "https://www.cnbc.com/2026/11/12/inside-jensen-and-lori-huangs-jointly-controlled-nvidia-fortune.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nvidia raser på Wall Street etter Huang-avgang",
+        "tittel": "Nvidia faller på Wall Street etter Huang-avgang",
         "kilde": "E24",
         "tid": "14:30",
         "lenke": "https://e24.no/boers-og-finans/i/6Pjwgz/nvidia-faller-x-prosent-paa-wall-street-etter-huang-avgang?utm_medium=rss",
@@ -191,10 +198,17 @@
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Trump sier «vi trenger ingen avtale med Iran»",
+        "tittel": "Donald Trump jr. trekker seg fra rådgiverrollen i prediksjonsmarkedet Kalshi",
         "kilde": "CNBC Top News",
-        "tid": "16:36",
-        "lenke": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
+        "tid": "20:03",
+        "lenke": "https://www.cnbc.com/2026/11/12/donald-trump-jr-exits-kalshi-advisory-role.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump-administrasjonen ansetter inkassobyråer for å gå etter låntakere med misligholdte studielån for første gang på seks år",
+        "kilde": "MarketWatch",
+        "tid": "19:46",
+        "lenke": "https://www.marketwatch.com/story/trump-administration-is-hiring-debt-collectors-for-first-time-in-6-years-to-go-after-defaulted-student-loan-borrowers-8bae13ad?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -203,13 +217,6 @@
         "tid": "15:34",
         "lenke": "https://e24.no/boers-og-finans/i/r8ALAm/donald-trump-foreslaar-aa-erstatte-nvidia-sjefen-med-tidligere-apple-sjef-tim-cook-en-legende?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Yankees-president Randy Levine presser på for et lovforslag om universitetsidrett og diskuterer MLB-arbeidstvistforhandlinger",
-        "kilde": "CNBC Top News",
-        "tid": "15:34",
-        "lenke": "https://www.cnbc.com/2026/11/12/yankees-randy-levine-discusses-college-sports-bill-mlb-labor-deal.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Oljeprisen hopper etter Trump-melding",
@@ -221,31 +228,115 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "Jeg er 17 år og kommer til å bli første generasjons universitetsstudent. Er det verdt å sette seg i 200 000 dollar i gjeld for å studere juss?",
+        "kilde": "MarketWatch",
+        "tid": "20:17",
+        "lenke": "https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Datasentre trenger strøm – lavinntektsgrupper og innbyggere på landsbygda betaler prisen",
+        "kilde": "Hacker News",
+        "tid": "19:53",
+        "lenke": "https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Reglene for screening for prostatakreft har nettopp blitt endret. Her er når menn bør ta prøver.",
+        "kilde": "MarketWatch",
+        "tid": "19:12",
+        "lenke": "https://www.marketwatch.com/story/the-prostate-cancer-screening-rules-just-changed-heres-when-men-should-get-tested-894418bb?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Det har dukket opp en kandidat til dvergplanet som bruker rundt 280 år på å gå i bane rundt solen vår",
+        "kilde": "Hacker News",
+        "tid": "19:05",
+        "lenke": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "I en endring av retningslinjene sier Fed at det ikke vil bli avstemning om rentene på møtet i oktober 2027",
+        "kilde": "CNBC Top News",
+        "tid": "19:05",
+        "lenke": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kritisk til politiet: – Mye dårligere enn svenskene",
+        "kilde": "E24",
+        "tid": "19:00",
+        "lenke": "https://e24.no/naeringsliv/i/rMqaL8/kritisk-til-politiet-mye-daarligere-enn-svenskene?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Gemini 4 Hydrogen og Orchestrator",
+        "kilde": "Hacker News",
+        "tid": "18:52",
+        "lenke": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "«Han kaller planene mine for en fantasi»: Mannen min sier at vi ikke har råd til drømmepensjonen vår på 200 000 dollar i året. Jeg synes han er gjerrig.",
+        "kilde": "MarketWatch",
+        "tid": "18:46",
+        "lenke": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Alvorlig syke rammes av SAS-kutt: – En ekstrabelastning de absolutt ikke trenger",
+        "kilde": "NRK Nyheter",
+        "tid": "18:45",
+        "lenke": "https://www.nrk.no/nordland/helse-nord-og-kreftforeningen-er-svaert-bekymret-nar-sas-kutter-direkteruta-mellom-bodo-og-tromso-1.18080290",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Rust 1.100",
+        "kilde": "Hacker News",
+        "tid": "18:39",
+        "lenke": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Over 144.000 Norwegian og Widerøe-passasjerer rammet av datainnbrudd",
+        "kilde": "NRK Nyheter",
+        "tid": "18:19",
+        "lenke": "https://www.nrk.no/nyheter/over-144.000-norwegian-og-wideroe-passasjerer-rammet-av-datainnbrudd-1.18080740",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Scout Motors har 212 000 kjøretøyreservasjoner etter hvert som fabrikken i South Carolina til 2 milliarder dollar nærmer seg ferdigstillelse",
+        "kilde": "CNBC Top News",
+        "tid": "17:49",
+        "lenke": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Noen under 25 år bør få færre ytelser, ifølge Milburn-rapporten",
+        "kilde": "BBC Business",
+        "tid": "17:32",
+        "lenke": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "NRK-eksperter kritisk etter Ullevaal-trøbbel: – Finnes det ingen tiltak?",
+        "kilde": "NRK Nyheter",
+        "tid": "17:27",
+        "lenke": "https://www.nrk.no/sport/nrks-fotballeksperter-reagerer-pa-avlyst-trening-for-fotballandslaget-1.18080638",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "IRS kunngjør bidragsgrenser for 401(k) i 2027 og hever sparegrensen: Hva det betyr for pengene dine",
+        "kilde": "CNBC Top News",
+        "tid": "17:23",
+        "lenke": "https://www.cnbc.com/2026/11/12/401k-contribution-limits-2027.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Jensen Huangs opp- og nedtur – hvordan teknologisuperstjernen ble viklet inn i en skandale",
         "kilde": "BBC Business",
         "tid": "17:11",
         "lenke": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "«Vi hadde den verste krangelen»: Jeg vil at mannen min skal pensjonere seg når han er 65, men jeg vil ikke miste lønnen hans på 280 000 dollar. Er det urimelig?",
-        "kilde": "MarketWatch",
-        "tid": "17:01",
-        "lenke": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "AWS Lambda Web Functions fortsetter å fakturere for minne i ca. 7 minutter etter den siste forespørselen",
-        "kilde": "Hacker News",
-        "tid": "16:59",
-        "lenke": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nintendo fjerner emulatorer og fastvare i en massiv GitHub DMCA-aksjon",
-        "kilde": "Hacker News",
-        "tid": "16:29",
-        "lenke": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
         "engelsk_kilde": true
       },
       {
@@ -256,60 +347,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "«Jeg er lei av å fly»: Jeg betalte for prioritert ombordstigning, men bagasjehyllene var fulle. Ble jeg lurt?",
-        "kilde": "MarketWatch",
-        "tid": "16:15",
-        "lenke": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Medicare ved fylte 50? Hva «Medicare for flere» kan bety for amerikanske arbeidere.",
-        "kilde": "MarketWatch",
-        "tid": "16:00",
-        "lenke": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Trappar opp kampen mot ulovleg droneflyging",
         "kilde": "NRK Nyheter",
         "tid": "15:51",
         "lenke": "https://www.nrk.no/nordland/slar-alarm-om-dronekaos-i-lofoten.-kommunen_-politiet-og-pilotforbundet-leiter-etter-loysingar-1.18080431",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Hva som egentlig skjer under Medicare-rådgivning",
-        "kilde": "MarketWatch",
-        "tid": "15:40",
-        "lenke": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Show HN: En selvhostet PHP-plattform som kombinerer CMS, netthandel og mer, innebygd",
-        "kilde": "Hacker News",
-        "tid": "15:35",
-        "lenke": "https://getvale.org",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Show HN: Fable52.games – Spill og undersøk Fable 5.2 HTML-spill med én fil",
-        "kilde": "Hacker News",
-        "tid": "15:30",
-        "lenke": "https://fable52.games",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "ExcalidrawZ: Lokal, innebygd Excalidraw på macOS/iOS",
-        "kilde": "Hacker News",
-        "tid": "15:25",
-        "lenke": "https://github.com/chocoford/ExcalidrawZ",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Scout Motors har 212 000 kjøretøyreservasjoner etter hvert som fabrikken i South Carolina til 2 milliarder dollar nærmer seg ferdigstillelse",
-        "kilde": "CNBC Top News",
-        "tid": "14:40",
-        "lenke": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Poundland får mer tid til å sikre en redningsavtale mens krisesamtalene fortsetter",
@@ -347,20 +389,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Noen under 25 år bør få færre ytelser, ifølge Milburn-rapporten",
-        "kilde": "BBC Business",
-        "tid": "13:16",
-        "lenke": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "PST: Må være forberedt på sabotasje der menneskeliv går tapt",
-        "kilde": "NRK Nyheter",
-        "tid": "12:52",
-        "lenke": "https://www.nrk.no/tromsogfinnmark/pst_-_-forventer-russisk-sabotasje-det-kommende-aret-1.18079056",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Avlyste møte med sykehusledelsen etter drapet",
         "kilde": "NRK Nyheter",
         "tid": "12:37",
@@ -373,20 +401,6 @@
         "tid": "11:20",
         "lenke": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jekker ned årets oljeinvesteringer",
-        "kilde": "E24",
-        "tid": "09:49",
-        "lenke": "https://e24.no/energi-og-klima/i/Qrlp88/jekker-ned-aarets-oljeinvesteringer?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Dette holder toppsjefene våkne om natten",
-        "kilde": "E24",
-        "tid": "09:21",
-        "lenke": "https://e24.no/naeringsliv/i/8PwbR2/dette-holder-toppsjefene-vaakne-om-natten?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ]
   }
