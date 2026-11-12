@@ -1,47 +1,54 @@
 {
   "dato": "2026-11-12",
   "dato_norsk": "Torsdag 12. november 2026",
-  "generert_kl": "20:40",
+  "generert_kl": "22:28",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Inflasjonen i USA er allerede ille nok. Den kan bli verre.",
+      "tittel": "S&P 500 lar seg ikke påvirke av Nvidias salg denne uken. Dette er det som holder resten av markedet flytende.",
       "kilde": "MarketWatch",
-      "tid": "18:39",
-      "lenke": "https://www.marketwatch.com/story/u-s-inflation-is-already-bad-enough-it-might-get-worse-bae54da9?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Federal Reserve Board kunngjør priser, med virkning fra 1. januar 2027, for betalingstjenester som Federal Reserve Banks tilbyr banker og kredittforeninger, samt endringer for å effektivisere og justere sjekktjenestene deres",
-      "kilde": "Federal Reserve",
-      "tid": "18:30",
-      "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Federal Reserve kunngjør en revidert foreløpig timeplan for møtene i Federal Open Market Committee i 2027",
-      "kilde": "Federal Reserve",
-      "tid": "17:45",
-      "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "S&P 500 lar seg ikke påvirke av Nvidias salg. Dette er det som holder resten av markedet flytende.",
-      "kilde": "MarketWatch",
-      "tid": "19:52",
+      "tid": "21:08",
       "lenke": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Salgspresset på Nvidias aksjer kan være bare begynnelsen, selv etter å ha falt 30 % fra toppen",
-      "kilde": "MarketWatch",
-      "tid": "19:15",
-      "lenke": "https://www.marketwatch.com/story/nvidias-stock-is-on-sale-after-jensen-huangs-exit-but-is-the-selloff-just-beginning-84121513?mod=mw_rss_topstories",
+      "tittel": "Trump sier «vi trenger ikke en avtale med Iran»",
+      "kilde": "CNBC Top News",
+      "tid": "20:34",
+      "lenke": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Alice Huang knyttet til Nvidias største kinesiske konkurrent",
+      "kilde": "CNBC Top News",
+      "tid": "22:18",
+      "lenke": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Jensen Huang er ute, og Nvidia-aksjen har falt – dette sier markedseksperter om å kjøpe på nedturer",
+      "kilde": "CNBC Top News",
+      "tid": "20:01",
+      "lenke": "https://www.cnbc.com/make-it/2026/11/12/nvidia-what-market-pros-say-about-buying-dips.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Nvidia: Tidligere statsadvokat Joon Kim og Wachtell, Lipton har lang erfaring med etterforskning",
+      "kilde": "CNBC Top News",
+      "tid": "19:58",
+      "lenke": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
+      {
+        "tittel": "Tog sporet av ved Oslo S",
+        "kilde": "NRK Nyheter",
+        "tid": "22:19",
+        "lenke": "https://www.nrk.no/nyheter/tog-sporet-av-ved-oslo-s-1.18080865",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "DNB-sluttpakke­frist er ute: – Tungt for de ansatte",
         "kilde": "E24",
@@ -52,13 +59,6 @@
     ],
     "MAKRO": [
       {
-        "tittel": "Inflasjonen i USA er allerede ille nok. Den kan bli verre.",
-        "kilde": "MarketWatch",
-        "tid": "18:39",
-        "lenke": "https://www.marketwatch.com/story/u-s-inflation-is-already-bad-enough-it-might-get-worse-bae54da9?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Federal Reserve Board kunngjør priser, med virkning fra 1. januar 2027, for betalingstjenester som Federal Reserve Banks tilbyr banker og kredittforeninger, samt endringer for å effektivisere og justere sjekktjenestene deres",
         "kilde": "Federal Reserve",
         "tid": "18:30",
@@ -66,7 +66,7 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Federal Reserve kunngjør en revidert foreløpig timeplan for møtene i Federal Open Market Committee i 2027",
+        "tittel": "Federal Reserve kunngjør revidert foreløpig timeplan for møtene i Federal Open Market Committee i 2027",
         "kilde": "Federal Reserve",
         "tid": "17:45",
         "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
@@ -82,61 +82,82 @@
     ],
     "MARKEDER": [
       {
-        "tittel": "S&P 500 lar seg ikke påvirke av Nvidias salg. Dette er det som holder resten av markedet flytende.",
+        "tittel": "De ti beste aksjene for en momentumhandel ved årets slutt",
         "kilde": "MarketWatch",
-        "tid": "19:52",
+        "tid": "21:50",
+        "lenke": "https://www.marketwatch.com/story/the-10-best-stocks-for-a-year-end-momentum-trade-8d4cf8f7?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Cisco overgår forventningene til resultat og sier at inntektene fra AI-infrastruktur vil dobles dette regnskapsåret",
+        "kilde": "CNBC Top News",
+        "tid": "21:20",
+        "lenke": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "S&P 500 lar seg ikke påvirke av Nvidias salg denne uken. Dette er det som holder resten av markedet flytende.",
+        "kilde": "MarketWatch",
+        "tid": "21:08",
         "lenke": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
         "tittel": "Obligasjonsmarkedet har nå en enda større frykt enn konsekvensene av KI",
         "kilde": "MarketWatch",
-        "tid": "19:29",
+        "tid": "20:44",
         "lenke": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Salgspresset på Nvidias aksjer kan være bare begynnelsen, selv etter å ha falt 30 % fra toppen",
-        "kilde": "MarketWatch",
-        "tid": "19:15",
-        "lenke": "https://www.marketwatch.com/story/nvidias-stock-is-on-sale-after-jensen-huangs-exit-but-is-the-selloff-just-beginning-84121513?mod=mw_rss_topstories",
         "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
+        "tittel": "Omfattende Microsoft-brudd legger ned Outlook og andre 365-tjenester",
+        "kilde": "CNBC Top News",
+        "tid": "22:24",
+        "lenke": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Alice Huang knyttet til Nvidias største kinesiske konkurrent",
         "kilde": "CNBC Top News",
-        "tid": "20:34",
+        "tid": "22:18",
         "lenke": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Jensen Huangs avgang fra Nvidia reiser kritiske spørsmål om KI-ens fremtid",
+        "tittel": "Nvidia-skandalen: – Åpner for søksmål fra amerikanske myndigheter",
+        "kilde": "E24",
+        "tid": "21:38",
+        "lenke": "https://e24.no/boers-og-finans/i/yzvk6a/nvidia-skandalen-aapner-for-soeksmaal-fra-amerikanske-myndigheter?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Cerebras stiger 18 % etter å ha overgått forventningene til kvartalsinntektene og kunngjort avtalen med Microsoft",
         "kilde": "CNBC Top News",
-        "tid": "20:32",
-        "lenke": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
+        "tid": "21:33",
+        "lenke": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Jensen Huang er ute, og Nvidia-aksjen har falt – dette sier markedseksperter om å kjøpe på nedgang",
+        "tittel": "KI gjør Apples prosess for gjennomgang av apper til et mareritt for synth-utviklere",
+        "kilde": "Hacker News",
+        "tid": "21:09",
+        "lenke": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jensen Huang er ute, og Nvidia-aksjen har falt – dette sier markedseksperter om å kjøpe på nedturer",
         "kilde": "CNBC Top News",
         "tid": "20:01",
         "lenke": "https://www.cnbc.com/make-it/2026/11/12/nvidia-what-market-pros-say-about-buying-dips.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nvidia: Tidligere aktor Joon Kim og Wachtell, Lipton har en solid merittliste i forbindelse med etterforskningen",
+        "tittel": "Nvidia: Tidligere statsadvokat Joon Kim og Wachtell, Lipton har lang erfaring med etterforskning",
         "kilde": "CNBC Top News",
         "tid": "19:58",
         "lenke": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Tidligere Nvidia-sjef Huang hadde et forhold til en annen ansatt, sier kilder",
-        "kilde": "Hacker News",
-        "tid": "19:51",
-        "lenke": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
         "engelsk_kilde": true
       },
       {
@@ -144,13 +165,6 @@
         "kilde": "CNBC Top News",
         "tid": "19:42",
         "lenke": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jensen Huangs avgang fra Nvidia kaster skygge over Wall Streets satsing på 500 milliarder dollar i AI-finansiering",
-        "kilde": "CNBC Top News",
-        "tid": "19:33",
-        "lenke": "https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html",
         "engelsk_kilde": true
       },
       {
@@ -168,14 +182,14 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Hvem er Nvidias midlertidige administrerende direktør Colette Kress – og hvem kan overta stillingen permanent?",
+        "tittel": "Hvem er Nvidias midlertidige administrerende direktør Colette Kress – og hvem kan overta permanent?",
         "kilde": "BBC Business",
         "tid": "15:10",
         "lenke": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nvidia faller på Wall Street etter Huang-avgang",
+        "tittel": "Kraftig Nvidia-fall på Wall Street etter Huang-avgang",
         "kilde": "E24",
         "tid": "14:30",
         "lenke": "https://e24.no/boers-og-finans/i/6Pjwgz/nvidia-faller-x-prosent-paa-wall-street-etter-huang-avgang?utm_medium=rss",
@@ -187,28 +201,14 @@
         "tid": "13:50",
         "lenke": "https://e24.no/boers-og-finans/i/aG2XA2/nvidia-sjef-jensen-huang-gaar-av?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Tror Nvidia-sjefen ryker: – Vi vet ikke om det finnes en god nummer to",
-        "kilde": "E24",
-        "tid": "10:42",
-        "lenke": "https://e24.no/boers-og-finans/i/0vEwEg/tror-nvidia-sjefen-ryker-vi-vet-ikke-om-det-finnes-en-god-nummer-to?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Donald Trump jr. trekker seg fra rådgiverrollen i prediksjonsmarkedet Kalshi",
+        "tittel": "Trump sier «vi trenger ikke en avtale med Iran»",
         "kilde": "CNBC Top News",
-        "tid": "20:03",
-        "lenke": "https://www.cnbc.com/2026/11/12/donald-trump-jr-exits-kalshi-advisory-role.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Trump-administrasjonen ansetter inkassobyråer for å gå etter låntakere med misligholdte studielån for første gang på seks år",
-        "kilde": "MarketWatch",
-        "tid": "19:46",
-        "lenke": "https://www.marketwatch.com/story/trump-administration-is-hiring-debt-collectors-for-first-time-in-6-years-to-go-after-defaulted-student-loan-borrowers-8bae13ad?mod=mw_rss_topstories",
+        "tid": "20:34",
+        "lenke": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
         "engelsk_kilde": true
       },
       {
@@ -228,38 +228,80 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "Jeg er 17 år og kommer til å bli første generasjons universitetsstudent. Er det verdt å sette seg i 200 000 dollar i gjeld for å studere juss?",
+        "tittel": "Scout Motors har 212 000 kjøretøyreservasjoner når fabrikken i South Carolina til 2 milliarder dollar nærmer seg ferdigstillelse",
+        "kilde": "CNBC Top News",
+        "tid": "22:17",
+        "lenke": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Obligasjonsrentene har nettopp opplevd den største oppgangen siden 2022, ettersom forventningene om flere rentehevinger fra Fed øker.",
+        "kilde": "MarketWatch",
+        "tid": "22:16",
+        "lenke": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "«Han kaller planene mine for fantasi»: Mannen min sier at vi ikke har råd til drømmepensjonen vår på 200 000 dollar i året. Jeg synes han er gjerrig.",
+        "kilde": "MarketWatch",
+        "tid": "22:00",
+        "lenke": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Betaler jeg for mye for helseforsikringen? Slik svarer du på det viktigste spørsmålet i årets åpne påmeldingsperiode.",
+        "kilde": "MarketWatch",
+        "tid": "21:55",
+        "lenke": "https://www.marketwatch.com/story/am-i-overpaying-for-health-insurance-how-to-answer-the-key-question-this-open-enrollment-season-2d00ed55?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg arvet 1,4 millioner dollar fra faren min. Tar jeg feil når jeg ber mannen min, som jeg har vært gift med i 25 år, om en ektepakt?",
+        "kilde": "MarketWatch",
+        "tid": "21:30",
+        "lenke": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Rammeverk for grunnmodeller (macOS)",
+        "kilde": "Hacker News",
+        "tid": "21:13",
+        "lenke": "https://developer.apple.com/foundation-models-framework/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "United klarte ikke engang å sparke treneren skikkelig",
+        "kilde": "NRK Nyheter",
+        "tid": "20:36",
+        "lenke": "https://www.nrk.no/sport/thore-haugstad_-united-klarte-ikke-engang-a-sparke-treneren-skikkelig-1.18080553",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Jeg er 17 år og kommer til å bli første generasjons universitetsstudent. Er det verdt å sette seg i 200 000 dollar i gjeld for å studere juss?",
         "kilde": "MarketWatch",
         "tid": "20:17",
         "lenke": "https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Datasentre trenger strøm – lavinntektsgrupper og innbyggere på landsbygda betaler prisen",
+        "tittel": "Datasentre trenger strøm – innbyggere med lavere inntekt på landsbygda betaler prisen",
         "kilde": "Hacker News",
         "tid": "19:53",
         "lenke": "https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Reglene for screening for prostatakreft har nettopp blitt endret. Her er når menn bør ta prøver.",
-        "kilde": "MarketWatch",
-        "tid": "19:12",
-        "lenke": "https://www.marketwatch.com/story/the-prostate-cancer-screening-rules-just-changed-heres-when-men-should-get-tested-894418bb?mod=mw_rss_topstories",
+        "tittel": "Distribuert strålesporer",
+        "kilde": "Hacker News",
+        "tid": "19:06",
+        "lenke": "https://ray.hatchet.run",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Det har dukket opp en kandidat til dvergplanet som bruker rundt 280 år på å gå i bane rundt solen vår",
+        "tittel": "En kandidat til dvergplanet dukker opp, og den bruker rundt 280 år på å gå i bane rundt solen vår",
         "kilde": "Hacker News",
         "tid": "19:05",
         "lenke": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "I en endring av retningslinjene sier Fed at det ikke vil bli avstemning om rentene på møtet i oktober 2027",
-        "kilde": "CNBC Top News",
-        "tid": "19:05",
-        "lenke": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
         "engelsk_kilde": true
       },
       {
@@ -270,20 +312,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Gemini 4 Hydrogen og Orchestrator",
-        "kilde": "Hacker News",
-        "tid": "18:52",
-        "lenke": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "«Han kaller planene mine for en fantasi»: Mannen min sier at vi ikke har råd til drømmepensjonen vår på 200 000 dollar i året. Jeg synes han er gjerrig.",
-        "kilde": "MarketWatch",
-        "tid": "18:46",
-        "lenke": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Alvorlig syke rammes av SAS-kutt: – En ekstrabelastning de absolutt ikke trenger",
         "kilde": "NRK Nyheter",
         "tid": "18:45",
@@ -291,25 +319,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Rust 1.100",
-        "kilde": "Hacker News",
-        "tid": "18:39",
-        "lenke": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Over 144.000 Norwegian og Widerøe-passasjerer rammet av datainnbrudd",
         "kilde": "NRK Nyheter",
         "tid": "18:19",
         "lenke": "https://www.nrk.no/nyheter/over-144.000-norwegian-og-wideroe-passasjerer-rammet-av-datainnbrudd-1.18080740",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Scout Motors har 212 000 kjøretøyreservasjoner etter hvert som fabrikken i South Carolina til 2 milliarder dollar nærmer seg ferdigstillelse",
-        "kilde": "CNBC Top News",
-        "tid": "17:49",
-        "lenke": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Noen under 25 år bør få færre ytelser, ifølge Milburn-rapporten",
@@ -354,7 +368,7 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Poundland får mer tid til å sikre en redningsavtale mens krisesamtalene fortsetter",
+        "tittel": "Poundland får mer tid til å sikre en redningsavtale mens krisemøtene fortsetter",
         "kilde": "BBC Business",
         "tid": "14:29",
         "lenke": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
@@ -375,25 +389,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Faisal Islam: Hvorfor Storbritannias økonomi er overraskende robust",
+        "tittel": "Faisal Islam: Hvorfor den britiske økonomien er overraskende robust",
         "kilde": "BBC Business",
         "tid": "13:27",
         "lenke": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Økende smitte: – Det begynner å haste",
-        "kilde": "NRK Nyheter",
-        "tid": "13:20",
-        "lenke": "https://www.nrk.no/buskerud/okende-smitte_-_-det-begynner-a-haste-1.18080337",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Avlyste møte med sykehusledelsen etter drapet",
-        "kilde": "NRK Nyheter",
-        "tid": "12:37",
-        "lenke": "https://www.nrk.no/buskerud/avlyste-mote-med-sykehusledelsen-etter-drapet-i-drammen-1.18079005",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Den britiske økonomien vokser i sitt raskeste tempo på over to år",
