@@ -1,59 +1,73 @@
 {
   "dato": "2026-11-13",
   "dato_norsk": "Fredag 13. november 2026",
-  "generert_kl": "01:43",
+  "generert_kl": "12:55",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Alice Huang knyttet til Nvidias største kinesiske konkurrent",
+      "tittel": "Trump sier at han ønsker å «få Cuba unnagjort» før han forlater vervet, og at han vil vurdere militær maktbruk",
       "kilde": "CNBC Top News",
-      "tid": "22:47",
-      "lenke": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+      "tid": "12:28",
+      "lenke": "https://www.cnbc.com/2026/11/13/trump-cuba-us-military-force-iran.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Hvem kan erstatte Jensen Huang som administrerende direktør i Nvidia? Disse fire navnene er på alles lepper i KI-miljøene.",
+      "tittel": "Nvidia-aksjen stiger litt etter hvert som investorene fortsetter å vurdere Jensen Huangs avgang",
+      "kilde": "CNBC Top News",
+      "tid": "10:00",
+      "lenke": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Apple, Alphabet og Uber overlevde store overganger i forbindelse med grunnleggere. Nvidia kommer til å bli en vanskeligere test",
+      "kilde": "CNBC Top News",
+      "tid": "12:44",
+      "lenke": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Jeg intervjuet Huang på toppen av «Jensenmania». Tre uker senere sliter Nvidia med en verden uten ham",
+      "kilde": "CNBC Top News",
+      "tid": "12:46",
+      "lenke": "https://www.cnbc.com/2026/11/13/tech-download-jensen-huang-nvidia-departure-jensenmania.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Nvidia har mistet nesten 500 milliarder dollar i markedsverdi denne uken. Det er fortsatt en AI-gigant verdt 4 billioner dollar.",
       "kilde": "MarketWatch",
-      "tid": "22:57",
-      "lenke": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Skandalerammede Nvidia-sjef Jensen Huang trekker seg, og kaster AI-brikkeprodusenten ut i kaos",
-      "kilde": "BBC Business",
-      "tid": "23:34",
-      "lenke": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Federal Reserve Board kunngjør priser, med virkning fra 1. januar 2027, for betalingstjenester som Federal Reserve Banks tilbyr banker og kredittforeninger, samt endringer for å effektivisere og justere sjekktjenestene deres",
-      "kilde": "Federal Reserve",
-      "tid": "18:30",
-      "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Federal Reserve kunngjør en revidert foreløpig timeplan for møtene i Federal Open Market Committee i 2027",
-      "kilde": "Federal Reserve",
-      "tid": "17:45",
-      "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+      "tid": "12:25",
+      "lenke": "https://www.marketwatch.com/story/nvidia-has-shed-nearly-500-billion-in-market-value-this-week-its-still-a-4-trillion-ai-behemoth-2ca6eba7?mod=mw_rss_topstories",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
+        "tittel": "Vet virkelig ikke norske politikere bedre?",
+        "kilde": "E24",
+        "tid": "12:39",
+        "lenke": "https://e24.no/norsk-oekonomi/i/qOnKM1/vet-virkelig-ikke-norske-politikere-bedre?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Stortinget får strømstøtte: Vil ikke betale tilbake",
+        "kilde": "E24",
+        "tid": "12:38",
+        "lenke": "https://e24.no/energi-og-klima/i/8PwaBw/stortinget-faar-stroemstoette-vil-ikke-betale-tilbake?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Noreg-profil har fått nok av TV-grep: – Det er tullete",
+        "kilde": "NRK Nyheter",
+        "tid": "04:35",
+        "lenke": "https://www.nrk.no/sport/ryerson-har-fatt-nok-av-_refcam__-_-det-er-tullete-1.18079436",
+        "engelsk_kilde": false
+      },
+      {
         "tittel": "Tog sporet av ved Oslo S",
         "kilde": "NRK Nyheter",
         "tid": "22:19",
         "lenke": "https://www.nrk.no/nyheter/tog-sporet-av-ved-oslo-s-1.18080865",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "DNB-sluttpakke­frist er ute: – Tungt for de ansatte",
-        "kilde": "E24",
-        "tid": "11:43",
-        "lenke": "https://e24.no/boers-og-finans/i/AR2jVx/dnb-sluttpakkefrist-er-ute-tungt-for-de-ansatte?utm_medium=rss",
         "engelsk_kilde": false
       }
     ],
@@ -82,124 +96,110 @@
     ],
     "MARKEDER": [
       {
-        "tittel": "De ti beste aksjene for en momentumhandel ved årets slutt",
+        "tittel": "Resultatoverraskelser er i ferd med å normalisere seg – og det kan være et tegn på et sunnere aksjemarked, sier Citi-strategene",
         "kilde": "MarketWatch",
-        "tid": "21:50",
-        "lenke": "https://www.marketwatch.com/story/the-10-best-stocks-for-a-year-end-momentum-trade-8d4cf8f7?mod=mw_rss_topstories",
+        "tid": "11:41",
+        "lenke": "https://www.marketwatch.com/story/profit-surprises-are-normalizing-and-that-may-signal-a-healthier-stock-market-say-citi-strategists-d8cce7c2?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Cisco overgår forventningene til resultatene og sier at inntektene fra AI-infrastruktur vil dobles i inneværende regnskapsår",
+        "tittel": "Populære aksjer har falt tungt: – Kunne ikke brydd meg mindre",
+        "kilde": "E24",
+        "tid": "09:22",
+        "lenke": "https://e24.no/boers-og-finans/i/7PlryB/populaere-aksjer-har-falt-tungt-kunne-ikke-brydd-meg-mindre?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Hvorfor Nvidia-aksjefallet ikke er noe stort problem for mange ETF- og aksjefondsinvestorer",
         "kilde": "CNBC Top News",
-        "tid": "21:20",
-        "lenke": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "S&P 500 lar seg ikke påvirke av Nvidias salg denne uken. Dette er det som holder resten av markedet flytende.",
-        "kilde": "MarketWatch",
-        "tid": "21:08",
-        "lenke": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
+        "tid": "21:16",
+        "lenke": "https://www.cnbc.com/2026/11/12/nvidia-stock-drop-etf-mutual-fund-investors.html",
         "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Microsoft sliter med å gjenopprette tjenesten etter at et globalt brudd har rammet Outlook og Teams",
+        "tittel": "Jeg intervjuet Huang på toppen av «Jensenmania». Tre uker senere sliter Nvidia med en verden uten ham",
+        "kilde": "CNBC Top News",
+        "tid": "12:46",
+        "lenke": "https://www.cnbc.com/2026/11/13/tech-download-jensen-huang-nvidia-departure-jensenmania.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Apple, Alphabet og Uber overlevde store overganger i forbindelse med grunnleggere. Nvidia kommer til å bli en vanskeligere test",
+        "kilde": "CNBC Top News",
+        "tid": "12:44",
+        "lenke": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Det vi vet om det globale Microsoft-avbruddet",
         "kilde": "BBC Business",
-        "tid": "01:39",
-        "lenke": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+        "tid": "12:31",
+        "lenke": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Skoler i Chicago til Google – vi vil heller miste Søk enn å bli tvunget til å akseptere KI",
-        "kilde": "Hacker News",
-        "tid": "00:38",
-        "lenke": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Skandalerammede Nvidia-sjef Jensen Huang trekker seg, og kaster AI-brikkeprodusenten ut i kaos",
-        "kilde": "BBC Business",
-        "tid": "23:34",
-        "lenke": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvem kan erstatte Jensen Huang som administrerende direktør i Nvidia? Disse fire navnene er på alles lepper i KI-miljøene.",
+        "tittel": "Nvidia har mistet nesten 500 milliarder dollar i markedsverdi denne uken. Det er fortsatt en AI-gigant verdt 4 billioner dollar.",
         "kilde": "MarketWatch",
-        "tid": "22:57",
-        "lenke": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
+        "tid": "12:25",
+        "lenke": "https://www.marketwatch.com/story/nvidia-has-shed-nearly-500-billion-in-market-value-this-week-its-still-a-4-trillion-ai-behemoth-2ca6eba7?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Cerebras stiger 17 % etter å ha overgått forventningene til kvartalsinntektene og kunngjort avtalen med Microsoft",
-        "kilde": "CNBC Top News",
-        "tid": "22:48",
-        "lenke": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+        "tittel": "Hvordan en sexskandale hos Nvidia legger press på Det hvite hus",
+        "kilde": "BBC Business",
+        "tid": "12:22",
+        "lenke": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Alice Huang knyttet til Nvidias største kinesiske konkurrent",
+        "tittel": "Outlook-bruddet fortsetter mens Microsoft melder om «oppmuntrende fremgang i gjenopprettingen»",
         "kilde": "CNBC Top News",
-        "tid": "22:47",
-        "lenke": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Omfattende Microsoft-brudd legger ned Outlook og andre 365-tjenester",
-        "kilde": "CNBC Top News",
-        "tid": "22:24",
+        "tid": "12:21",
         "lenke": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nvidia-skandalen: – Åpner for søksmål fra amerikanske myndigheter",
+        "tittel": "Microsoft-aksjen faller på grunn av et driftsstans som omfatter Copilot-verktøyet selskapet har markedsført sterkt",
+        "kilde": "MarketWatch",
+        "tid": "12:14",
+        "lenke": "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nvidia-aksjen stiger litt etter hvert som investorene fortsetter å vurdere Jensen Huangs avgang",
+        "kilde": "CNBC Top News",
+        "tid": "10:00",
+        "lenke": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Microsoft-trøbbel verden over: – Ser lovende tegn til bedring",
         "kilde": "E24",
-        "tid": "21:38",
-        "lenke": "https://e24.no/boers-og-finans/i/yzvk6a/nvidia-skandalen-aapner-for-soeksmaal-fra-amerikanske-myndigheter?utm_medium=rss",
+        "tid": "08:40",
+        "lenke": "https://e24.no/naeringsliv/i/xJPPal/microsoft-har-problemer-brukere-melder-om-outlook-feil?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
-        "tittel": "KI gjør Apples appgjennomgangsprosess til et mareritt for synthutviklere",
-        "kilde": "Hacker News",
-        "tid": "21:09",
-        "lenke": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jensen Huang er ute, og Nvidia-aksjen har falt – dette sier markedseksperter om å kjøpe på nedgang",
+        "tittel": "Urolighetene rundt Nvidia fører til en rotasjon blant aksjene i chip-sektoren. Dette er det vi vet",
         "kilde": "CNBC Top News",
-        "tid": "20:01",
-        "lenke": "https://www.cnbc.com/make-it/2026/11/12/nvidia-what-market-pros-say-about-buying-dips.html",
+        "tid": "08:27",
+        "lenke": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nvidia: Den tidligere statsadvokaten Joon Kim og Wachtell, Lipton har en solid merittliste med seg inn i etterforskningen",
-        "kilde": "CNBC Top News",
-        "tid": "19:58",
-        "lenke": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
+        "tittel": "Tidligere Nvidia-sjef Jensen Huang innkalt for å vitne for Kongressen om affæren med en angivelig kinesisk spion",
+        "kilde": "BBC Business",
+        "tid": "03:57",
+        "lenke": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Dette skrev Nvidias midlertidige administrerende direktør Colette Kress og styreleder Harvey Jones til Nvidias ansatte",
-        "kilde": "CNBC Top News",
-        "tid": "19:42",
-        "lenke": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Reuters: Jensen Huang har hatt forhold til enda en Nvidia-ansatt",
-        "kilde": "E24",
-        "tid": "19:33",
-        "lenke": "https://e24.no/boers-og-finans/i/0vnEz6/reuters-jensen-huang-har-hatt-forhold-til-enda-en-nvidia-ansatt?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Nvidia-sjefen går av: Dette bør du gjøre med aksjen",
-        "kilde": "E24",
-        "tid": "17:30",
-        "lenke": "https://e24.no/boers-og-finans/i/R1Rbkd/nvidia-sjefen-gaar-av-dette-boer-du-gjoere-med-aksjen?utm_medium=rss",
+        "tittel": "Microsoft-trøbbel rammer tusenvis av brukere",
+        "kilde": "NRK Nyheter",
+        "tid": "02:09",
+        "lenke": "https://www.nrk.no/nyheter/microsoft-trobbel-rammer-tusenvis-av-brukere-1.18080878",
         "engelsk_kilde": false
       },
       {
@@ -208,212 +208,212 @@
         "tid": "15:10",
         "lenke": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kraftig Nvidia-fall på Wall Street etter Huang-avgang",
-        "kilde": "E24",
-        "tid": "14:30",
-        "lenke": "https://e24.no/boers-og-finans/i/6Pjwgz/nvidia-faller-x-prosent-paa-wall-street-etter-huang-avgang?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Nvidia-sjef Jensen Huang går av",
-        "kilde": "E24",
-        "tid": "13:50",
-        "lenke": "https://e24.no/boers-og-finans/i/aG2XA2/nvidia-sjef-jensen-huang-gaar-av?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Trump sier «vi trenger ikke en avtale med Iran»",
+        "tittel": "Trump sier at han ønsker å «få Cuba unnagjort» før han forlater vervet, og at han vil vurdere militær maktbruk",
         "kilde": "CNBC Top News",
-        "tid": "20:34",
-        "lenke": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
+        "tid": "12:28",
+        "lenke": "https://www.cnbc.com/2026/11/13/trump-cuba-us-military-force-iran.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Donald Trump foreslår Huang-erstatter: – En legende",
-        "kilde": "E24",
-        "tid": "15:34",
-        "lenke": "https://e24.no/boers-og-finans/i/r8ALAm/donald-trump-foreslaar-aa-erstatte-nvidia-sjefen-med-tidligere-apple-sjef-tim-cook-en-legende?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Oljeprisen hopper etter Trump-melding",
-        "kilde": "E24",
-        "tid": "13:14",
-        "lenke": "https://e24.no/energi-og-klima/i/R1Rb88/oljeprisen-hopper-etter-trump-melding?utm_medium=rss",
-        "engelsk_kilde": false
+        "tittel": "«Vi kommer til å saksøke dem»: Canada truer Stellantis mens Trumps handelskrig endrer Jeeps produksjonsplaner",
+        "kilde": "CNBC Top News",
+        "tid": "09:45",
+        "lenke": "https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html",
+        "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
       {
-        "tittel": "Fremveksten av «housefishing» – når går bruken av KI fra å forbedre til å villede?",
+        "tittel": "CNBCs offisielle verdivurderinger av NHL-lagene i 2026: Hvordan de 32 franchisene ligger an",
+        "kilde": "CNBC Top News",
+        "tid": "12:47",
+        "lenke": "https://www.cnbc.com/2026/11/13/cnbcs-official-nhl-team-valuations-2026-how-the-32-clubs-stack-up.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Reglene for screening for prostatakreft har nettopp blitt endret. Her er når menn bør ta prøver.",
+        "kilde": "MarketWatch",
+        "tid": "12:37",
+        "lenke": "https://www.marketwatch.com/story/the-prostate-cancer-screening-rules-just-changed-heres-when-men-should-get-tested-894418bb?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Thore «Henki» Holm Hansen er død",
+        "kilde": "NRK Nyheter",
+        "tid": "12:25",
+        "lenke": "https://www.nrk.no/nyheter/thore-_henki_-holm-hansen-er-dod-1.18081252",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Jeg arvet 1,4 millioner dollar fra faren min. Tar jeg feil når jeg ber mannen min, som jeg har vært gift med i 25 år, om en ekteskapsavtale?",
+        "kilde": "MarketWatch",
+        "tid": "12:15",
+        "lenke": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Dommedag: Fredag 13. november 2026 e.Kr. (1960)",
+        "kilde": "Hacker News",
+        "tid": "12:10",
+        "lenke": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "USA beslaglegger 1,2 milliarder dollar i kryptovaluta stjålet fra Binance",
+        "kilde": "CNBC Top News",
+        "tid": "12:03",
+        "lenke": "https://www.cnbc.com/2026/11/13/us-seizes-binance-hack-crypto.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Salgstallene for elbiler i Europa øker med 49 % i takt med det globale salget av elbiler",
+        "kilde": "Hacker News",
+        "tid": "11:34",
+        "lenke": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Petter Northug kastar seg på sjakk-satsing: – Stas å vere med",
+        "kilde": "NRK Nyheter",
+        "tid": "11:24",
+        "lenke": "https://www.nrk.no/sport/magnus-carlsen-_35_-og-petter-northug-_40_-har-funne-saman-som-eigarar-i-eit-nytt-norsk-sjakkselskap-1.18075984",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "«Han kaller planene mine for en fantasi»: Mannen min sier at vi ikke har råd til drømmepensjonen vår på 200 000 dollar i året. Jeg synes han er gjerrig.",
+        "kilde": "MarketWatch",
+        "tid": "11:15",
+        "lenke": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Investorer undervurderer KI. Men den virkelige utfordringen er diversifisering, sier denne strategen.",
+        "kilde": "MarketWatch",
+        "tid": "11:00",
+        "lenke": "https://www.marketwatch.com/story/investors-are-underestimating-ai-but-the-real-challenge-is-diversification-this-strategist-says-8bd956c1?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "USA-drømmen lever",
+        "kilde": "E24",
+        "tid": "10:59",
+        "lenke": "https://e24.no/boers-og-finans/i/XoggXr/usa-droemmen-lever?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Llama.cpp: 6,5 ganger raskere behandling av ledetekster på Arm med en NEON-kjerne",
+        "kilde": "Hacker News",
+        "tid": "10:28",
+        "lenke": "https://github.com/hardwiredagent/silicon-forge-arm-neon-study",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Claude er nede",
+        "kilde": "Hacker News",
+        "tid": "10:20",
+        "lenke": "https://status.claude.com/history",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Økte feil på claude.ai, Claude Code og platform.claude.com",
+        "kilde": "Hacker News",
+        "tid": "10:18",
+        "lenke": "https://status.claude.com/incidents/nn11wk485zfn",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "«Hun har en historikk med dårlig økonomistyring»: Broren min har utelatt søsteren min fra testamentet sitt. Jeg får alt. Skal jeg fortelle henne det?",
+        "kilde": "MarketWatch",
+        "tid": "10:15",
+        "lenke": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Ukens Investtech: Kjøp disse aksjene",
+        "kilde": "E24",
+        "tid": "10:04",
+        "lenke": "https://e24.no/boers-og-finans/i/VxbbWr/ukens-investtech-kjoep-disse-aksjene?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Varmepumper: Hvor mye varme trenger hjemmet ditt egentlig?",
+        "kilde": "BBC Business",
+        "tid": "09:29",
+        "lenke": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Miljøorganisasjonene vant fram i klimasøksmål i Høyesterett",
+        "kilde": "NRK Nyheter",
+        "tid": "09:15",
+        "lenke": "https://www.nrk.no/norge/miljoorganisasjonene-vant-fram-i-klimasoksmal-i-hoyesterett-1.17997218",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Miljøbevegelsen med seier i Høyesterett: Oljefelt var ugyldige",
+        "kilde": "E24",
+        "tid": "09:14",
+        "lenke": "https://e24.no/energi-og-klima/i/M5gz2r/klimasoeksmaalet-tillatelser-maa-behandles-paa-nytt?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Nscale: Har tapt 16 milliarder på ni måneder",
+        "kilde": "E24",
+        "tid": "08:57",
+        "lenke": "https://e24.no/boers-og-finans/i/2vGGAB/nscale-har-tapt-16-milliarder-paa-ni-maaneder?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Etterforskar ulovleg graving i freda kulturminne",
+        "kilde": "NRK Nyheter",
+        "tid": "08:55",
+        "lenke": "https://www.nrk.no/mr/etterforskar-ulovleg-graving-ved-det-freda-kulturminnet-pa-kamshaugen-ved-kammen-gravfelt-i-rauma-1.18081046",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Priskutt på 5,5 mill. for Bygdøy-luksus",
+        "kilde": "E24",
+        "tid": "08:12",
+        "lenke": "https://e24.no/naeringsliv/i/Pv9rXX/priskutt-paa-5-5-mill-for-bygdoey-luksus?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Valser over estimatene",
+        "kilde": "E24",
+        "tid": "08:11",
+        "lenke": "https://e24.no/boers-og-finans/i/R1Rb1r/veidekke-valser-over-estimatene?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Simon har 18 mann i arbeid og frykter stans i gruva",
+        "kilde": "NRK Nyheter",
+        "tid": "06:22",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/lokalbefolkning-i-kvalsund-frykter-forsinkelser-med-nussir-1.18058306",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Burnham sier at en «vinn-vinn»-avtale kan inngås mellom Storbritannia og EU",
+        "kilde": "BBC Business",
+        "tid": "01:17",
+        "lenke": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fremveksten av «housefishing» – når går bruk av KI fra å forbedre til å villede?",
         "kilde": "BBC Business",
         "tid": "00:13",
         "lenke": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Edge0-145B: Banebrytende AI-funksjoner på din egen datamaskin",
-        "kilde": "Hacker News",
-        "tid": "23:06",
-        "lenke": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Noen under 25 år bør få færre ytelser, ifølge Milburn-rapporten",
-        "kilde": "BBC Business",
-        "tid": "22:51",
-        "lenke": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Å åpne samlekortpakker har blitt et marked verdt 2 milliarder dollar",
-        "kilde": "MarketWatch",
-        "tid": "22:38",
-        "lenke": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Obligasjonsrentene har nettopp opplevd den største oppgangen siden 2022, ettersom forventningene om flere rentehevinger fra Fed øker",
-        "kilde": "MarketWatch",
-        "tid": "22:16",
-        "lenke": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "«Han kaller planene mine for en fantasi»: Mannen min sier at vi ikke har råd til drømmepensjonen vår på 200 000 dollar i året. Jeg synes han er gjerrig.",
-        "kilde": "MarketWatch",
-        "tid": "22:00",
-        "lenke": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kinesiske banebrytende AI-modeller bærer fingeravtrykket til eksportkontrollerte GPU-er",
-        "kilde": "Hacker News",
-        "tid": "21:56",
-        "lenke": "https://unemploymentlabs.com/checkpoint-forensics",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Betaler jeg for mye for helseforsikringen? Slik svarer du på det viktigste spørsmålet denne sesongen for åpen påmelding.",
-        "kilde": "MarketWatch",
-        "tid": "21:55",
-        "lenke": "https://www.marketwatch.com/story/am-i-overpaying-for-health-insurance-how-to-answer-the-key-question-this-open-enrollment-season-2d00ed55?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeg arvet 1,4 millioner dollar fra faren min. Tar jeg feil når jeg ber mannen min, som jeg har vært gift med i 25 år, om en ektepakt?",
-        "kilde": "MarketWatch",
-        "tid": "21:30",
-        "lenke": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Rammeverk for grunnmodeller",
-        "kilde": "Hacker News",
-        "tid": "21:13",
-        "lenke": "https://developer.apple.com/foundation-models-framework/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "United klarte ikke engang å sparke treneren skikkelig",
-        "kilde": "NRK Nyheter",
-        "tid": "20:36",
-        "lenke": "https://www.nrk.no/sport/thore-haugstad_-united-klarte-ikke-engang-a-sparke-treneren-skikkelig-1.18080553",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kritisk til politiet: – Mye dårligere enn svenskene",
-        "kilde": "E24",
-        "tid": "19:00",
-        "lenke": "https://e24.no/naeringsliv/i/rMqaL8/kritisk-til-politiet-mye-daarligere-enn-svenskene?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Alvorlig syke rammes av SAS-kutt: – En ekstrabelastning de absolutt ikke trenger",
-        "kilde": "NRK Nyheter",
-        "tid": "18:45",
-        "lenke": "https://www.nrk.no/nordland/helse-nord-og-kreftforeningen-er-svaert-bekymret-nar-sas-kutter-direkteruta-mellom-bodo-og-tromso-1.18080290",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Over 144.000 Norwegian og Widerøe-passasjerer rammet av datainnbrudd",
-        "kilde": "NRK Nyheter",
-        "tid": "18:19",
-        "lenke": "https://www.nrk.no/nyheter/over-144.000-norwegian-og-wideroe-passasjerer-rammet-av-datainnbrudd-1.18080740",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "NRK-eksperter kritisk etter Ullevaal-trøbbel: – Finnes det ingen tiltak?",
-        "kilde": "NRK Nyheter",
-        "tid": "17:27",
-        "lenke": "https://www.nrk.no/sport/nrks-fotballeksperter-reagerer-pa-avlyst-trening-for-fotballandslaget-1.18080638",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "IRS kunngjør bidragsgrenser for 401(k) i 2027 og hever sparegrensen: Hva det betyr for pengene dine",
-        "kilde": "CNBC Top News",
-        "tid": "17:23",
-        "lenke": "https://www.cnbc.com/2026/11/12/401k-contribution-limits-2027.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Norges største tømmerterminal må fjernes",
-        "kilde": "NRK Nyheter",
-        "tid": "16:16",
-        "lenke": "https://www.nrk.no/buskerud/forlanger-at-tommerterminalen-pa-lierstranda-blir-borte-innen-mai-1.18080056",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Trappar opp kampen mot ulovleg droneflyging",
-        "kilde": "NRK Nyheter",
-        "tid": "15:51",
-        "lenke": "https://www.nrk.no/nordland/slar-alarm-om-dronekaos-i-lofoten.-kommunen_-politiet-og-pilotforbundet-leiter-etter-loysingar-1.18080431",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Poundland får mer tid til å sikre en redningsavtale mens krisemøtene fortsetter",
-        "kilde": "BBC Business",
-        "tid": "14:29",
-        "lenke": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Forvalter om Jensen Huang: – Kongen av AI",
-        "kilde": "E24",
-        "tid": "14:14",
-        "lenke": "https://e24.no/boers-og-finans/i/lMAgRG/forvalter-om-jensen-huang-kongen-av-ai?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Mann i 50-årene omkom i trefellingsulykke",
-        "kilde": "NRK Nyheter",
-        "tid": "14:14",
-        "lenke": "https://www.nrk.no/sorlandet/mann-i-50-arene-omkom-i-trefellingsulykke-1.18080438",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Faisal Islam: Hvorfor den britiske økonomien er overraskende robust",
         "kilde": "BBC Business",
         "tid": "13:27",
         "lenke": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Den britiske økonomien vokser i sitt raskeste tempo på over to år",
-        "kilde": "BBC Business",
-        "tid": "11:20",
-        "lenke": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Verdens superrike strømmer til alternative investeringer. Her er grunnen til det",
-        "kilde": "CNBC Top News",
-        "tid": "03:36",
-        "lenke": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
         "engelsk_kilde": true
       }
     ]
