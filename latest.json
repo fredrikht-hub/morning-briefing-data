@@ -1,42 +1,42 @@
 {
-  "dato": "2026-11-12",
-  "dato_norsk": "Torsdag 12. november 2026",
-  "generert_kl": "22:28",
+  "dato": "2026-11-13",
+  "dato_norsk": "Fredag 13. november 2026",
+  "generert_kl": "01:43",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "S&P 500 lar seg ikke påvirke av Nvidias salg denne uken. Dette er det som holder resten av markedet flytende.",
-      "kilde": "MarketWatch",
-      "tid": "21:08",
-      "lenke": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Trump sier «vi trenger ikke en avtale med Iran»",
-      "kilde": "CNBC Top News",
-      "tid": "20:34",
-      "lenke": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
-      "engelsk_kilde": true
-    },
-    {
       "tittel": "Alice Huang knyttet til Nvidias største kinesiske konkurrent",
       "kilde": "CNBC Top News",
-      "tid": "22:18",
+      "tid": "22:47",
       "lenke": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Jensen Huang er ute, og Nvidia-aksjen har falt – dette sier markedseksperter om å kjøpe på nedturer",
-      "kilde": "CNBC Top News",
-      "tid": "20:01",
-      "lenke": "https://www.cnbc.com/make-it/2026/11/12/nvidia-what-market-pros-say-about-buying-dips.html",
+      "tittel": "Hvem kan erstatte Jensen Huang som administrerende direktør i Nvidia? Disse fire navnene er på alles lepper i KI-miljøene.",
+      "kilde": "MarketWatch",
+      "tid": "22:57",
+      "lenke": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Nvidia: Tidligere statsadvokat Joon Kim og Wachtell, Lipton har lang erfaring med etterforskning",
-      "kilde": "CNBC Top News",
-      "tid": "19:58",
-      "lenke": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
+      "tittel": "Skandalerammede Nvidia-sjef Jensen Huang trekker seg, og kaster AI-brikkeprodusenten ut i kaos",
+      "kilde": "BBC Business",
+      "tid": "23:34",
+      "lenke": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Federal Reserve Board kunngjør priser, med virkning fra 1. januar 2027, for betalingstjenester som Federal Reserve Banks tilbyr banker og kredittforeninger, samt endringer for å effektivisere og justere sjekktjenestene deres",
+      "kilde": "Federal Reserve",
+      "tid": "18:30",
+      "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Federal Reserve kunngjør en revidert foreløpig timeplan for møtene i Federal Open Market Committee i 2027",
+      "kilde": "Federal Reserve",
+      "tid": "17:45",
+      "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
       "engelsk_kilde": true
     }
   ],
@@ -66,7 +66,7 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Federal Reserve kunngjør revidert foreløpig timeplan for møtene i Federal Open Market Committee i 2027",
+        "tittel": "Federal Reserve kunngjør en revidert foreløpig timeplan for møtene i Federal Open Market Committee i 2027",
         "kilde": "Federal Reserve",
         "tid": "17:45",
         "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
@@ -89,7 +89,7 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Cisco overgår forventningene til resultat og sier at inntektene fra AI-infrastruktur vil dobles dette regnskapsåret",
+        "tittel": "Cisco overgår forventningene til resultatene og sier at inntektene fra AI-infrastruktur vil dobles i inneværende regnskapsår",
         "kilde": "CNBC Top News",
         "tid": "21:20",
         "lenke": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
@@ -101,28 +101,56 @@
         "tid": "21:08",
         "lenke": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Obligasjonsmarkedet har nå en enda større frykt enn konsekvensene av KI",
-        "kilde": "MarketWatch",
-        "tid": "20:44",
-        "lenke": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Omfattende Microsoft-brudd legger ned Outlook og andre 365-tjenester",
+        "tittel": "Microsoft sliter med å gjenopprette tjenesten etter at et globalt brudd har rammet Outlook og Teams",
+        "kilde": "BBC Business",
+        "tid": "01:39",
+        "lenke": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Skoler i Chicago til Google – vi vil heller miste Søk enn å bli tvunget til å akseptere KI",
+        "kilde": "Hacker News",
+        "tid": "00:38",
+        "lenke": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Skandalerammede Nvidia-sjef Jensen Huang trekker seg, og kaster AI-brikkeprodusenten ut i kaos",
+        "kilde": "BBC Business",
+        "tid": "23:34",
+        "lenke": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvem kan erstatte Jensen Huang som administrerende direktør i Nvidia? Disse fire navnene er på alles lepper i KI-miljøene.",
+        "kilde": "MarketWatch",
+        "tid": "22:57",
+        "lenke": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Cerebras stiger 17 % etter å ha overgått forventningene til kvartalsinntektene og kunngjort avtalen med Microsoft",
         "kilde": "CNBC Top News",
-        "tid": "22:24",
-        "lenke": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+        "tid": "22:48",
+        "lenke": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
         "engelsk_kilde": true
       },
       {
         "tittel": "Alice Huang knyttet til Nvidias største kinesiske konkurrent",
         "kilde": "CNBC Top News",
-        "tid": "22:18",
+        "tid": "22:47",
         "lenke": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Omfattende Microsoft-brudd legger ned Outlook og andre 365-tjenester",
+        "kilde": "CNBC Top News",
+        "tid": "22:24",
+        "lenke": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
         "engelsk_kilde": true
       },
       {
@@ -133,28 +161,21 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Cerebras stiger 18 % etter å ha overgått forventningene til kvartalsinntektene og kunngjort avtalen med Microsoft",
-        "kilde": "CNBC Top News",
-        "tid": "21:33",
-        "lenke": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "KI gjør Apples prosess for gjennomgang av apper til et mareritt for synth-utviklere",
+        "tittel": "KI gjør Apples appgjennomgangsprosess til et mareritt for synthutviklere",
         "kilde": "Hacker News",
         "tid": "21:09",
         "lenke": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Jensen Huang er ute, og Nvidia-aksjen har falt – dette sier markedseksperter om å kjøpe på nedturer",
+        "tittel": "Jensen Huang er ute, og Nvidia-aksjen har falt – dette sier markedseksperter om å kjøpe på nedgang",
         "kilde": "CNBC Top News",
         "tid": "20:01",
         "lenke": "https://www.cnbc.com/make-it/2026/11/12/nvidia-what-market-pros-say-about-buying-dips.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nvidia: Tidligere statsadvokat Joon Kim og Wachtell, Lipton har lang erfaring med etterforskning",
+        "tittel": "Nvidia: Den tidligere statsadvokaten Joon Kim og Wachtell, Lipton har en solid merittliste med seg inn i etterforskningen",
         "kilde": "CNBC Top News",
         "tid": "19:58",
         "lenke": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
@@ -182,7 +203,7 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Hvem er Nvidias midlertidige administrerende direktør Colette Kress – og hvem kan overta permanent?",
+        "tittel": "Hvem er Nvidias midlertidige administrerende direktør Colette Kress – og hvem kan overta stillingen permanent?",
         "kilde": "BBC Business",
         "tid": "15:10",
         "lenke": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
@@ -228,28 +249,56 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "Scout Motors har 212 000 kjøretøyreservasjoner når fabrikken i South Carolina til 2 milliarder dollar nærmer seg ferdigstillelse",
-        "kilde": "CNBC Top News",
-        "tid": "22:17",
-        "lenke": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
+        "tittel": "Fremveksten av «housefishing» – når går bruken av KI fra å forbedre til å villede?",
+        "kilde": "BBC Business",
+        "tid": "00:13",
+        "lenke": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Obligasjonsrentene har nettopp opplevd den største oppgangen siden 2022, ettersom forventningene om flere rentehevinger fra Fed øker.",
+        "tittel": "Edge0-145B: Banebrytende AI-funksjoner på din egen datamaskin",
+        "kilde": "Hacker News",
+        "tid": "23:06",
+        "lenke": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Noen under 25 år bør få færre ytelser, ifølge Milburn-rapporten",
+        "kilde": "BBC Business",
+        "tid": "22:51",
+        "lenke": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Å åpne samlekortpakker har blitt et marked verdt 2 milliarder dollar",
+        "kilde": "MarketWatch",
+        "tid": "22:38",
+        "lenke": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Obligasjonsrentene har nettopp opplevd den største oppgangen siden 2022, ettersom forventningene om flere rentehevinger fra Fed øker",
         "kilde": "MarketWatch",
         "tid": "22:16",
         "lenke": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "«Han kaller planene mine for fantasi»: Mannen min sier at vi ikke har råd til drømmepensjonen vår på 200 000 dollar i året. Jeg synes han er gjerrig.",
+        "tittel": "«Han kaller planene mine for en fantasi»: Mannen min sier at vi ikke har råd til drømmepensjonen vår på 200 000 dollar i året. Jeg synes han er gjerrig.",
         "kilde": "MarketWatch",
         "tid": "22:00",
         "lenke": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Betaler jeg for mye for helseforsikringen? Slik svarer du på det viktigste spørsmålet i årets åpne påmeldingsperiode.",
+        "tittel": "Kinesiske banebrytende AI-modeller bærer fingeravtrykket til eksportkontrollerte GPU-er",
+        "kilde": "Hacker News",
+        "tid": "21:56",
+        "lenke": "https://unemploymentlabs.com/checkpoint-forensics",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Betaler jeg for mye for helseforsikringen? Slik svarer du på det viktigste spørsmålet denne sesongen for åpen påmelding.",
         "kilde": "MarketWatch",
         "tid": "21:55",
         "lenke": "https://www.marketwatch.com/story/am-i-overpaying-for-health-insurance-how-to-answer-the-key-question-this-open-enrollment-season-2d00ed55?mod=mw_rss_topstories",
@@ -263,7 +312,7 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Rammeverk for grunnmodeller (macOS)",
+        "tittel": "Rammeverk for grunnmodeller",
         "kilde": "Hacker News",
         "tid": "21:13",
         "lenke": "https://developer.apple.com/foundation-models-framework/",
@@ -275,34 +324,6 @@
         "tid": "20:36",
         "lenke": "https://www.nrk.no/sport/thore-haugstad_-united-klarte-ikke-engang-a-sparke-treneren-skikkelig-1.18080553",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Jeg er 17 år og kommer til å bli første generasjons universitetsstudent. Er det verdt å sette seg i 200 000 dollar i gjeld for å studere juss?",
-        "kilde": "MarketWatch",
-        "tid": "20:17",
-        "lenke": "https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Datasentre trenger strøm – innbyggere med lavere inntekt på landsbygda betaler prisen",
-        "kilde": "Hacker News",
-        "tid": "19:53",
-        "lenke": "https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Distribuert strålesporer",
-        "kilde": "Hacker News",
-        "tid": "19:06",
-        "lenke": "https://ray.hatchet.run",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "En kandidat til dvergplanet dukker opp, og den bruker rundt 280 år på å gå i bane rundt solen vår",
-        "kilde": "Hacker News",
-        "tid": "19:05",
-        "lenke": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Kritisk til politiet: – Mye dårligere enn svenskene",
@@ -326,13 +347,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Noen under 25 år bør få færre ytelser, ifølge Milburn-rapporten",
-        "kilde": "BBC Business",
-        "tid": "17:32",
-        "lenke": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "NRK-eksperter kritisk etter Ullevaal-trøbbel: – Finnes det ingen tiltak?",
         "kilde": "NRK Nyheter",
         "tid": "17:27",
@@ -344,13 +358,6 @@
         "kilde": "CNBC Top News",
         "tid": "17:23",
         "lenke": "https://www.cnbc.com/2026/11/12/401k-contribution-limits-2027.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jensen Huangs opp- og nedtur – hvordan teknologisuperstjernen ble viklet inn i en skandale",
-        "kilde": "BBC Business",
-        "tid": "17:11",
-        "lenke": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
@@ -400,6 +407,13 @@
         "kilde": "BBC Business",
         "tid": "11:20",
         "lenke": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Verdens superrike strømmer til alternative investeringer. Her er grunnen til det",
+        "kilde": "CNBC Top News",
+        "tid": "03:36",
+        "lenke": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
         "engelsk_kilde": true
       }
     ]
