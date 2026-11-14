@@ -1,35 +1,21 @@
 {
   "dato": "2026-11-14",
   "dato_norsk": "Lørdag 14. november 2026",
-  "generert_kl": "18:39",
+  "generert_kl": "20:59",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Trump planlegger ikke å ta opp Nvidia eller spionasjesaken under Kina-besøket – ifølge amerikanske tjenestemenn",
+      "tittel": "Trump planlegger ikke å ta opp Nvidia eller spionasjesaken under Kina-besøket: amerikanske tjenestemenn",
       "kilde": "CNBC Top News",
       "tid": "15:36",
       "lenke": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Nvidias styre oppfordres til å vurdere «en potensiell tilbakekomst for Jensen Huang» av to store investorer",
-      "kilde": "CNBC Top News",
-      "tid": "17:46",
-      "lenke": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Hvordan Nvidia-uroen og en demokratisk-kontrollert kongress kan omforme AI-handelen, ifølge ETF-eksperter",
-      "kilde": "CNBC Top News",
-      "tid": "15:50",
-      "lenke": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Nusa-magi etter tung Norge-start",
+      "tittel": "Nusa herjet for Norge: «Driblet bort halve Wales»",
       "kilde": "NRK Nyheter",
-      "tid": "17:56",
-      "lenke": "https://www.nrk.no/sport/norge-wales-i-nasjonsligaen-pa-ullevaal-1.18081962",
+      "tid": "18:55",
+      "lenke": "https://www.nrk.no/sport/spillerbors-etter-norges-kamp-mot-wales_-antonio-nusa-banens-beste-1.18082007",
       "engelsk_kilde": false
     },
     {
@@ -38,15 +24,29 @@
       "tid": "18:32",
       "lenke": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
       "engelsk_kilde": true
+    },
+    {
+      "tittel": "Nvidias styre oppfordres til å vurdere «en potensiell tilbakekomst av Jensen Huang» av to store investorer",
+      "kilde": "CNBC Top News",
+      "tid": "17:46",
+      "lenke": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Oppstartsbedriften for robotsoldater, støttet av Eric Trump, kan ikke betale de ansatte etter at grunnleggeren lånte 4,6 millioner dollar fra selskapet for å kjøpe hus",
+      "kilde": "CNBC Top News",
+      "tid": "12:00",
+      "lenke": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+      "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "Nusa-magi etter tung Norge-start",
+        "tittel": "Nusa herjet for Norge: «Driblet bort halve Wales»",
         "kilde": "NRK Nyheter",
-        "tid": "17:56",
-        "lenke": "https://www.nrk.no/sport/norge-wales-i-nasjonsligaen-pa-ullevaal-1.18081962",
+        "tid": "18:55",
+        "lenke": "https://www.nrk.no/sport/spillerbors-etter-norges-kamp-mot-wales_-antonio-nusa-banens-beste-1.18082007",
         "engelsk_kilde": false
       }
     ],
@@ -57,18 +57,11 @@
         "tid": "18:32",
         "lenke": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvorfor denne «store ideen» om å fikse trygdesystemet er avhengig av et massivt aksjemarked-gambling",
-        "kilde": "MarketWatch",
-        "tid": "17:50",
-        "lenke": "https://www.marketwatch.com/story/why-this-big-idea-to-fix-social-security-relies-on-a-massive-stock-market-gamble-5423f50f?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       }
     ],
     "ENERGI_RAAVARER": [
       {
-        "tittel": "Prisene på fyringsolje har steget med 59 % siden forrige vinter. Stigningen «knuser folk», sier en ideell organisasjon i Maine",
+        "tittel": "Prisene på fyringsolje har steget med 59 % siden i fjor vinter. Stigningen «knuser folk», sier en ideell organisasjon i Maine",
         "kilde": "CNBC Top News",
         "tid": "14:30",
         "lenke": "https://www.cnbc.com/2026/11/14/heating-oil-price-spike-household-budgets.html",
@@ -77,7 +70,7 @@
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Nvidias styre oppfordres til å vurdere «en potensiell tilbakekomst for Jensen Huang» av to store investorer",
+        "tittel": "Nvidias styre oppfordres til å vurdere «en potensiell tilbakekomst av Jensen Huang» av to store investorer",
         "kilde": "CNBC Top News",
         "tid": "17:46",
         "lenke": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
@@ -91,7 +84,7 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hvordan Nvidia-uroen og en demokratisk-kontrollert kongress kan omforme AI-handelen, ifølge ETF-eksperter",
+        "tittel": "Hvordan Nvidia-uroen og en demokratisk kongress kan omforme AI-handelen, ifølge ETF-eksperter",
         "kilde": "CNBC Top News",
         "tid": "15:50",
         "lenke": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
@@ -105,7 +98,7 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Oppstartsbedriften for robotsoldater støttet av Eric Trump kan ikke betale de ansatte etter at grunnleggeren lånte 4,6 millioner dollar fra selskapet for å kjøpe hus",
+        "tittel": "Oppstartsbedriften for robotsoldater, støttet av Eric Trump, kan ikke betale de ansatte etter at grunnleggeren lånte 4,6 millioner dollar fra selskapet for å kjøpe hus",
         "kilde": "CNBC Top News",
         "tid": "12:00",
         "lenke": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
@@ -119,14 +112,14 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Microsoft sier at tjenestene er fullstendig gjenopprettet etter en heldags global driftsstans",
+        "tittel": "Microsoft sier at tjenestene er fullstendig gjenopprettet etter et døgns globalt brudd",
         "kilde": "BBC Business",
         "tid": "06:42",
         "lenke": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "SpaceX lanserer Starship i en viktig testflyvning av en enorm rakett",
+        "tittel": "SpaceX skyter opp Starship i en viktig testflyvning av den enorme raketten",
         "kilde": "CNBC Top News",
         "tid": "01:18",
         "lenke": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
@@ -138,18 +131,11 @@
         "tid": "23:42",
         "lenke": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Presset øker på Trumps handelsminister Lutnick som følge av Nvidia-skandalen",
-        "kilde": "BBC Business",
-        "tid": "19:53",
-        "lenke": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Trump planlegger ikke å ta opp Nvidia eller spionasjesaken under Kina-besøket – ifølge amerikanske tjenestemenn",
+        "tittel": "Trump planlegger ikke å ta opp Nvidia eller spionasjesaken under Kina-besøket: amerikanske tjenestemenn",
         "kilde": "CNBC Top News",
         "tid": "15:36",
         "lenke": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
@@ -158,7 +144,56 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "Bør en enke la sin avdøde partners hjem gå til stebarna – eller kutte kontakten med dem?",
+        "tittel": "Hotelleier om korttidsleie: – Voldsomt problematisk",
+        "kilde": "E24",
+        "tid": "20:14",
+        "lenke": "https://e24.no/naeringsliv/i/9kagll/hotelleier-om-korttidsleie-voldsomt-problematisk?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "«Det gir meg en bitter smak i munnen»: Min eldre mor ga søskenbarnet vårt 800 $ til bilreparasjon. Bør jeg være bekymret?",
+        "kilde": "MarketWatch",
+        "tid": "20:00",
+        "lenke": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "«Jeg er lei av å fly»: Jeg betalte for prioritert ombordstigning, men bagasjehyllene var fulle. Ble jeg lurt?",
+        "kilde": "MarketWatch",
+        "tid": "19:30",
+        "lenke": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Dartmouth (Guarini) vil ikke ta opp et kull med doktorgradsstudenter i matematikk i år",
+        "kilde": "Hacker News",
+        "tid": "19:23",
+        "lenke": "https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Solbakken reagerer på «urettferdig» Haaland-dekning: – Det er galimatias",
+        "kilde": "NRK Nyheter",
+        "tid": "19:15",
+        "lenke": "https://www.nrk.no/sport/haaland-om-city-skandalen_-_-et-sporsmal-jeg-sliter-med-a-svare-pa-1.18082019",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "LinkedIn og Monster fjerner over 1 000 falske jobbannonser etter en undersøkelse fra CBC",
+        "kilde": "Hacker News",
+        "tid": "18:56",
+        "lenke": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Flystansen i USA: Bytting av kabel mulig årsak",
+        "kilde": "NRK Nyheter",
+        "tid": "18:33",
+        "lenke": "https://www.nrk.no/nyheter/flystansen-i-usa_-bytting-av-kabel-mulig-arsak-1.18082036",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Bør en enke la sin avdøde partners hjem gå til stebarna – eller kutte kontakten med dem?",
         "kilde": "MarketWatch",
         "tid": "18:30",
         "lenke": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
@@ -179,11 +214,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "VHDL-standardens flyttallspakke får sqrt(2) feil",
-        "kilde": "Hacker News",
-        "tid": "17:58",
-        "lenke": "https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg",
-        "engelsk_kilde": true
+        "tittel": "Avslørte Ødegaard-drama: - Har spydd i hele natt",
+        "kilde": "NRK Nyheter",
+        "tid": "17:56",
+        "lenke": "https://www.nrk.no/sport/norge-wales-i-nasjonsligaen-pa-ullevaal-1.18081962",
+        "engelsk_kilde": false
       },
       {
         "tittel": "Slik vil Bernie Sanders holde trygdesystemet solvent «i generasjoner»",
@@ -193,14 +228,14 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Den billion-dollar-feilen det amerikanske næringslivet gjør når det gjelder pensjon",
+        "tittel": "Den billion-dollar-tabben næringslivet i USA gjør når det gjelder pensjon",
         "kilde": "MarketWatch",
         "tid": "17:50",
         "lenke": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Pensjonister bør være store vinnere av midtvalget: «Demokratene vil ha kontroll over alle hammerne som betyr noe for aldring og offentlig politikk»",
+        "tittel": "Pensjonister bør være store vinnere av mellomvalget: «Demokratene vil ha kontroll over alle hammerne som betyr noe for eldre og offentlig politikk»",
         "kilde": "MarketWatch",
         "tid": "17:50",
         "lenke": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
@@ -214,31 +249,17 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Medicare ved fylte 50 år? Hva «Medicare for flere» kan bety for amerikanske arbeidere.",
-        "kilde": "MarketWatch",
-        "tid": "17:50",
-        "lenke": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
+        "tittel": "US IRS' gratis nettbaserte skattemeldingstjeneste – open source-repo (2025)",
+        "kilde": "Hacker News",
+        "tid": "17:48",
+        "lenke": "https://github.com/IRS-Public/direct-file",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Populære apper avslører passopplysninger og mer enn 200 000 private meldinger",
+        "tittel": "Lovable-apper avslører passopplysninger og mer enn 200 000 private meldinger",
         "kilde": "Hacker News",
         "tid": "17:43",
         "lenke": "https://www.crissyfield.de/research/lovable-en/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kommer vi til å plassere datasentre i verdensrommet?",
-        "kilde": "Hacker News",
-        "tid": "17:35",
-        "lenke": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Slik oppretter du din egen desentraliserte meldingsprotokoll",
-        "kilde": "Hacker News",
-        "tid": "16:01",
-        "lenke": "https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol",
         "engelsk_kilde": true
       },
       {
@@ -263,7 +284,7 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Hvordan lanseringen av Rockstars «GTA VI» kan omforme gaming, strømming og til og med betalt ferie",
+        "tittel": "Hvordan lanseringen av Rockstars «GTA VI» kan endre gaming, strømming og til og med betalt ferie",
         "kilde": "CNBC Top News",
         "tid": "14:54",
         "lenke": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
@@ -291,31 +312,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Knuste verdseliten – uaktuell for verdscup: – Noreg som tapar på det",
-        "kilde": "NRK Nyheter",
-        "tid": "12:26",
-        "lenke": "https://www.nrk.no/sport/guro-ytterhus-knuste-verdseliten-i-sesongopninga_-_-sjokksiger-1.18081887",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Vil ha nye kriseplaner for gigantdam: – Kan få katastrofale følger",
-        "kilde": "NRK Nyheter",
-        "tid": "12:17",
-        "lenke": "https://www.nrk.no/sorlandet/xl/hvis-en-av-nord-europas-storste-demningen-brister_-detaljerte-fluktplaner-mangler-1.18029294",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Sparer 25.000 i måneden: – Sett pengene der du ikke ser dem!",
         "kilde": "E24",
         "tid": "11:14",
         "lenke": "https://e24.no/norsk-oekonomi/i/EboOpa/sparer-25-000-i-maaneden-sett-pengene-der-du-ikke-ser-dem?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Herja med Real Madrid-kapteinen: – Ville ikkje snakke med meg",
-        "kilde": "NRK Nyheter",
-        "tid": "09:47",
-        "lenke": "https://www.nrk.no/sport/nusa-herja-med-real-madrid-kapteinen_-_-ville-ikkje-snakke-med-meg-1.18080529",
         "engelsk_kilde": false
       },
       {
@@ -344,13 +344,6 @@
         "kilde": "E24",
         "tid": "05:00",
         "lenke": "https://e24.no/naeringsliv/i/eGVz3M/slik-planlegger-de-hvitvasking?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Analyse: Avgift kan stenge oljefelt tidlig",
-        "kilde": "E24",
-        "tid": "21:51",
-        "lenke": "https://e24.no/energi-og-klima/i/kMJR06/analyse-avgift-kan-stenge-oljefelt-tidlig?utm_medium=rss",
         "engelsk_kilde": false
       },
       {
