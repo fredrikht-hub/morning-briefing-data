@@ -1,58 +1,63 @@
 {
   "dato": "2026-11-14",
   "dato_norsk": "Lørdag 14. november 2026",
-  "generert_kl": "11:59",
+  "generert_kl": "15:29",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Trump planlegger ikke å ta opp Nvidia eller spionasjesaken under Kina-besøket: Amerikanske tjenestemenn",
-      "kilde": "CNBC Top News",
-      "tid": "01:34",
-      "lenke": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+      "tittel": "Washington kan begynne å levere på rimelighet ved å avvise Trumps tollsatser",
+      "kilde": "MarketWatch",
+      "tid": "13:30",
+      "lenke": "https://www.marketwatch.com/story/washington-can-start-delivering-on-affordability-by-rejecting-trumps-tariffs-8f2c76fd?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Nvidia skal angivelig ha skapt knapphet ved å finansiere KI-oppstartsbedrifter for å kjøpe deres grafikkprosessorer",
+      "tittel": "Kjører GLM-5.3 med 607,8 tok/s på to Nvidia DGX-stasjoner med vLLM",
       "kilde": "Hacker News",
-      "tid": "02:52",
-      "lenke": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "tid": "14:09",
+      "lenke": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Et lite stykke Norge i GTA",
-      "kilde": "NRK Nyheter",
-      "tid": "07:00",
-      "lenke": "https://www.nrk.no/dokumentar/xl/et-lite-stykke-norge-i-grand-theft-auto-1.18074365",
+      "tittel": "Disse aksjene kan tjene på Nvidia-knekk",
+      "kilde": "E24",
+      "tid": "14:50",
+      "lenke": "https://e24.no/boers-og-finans/i/ez1ljM/disse-aksjene-kan-tjene-paa-nvidia-knekk?utm_medium=rss",
       "engelsk_kilde": false
     },
     {
-      "tittel": "Flyforstyrrelser fortsetter etter at FAA opphever flystoppen, noen college-fotballkamper er utsatt",
-      "kilde": "CNBC Top News",
-      "tid": "11:34",
-      "lenke": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+      "tittel": "Disse seks hardt rammede AI-aksjene kan komme sterkt tilbake, sier en analytiker",
+      "kilde": "MarketWatch",
+      "tid": "13:00",
+      "lenke": "https://www.marketwatch.com/story/these-6-battered-ai-stocks-could-bounce-back-big-an-analyst-says-e9f29c24?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "14 utbytteaksjer utvalgt for langsiktig vekst",
-      "kilde": "MarketWatch",
-      "tid": "01:58",
-      "lenke": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
+      "tittel": "Prisene på fyringsolje har steget med 59 % siden i fjor vinter. Stigningen «knuser folk», sier en ideell organisasjon i Maine",
+      "kilde": "CNBC Top News",
+      "tid": "14:30",
+      "lenke": "https://www.cnbc.com/2026/11/14/heating-oil-price-spike-household-budgets.html",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
-    "NORGE": [
-      {
-        "tittel": "Et lite stykke Norge i GTA",
-        "kilde": "NRK Nyheter",
-        "tid": "07:00",
-        "lenke": "https://www.nrk.no/dokumentar/xl/et-lite-stykke-norge-i-grand-theft-auto-1.18074365",
-        "engelsk_kilde": false
-      }
-    ],
     "MARKEDER": [
       {
-        "tittel": "14 utbytteaksjer utvalgt for langsiktig vekst",
+        "tittel": "Disse seks hardt rammede AI-aksjene kan komme sterkt tilbake, sier en analytiker",
+        "kilde": "MarketWatch",
+        "tid": "13:00",
+        "lenke": "https://www.marketwatch.com/story/these-6-battered-ai-stocks-could-bounce-back-big-an-analyst-says-e9f29c24?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kinas heteste aksjer for tiden har én ting til felles: navn som høres ut som sauer",
+        "kilde": "MarketWatch",
+        "tid": "12:00",
+        "lenke": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "14 utbytteaksjer valgt for langsiktig vekst",
         "kilde": "MarketWatch",
         "tid": "01:58",
         "lenke": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
@@ -61,26 +66,33 @@
     ],
     "ENERGI_RAAVARER": [
       {
-        "tittel": "Ecuador ønsker å tjene penger på sitt biologiske mangfold – samtidig som de fortsetter å bore etter olje",
+        "tittel": "Prisene på fyringsolje har steget med 59 % siden i fjor vinter. Stigningen «knuser folk», sier en ideell organisasjon i Maine",
         "kilde": "CNBC Top News",
-        "tid": "06:00",
-        "lenke": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "De globale oljeforsyningene strømmer plutselig. Hvorfor et overskudd av råolje ikke vil bety billigere diesel.",
-        "kilde": "MarketWatch",
-        "tid": "22:04",
-        "lenke": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
+        "tid": "14:30",
+        "lenke": "https://www.cnbc.com/2026/11/14/heating-oil-price-spike-household-budgets.html",
         "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Microsoft beklager det omfattende systemavbruddet som la ned Outlook og andre 365-tjenester",
+        "tittel": "Disse aksjene kan tjene på Nvidia-knekk",
+        "kilde": "E24",
+        "tid": "14:50",
+        "lenke": "https://e24.no/boers-og-finans/i/ez1ljM/disse-aksjene-kan-tjene-paa-nvidia-knekk?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kjører GLM-5.3 med 607,8 tok/s på to Nvidia DGX-stasjoner med vLLM",
+        "kilde": "Hacker News",
+        "tid": "14:09",
+        "lenke": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Oppstartsbedriften for robotsoldater, støttet av Eric Trump, kan ikke betale de ansatte etter at grunnleggeren lånte 4,6 millioner dollar fra selskapet for å kjøpe hus",
         "kilde": "CNBC Top News",
-        "tid": "08:11",
-        "lenke": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+        "tid": "12:00",
+        "lenke": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
         "engelsk_kilde": true
       },
       {
@@ -91,17 +103,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Microsoft sier at tjenestene er fullstendig gjenopprettet etter et døgnlangt globalt brudd",
+        "tittel": "Microsoft sier at tjenestene er fullstendig gjenopprettet etter et døgns globalt brudd",
         "kilde": "BBC Business",
         "tid": "06:42",
         "lenke": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nvidia skal angivelig ha skapt knapphet ved å finansiere KI-oppstartsbedrifter for å kjøpe deres grafikkprosessorer",
-        "kilde": "Hacker News",
-        "tid": "02:52",
-        "lenke": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
         "engelsk_kilde": true
       },
       {
@@ -112,31 +117,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nvidia er ferdig med Jensen Huang. Ettervirkningene i Washington har så vidt begynt",
-        "kilde": "CNBC Top News",
-        "tid": "23:54",
-        "lenke": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Lutnick konfronteres med spørsmål om Nvidia-spionskandalen. Sønnenes firma har sterke bånd til brikkeprodusenten",
         "kilde": "CNBC Top News",
         "tid": "23:42",
         "lenke": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nvidias aksje er på en tapstreak som ikke har vært sett på 14 år. Hva skjer videre?",
-        "kilde": "MarketWatch",
-        "tid": "22:21",
-        "lenke": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nvidia-aksjen opplever den lengste ukentlige tapsserien siden 2012, ettersom markedsverdien faller med 1,7 billioner dollar",
-        "kilde": "CNBC Top News",
-        "tid": "22:18",
-        "lenke": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
         "engelsk_kilde": true
       },
       {
@@ -147,30 +131,23 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hva de ledende finansrådgiverne gjør med Nvidia etter at Jensen Huang forlot selskapet: Eksklusiv CNBC-meningsmåling",
-        "kilde": "CNBC Top News",
-        "tid": "19:53",
-        "lenke": "https://www.cnbc.com/2026/11/13/nvidia-stock-advisors-jensen-huang-exit-exclusive-poll.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Hvorfor varer Microsofts driftsstans så lenge, og vil e-poster gå tapt?",
         "kilde": "BBC Business",
         "tid": "18:36",
         "lenke": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvordan en sexskandale hos Nvidia setter press på Det hvite hus",
-        "kilde": "BBC Business",
-        "tid": "12:22",
-        "lenke": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Trump planlegger ikke å ta opp Nvidia eller spionasjesaken under Kina-besøket: Amerikanske tjenestemenn",
+        "tittel": "Washington kan begynne å levere på rimelighet ved å avvise Trumps tollsatser",
+        "kilde": "MarketWatch",
+        "tid": "13:30",
+        "lenke": "https://www.marketwatch.com/story/washington-can-start-delivering-on-affordability-by-rejecting-trumps-tariffs-8f2c76fd?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump planlegger ikke å ta opp Nvidia eller spionasjesaken under Kina-besøket: amerikanske tjenestemenn",
         "kilde": "CNBC Top News",
         "tid": "01:34",
         "lenke": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
@@ -179,10 +156,122 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "Flyforstyrrelser fortsetter etter at FAA opphever flystoppen, noen college-fotballkamper er utsatt",
+        "tittel": "Min eldre bror, som ikke har barn, har utelatt vår eneste søster fra testamentet sitt. Jeg får alt. Skal jeg si det til henne?",
+        "kilde": "MarketWatch",
+        "tid": "15:15",
+        "lenke": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Spår tidenes julehandel",
+        "kilde": "E24",
+        "tid": "15:05",
+        "lenke": "https://e24.no/naeringsliv/i/z0LBE5/spaar-tidenes-julehandel?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Hvordan lanseringen av Rockstars «GTA VI» kan endre gaming, strømming og til og med betalt fri",
         "kilde": "CNBC Top News",
-        "tid": "11:34",
+        "tid": "14:54",
+        "lenke": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Flyforstyrrelser fortsetter etter at FAA opphever flystoppen, noen college-fotballkamper er forsinket",
+        "kilde": "CNBC Top News",
+        "tid": "14:47",
         "lenke": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Det kan ta flere dager før flytrafikken i USA er tilbake til normalen etter at FAA opphevet et sjeldent landsdekkende flystopp",
+        "kilde": "MarketWatch",
+        "tid": "14:27",
+        "lenke": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Show HN: Agweb – en nettleser for agenter som ikke kommer i veien for deg",
+        "kilde": "Hacker News",
+        "tid": "14:08",
+        "lenke": "https://github.com/paul-nameless/agweb",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Show HN: Fursoy – Out-of-order RV64IMAFDV-kjerne i SystemVerilog (Linux 6.6)",
+        "kilde": "Hacker News",
+        "tid": "14:06",
+        "lenke": "https://github.com/FURSOY/fursoy-cpu",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Show HN: Et terminal-innfødt idle-fabrikkspill, skrevet i Rust med ratatui",
+        "kilde": "Hacker News",
+        "tid": "14:05",
+        "lenke": "https://gitlab.com/snipedbywifi/terminactory",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Berkshire stiger til rekordhøye nivåer med en oppgang på 19 % i fjerde kvartal",
+        "kilde": "CNBC Top News",
+        "tid": "14:02",
+        "lenke": "https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hva er den mest skatteeffektive måten å gi til veldedighet på?",
+        "kilde": "MarketWatch",
+        "tid": "14:00",
+        "lenke": "https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Grøssar av bilda av Noreg-motstandaren – synest synd på fotografane",
+        "kilde": "NRK Nyheter",
+        "tid": "13:53",
+        "lenke": "https://www.nrk.no/sport/grossar-av-bilda-av-noreg-motstandaren_-_-eg-ristar-berre-pa-hovudet-1.18081081",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Myten om nøytral kode",
+        "kilde": "Hacker News",
+        "tid": "13:52",
+        "lenke": "https://foss.life/notes/2026/the-myth-of-neutral-code/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Apotek-systemet var nede: Fikk ikke hentet ut medisiner",
+        "kilde": "NRK Nyheter",
+        "tid": "13:33",
+        "lenke": "https://www.nrk.no/ostfold/apotekene-slet-med-resepttrobbel-over-hele-landet-1.18081915",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Detaljhandlere satser på underholdning for å fange kundenes oppmerksomhet",
+        "kilde": "CNBC Top News",
+        "tid": "13:00",
+        "lenke": "https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Knuste verdseliten – uaktuell for verdscup: – Noreg som tapar på det",
+        "kilde": "NRK Nyheter",
+        "tid": "12:26",
+        "lenke": "https://www.nrk.no/sport/guro-ytterhus-knuste-verdseliten-i-sesongopninga_-_-sjokksiger-1.18081887",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vil ha nye kriseplaner for gigantdam: – Kan få katastrofale følger",
+        "kilde": "NRK Nyheter",
+        "tid": "12:17",
+        "lenke": "https://www.nrk.no/sorlandet/xl/hvis-en-av-nord-europas-storste-demningen-brister_-detaljerte-fluktplaner-mangler-1.18029294",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Møt de syv medgrunnleggerne av Anthropic",
+        "kilde": "CNBC Top News",
+        "tid": "12:15",
+        "lenke": "https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html",
         "engelsk_kilde": true
       },
       {
@@ -228,39 +317,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Røper plan A, B og C før skjebnehelga",
-        "kilde": "NRK Nyheter",
-        "tid": "09:02",
-        "lenke": "https://www.nrk.no/sport/skiskyttar-einar-hedegart-avslorer-kva-planar-han-har-for-den-kommande-vintersesongen-1.18080474",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "En veldig amerikansk-kinesisk affære",
         "kilde": "E24",
         "tid": "07:56",
         "lenke": "https://e24.no/boers-og-finans/i/Qrlpa8/en-veldig-amerikansk-kinesisk-affaere?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "SUS doblet sjåførutgiftene: Bruker over 11,5 millioner kroner på å frakte utstyr",
-        "kilde": "NRK Nyheter",
-        "tid": "07:37",
-        "lenke": "https://www.nrk.no/rogaland/sus-doblet-sjaforutgiftene_-bruker-over-11_6-millioner-kroner-pa-a-frakte-utstyr-1.18062629",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Analyse: Selskaper elsker en «rockestjerne»-administrerende direktør. Inntil de blir avhengige av én",
-        "kilde": "CNBC Top News",
-        "tid": "07:08",
-        "lenke": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Spør HN: Hva er de mest nyttige, konkrete KI-ferdighetene å lære seg på egen hånd?",
-        "kilde": "Hacker News",
-        "tid": "06:56",
-        "lenke": "https://news.ycombinator.com/item?id=50494696",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Milliarder renner ut av bitcoinfond",
@@ -277,52 +338,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Monkey Island: alle 13 versjonene side om side",
-        "kilde": "Hacker News",
-        "tid": "04:23",
-        "lenke": "https://monkeyisland.pages.dev/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "FAA opphever en sjelden landsdekkende stans av flyvninger; det kan ta flere dager før flytrafikken er tilbake til normalen",
-        "kilde": "MarketWatch",
-        "tid": "02:42",
-        "lenke": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Ggml v1.0.0",
-        "kilde": "Hacker News",
-        "tid": "02:28",
-        "lenke": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Elefanter viser seg å være stadig mer isolerte, noe som fører til oppsplittede sosiale nettverk",
-        "kilde": "Hacker News",
-        "tid": "02:02",
-        "lenke": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "«Tanken på å leve til jeg blir 100 skremmer meg»: Er trygdesystemet et gigantisk pyramidespill?",
         "kilde": "MarketWatch",
         "tid": "23:12",
         "lenke": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "4 eksperttips for å registrere seg for Medicare",
-        "kilde": "MarketWatch",
-        "tid": "22:45",
-        "lenke": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "«Han kaller planene mine for en fantasi»: Mannen min sier at vi ikke har råd til en pensjon på 200 000 dollar i året. Er han gjerrig?",
-        "kilde": "MarketWatch",
-        "tid": "22:00",
-        "lenke": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -333,14 +352,7 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "«Hun har en historikk med dårlig økonomistyring»: Broren min har utelatt søsteren vår fra testamentet sitt. Jeg får alt. Skal jeg si det til henne?",
-        "kilde": "MarketWatch",
-        "tid": "21:32",
-        "lenke": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Myndigheter forlenger høringsperioden for foreslåtte retningslinjer for tredjepartsrisikostyring",
+        "tittel": "Myndigheter forlenger høringsperioden for foreslåtte retningslinjer for håndtering av tredjepartsrisiko",
         "kilde": "Federal Reserve",
         "tid": "21:15",
         "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
@@ -351,27 +363,6 @@
         "kilde": "E24",
         "tid": "21:05",
         "lenke": "https://e24.no/internasjonal-oekonomi/i/yz37LR/reuters-fly-staar-paa-bakken-i-usa?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Snudd opp ned på regimet i klubben: – Hadde blitt ledd av",
-        "kilde": "NRK Nyheter",
-        "tid": "20:11",
-        "lenke": "https://www.nrk.no/sport/valerenga-ishockey-har-endra-vanane-_-kutta-ultraprosessert-mat-1.18078729",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Utvidet historiske Bryggen med AI",
-        "kilde": "E24",
-        "tid": "19:54",
-        "lenke": "https://e24.no/naeringsliv/i/dJdyaA/utvidet-historiske-bryggen-med-ai?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Ut mot handelsministeren etter skandale",
-        "kilde": "E24",
-        "tid": "18:25",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/KL3pqy/ut-mot-handelsministeren-etter-skandale?utm_medium=rss",
         "engelsk_kilde": false
       }
     ]
