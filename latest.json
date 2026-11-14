@@ -1,81 +1,74 @@
 {
   "dato": "2026-11-14",
   "dato_norsk": "Lørdag 14. november 2026",
-  "generert_kl": "01:20",
+  "generert_kl": "11:59",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Trump planlegger ikke å ta opp Nvidia eller spionasjesaken under Kina-besøket: amerikanske tjenestemenn",
+      "tittel": "Trump planlegger ikke å ta opp Nvidia eller spionasjesaken under Kina-besøket: Amerikanske tjenestemenn",
       "kilde": "CNBC Top News",
-      "tid": "01:04",
+      "tid": "01:34",
       "lenke": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Nvidia er ferdig med Jensen Huang. Ettervirkningene i Washington har så vidt begynt",
-      "kilde": "CNBC Top News",
-      "tid": "23:54",
-      "lenke": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
+      "tittel": "Nvidia skal angivelig ha skapt knapphet ved å finansiere KI-oppstartsbedrifter for å kjøpe deres grafikkprosessorer",
+      "kilde": "Hacker News",
+      "tid": "02:52",
+      "lenke": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Lutnick konfronteres med spørsmål om Nvidia-spionskandalen. Sønnenes firma har sterke bånd til brikkeprodusenten",
+      "tittel": "Et lite stykke Norge i GTA",
+      "kilde": "NRK Nyheter",
+      "tid": "07:00",
+      "lenke": "https://www.nrk.no/dokumentar/xl/et-lite-stykke-norge-i-grand-theft-auto-1.18074365",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Flyforstyrrelser fortsetter etter at FAA opphever flystoppen, noen college-fotballkamper er utsatt",
       "kilde": "CNBC Top News",
-      "tid": "23:42",
-      "lenke": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+      "tid": "11:34",
+      "lenke": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Nvidias aksje er på en tapstreak som ikke har vært sett på 14 år. Hva skjer videre?",
+      "tittel": "14 utbytteaksjer utvalgt for langsiktig vekst",
       "kilde": "MarketWatch",
-      "tid": "22:21",
-      "lenke": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Presset øker på Trumps handelsminister Lutnick som følge av Nvidia-skandalen",
-      "kilde": "BBC Business",
-      "tid": "19:53",
-      "lenke": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "tid": "01:58",
+      "lenke": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
       {
-        "tittel": "Vet virkelig ikke norske politikere bedre?",
-        "kilde": "E24",
-        "tid": "12:39",
-        "lenke": "https://e24.no/norsk-oekonomi/i/qOnKM1/vet-virkelig-ikke-norske-politikere-bedre?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Stortinget får strømstøtte: Vil ikke betale tilbake",
-        "kilde": "E24",
-        "tid": "12:38",
-        "lenke": "https://e24.no/energi-og-klima/i/8PwaBw/stortinget-faar-stroemstoette-vil-ikke-betale-tilbake?utm_medium=rss",
+        "tittel": "Et lite stykke Norge i GTA",
+        "kilde": "NRK Nyheter",
+        "tid": "07:00",
+        "lenke": "https://www.nrk.no/dokumentar/xl/et-lite-stykke-norge-i-grand-theft-auto-1.18074365",
         "engelsk_kilde": false
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "Bitcoin ligger nå under 69 000 USD og kan falle enda mer dersom investorer tar ut penger for å kjøpe seg inn i Anthropics børsnotering",
+        "tittel": "14 utbytteaksjer utvalgt for langsiktig vekst",
         "kilde": "MarketWatch",
-        "tid": "21:26",
-        "lenke": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
+        "tid": "01:58",
+        "lenke": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Brikkeaksjer tynget Wall Street",
-        "kilde": "E24",
-        "tid": "14:32",
-        "lenke": "https://e24.no/boers-og-finans/i/9Bvmmr/wall-street-aapner-opp?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ],
     "ENERGI_RAAVARER": [
       {
-        "tittel": "De globale oljeforsyningene strømmer plutselig på. Hvorfor et overskudd av råolje ikke vil bety billigere diesel.",
+        "tittel": "Ecuador ønsker å tjene penger på sitt biologiske mangfold – samtidig som de fortsetter å bore etter olje",
+        "kilde": "CNBC Top News",
+        "tid": "06:00",
+        "lenke": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "De globale oljeforsyningene strømmer plutselig. Hvorfor et overskudd av råolje ikke vil bety billigere diesel.",
         "kilde": "MarketWatch",
         "tid": "22:04",
         "lenke": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
@@ -83,6 +76,34 @@
       }
     ],
     "TEKNOLOGI": [
+      {
+        "tittel": "Microsoft beklager det omfattende systemavbruddet som la ned Outlook og andre 365-tjenester",
+        "kilde": "CNBC Top News",
+        "tid": "08:11",
+        "lenke": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Microsoft-trøbbel er løst",
+        "kilde": "E24",
+        "tid": "07:42",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/z0G735/microsoft-troebbel-er-loest?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Microsoft sier at tjenestene er fullstendig gjenopprettet etter et døgnlangt globalt brudd",
+        "kilde": "BBC Business",
+        "tid": "06:42",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nvidia skal angivelig ha skapt knapphet ved å finansiere KI-oppstartsbedrifter for å kjøpe deres grafikkprosessorer",
+        "kilde": "Hacker News",
+        "tid": "02:52",
+        "lenke": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "SpaceX skyter opp Starship i en viktig testflyvning av den enorme raketten",
         "kilde": "CNBC Top News",
@@ -105,24 +126,17 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nvidias aksje er på en tapstreak som ikke har vært sett på 14 år. Hva skjer videre?",
+        "tittel": "Nvidias aksje er på en tapstreak som ikke har vært sett på 14 år. Hva skjer videre?",
         "kilde": "MarketWatch",
         "tid": "22:21",
         "lenke": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nvidia-aksjen opplever den lengste ukentlige tapsserien siden 2012, ettersom markedsverdien synker med 1,7 billioner dollar",
+        "tittel": "Nvidia-aksjen opplever den lengste ukentlige tapsserien siden 2012, ettersom markedsverdien faller med 1,7 billioner dollar",
         "kilde": "CNBC Top News",
         "tid": "22:18",
         "lenke": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Microsoft «dypt lei seg» for globalt systemavbrudd etter nesten 24 timers forstyrrelse",
-        "kilde": "BBC Business",
-        "tid": "21:14",
-        "lenke": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
@@ -133,7 +147,7 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Etter at Jensen Huang forlot selskapet – dette gjør de ledende finansrådgiverne med Nvidia: Eksklusiv CNBC-meningsmåling",
+        "tittel": "Hva de ledende finansrådgiverne gjør med Nvidia etter at Jensen Huang forlot selskapet: Eksklusiv CNBC-meningsmåling",
         "kilde": "CNBC Top News",
         "tid": "19:53",
         "lenke": "https://www.cnbc.com/2026/11/13/nvidia-stock-advisors-jensen-huang-exit-exclusive-poll.html",
@@ -147,105 +161,154 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Microsoft beklager det omfattende systemavbruddet som la ned Outlook og andre 365-tjenester",
-        "kilde": "CNBC Top News",
-        "tid": "18:18",
-        "lenke": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nvidia-rush etter kursras: – Kan falle videre",
-        "kilde": "E24",
-        "tid": "14:43",
-        "lenke": "https://e24.no/boers-og-finans/i/ARddyE/nvidia-rush-etter-kursras-kan-falle-videre?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Hvordan en sexskandale hos Nvidia setter press på Det hvite hus",
         "kilde": "BBC Business",
         "tid": "12:22",
         "lenke": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Tidligere Nvidia-sjef Jensen Huang innkalt for å vitne for Kongressen om forholdet til en påstått kinesisk spion",
-        "kilde": "BBC Business",
-        "tid": "03:57",
-        "lenke": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Trump planlegger ikke å ta opp Nvidia eller spionasjesaken under Kina-besøket: amerikanske tjenestemenn",
+        "tittel": "Trump planlegger ikke å ta opp Nvidia eller spionasjesaken under Kina-besøket: Amerikanske tjenestemenn",
         "kilde": "CNBC Top News",
-        "tid": "01:04",
+        "tid": "01:34",
         "lenke": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hassett avviser opplysninger om at han forlater Det hvite hus: «Ikke sant»",
-        "kilde": "CNBC Top News",
-        "tid": "20:27",
-        "lenke": "https://www.cnbc.com/2026/11/13/kevin-hassett-white-house-nec.html",
         "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
       {
-        "tittel": "FAA setter avgående fly på bakken over hele landet, med henvisning til driftsstans i kommunikasjonssystemet for flytrafikk",
+        "tittel": "Flyforstyrrelser fortsetter etter at FAA opphever flystoppen, noen college-fotballkamper er utsatt",
         "kilde": "CNBC Top News",
-        "tid": "01:09",
-        "lenke": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+        "tid": "11:34",
+        "lenke": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Amtraks bestillingssystem opplever store problemer midt i FAAs landsdekkende flystopp",
+        "tittel": "Sparer 25.000 i måneden: – Sett pengene der du ikke ser dem!",
+        "kilde": "E24",
+        "tid": "11:14",
+        "lenke": "https://e24.no/norsk-oekonomi/i/EboOpa/sparer-25-000-i-maaneden-sett-pengene-der-du-ikke-ser-dem?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Nær 450.000 flyseter borte på 15 år – mener taxfree er en del av løsningen",
+        "kilde": "NRK Nyheter",
+        "tid": "09:58",
+        "lenke": "https://www.nrk.no/nordland/naer-450.000-flyseter-fra-bodo-er-fjernet-pa-15-ar.-senterpartiet-tror-mer-tax-free-er-losningen-1.18081229",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Herja med Real Madrid-kapteinen: – Ville ikkje snakke med meg",
+        "kilde": "NRK Nyheter",
+        "tid": "09:47",
+        "lenke": "https://www.nrk.no/sport/nusa-herja-med-real-madrid-kapteinen_-_-ville-ikkje-snakke-med-meg-1.18080529",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Påvist fugleinfluensa i Akershus: Må avlive 13.000 dyr",
+        "kilde": "NRK Nyheter",
+        "tid": "09:29",
+        "lenke": "https://www.nrk.no/stor-oslo/pavist-fugleinfluensa-i-akershus_-ma-avlive-13.000-dyr-1.18081821",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "AI-bilder i boligannonser: Dette er forbudt",
+        "kilde": "E24",
+        "tid": "09:28",
+        "lenke": "https://e24.no/naeringsliv/i/j3Pobw/ai-bilder-i-boligannonser-dette-er-forbudt?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "13.000 fjørfe må avlives i Akershus",
+        "kilde": "NRK Nyheter",
+        "tid": "09:19",
+        "lenke": "https://www.nrk.no/nyheter/13.000-fjorfe-ma-avlives-i-akershus-1.18081815",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Røper plan A, B og C før skjebnehelga",
+        "kilde": "NRK Nyheter",
+        "tid": "09:02",
+        "lenke": "https://www.nrk.no/sport/skiskyttar-einar-hedegart-avslorer-kva-planar-han-har-for-den-kommande-vintersesongen-1.18080474",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "En veldig amerikansk-kinesisk affære",
+        "kilde": "E24",
+        "tid": "07:56",
+        "lenke": "https://e24.no/boers-og-finans/i/Qrlpa8/en-veldig-amerikansk-kinesisk-affaere?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "SUS doblet sjåførutgiftene: Bruker over 11,5 millioner kroner på å frakte utstyr",
+        "kilde": "NRK Nyheter",
+        "tid": "07:37",
+        "lenke": "https://www.nrk.no/rogaland/sus-doblet-sjaforutgiftene_-bruker-over-11_6-millioner-kroner-pa-a-frakte-utstyr-1.18062629",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Analyse: Selskaper elsker en «rockestjerne»-administrerende direktør. Inntil de blir avhengige av én",
+        "kilde": "CNBC Top News",
+        "tid": "07:08",
+        "lenke": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Spør HN: Hva er de mest nyttige, konkrete KI-ferdighetene å lære seg på egen hånd?",
         "kilde": "Hacker News",
-        "tid": "00:52",
-        "lenke": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+        "tid": "06:56",
+        "lenke": "https://news.ycombinator.com/item?id=50494696",
         "engelsk_kilde": true
       },
       {
-        "tittel": "FAA erklærer en sjelden landsdekkende stans på bakken for flyvninger, med mer enn 10 000 forsinkelser så langt",
+        "tittel": "Milliarder renner ut av bitcoinfond",
+        "kilde": "E24",
+        "tid": "06:06",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/oMRXJj/milliarder-renner-ut-av-bitcoinfond?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Slik planlegger de hvitvasking",
+        "kilde": "E24",
+        "tid": "05:00",
+        "lenke": "https://e24.no/naeringsliv/i/eGVz3M/slik-planlegger-de-hvitvasking?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Monkey Island: alle 13 versjonene side om side",
+        "kilde": "Hacker News",
+        "tid": "04:23",
+        "lenke": "https://monkeyisland.pages.dev/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "FAA opphever en sjelden landsdekkende stans av flyvninger; det kan ta flere dager før flytrafikken er tilbake til normalen",
         "kilde": "MarketWatch",
-        "tid": "00:40",
+        "tid": "02:42",
         "lenke": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hva skjedde med 3Com?",
+        "tittel": "Ggml v1.0.0",
         "kilde": "Hacker News",
-        "tid": "23:48",
-        "lenke": "https://dfarq.homeip.net/what-happened-to-3com/",
+        "tid": "02:28",
+        "lenke": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Doc-foundry – KI skriver regler for sikkerhetsdeteksjon og beviser deretter at de fungerer",
+        "tittel": "Elefanter viser seg å være stadig mer isolerte, noe som fører til oppsplittede sosiale nettverk",
         "kilde": "Hacker News",
-        "tid": "23:40",
-        "lenke": "https://github.com/mjha-arya/DOC-foundry",
+        "tid": "02:02",
+        "lenke": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Vis HN: Sanntidskart over flyvninger i USA under FAAs landsdekkende stans på bakken i kveld",
-        "kilde": "Hacker News",
-        "tid": "23:17",
-        "lenke": "https://grounds.top/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "«Tanken på å leve til jeg er 100 skremmer meg»: Er trygdesystemet et gigantisk pyramidespill?",
+        "tittel": "«Tanken på å leve til jeg blir 100 skremmer meg»: Er trygdesystemet et gigantisk pyramidespill?",
         "kilde": "MarketWatch",
         "tid": "23:12",
         "lenke": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Terminalgrenser som ikke koster en celle",
-        "kilde": "Hacker News",
-        "tid": "23:06",
-        "lenke": "https://www.joshka.net/cell-borders/",
         "engelsk_kilde": true
       },
       {
@@ -277,14 +340,14 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "KI-risikoer er den største trusselen mot finanssystemet, ifølge en undersøkelse fra Fed",
-        "kilde": "CNBC Top News",
-        "tid": "21:18",
-        "lenke": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
+        "tittel": "Myndigheter forlenger høringsperioden for foreslåtte retningslinjer for tredjepartsrisikostyring",
+        "kilde": "Federal Reserve",
+        "tid": "21:15",
+        "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Eurocontrol: Alle fly fra Europa til USA innstilt",
+        "tittel": "Advarer etter flykaoset: – Dette kommer til å skje igjen",
         "kilde": "E24",
         "tid": "21:05",
         "lenke": "https://e24.no/internasjonal-oekonomi/i/yz37LR/reuters-fly-staar-paa-bakken-i-usa?utm_medium=rss",
@@ -305,81 +368,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Kvinne i 80-årene kjørte ned tre personer",
-        "kilde": "NRK Nyheter",
-        "tid": "19:33",
-        "lenke": "https://www.nrk.no/sorlandet/kvinne-i-80-arene-kjorte-ned-tre-personer-1.18081631",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Ut mot handelsministeren etter skandale",
         "kilde": "E24",
         "tid": "18:25",
         "lenke": "https://e24.no/internasjonal-oekonomi/i/KL3pqy/ut-mot-handelsministeren-etter-skandale?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kjørte ned tre personer",
-        "kilde": "NRK Nyheter",
-        "tid": "18:21",
-        "lenke": "https://www.nrk.no/sorlandet/kjorte-ned-tre-personer--1.18081598",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Nå kan du bli nabo med kongen",
-        "kilde": "E24",
-        "tid": "18:05",
-        "lenke": "https://e24.no/privatoekonomi/i/z0Grz4/naa-kan-du-bli-nabo-med-kongen?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Høyre-rådgiver (24) utsatt for hets: – Er det verdt det?",
-        "kilde": "NRK Nyheter",
-        "tid": "17:53",
-        "lenke": "https://www.nrk.no/sorlandet/hoyre-radgiver-_24_-utsatt-for-seksualisert-hets-fra-ukjent-mann-1.18080617",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Britisk politi starter etterforskning av David Walliams",
-        "kilde": "NRK Nyheter",
-        "tid": "16:20",
-        "lenke": "https://www.nrk.no/nyheter/britisk-politi-starter-etterforskning-av-david-walliams-1.18081553",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Grotesk overraskelse på skogstur: – Helt forferdelig",
-        "kilde": "NRK Nyheter",
-        "tid": "16:10",
-        "lenke": "https://www.nrk.no/ostfold/fant-grisehoder-og-innvoller-dumpet-i-skogen_-_-helt-forferdelig-1.18081436",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Vestlandsbygger konkurs etter 77 år",
-        "kilde": "E24",
-        "tid": "15:57",
-        "lenke": "https://e24.no/naeringsliv/i/4Eq11G/vestlandsbygger-konkurs-etter-77-aar?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Sykehusdrapet: Kameraer kan gi politiet viktige bevis",
-        "kilde": "NRK Nyheter",
-        "tid": "14:31",
-        "lenke": "https://www.nrk.no/buskerud/drapet-pa-drammen-sykehus_-kameraer-kan-gi-politiet-viktige-bevis-1.18081251",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Slanka seg for å behalda oljejobben: No kan vektkravet komma til Noreg",
-        "kilde": "NRK Nyheter",
-        "tid": "13:59",
-        "lenke": "https://www.nrk.no/rogaland/vurderer-a-innfora-vektgrense-pa-124-kilo-for-oljearbeidarar-i-noreg-1.18072358",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Varmepumper: Hvor mye varme trenger hjemmet ditt egentlig?",
-        "kilde": "BBC Business",
-        "tid": "09:29",
-        "lenke": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
       }
     ]
   }
