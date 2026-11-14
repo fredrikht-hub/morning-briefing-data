@@ -1,42 +1,42 @@
 {
-  "dato": "2026-11-13",
-  "dato_norsk": "Fredag 13. november 2026",
-  "generert_kl": "22:16",
+  "dato": "2026-11-14",
+  "dato_norsk": "Lørdag 14. november 2026",
+  "generert_kl": "01:20",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Presset øker på Trumps handelsminister Lutnick som følge av Nvidia-skandalen",
-      "kilde": "BBC Business",
-      "tid": "19:53",
-      "lenke": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "tittel": "Trump planlegger ikke å ta opp Nvidia eller spionasjesaken under Kina-besøket: amerikanske tjenestemenn",
+      "kilde": "CNBC Top News",
+      "tid": "01:04",
+      "lenke": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
       "engelsk_kilde": true
     },
     {
       "tittel": "Nvidia er ferdig med Jensen Huang. Ettervirkningene i Washington har så vidt begynt",
       "kilde": "CNBC Top News",
-      "tid": "21:04",
+      "tid": "23:54",
       "lenke": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Nvidia-aksjen opplever den lengste ukentlige tapsserien siden 2012, ettersom markedsverdien synker med 1,7 billioner dollar",
+      "tittel": "Lutnick konfronteres med spørsmål om Nvidia-spionskandalen. Sønnenes firma har sterke bånd til brikkeprodusenten",
       "kilde": "CNBC Top News",
-      "tid": "21:27",
-      "lenke": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+      "tid": "23:42",
+      "lenke": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Hva de beste finansrådgiverne gjør med Nvidia etter at Jensen Huang forlot selskapet: Eksklusiv CNBC-meningsmåling",
-      "kilde": "CNBC Top News",
+      "tittel": "Nvidias aksje er på en tapstreak som ikke har vært sett på 14 år. Hva skjer videre?",
+      "kilde": "MarketWatch",
+      "tid": "22:21",
+      "lenke": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Presset øker på Trumps handelsminister Lutnick som følge av Nvidia-skandalen",
+      "kilde": "BBC Business",
       "tid": "19:53",
-      "lenke": "https://www.cnbc.com/2026/11/13/nvidia-stock-advisors-jensen-huang-exit-exclusive-poll.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "En tradingstrategi for å ri av Nvidia-usikkerheten og generere inntekt i prosessen",
-      "kilde": "CNBC Top News",
-      "tid": "19:30",
-      "lenke": "https://www.cnbc.com/2026/11/13/a-trading-strategy-to-ride-out-the-nvidia-uncertainty-and-generate-income-in-the-process.html",
+      "lenke": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
       "engelsk_kilde": true
     }
   ],
@@ -75,7 +75,7 @@
     ],
     "ENERGI_RAAVARER": [
       {
-        "tittel": "De globale oljeforsyningene strømmer plutselig. Hvorfor et overskudd av råolje ikke vil bety billigere diesel.",
+        "tittel": "De globale oljeforsyningene strømmer plutselig på. Hvorfor et overskudd av råolje ikke vil bety billigere diesel.",
         "kilde": "MarketWatch",
         "tid": "22:04",
         "lenke": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
@@ -84,31 +84,45 @@
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Nvidia-aksjen opplever den lengste ukentlige tapsserien siden 2012, ettersom markedsverdien synker med 1,7 billioner dollar",
+        "tittel": "SpaceX skyter opp Starship i en viktig testflyvning av den enorme raketten",
         "kilde": "CNBC Top News",
-        "tid": "21:27",
-        "lenke": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Microsoft «dypt beklager» det globale systemavbruddet etter nesten 24 timers forstyrrelse",
-        "kilde": "BBC Business",
-        "tid": "21:14",
-        "lenke": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "AMD og andre chipaksjer faller når Wall Street revurderer AI-handelen uten Jensen Huang",
-        "kilde": "MarketWatch",
-        "tid": "21:10",
-        "lenke": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories",
+        "tid": "01:18",
+        "lenke": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
         "engelsk_kilde": true
       },
       {
         "tittel": "Nvidia er ferdig med Jensen Huang. Ettervirkningene i Washington har så vidt begynt",
         "kilde": "CNBC Top News",
-        "tid": "21:04",
+        "tid": "23:54",
         "lenke": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Lutnick konfronteres med spørsmål om Nvidia-spionskandalen. Sønnenes firma har sterke bånd til brikkeprodusenten",
+        "kilde": "CNBC Top News",
+        "tid": "23:42",
+        "lenke": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nvidias aksje er på en tapstreak som ikke har vært sett på 14 år. Hva skjer videre?",
+        "kilde": "MarketWatch",
+        "tid": "22:21",
+        "lenke": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nvidia-aksjen opplever den lengste ukentlige tapsserien siden 2012, ettersom markedsverdien synker med 1,7 billioner dollar",
+        "kilde": "CNBC Top News",
+        "tid": "22:18",
+        "lenke": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Microsoft «dypt lei seg» for globalt systemavbrudd etter nesten 24 timers forstyrrelse",
+        "kilde": "BBC Business",
+        "tid": "21:14",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
@@ -119,24 +133,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hva de beste finansrådgiverne gjør med Nvidia etter at Jensen Huang forlot selskapet: Eksklusiv CNBC-meningsmåling",
+        "tittel": "Etter at Jensen Huang forlot selskapet – dette gjør de ledende finansrådgiverne med Nvidia: Eksklusiv CNBC-meningsmåling",
         "kilde": "CNBC Top News",
         "tid": "19:53",
         "lenke": "https://www.cnbc.com/2026/11/13/nvidia-stock-advisors-jensen-huang-exit-exclusive-poll.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "En tradingstrategi for å ri av Nvidia-usikkerheten og generere inntekt i prosessen",
-        "kilde": "CNBC Top News",
-        "tid": "19:30",
-        "lenke": "https://www.cnbc.com/2026/11/13/a-trading-strategy-to-ride-out-the-nvidia-uncertainty-and-generate-income-in-the-process.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Lutnick konfronteres med spørsmål om Nvidia-spionskandalen. Sønnenes firma har sterke bånd til brikkeprodusenten",
-        "kilde": "CNBC Top News",
-        "tid": "19:11",
-        "lenke": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
         "engelsk_kilde": true
       },
       {
@@ -168,7 +168,7 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Tidligere Nvidia-sjef Jensen Huang innkalt for å vitne for Kongressen om forholdet til en angivelig kinesisk spion",
+        "tittel": "Tidligere Nvidia-sjef Jensen Huang innkalt for å vitne for Kongressen om forholdet til en påstått kinesisk spion",
         "kilde": "BBC Business",
         "tid": "03:57",
         "lenke": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
@@ -176,6 +176,13 @@
       }
     ],
     "GEOPOLITIKK": [
+      {
+        "tittel": "Trump planlegger ikke å ta opp Nvidia eller spionasjesaken under Kina-besøket: amerikanske tjenestemenn",
+        "kilde": "CNBC Top News",
+        "tid": "01:04",
+        "lenke": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Hassett avviser opplysninger om at han forlater Det hvite hus: «Ikke sant»",
         "kilde": "CNBC Top News",
@@ -186,24 +193,66 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "FAA erklærer et sjeldent, landsdekkende stopp for flyvninger og oppgir «ekstraordinære omstendigheter» som årsak",
-        "kilde": "MarketWatch",
-        "tid": "22:10",
-        "lenke": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "FAA innfører nasjonalt flystopp på grunn av kommunikasjonsproblemer som påvirker «flere» flygekontrollsentraler",
+        "tittel": "FAA setter avgående fly på bakken over hele landet, med henvisning til driftsstans i kommunikasjonssystemet for flytrafikk",
         "kilde": "CNBC Top News",
-        "tid": "22:07",
+        "tid": "01:09",
         "lenke": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Direktesendt flybånd på alle frekvenser fra KORS. Victoria, CA har også innført flystopp",
+        "tittel": "Amtraks bestillingssystem opplever store problemer midt i FAAs landsdekkende flystopp",
         "kilde": "Hacker News",
-        "tid": "22:04",
-        "lenke": "https://orcasairband.com/",
+        "tid": "00:52",
+        "lenke": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "FAA erklærer en sjelden landsdekkende stans på bakken for flyvninger, med mer enn 10 000 forsinkelser så langt",
+        "kilde": "MarketWatch",
+        "tid": "00:40",
+        "lenke": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hva skjedde med 3Com?",
+        "kilde": "Hacker News",
+        "tid": "23:48",
+        "lenke": "https://dfarq.homeip.net/what-happened-to-3com/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Doc-foundry – KI skriver regler for sikkerhetsdeteksjon og beviser deretter at de fungerer",
+        "kilde": "Hacker News",
+        "tid": "23:40",
+        "lenke": "https://github.com/mjha-arya/DOC-foundry",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vis HN: Sanntidskart over flyvninger i USA under FAAs landsdekkende stans på bakken i kveld",
+        "kilde": "Hacker News",
+        "tid": "23:17",
+        "lenke": "https://grounds.top/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "«Tanken på å leve til jeg er 100 skremmer meg»: Er trygdesystemet et gigantisk pyramidespill?",
+        "kilde": "MarketWatch",
+        "tid": "23:12",
+        "lenke": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Terminalgrenser som ikke koster en celle",
+        "kilde": "Hacker News",
+        "tid": "23:06",
+        "lenke": "https://www.joshka.net/cell-borders/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "4 eksperttips for å registrere seg for Medicare",
+        "kilde": "MarketWatch",
+        "tid": "22:45",
+        "lenke": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -221,7 +270,7 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "«Hun har en historikk med dårlig økonomistyring»: Broren min utelot søsteren vår fra testamentet sitt. Jeg får alt. Skal jeg si det til henne?",
+        "tittel": "«Hun har en historikk med dårlig økonomistyring»: Broren min har utelatt søsteren vår fra testamentet sitt. Jeg får alt. Skal jeg si det til henne?",
         "kilde": "MarketWatch",
         "tid": "21:32",
         "lenke": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
@@ -235,60 +284,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Myndigheter forlenger høringsperioden for foreslått veiledning om tredjepartsrisikostyring",
-        "kilde": "Federal Reserve",
-        "tid": "21:15",
-        "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Den billiondollarsfeilen næringslivet i USA gjør når det gjelder pensjon",
-        "kilde": "MarketWatch",
-        "tid": "21:09",
-        "lenke": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "FAA innfører nasjonalt flystopp på grunn av «ekstraordinære omstendigheter»",
-        "kilde": "Hacker News",
-        "tid": "21:08",
-        "lenke": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Alle flyplasser i USA har for øyeblikket flystopp.",
-        "kilde": "Hacker News",
-        "tid": "21:06",
-        "lenke": "https://twitter.com/flightradar24/status/2121347654714077605",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "FAA innfører nasjonalt flystopp",
-        "kilde": "Hacker News",
-        "tid": "21:05",
-        "lenke": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nasjonal stans i flytrafikken i USA",
+        "tittel": "Eurocontrol: Alle fly fra Europa til USA innstilt",
         "kilde": "E24",
         "tid": "21:05",
         "lenke": "https://e24.no/internasjonal-oekonomi/i/yz37LR/reuters-fly-staar-paa-bakken-i-usa?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Autonomous (YC F25) ansetter MTS for å utvikle AI-agenter som forvalter formuen din",
-        "kilde": "Hacker News",
-        "tid": "21:01",
-        "lenke": "https://atg.science/careers",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Slik finner du svaret på et viktig spørsmål denne sesongen for åpen påmelding: Betaler du for mye for helseforsikringen?",
-        "kilde": "MarketWatch",
-        "tid": "20:45",
-        "lenke": "https://www.marketwatch.com/story/am-i-overpaying-for-health-insurance-how-to-answer-the-key-question-this-open-enrollment-season-2d00ed55?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Snudd opp ned på regimet i klubben: – Hadde blitt ledd av",
@@ -310,13 +310,6 @@
         "tid": "19:33",
         "lenke": "https://www.nrk.no/sorlandet/kvinne-i-80-arene-kjorte-ned-tre-personer-1.18081631",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Pensjonister bruker noen ganger oppsparte midler til engangskostnader. Dette sier rådgivere at man bør vurdere først",
-        "kilde": "CNBC Top News",
-        "tid": "19:01",
-        "lenke": "https://www.cnbc.com/2026/11/13/retirement-401k-ira-withdrawal-taxes.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Ut mot handelsministeren etter skandale",
@@ -386,20 +379,6 @@
         "kilde": "BBC Business",
         "tid": "09:29",
         "lenke": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Burnham sier at en «vinn-vinn»-avtale kan inngås mellom Storbritannia og EU",
-        "kilde": "BBC Business",
-        "tid": "01:17",
-        "lenke": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Fremveksten av «housefishing» – når går bruk av KI fra å forbedre til å villede?",
-        "kilde": "BBC Business",
-        "tid": "00:13",
-        "lenke": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ]
