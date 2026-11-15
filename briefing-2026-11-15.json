@@ -1,65 +1,77 @@
 {
   "dato": "2026-11-15",
   "dato_norsk": "Søndag 15. november 2026",
-  "generert_kl": "00:53",
+  "generert_kl": "12:34",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Trump planlegger ikke å ta opp Nvidia eller spionasjesaken under Kina-besøket: amerikanske tjenestemenn",
-      "kilde": "CNBC Top News",
-      "tid": "15:36",
-      "lenke": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+      "tittel": "Gull og sølv skal beskytte mot inflasjon. Så hvorfor faller begge metallene i stedet?",
+      "kilde": "MarketWatch",
+      "tid": "12:30",
+      "lenke": "https://www.marketwatch.com/story/gold-and-silver-are-supposed-to-protect-against-inflation-so-why-are-both-metals-tumbling-instead-1735eca7?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Nvidia holdt bevisst GPU-prisene høye gjennom sirkulære finansieringsavtaler",
-      "kilde": "Hacker News",
-      "tid": "22:26",
-      "lenke": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "tittel": "Anthropics børsnotering kommer i en tid da den hardt pressede AI-bransjen er på utkikk etter et sårt tiltrengt lyspunkt",
+      "kilde": "CNBC Top News",
+      "tid": "12:00",
+      "lenke": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Landsdekkende stopp på bakken etter at entreprenøren oppgraderte til L3Harris' telekommunikasjonssystem: DOTs Duffy",
+      "tittel": "Anthropic på børs: Det er bare én hake",
+      "kilde": "E24",
+      "tid": "12:32",
+      "lenke": "https://e24.no/boers-og-finans/i/Vxbq13/det-er-bare-en-hake?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Landsdekkende stopp på bakken fulgte etter at entreprenøren oppgraderte til L3Harris' telekommunikasjonssystem: Duffy fra DOT",
       "kilde": "CNBC Top News",
-      "tid": "23:21",
+      "tid": "02:53",
       "lenke": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "SpaceX fanger opp øvre trinn av Starship-raketten i et historisk førstegangsforsøk",
-      "kilde": "CNBC Top News",
-      "tid": "23:10",
-      "lenke": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "SpaceX fanger Starship-raketten med suksess – en enorm milepæl for romfartsindustrien",
-      "kilde": "MarketWatch",
-      "tid": "00:33",
-      "lenke": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
-      "engelsk_kilde": true
+      "tittel": "Vil du ha betalt for å spille GTA?",
+      "kilde": "E24",
+      "tid": "11:14",
+      "lenke": "https://e24.no/internasjonal-oekonomi/i/kMJwBX/vil-du-ha-betalt-for-aa-spille-gta?utm_medium=rss",
+      "engelsk_kilde": false
     }
   ],
   "kategorier": {
-    "NORGE": [
-      {
-        "tittel": "Nusa herjet for Norge: «Driblet bort halve Wales»",
-        "kilde": "NRK Nyheter",
-        "tid": "18:55",
-        "lenke": "https://www.nrk.no/sport/spillerbors-etter-norges-kamp-mot-wales_-antonio-nusa-banens-beste-1.18082007",
-        "engelsk_kilde": false
-      }
-    ],
     "MARKEDER": [
       {
-        "tittel": "Landsdekkende stopp på bakken etter at entreprenøren oppgraderte til L3Harris' telekommunikasjonssystem: DOTs Duffy",
+        "tittel": "Anthropic på børs: Det er bare én hake",
+        "kilde": "E24",
+        "tid": "12:32",
+        "lenke": "https://e24.no/boers-og-finans/i/Vxbq13/det-er-bare-en-hake?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Anthropics børsnotering kommer i en tid da den hardt pressede AI-bransjen er på utkikk etter et sårt tiltrengt lyspunkt",
         "kilde": "CNBC Top News",
-        "tid": "23:21",
+        "tid": "12:00",
+        "lenke": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Landsdekkende stopp på bakken fulgte etter at entreprenøren oppgraderte til L3Harris' telekommunikasjonssystem: Duffy fra DOT",
+        "kilde": "CNBC Top News",
+        "tid": "02:53",
         "lenke": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
         "engelsk_kilde": true
       }
     ],
     "ENERGI_RAAVARER": [
+      {
+        "tittel": "Gull og sølv skal beskytte mot inflasjon. Så hvorfor faller begge metallene i stedet?",
+        "kilde": "MarketWatch",
+        "tid": "12:30",
+        "lenke": "https://www.marketwatch.com/story/gold-and-silver-are-supposed-to-protect-against-inflation-so-why-are-both-metals-tumbling-instead-1735eca7?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Prisene på fyringsolje har steget med 59 % siden forrige vinter. Stigningen «knuser folk», sier en ideell organisasjon i Maine",
         "kilde": "CNBC Top News",
@@ -70,105 +82,166 @@
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "SpaceX fanger Starship-raketten med suksess – en enorm milepæl for romfartsindustrien",
+        "tittel": "SpaceX fanger Starship-raketten – en enorm milepæl for romfartsindustrien",
         "kilde": "MarketWatch",
         "tid": "00:33",
         "lenke": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "SpaceX fanger opp øvre trinn av Starship-raketten i et historisk førstegangsforsøk",
+        "tittel": "SpaceX fanger opp øvre trinn av Starship-raketten for første gang i historien",
         "kilde": "CNBC Top News",
         "tid": "23:10",
         "lenke": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nvidia holdt bevisst GPU-prisene høye gjennom sirkulære finansieringsavtaler",
-        "kilde": "Hacker News",
-        "tid": "22:26",
-        "lenke": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvordan skrev Woz Apple 1 BASIC før han bygde datamaskinen?",
-        "kilde": "Hacker News",
-        "tid": "22:22",
-        "lenke": "https://retrocomputing.stackexchange.com/questions/17957",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "SpaceX fanger Starship for å avslutte flyvning 15",
-        "kilde": "Hacker News",
-        "tid": "21:22",
-        "lenke": "https://www.spacex.com/launches/starship-flight-15",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nvidias styre oppfordres til å vurdere «en potensiell retur av Jensen Huang» av to store investorer",
-        "kilde": "CNBC Top News",
-        "tid": "17:46",
-        "lenke": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvordan Nvidia-uroen og en demokratisk-styrt kongress kan omforme AI-handelen, ifølge ETF-eksperter",
+        "tittel": "Hvordan Nvidia-uroen og en demokratisk kongress kan omforme AI-handelen, ifølge ETF-eksperter",
         "kilde": "CNBC Top News",
         "tid": "15:50",
         "lenke": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Disse aksjene kan tjene på Nvidia-knekk",
-        "kilde": "E24",
-        "tid": "14:50",
-        "lenke": "https://e24.no/boers-og-finans/i/ez1ljM/disse-aksjene-kan-tjene-paa-nvidia-knekk?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Oppstartsbedriften for robotsoldater, støttet av Eric Trump, kan ikke betale de ansatte etter at grunnleggeren lånte 4,6 millioner dollar fra selskapet for å kjøpe hus",
-        "kilde": "CNBC Top News",
-        "tid": "12:00",
-        "lenke": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Microsoft-trøbbel er løst",
-        "kilde": "E24",
-        "tid": "07:42",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/z0G735/microsoft-troebbel-er-loest?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Microsoft sier at tjenestene er fullstendig gjenopprettet etter et døgns globalt driftsstans",
-        "kilde": "BBC Business",
-        "tid": "06:42",
-        "lenke": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      }
-    ],
-    "GEOPOLITIKK": [
-      {
-        "tittel": "Trump planlegger ikke å ta opp Nvidia eller spionasjesaken under Kina-besøket: amerikanske tjenestemenn",
-        "kilde": "CNBC Top News",
-        "tid": "15:36",
-        "lenke": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
         "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
       {
-        "tittel": "Skjønnhetsjulekalendere kan koste hundrevis – men gir de valuta for pengene?",
+        "tittel": "Vind og kaos-skyting: Kirkeeide vant fellesstarten etter åtte (!) bom",
+        "kilde": "NRK Nyheter",
+        "tid": "12:25",
+        "lenke": "https://www.nrk.no/sport/vind-og-kaos-skyting_-kirkeeide-vant-fellesstarten-etter-atte-___-bom-1.18082184",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vil du ha betalt for å spille GTA?",
+        "kilde": "E24",
+        "tid": "11:14",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/kMJwBX/vil-du-ha-betalt-for-aa-spille-gta?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Haaland sliter med motivasjonen: – Jeg ville ha startet med Sørloth",
+        "kilde": "NRK Nyheter",
+        "tid": "11:05",
+        "lenke": "https://www.nrk.no/sport/haaland-sliter-med-motivasjonen-for-danmark-kampen_-_-jeg-ville-ha-startet-med-sorloth-1.18082112",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Mektige menn felt av sine affærer",
+        "kilde": "E24",
+        "tid": "09:17",
+        "lenke": "https://e24.no/boers-og-finans/i/vkmE9V/mektige-menn-felt-av-sine-affaerer?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "En dårlig dag på jobben",
+        "kilde": "E24",
+        "tid": "09:17",
+        "lenke": "https://e24.no/karriere-og-ledelse/i/5306A6/en-daarlig-dag-paa-jobben?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Solbakken om Nyland-vraking: – Brutalt",
+        "kilde": "NRK Nyheter",
+        "tid": "09:10",
+        "lenke": "https://www.nrk.no/sport/stale-solbakken-om-vrakingen-av-orjan-haskjold-nyland_-_-brutalt-1.18082078",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Hvorfor hadde noen Apollo-ferder med seg en granatkaster?",
+        "kilde": "Hacker News",
+        "tid": "09:06",
+        "lenke": "https://space.stackexchange.com/questions/37775",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Statsbygg får nobelprisvinner Jon Fosses strømstøtte",
+        "kilde": "E24",
+        "tid": "08:48",
+        "lenke": "https://e24.no/energi-og-klima/i/lM1onM/statsbygg-faar-nobelprisvinner-jon-fosses-stroemstoette?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Skarstein: – Heldigvis er det lov å tenke seg om",
+        "kilde": "NRK Nyheter",
+        "tid": "08:41",
+        "lenke": "https://www.nrk.no/stor-oslo/skarstein_-_-heldigvis-er-det-lov-a-tenke-seg-om-1.18082145",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Megaspeed sier at Alice Huang sluttet i 2025, samtidig som de setter i gang en intern gransking av rapporter om virksomheten deres",
+        "kilde": "CNBC Top News",
+        "tid": "08:34",
+        "lenke": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Mamma for tidleg",
+        "kilde": "NRK Nyheter",
+        "tid": "07:14",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/xl/kvinner-som-foder-for-tidleg_-slit-mykje-med-skyldkjensle-1.18060537",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Bokliste for datavitere som slåss på gata",
+        "kilde": "Hacker News",
+        "tid": "07:08",
+        "lenke": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nvidias farlige pengespill",
+        "kilde": "E24",
+        "tid": "06:12",
+        "lenke": "https://e24.no/boers-og-finans/i/3BJjwP/nvidias-farlige-pengespill?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Kan Budapest bli det neste hotspotet for digitale nomader?",
+        "kilde": "CNBC Top News",
+        "tid": "06:00",
+        "lenke": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Diskkryptering på NetBSD – oppnå hemmeligholdelse",
+        "kilde": "Hacker News",
+        "tid": "05:29",
+        "lenke": "https://netbsd.org/~nia/disk-encrypt/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kiri – Den moderne container-kjøretiden",
+        "kilde": "Hacker News",
+        "tid": "04:40",
+        "lenke": "https://runkiri.com/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vis HN: Gawain – Krev typehint på alle Python-variabler",
+        "kilde": "Hacker News",
+        "tid": "04:39",
+        "lenke": "https://github.com/matheuzgomes/gawain",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Her selges dataangrep for noen hundrelapper",
+        "kilde": "E24",
+        "tid": "04:00",
+        "lenke": "https://e24.no/naeringsliv/i/dJdg0q/her-selges-dataangrep-for-noen-hundrelapper?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Skjønnhetsjulekalendere kan koste hundrevis av kroner, men gir de valuta for pengene?",
         "kilde": "BBC Business",
         "tid": "00:01",
         "lenke": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "L3Harris' uttalelse om flystansen 13. november",
-        "kilde": "Hacker News",
-        "tid": "22:51",
-        "lenke": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop",
+        "tittel": "«Grunnårsaken» til den landsdekkende stansen i flytrafikken er ukjent, sier FAA",
+        "kilde": "CNBC Top News",
+        "tid": "22:54",
+        "lenke": "https://www.cnbc.com/2026/11/14/root-cause-of-nationwide-ground-stop-is-unknown-faa-says.html",
         "engelsk_kilde": true
       },
       {
@@ -200,7 +273,7 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Jeg arvet 1,4 millioner dollar fra faren min. Tar jeg feil når jeg ber mannen min, som jeg har vært gift med i 25 år, om en ekteskapsavtale?",
+        "tittel": "Jeg arvet 1,4 millioner dollar fra faren min. Tar jeg feil når jeg ber mannen min gjennom 25 år om en ekteskapsavtale?",
         "kilde": "MarketWatch",
         "tid": "21:00",
         "lenke": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
@@ -214,7 +287,7 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "«Det gir meg en bitter smak i munnen»: Den eldre moren min ga søskenbarnet vårt 800 $ til bilreparasjon. Bør jeg være bekymret?",
+        "tittel": "«Det gir meg en bitter smak i munnen»: Min eldre mor ga søskenbarnet vårt 800 $ til bilreparasjon. Bør jeg være bekymret?",
         "kilde": "MarketWatch",
         "tid": "20:00",
         "lenke": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
@@ -225,13 +298,6 @@
         "kilde": "MarketWatch",
         "tid": "19:30",
         "lenke": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Dartmouth (Guarini) vil ikke ta inn et kull med doktorgradsstudenter i matematikk i år",
-        "kilde": "Hacker News",
-        "tid": "19:23",
-        "lenke": "https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year",
         "engelsk_kilde": true
       },
       {
@@ -270,88 +336,11 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Turte ikke se da Haaland avgjorde: – Mer nervøse enn meg",
-        "kilde": "NRK Nyheter",
-        "tid": "17:56",
-        "lenke": "https://www.nrk.no/sport/norge-slo-wales-3_1-i-nasjonsligaen-_-sikret-toppseeding-til-em-kvalifiseringen-1.18081962",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Slik vil Bernie Sanders holde trygdesystemet solvent «i generasjoner»",
-        "kilde": "MarketWatch",
-        "tid": "17:50",
-        "lenke": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kraftig brann i Lillestrøm",
-        "kilde": "NRK Nyheter",
-        "tid": "15:58",
-        "lenke": "https://www.nrk.no/stor-oslo/kraftig-brann-i-lillestrom-1.18081998",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Solbakken overrasker – Aasgaard inn i startelleveren",
-        "kilde": "NRK Nyheter",
-        "tid": "15:40",
-        "lenke": "https://www.nrk.no/sport/solbakken-overrasker-_-aasgaard-inn-i-startelleveren-1.18081988",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Spår tidenes julehandel",
-        "kilde": "E24",
-        "tid": "15:05",
-        "lenke": "https://e24.no/naeringsliv/i/z0LBE5/spaar-tidenes-julehandel?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Hvordan lanseringen av Rockstars «GTA VI» kan endre gaming, strømming og til og med betalt ferie",
+        "tittel": "Hvordan lanseringen av Rockstars «GTA VI» kan endre gaming, strømming og til og med betalt fri",
         "kilde": "CNBC Top News",
         "tid": "14:54",
         "lenke": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Berkshire stiger til rekordhøye nivåer med en oppgang på 19 % i fjerde kvartal",
-        "kilde": "CNBC Top News",
-        "tid": "14:02",
-        "lenke": "https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Grøssar av bilda av Noreg-motstandaren – synest synd på fotografane",
-        "kilde": "NRK Nyheter",
-        "tid": "13:53",
-        "lenke": "https://www.nrk.no/sport/grossar-av-bilda-av-noreg-motstandaren_-_-eg-ristar-berre-pa-hovudet-1.18081081",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Sparer 25.000 i måneden: – Sett pengene der du ikke ser dem!",
-        "kilde": "E24",
-        "tid": "11:14",
-        "lenke": "https://e24.no/norsk-oekonomi/i/EboOpa/sparer-25-000-i-maaneden-sett-pengene-der-du-ikke-ser-dem?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "AI-bilder i boligannonser: Dette er forbudt",
-        "kilde": "E24",
-        "tid": "09:28",
-        "lenke": "https://e24.no/naeringsliv/i/j3Pobw/ai-bilder-i-boligannonser-dette-er-forbudt?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "En veldig amerikansk-kinesisk affære",
-        "kilde": "E24",
-        "tid": "07:56",
-        "lenke": "https://e24.no/boers-og-finans/i/Qrlpa8/en-veldig-amerikansk-kinesisk-affaere?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Milliarder renner ut av bitcoinfond",
-        "kilde": "E24",
-        "tid": "06:06",
-        "lenke": "https://e24.no/internasjonal-oekonomi/i/oMRXJj/milliarder-renner-ut-av-bitcoinfond?utm_medium=rss",
-        "engelsk_kilde": false
       }
     ]
   }
