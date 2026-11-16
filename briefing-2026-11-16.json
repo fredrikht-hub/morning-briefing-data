@@ -1,0 +1,377 @@
+{
+  "dato": "2026-11-16",
+  "dato_norsk": "Mandag 16. november 2026",
+  "generert_kl": "00:52",
+  "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
+  "dagens_fokus": [
+    {
+      "tittel": "Mistenkt kinesisk spion med tilknytning til Nvidias tidligere sjef sluttet i 2025, sier Megaspeed",
+      "kilde": "BBC Business",
+      "tid": "22:24",
+      "lenke": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Jensen Huang kan komme tilbake til Nvidia som administrerende direktør",
+      "kilde": "Hacker News",
+      "tid": "23:24",
+      "lenke": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Bessent krever «dramatisk omveltning» hos Nvidia og oppfordrer til en ekstern administrerende direktør",
+      "kilde": "CNBC Top News",
+      "tid": "18:10",
+      "lenke": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Bessent: Nvidia trenger «dramatisk utskiftning»",
+      "kilde": "E24",
+      "tid": "19:06",
+      "lenke": "https://e24.no/boers-og-finans/i/1vnM4G/mener-nvidia-trenger-dramatisk-utskiftning?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Storbritannia får «stemme», men ingen stemmerett når det gjelder EUs matregler i Brexit-omleggingen",
+      "kilde": "BBC Business",
+      "tid": "22:00",
+      "lenke": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+      "engelsk_kilde": true
+    }
+  ],
+  "kategorier": {
+    "MAKRO": [
+      {
+        "tittel": "Lavprisflyselskapene blir mer eksklusive med førsteklasses seter og raskere wifi",
+        "kilde": "MarketWatch",
+        "tid": "21:31",
+        "lenke": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bessent: Nvidia trenger «dramatisk utskiftning»",
+        "kilde": "E24",
+        "tid": "19:06",
+        "lenke": "https://e24.no/boers-og-finans/i/1vnM4G/mener-nvidia-trenger-dramatisk-utskiftning?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Bessent krever «dramatisk omveltning» hos Nvidia og oppfordrer til en ekstern administrerende direktør",
+        "kilde": "CNBC Top News",
+        "tid": "18:10",
+        "lenke": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "MARKEDER": [
+      {
+        "tittel": "Nvidia forbereder seg på en av Wall Streets mest etterlengtede resultatrapporteringer på mange år",
+        "kilde": "MarketWatch",
+        "tid": "21:32",
+        "lenke": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tre viktige ting vi følger med på i aksjemarkedet den kommende uken",
+        "kilde": "CNBC Top News",
+        "tid": "15:26",
+        "lenke": "https://www.cnbc.com/investingclub/2026/11/15/3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "De fremste Wall Street-analytikerne er optimistiske når det gjelder disse tre aksjene på lang sikt",
+        "kilde": "CNBC Top News",
+        "tid": "12:49",
+        "lenke": "https://www.cnbc.com/2026/11/15/top-wall-street-analysts-are-bullish-on-these-3-stocks-for-the-long-term.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Anthropic på børs: Det er bare én hake",
+        "kilde": "E24",
+        "tid": "12:32",
+        "lenke": "https://e24.no/boers-og-finans/i/Vxbq13/det-er-bare-en-hake?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Anthropics børsnotering kommer i en tid da den hardt pressede AI-handelen søker et sårt tiltrengt lyspunkt",
+        "kilde": "CNBC Top News",
+        "tid": "12:00",
+        "lenke": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "TEKNOLOGI": [
+      {
+        "tittel": "Jensen Huang kan komme tilbake til Nvidia som administrerende direktør",
+        "kilde": "Hacker News",
+        "tid": "23:24",
+        "lenke": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Mistenkt kinesisk spion med tilknytning til Nvidias tidligere sjef sluttet i 2025, sier Megaspeed",
+        "kilde": "BBC Business",
+        "tid": "22:24",
+        "lenke": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nvidia-tall: – Verdens viktigste",
+        "kilde": "E24",
+        "tid": "18:06",
+        "lenke": "https://e24.no/boers-og-finans/i/xJPRRV/nvidia-tall-verdens-viktigste?utm_medium=rss",
+        "engelsk_kilde": false
+      }
+    ],
+    "GEOPOLITIKK": [
+      {
+        "tittel": "Storbritannia får «stemme», men ingen stemmerett når det gjelder EUs matregler i Brexit-omleggingen",
+        "kilde": "BBC Business",
+        "tid": "22:00",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump bryter tausheten om FAAs landsdekkende flystopp og gir Biden-administrasjonen skylden",
+        "kilde": "CNBC Top News",
+        "tid": "16:56",
+        "lenke": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
+        "engelsk_kilde": true
+      }
+    ],
+    "VILLKORT": [
+      {
+        "tittel": "Black Friday- og skattemeldingssvindel – ikke la deg lure av disse",
+        "kilde": "BBC Business",
+        "tid": "00:50",
+        "lenke": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Japans økonomi krymper uventet i tredje kvartal ettersom de høye energikostnadene biter fra seg",
+        "kilde": "CNBC Top News",
+        "tid": "00:11",
+        "lenke": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Mini.nvim er nå på Tangled",
+        "kilde": "Hacker News",
+        "tid": "23:55",
+        "lenke": "https://tangled.org/nvim-mini.org/mini.nvim",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "«Det gir meg en bitter smak i munnen»: Min eldre mor ga søskenbarnet vårt 800 dollar til bilreparasjon. Bør jeg være bekymret?",
+        "kilde": "MarketWatch",
+        "tid": "23:30",
+        "lenke": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bevaring av 30 år med Salon-journalistikk",
+        "kilde": "Hacker News",
+        "tid": "23:00",
+        "lenke": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bør en enke la sin avdøde partners hjem gå til stebarna – eller avbryte kontakten med dem?",
+        "kilde": "MarketWatch",
+        "tid": "23:00",
+        "lenke": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Show HN: The Last Complication, et puslespill om urmakerkunst i Zachtronics-stil",
+        "kilde": "Hacker News",
+        "tid": "22:48",
+        "lenke": "https://lastcomplication.com/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "«Vi sov her»: Flyforsinkelser vedvarer, men ruteplanen er tilbake på sporet mandag",
+        "kilde": "CNBC Top News",
+        "tid": "22:33",
+        "lenke": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kutt i trygdeavgiften for personer under 25 år for å skape arbeidsplasser, ifølge Milburn-rapporten",
+        "kilde": "BBC Business",
+        "tid": "22:30",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Min eldre bror, som ikke har barn, har utelatt vår eneste søster fra testamentet sitt. Jeg får alt. Skal jeg fortelle henne det?",
+        "kilde": "MarketWatch",
+        "tid": "22:15",
+        "lenke": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Gamle Bitly-lenker blir kapret",
+        "kilde": "Hacker News",
+        "tid": "22:11",
+        "lenke": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nå kommer «MGP» for KI-musikk: – Ingen hører forskjell",
+        "kilde": "NRK Nyheter",
+        "tid": "21:16",
+        "lenke": "https://www.nrk.no/ostfold/arrangerer-forste-_melodi-grand-prix_-for-ki-musikk-1.18075971",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Jeg arvet 1,4 millioner dollar fra faren min. Tar jeg feil når jeg ber mannen min, som jeg har vært gift med i 25 år, om en ekteskapsavtale?",
+        "kilde": "MarketWatch",
+        "tid": "20:30",
+        "lenke": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Wallmanns-sjefen strammer inn før julebord­sesongen",
+        "kilde": "E24",
+        "tid": "20:00",
+        "lenke": "https://e24.no/naeringsliv/i/r8Lkn8/wallmanns-sjefen-strammer-inn-foer-julebordsesongen?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "«Han kaller planene mine for en fantasi»: Mannen min sier at vi ikke har råd til en pensjon på 200 000 dollar i året. Er han gjerrig?",
+        "kilde": "MarketWatch",
+        "tid": "20:00",
+        "lenke": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "NRK: Tidligere Statoil-topp Ole Lund er død",
+        "kilde": "E24",
+        "tid": "19:39",
+        "lenke": "https://e24.no/boers-og-finans/i/wdE1yA/nrk-tidligere-statoil-topp-ole-lund-er-doed?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Gliste etter stikk frå kometen: – Har han ikkje alltid vore sånn då?",
+        "kilde": "NRK Nyheter",
+        "tid": "19:08",
+        "lenke": "https://www.nrk.no/sport/hedegart-og-botn-med-stikk-til-kvarandre-etter-skiskyttarstarten-1.18082302",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "DOT-sekretær Duffy knytter en ruter i det sørlige Arkansas til problemene som førte til en landsdekkende stans av flyavganger",
+        "kilde": "CNBC Top News",
+        "tid": "18:15",
+        "lenke": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fugleinfluensa påvist i Rogaland og Agder",
+        "kilde": "NRK Nyheter",
+        "tid": "17:42",
+        "lenke": "https://www.nrk.no/nyheter/fugleinfluensa-pavist-i-rogaland-og-agder-1.18082377",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Retur for Rubiks kube",
+        "kilde": "E24",
+        "tid": "16:56",
+        "lenke": "https://e24.no/naeringsliv/i/8Gy0jE/retur-for-rubiks-kube?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Denne russeren melder seg klar overfor NRK: – Skal gå på Beitostølen",
+        "kilde": "NRK Nyheter",
+        "tid": "16:50",
+        "lenke": "https://www.nrk.no/sport/russer-vil-delta-i-langrennsapningen-pa-beitostolen-1.18082199",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Loven hindrer Mai-Liss i å dra på tur: – En form for diskriminering",
+        "kilde": "NRK Nyheter",
+        "tid": "16:25",
+        "lenke": "https://www.nrk.no/nordland/mai-liss-ma-fore-kjorebok-nar-hun-skal-pa-tur_-snart-blir-loven-endret-1.18078507",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "«Vi hadde den verste krangelen»: Jeg vil at mannen min skal pensjonere seg når han er 65, men jeg vil ikke miste lønnen hans på 280 000 dollar. Er det urimelig?",
+        "kilde": "MarketWatch",
+        "tid": "16:00",
+        "lenke": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Løpekometen kalles en pioner i KI-bruk – eksperter advarer",
+        "kilde": "NRK Nyheter",
+        "tid": "15:29",
+        "lenke": "https://www.nrk.no/sport/lopekometen-hakon-moe-berg-lar-ki-styre-hverdagen-_-ernaeringsekspert-advarer-1.18075875",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Slår tilbake mot dagligvaregigantene",
+        "kilde": "E24",
+        "tid": "15:24",
+        "lenke": "https://e24.no/naeringsliv/i/lM1BVk/slaar-tilbake-mot-dagligvaregigantene?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Estland stenger grensen mot Russland",
+        "kilde": "NRK Nyheter",
+        "tid": "15:15",
+        "lenke": "https://www.nrk.no/nyheter/estland-stenger-grensen-mot-russland-1.18082258",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Folketrygden og den blå bølgen: Hva kan skje med lønnsskatt og skattelettelser for eldre",
+        "kilde": "CNBC Top News",
+        "tid": "14:30",
+        "lenke": "https://www.cnbc.com/2026/11/15/social-security-tax-changes-midterm-election.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Minister støtter lovfestet rett til jobbstøtte for unge mennesker",
+        "kilde": "BBC Business",
+        "tid": "13:06",
+        "lenke": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Administrerende direktører i Rivian, Lucid og Scout regner ikke med at demokratene skal gjenopprette føderal støtte til elbiler etter mellomvalgsseirene",
+        "kilde": "CNBC Top News",
+        "tid": "13:00",
+        "lenke": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Daniel (49) vandrer gjennom natta når han ikke har et sted å sove",
+        "kilde": "NRK Nyheter",
+        "tid": "12:46",
+        "lenke": "https://www.nrk.no/nordland/xl/daniel-_49_-vandrer-gjennom-natta-nar-han-ikke-har-et-sted-a-sove-1.18079168",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "VIP-bilenes drosjekrav: – Uakseptabelt",
+        "kilde": "E24",
+        "tid": "12:32",
+        "lenke": "https://e24.no/naeringsliv/i/Qrlp7R/vip-bilenes-drosjekrav-uakseptabelt?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vil du ha betalt for å spille GTA?",
+        "kilde": "E24",
+        "tid": "11:14",
+        "lenke": "https://e24.no/internasjonal-oekonomi/i/kMJwBX/vil-du-ha-betalt-for-aa-spille-gta?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Mektige menn felt av sine affærer",
+        "kilde": "E24",
+        "tid": "09:17",
+        "lenke": "https://e24.no/boers-og-finans/i/vkmE9V/mektige-menn-felt-av-sine-affaerer?utm_medium=rss",
+        "engelsk_kilde": false
+      }
+    ]
+  }
+}

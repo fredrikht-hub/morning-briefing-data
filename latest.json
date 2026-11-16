@@ -1,9 +1,30 @@
 {
-  "dato": "2026-11-15",
-  "dato_norsk": "Søndag 15. november 2026",
-  "generert_kl": "21:22",
+  "dato": "2026-11-16",
+  "dato_norsk": "Mandag 16. november 2026",
+  "generert_kl": "00:52",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
+    {
+      "tittel": "Mistenkt kinesisk spion med tilknytning til Nvidias tidligere sjef sluttet i 2025, sier Megaspeed",
+      "kilde": "BBC Business",
+      "tid": "22:24",
+      "lenke": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Jensen Huang kan komme tilbake til Nvidia som administrerende direktør",
+      "kilde": "Hacker News",
+      "tid": "23:24",
+      "lenke": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Bessent krever «dramatisk omveltning» hos Nvidia og oppfordrer til en ekstern administrerende direktør",
+      "kilde": "CNBC Top News",
+      "tid": "18:10",
+      "lenke": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
+      "engelsk_kilde": true
+    },
     {
       "tittel": "Bessent: Nvidia trenger «dramatisk utskiftning»",
       "kilde": "E24",
@@ -12,36 +33,22 @@
       "engelsk_kilde": false
     },
     {
-      "tittel": "Jensen Huang diskuterer comeback som administrerende direktør i Nvidia med allierte",
-      "kilde": "Hacker News",
-      "tid": "19:31",
-      "lenke": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Slår representantenes aksjehandler markedet? En test av 8 900 handler",
-      "kilde": "Hacker News",
-      "tid": "19:46",
-      "lenke": "https://arkanumdata.com/research/house-trades",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Bessent krever «dramatisk omveltning» hos Nvidia og oppfordrer til å ansette en ekstern administrerende direktør",
-      "kilde": "CNBC Top News",
-      "tid": "18:10",
-      "lenke": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Mistenkt kinesisk spion med tilknytning til Nvidias tidligere sjef forlot selskapet i 2025, sier Megaspeed",
+      "tittel": "Storbritannia får «stemme», men ingen stemmerett når det gjelder EUs matregler i Brexit-omleggingen",
       "kilde": "BBC Business",
-      "tid": "14:56",
-      "lenke": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "tid": "22:00",
+      "lenke": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "MAKRO": [
+      {
+        "tittel": "Lavprisflyselskapene blir mer eksklusive med førsteklasses seter og raskere wifi",
+        "kilde": "MarketWatch",
+        "tid": "21:31",
+        "lenke": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Bessent: Nvidia trenger «dramatisk utskiftning»",
         "kilde": "E24",
@@ -50,7 +57,7 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Bessent krever «dramatisk omveltning» hos Nvidia og oppfordrer til å ansette en ekstern administrerende direktør",
+        "tittel": "Bessent krever «dramatisk omveltning» hos Nvidia og oppfordrer til en ekstern administrerende direktør",
         "kilde": "CNBC Top News",
         "tid": "18:10",
         "lenke": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
@@ -59,28 +66,21 @@
     ],
     "MARKEDER": [
       {
-        "tittel": "Slår representantenes aksjehandler markedet? En test av 8 900 handler",
-        "kilde": "Hacker News",
-        "tid": "19:46",
-        "lenke": "https://arkanumdata.com/research/house-trades",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kinas mest populære aksjer for tiden har én ting til felles: navn som høres ut som sauer",
+        "tittel": "Nvidia forbereder seg på en av Wall Streets mest etterlengtede resultatrapporteringer på mange år",
         "kilde": "MarketWatch",
-        "tid": "15:22",
-        "lenke": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nvidia forbereder seg på en av Wall Streets mest etterlengtede resultatrapporteringer på flere år",
-        "kilde": "MarketWatch",
-        "tid": "15:00",
+        "tid": "21:32",
         "lenke": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "De fremste analytikerne på Wall Street er optimistiske når det gjelder disse tre aksjene på lang sikt",
+        "tittel": "Tre viktige ting vi følger med på i aksjemarkedet den kommende uken",
+        "kilde": "CNBC Top News",
+        "tid": "15:26",
+        "lenke": "https://www.cnbc.com/investingclub/2026/11/15/3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "De fremste Wall Street-analytikerne er optimistiske når det gjelder disse tre aksjene på lang sikt",
         "kilde": "CNBC Top News",
         "tid": "12:49",
         "lenke": "https://www.cnbc.com/2026/11/15/top-wall-street-analysts-are-bullish-on-these-3-stocks-for-the-long-term.html",
@@ -103,10 +103,17 @@
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Jensen Huang diskuterer comeback som administrerende direktør i Nvidia med allierte",
+        "tittel": "Jensen Huang kan komme tilbake til Nvidia som administrerende direktør",
         "kilde": "Hacker News",
-        "tid": "19:31",
-        "lenke": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1",
+        "tid": "23:24",
+        "lenke": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Mistenkt kinesisk spion med tilknytning til Nvidias tidligere sjef sluttet i 2025, sier Megaspeed",
+        "kilde": "BBC Business",
+        "tid": "22:24",
+        "lenke": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
@@ -115,23 +122,16 @@
         "tid": "18:06",
         "lenke": "https://e24.no/boers-og-finans/i/xJPRRV/nvidia-tall-verdens-viktigste?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Mistenkt kinesisk spion med tilknytning til Nvidias tidligere sjef forlot selskapet i 2025, sier Megaspeed",
-        "kilde": "BBC Business",
-        "tid": "14:56",
-        "lenke": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "SpaceX fanger opp øverste trinn av Starship-raketten i et historisk førstegangstilfelle",
-        "kilde": "CNBC Top News",
-        "tid": "23:10",
-        "lenke": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
-        "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
+      {
+        "tittel": "Storbritannia får «stemme», men ingen stemmerett når det gjelder EUs matregler i Brexit-omleggingen",
+        "kilde": "BBC Business",
+        "tid": "22:00",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Trump bryter tausheten om FAAs landsdekkende flystopp og gir Biden-administrasjonen skylden",
         "kilde": "CNBC Top News",
@@ -142,6 +142,83 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "Black Friday- og skattemeldingssvindel – ikke la deg lure av disse",
+        "kilde": "BBC Business",
+        "tid": "00:50",
+        "lenke": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Japans økonomi krymper uventet i tredje kvartal ettersom de høye energikostnadene biter fra seg",
+        "kilde": "CNBC Top News",
+        "tid": "00:11",
+        "lenke": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Mini.nvim er nå på Tangled",
+        "kilde": "Hacker News",
+        "tid": "23:55",
+        "lenke": "https://tangled.org/nvim-mini.org/mini.nvim",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "«Det gir meg en bitter smak i munnen»: Min eldre mor ga søskenbarnet vårt 800 dollar til bilreparasjon. Bør jeg være bekymret?",
+        "kilde": "MarketWatch",
+        "tid": "23:30",
+        "lenke": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bevaring av 30 år med Salon-journalistikk",
+        "kilde": "Hacker News",
+        "tid": "23:00",
+        "lenke": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bør en enke la sin avdøde partners hjem gå til stebarna – eller avbryte kontakten med dem?",
+        "kilde": "MarketWatch",
+        "tid": "23:00",
+        "lenke": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Show HN: The Last Complication, et puslespill om urmakerkunst i Zachtronics-stil",
+        "kilde": "Hacker News",
+        "tid": "22:48",
+        "lenke": "https://lastcomplication.com/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "«Vi sov her»: Flyforsinkelser vedvarer, men ruteplanen er tilbake på sporet mandag",
+        "kilde": "CNBC Top News",
+        "tid": "22:33",
+        "lenke": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kutt i trygdeavgiften for personer under 25 år for å skape arbeidsplasser, ifølge Milburn-rapporten",
+        "kilde": "BBC Business",
+        "tid": "22:30",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Min eldre bror, som ikke har barn, har utelatt vår eneste søster fra testamentet sitt. Jeg får alt. Skal jeg fortelle henne det?",
+        "kilde": "MarketWatch",
+        "tid": "22:15",
+        "lenke": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Gamle Bitly-lenker blir kapret",
+        "kilde": "Hacker News",
+        "tid": "22:11",
+        "lenke": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Nå kommer «MGP» for KI-musikk: – Ingen hører forskjell",
         "kilde": "NRK Nyheter",
         "tid": "21:16",
@@ -149,17 +226,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Jeg arvet 1,4 millioner dollar fra faren min. Tar jeg feil når jeg ber mannen min, som jeg har vært gift med i 25 år, om en ektepakt?",
+        "tittel": "Jeg arvet 1,4 millioner dollar fra faren min. Tar jeg feil når jeg ber mannen min, som jeg har vært gift med i 25 år, om en ekteskapsavtale?",
         "kilde": "MarketWatch",
         "tid": "20:30",
         "lenke": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "«Det gir meg en bitter smak i munnen»: Min eldre mor ga søskenbarnet vårt 800 dollar til bilreparasjon. Bør jeg være bekymret?",
-        "kilde": "MarketWatch",
-        "tid": "20:01",
-        "lenke": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -177,13 +247,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Foreldre betaler 75 000 $ for Alphas AI-skole. Halvparten av elevene nådde ikke målet i matematikk",
-        "kilde": "Hacker News",
-        "tid": "19:39",
-        "lenke": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "NRK: Tidligere Statoil-topp Ole Lund er død",
         "kilde": "E24",
         "tid": "19:39",
@@ -191,32 +254,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Protomaps: Det har blitt billig og enkelt å selvhoste kartfliser",
-        "kilde": "Hacker News",
-        "tid": "19:26",
-        "lenke": "https://bruceroettgers.eu/blog/protomaps/",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Gliste etter stikk frå kometen: – Har han ikkje alltid vore sånn då?",
         "kilde": "NRK Nyheter",
         "tid": "19:08",
         "lenke": "https://www.nrk.no/sport/hedegart-og-botn-med-stikk-til-kvarandre-etter-skiskyttarstarten-1.18082302",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Eclipse Mosquitto – En MQTT-broker med åpen kildekode",
-        "kilde": "Hacker News",
-        "tid": "18:36",
-        "lenke": "https://github.com/eclipse-mosquitto/mosquitto",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "«Vi sov her»: Flyforsinkelser vedvarer, men ruteplanen er tilbake på sporet mandag",
-        "kilde": "CNBC Top News",
-        "tid": "18:22",
-        "lenke": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "DOT-sekretær Duffy knytter en ruter i det sørlige Arkansas til problemene som førte til en landsdekkende stans av flyavganger",
@@ -282,24 +324,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "«Jeg er lei av å fly»: Jeg betalte for prioritert ombordstigning, men bagasjehyllene var fulle. Ble jeg lurt?",
-        "kilde": "MarketWatch",
-        "tid": "15:00",
-        "lenke": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Folketrygden og den blå bølgen: Hva kan skje med lønnsskatt og skattelettelser for eldre",
         "kilde": "CNBC Top News",
         "tid": "14:30",
         "lenke": "https://www.cnbc.com/2026/11/15/social-security-tax-changes-midterm-election.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "«Tanken på å leve til jeg er 100 år skremmer meg»: Er trygdesystemet et gigantisk pyramidespill?",
-        "kilde": "MarketWatch",
-        "tid": "14:00",
-        "lenke": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -310,7 +338,7 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Administrerende direktører i Rivian, Lucid og Scout regner ikke med at demokratene vil gjenopprette føderal støtte til elbiler etter seirene i mellomvalget",
+        "tittel": "Administrerende direktører i Rivian, Lucid og Scout regner ikke med at demokratene skal gjenopprette føderal støtte til elbiler etter mellomvalgsseirene",
         "kilde": "CNBC Top News",
         "tid": "13:00",
         "lenke": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
@@ -343,20 +371,6 @@
         "tid": "09:17",
         "lenke": "https://e24.no/boers-og-finans/i/vkmE9V/mektige-menn-felt-av-sine-affaerer?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Skjønnhetsadventskalendere kan koste hundrevis, men gir de valuta for pengene?",
-        "kilde": "BBC Business",
-        "tid": "00:01",
-        "lenke": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Van Gogh-maleri til 180 millioner dollar tester kunstmarkedet og samlernes tillit",
-        "kilde": "CNBC Top News",
-        "tid": "22:34",
-        "lenke": "https://www.cnbc.com/2026/11/14/180-million-van-gogh-tests-the-art-market-and-collector-confidence-.html",
-        "engelsk_kilde": true
       }
     ]
   }
