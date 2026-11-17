@@ -1,9 +1,16 @@
 {
   "dato": "2026-11-17",
   "dato_norsk": "Tirsdag 17. november 2026",
-  "generert_kl": "00:31",
+  "generert_kl": "03:32",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
+    {
+      "tittel": "Nvidia avviser «Bring Jensen Back»-kampanjen, mens Trump støtter innsatsen for å gjeninnsette den tidligere administrerende direktøren",
+      "kilde": "BBC Business",
+      "tid": "02:37",
+      "lenke": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "engelsk_kilde": true
+    },
     {
       "tittel": "Trumps kontoer handlet for opptil 97,5 millioner USD i Nvidia da Huang fikk tilgang til Det hvite hus",
       "kilde": "CNBC Top News",
@@ -12,31 +19,24 @@
       "engelsk_kilde": true
     },
     {
-      "tittel": "Nvidia avviser «Bring Jensen Back»-kampanjen, mens Trump støtter innsatsen for å gjeninnsette den tidligere administrerende direktøren",
-      "kilde": "BBC Business",
-      "tid": "22:21",
-      "lenke": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "tittel": "Claude Mythos reduserte programvarearbeidet med å integrere AMD-grafikkort til rundt tre dager",
+      "kilde": "Hacker News",
+      "tid": "01:35",
+      "lenke": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
       "engelsk_kilde": true
     },
     {
-      "tittel": "CNBCs nyhetsbrev The China Connection: Mens Nike og Lululemon sliter i Kina, hjelper Xiaohongshu lokale merkevarer med å ta av",
+      "tittel": "CNBCs nyhetsbrev The China Connection: Mens Nike og Lululemon sliter i Kina, hjelper Xiaohongshu lokale merker med å ta av",
       "kilde": "CNBC Top News",
       "tid": "23:00",
       "lenke": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Den amerikanske dollarens AI-drevne brudd kan bli en ødeleggende faktor for aksjemarkedet",
-      "kilde": "MarketWatch",
-      "tid": "22:46",
-      "lenke": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Berkshire økte innsatsen på et presset boligmarked i USA, samtidig som de ble mer skeptiske til disse bankaksjene",
-      "kilde": "MarketWatch",
-      "tid": "22:33",
-      "lenke": "https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories",
+      "tittel": "Oppstartsbedriften for robotsoldater, som støttes av Eric Trump, kan ikke betale de ansatte etter at grunnleggeren lånte 4,6 millioner dollar fra selskapet for å kjøpe hus",
+      "kilde": "CNBC Top News",
+      "tid": "17:14",
+      "lenke": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
       "engelsk_kilde": true
     }
   ],
@@ -59,17 +59,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Berkshire økte innsatsen på et presset boligmarked i USA, samtidig som de ble mer skeptiske til disse bankaksjene",
+        "tittel": "Berkshire økte innsatsen sin på et presset boligmarked i USA, samtidig som de ble mer negative til disse bankaksjene",
         "kilde": "MarketWatch",
         "tid": "22:33",
         "lenke": "https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "FDA avslo å godkjenne et av bioteknologibransjens mest omtalte kreftmedisiner. Selskapets aksje falt kraftig.",
-        "kilde": "MarketWatch",
-        "tid": "22:21",
-        "lenke": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -87,16 +80,21 @@
         "engelsk_kilde": false
       }
     ],
-    "ENERGI_RAAVARER": [
-      {
-        "tittel": "USAs råolje faller til 85 dollar fatet på grunn av gjenoppretting av eksporten fra Midtøsten",
-        "kilde": "CNBC Top News",
-        "tid": "22:19",
-        "lenke": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-        "engelsk_kilde": true
-      }
-    ],
     "TEKNOLOGI": [
+      {
+        "tittel": "Nvidia avviser «Bring Jensen Back»-kampanjen, mens Trump støtter innsatsen for å gjeninnsette den tidligere administrerende direktøren",
+        "kilde": "BBC Business",
+        "tid": "02:37",
+        "lenke": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Claude Mythos reduserte programvarearbeidet med å integrere AMD-grafikkort til rundt tre dager",
+        "kilde": "Hacker News",
+        "tid": "01:35",
+        "lenke": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Stanley Druckenmiller solgte seg ut av disse chipaksjene og kjøpte seg inn i SpaceX og Palantir",
         "kilde": "MarketWatch",
@@ -119,13 +117,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nvidia avviser «Bring Jensen Back»-kampanjen, mens Trump støtter innsatsen for å gjeninnsette den tidligere administrerende direktøren",
-        "kilde": "BBC Business",
-        "tid": "22:21",
-        "lenke": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "JPMorgan Chase sier at en midlertidig programvarefeil påvirker forbrukerbankvirksomheten",
         "kilde": "CNBC Top News",
         "tid": "22:14",
@@ -140,7 +131,7 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Oppstartsbedriften for robotsoldater, støttet av Eric Trump, kan ikke betale de ansatte etter at grunnleggeren lånte 4,6 millioner dollar fra selskapet for å kjøpe hus",
+        "tittel": "Oppstartsbedriften for robotsoldater, som støttes av Eric Trump, kan ikke betale de ansatte etter at grunnleggeren lånte 4,6 millioner dollar fra selskapet for å kjøpe hus",
         "kilde": "CNBC Top News",
         "tid": "17:14",
         "lenke": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
@@ -156,7 +147,7 @@
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "CNBCs nyhetsbrev The China Connection: Mens Nike og Lululemon sliter i Kina, hjelper Xiaohongshu lokale merkevarer med å ta av",
+        "tittel": "CNBCs nyhetsbrev The China Connection: Mens Nike og Lululemon sliter i Kina, hjelper Xiaohongshu lokale merker med å ta av",
         "kilde": "CNBC Top News",
         "tid": "23:00",
         "lenke": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html",
@@ -178,6 +169,48 @@
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "Jeg er i 40-årene. Bør jeg godta en lavere pensjon i bytte mot å oppgi mannen min eller barnet mitt som begunstiget?",
+        "kilde": "MarketWatch",
+        "tid": "02:30",
+        "lenke": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvis en app ber om full tilgang til disken eller om å overstyre system- og appbeskyttelse",
+        "kilde": "Hacker News",
+        "tid": "02:17",
+        "lenke": "https://support.apple.com/en-us/149699",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Mem legges ned",
+        "kilde": "Hacker News",
+        "tid": "02:13",
+        "lenke": "https://get.mem.ai/blog/mem-is-shutting-down",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vis HN: Et gratis interaktivt kurs om styring av AI-agenter",
+        "kilde": "Hacker News",
+        "tid": "02:12",
+        "lenke": "https://studio.sinapsdata.com.br",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kjøre kodingsagenter uten å gi dem påloggingsinformasjonen min",
+        "kilde": "Hacker News",
+        "tid": "01:18",
+        "lenke": "https://blog.antonio.cx/running-agents-with-lend",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Analyse: Sjefen for den amerikanske sentralbanken ser en AI-revolusjon komme. Nå må han finne ut hva det betyr",
+        "kilde": "CNBC Top News",
+        "tid": "00:42",
+        "lenke": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Kunder rapporterer om tjenesteavbrudd hos store amerikanske banker",
         "kilde": "BBC Business",
@@ -214,13 +247,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Vis HN: Sutra-OS – En selvhostet ontologiplattform",
-        "kilde": "Hacker News",
-        "tid": "23:25",
-        "lenke": "https://github.com/0nelight/sutra-os",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Russisk leder: Bro til Krym angrepet",
         "kilde": "NRK Nyheter",
         "tid": "23:20",
@@ -242,35 +268,14 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Optimizely kompromittert, distribuerte skadevare på Zoom, GitLab",
-        "kilde": "Hacker News",
-        "tid": "23:00",
-        "lenke": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Mannen min er lykkelig pensjonert som 64-åring og mener at jeg bør fortsette å jobbe. Er han rettferdig?",
+        "tittel": "Mannen min er lykkelig pensjonist som 64-åring og mener at jeg bør fortsette å jobbe. Er han rettferdig?",
         "kilde": "MarketWatch",
         "tid": "23:00",
         "lenke": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Windows 11 samler inn data om hvilke kodingsagenter og utviklerverktøy du bruker",
-        "kilde": "Hacker News",
-        "tid": "22:58",
-        "lenke": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "USA vil si «nei» til et globalt forbud mot drapsroboter",
-        "kilde": "Hacker News",
-        "tid": "22:57",
-        "lenke": "https://www.newsweek.com/us-expected-to-block-killer-robot-treaty-talks-12722369",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "«Fullstendig systemtilbakestilling» er nødvendig for å få 440 000 unge i arbeid, sier en omfattende gjennomgang",
+        "tittel": "«Fullstendig systemtilbakestilling» er nødvendig for å få 440 000 unge mennesker i arbeid, sier en omfattende gjennomgang",
         "kilde": "BBC Business",
         "tid": "22:32",
         "lenke": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
@@ -281,13 +286,6 @@
         "kilde": "MarketWatch",
         "tid": "22:30",
         "lenke": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Slik bryter du deg inn i sikkerhet, Ptacek-utgaven (2012)",
-        "kilde": "Hacker News",
-        "tid": "22:19",
-        "lenke": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
         "engelsk_kilde": true
       },
       {
@@ -347,7 +345,7 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Warren Buffett donerer 5,5 milliarder USD og sier at vennlighet «forrentes» i et brev i anledning Thanksgiving",
+        "tittel": "Warren Buffett donerer 5,5 milliarder dollar og sier at vennlighet «forrentes» i et brev i anledning Thanksgiving",
         "kilde": "CNBC Top News",
         "tid": "17:39",
         "lenke": "https://www.cnbc.com/2026/11/16/warren-buffett-donates-5point5-billion-thanksgiving.html",
