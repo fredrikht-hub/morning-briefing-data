@@ -1,7 +1,7 @@
 {
-  "dato": "2026-11-16",
-  "dato_norsk": "Mandag 16. november 2026",
-  "generert_kl": "22:45",
+  "dato": "2026-11-17",
+  "dato_norsk": "Tirsdag 17. november 2026",
+  "generert_kl": "00:31",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
@@ -19,21 +19,21 @@
       "engelsk_kilde": true
     },
     {
-      "tittel": "Nvidias aksje fortsetter nedgangen etter skarpe uttalelser fra den amerikanske regjeringen",
-      "kilde": "MarketWatch",
-      "tid": "21:53",
-      "lenke": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Kalshi planlegger å lansere aksjehandel snart",
+      "tittel": "CNBCs nyhetsbrev The China Connection: Mens Nike og Lululemon sliter i Kina, hjelper Xiaohongshu lokale merkevarer med å ta av",
       "kilde": "CNBC Top News",
-      "tid": "21:23",
-      "lenke": "https://www.cnbc.com/2026/11/16/kalshi-plans-to-launch-stock-trading-soon.html",
+      "tid": "23:00",
+      "lenke": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Berkshire økte innsatsen på et presset boligmarked i USA, samtidig som de mistet troen på disse bankaksjene",
+      "tittel": "Den amerikanske dollarens AI-drevne brudd kan bli en ødeleggende faktor for aksjemarkedet",
+      "kilde": "MarketWatch",
+      "tid": "22:46",
+      "lenke": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Berkshire økte innsatsen på et presset boligmarked i USA, samtidig som de ble mer skeptiske til disse bankaksjene",
       "kilde": "MarketWatch",
       "tid": "22:33",
       "lenke": "https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories",
@@ -52,7 +52,14 @@
     ],
     "MARKEDER": [
       {
-        "tittel": "Berkshire økte innsatsen på et presset boligmarked i USA, samtidig som de mistet troen på disse bankaksjene",
+        "tittel": "Den amerikanske dollarens AI-drevne brudd kan bli en ødeleggende faktor for aksjemarkedet",
+        "kilde": "MarketWatch",
+        "tid": "22:46",
+        "lenke": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Berkshire økte innsatsen på et presset boligmarked i USA, samtidig som de ble mer skeptiske til disse bankaksjene",
         "kilde": "MarketWatch",
         "tid": "22:33",
         "lenke": "https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories",
@@ -82,7 +89,7 @@
     ],
     "ENERGI_RAAVARER": [
       {
-        "tittel": "USAs råolje faller til 85 dollar fatet på grunn av gjenopprettede eksportvolumer fra Midtøsten",
+        "tittel": "USAs råolje faller til 85 dollar fatet på grunn av gjenoppretting av eksporten fra Midtøsten",
         "kilde": "CNBC Top News",
         "tid": "22:19",
         "lenke": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
@@ -90,6 +97,27 @@
       }
     ],
     "TEKNOLOGI": [
+      {
+        "tittel": "Stanley Druckenmiller solgte seg ut av disse chipaksjene og kjøpte seg inn i SpaceX og Palantir",
+        "kilde": "MarketWatch",
+        "tid": "23:28",
+        "lenke": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "California saksøker OpenAI for Hugging Face-angrepet",
+        "kilde": "BBC Business",
+        "tid": "23:12",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Sparer du virkelig penger på Amazons Black Friday-tilbud? En ny rapport sår tvil.",
+        "kilde": "MarketWatch",
+        "tid": "23:04",
+        "lenke": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Nvidia avviser «Bring Jensen Back»-kampanjen, mens Trump støtter innsatsen for å gjeninnsette den tidligere administrerende direktøren",
         "kilde": "BBC Business",
@@ -105,27 +133,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "California saksøker OpenAI på grunn av Hugging Face og tap av kontroll over andre AI-modeller",
-        "kilde": "CNBC Top News",
-        "tid": "22:11",
-        "lenke": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nvidias aksje fortsetter nedgangen etter skarpe uttalelser fra den amerikanske regjeringen",
-        "kilde": "MarketWatch",
-        "tid": "21:53",
-        "lenke": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Chase sier at en «programvarefeil» kan være årsaken til forstyrrelser i store amerikanske banker",
-        "kilde": "MarketWatch",
-        "tid": "21:49",
-        "lenke": "https://www.marketwatch.com/story/customers-of-chase-bank-of-america-and-other-u-s-banks-report-service-outages-18fe23b8?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Småaksjonær om Nvidia-fallet: – Man blir litt irritert",
         "kilde": "E24",
         "tid": "19:12",
@@ -133,7 +140,7 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Oppstartsbedriften for robotsoldater støttet av Eric Trump kan ikke betale de ansatte etter at grunnleggeren lånte 4,6 millioner dollar fra selskapet for å kjøpe hus",
+        "tittel": "Oppstartsbedriften for robotsoldater, støttet av Eric Trump, kan ikke betale de ansatte etter at grunnleggeren lånte 4,6 millioner dollar fra selskapet for å kjøpe hus",
         "kilde": "CNBC Top News",
         "tid": "17:14",
         "lenke": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
@@ -145,23 +152,16 @@
         "tid": "16:30",
         "lenke": "https://e24.no/boers-og-finans/i/ez8z0O/nvidia-skandalens-laerdom?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Intel saksøkt av investorer etter at nedgangen i PC-salget rammet aksjekursen",
-        "kilde": "BBC Business",
-        "tid": "03:04",
-        "lenke": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Mistenkt kinesisk spion med tilknytning til Nvidias tidligere sjef forlot selskapet i 2025, sier Megaspeed",
-        "kilde": "BBC Business",
-        "tid": "01:47",
-        "lenke": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
+      {
+        "tittel": "CNBCs nyhetsbrev The China Connection: Mens Nike og Lululemon sliter i Kina, hjelper Xiaohongshu lokale merkevarer med å ta av",
+        "kilde": "CNBC Top News",
+        "tid": "23:00",
+        "lenke": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Trumps kontoer handlet for opptil 97,5 millioner USD i Nvidia da Huang fikk tilgang til Det hvite hus",
         "kilde": "CNBC Top News",
@@ -170,7 +170,7 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Faisal Islam: Hva innebærer den nye Brexit-avtalen om matvarer, og finnes det kompromisser?",
+        "tittel": "Faisal Islam: Hva innebærer den nye Brexit-avtalen om matvarer, og er det noen kompromisser?",
         "kilde": "BBC Business",
         "tid": "15:40",
         "lenke": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
@@ -179,10 +179,101 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "United Airlines rapporterer om systemavbrudd som påvirker avgående flyreiser",
+        "tittel": "Kunder rapporterer om tjenesteavbrudd hos store amerikanske banker",
+        "kilde": "BBC Business",
+        "tid": "00:18",
+        "lenke": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "United Airlines løser systemsvikt som påvirket avgående flyreiser",
         "kilde": "CNBC Top News",
-        "tid": "22:42",
+        "tid": "00:00",
         "lenke": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Er du mellom 16 og 24 år og på utkikk etter jobb? Bruk oppslagsfunksjonen vår for å finne ut hvilke områder som har flest jobber",
+        "kilde": "BBC Business",
+        "tid": "00:00",
+        "lenke": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vi hadde ikke råd til et hus alene, så vi kjøpte et sammen med fremmede",
+        "kilde": "BBC Business",
+        "tid": "00:00",
+        "lenke": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "United Airlines løser systemsvikt som forsinket flyvninger mandag",
+        "kilde": "MarketWatch",
+        "tid": "23:42",
+        "lenke": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vis HN: Sutra-OS – En selvhostet ontologiplattform",
+        "kilde": "Hacker News",
+        "tid": "23:25",
+        "lenke": "https://github.com/0nelight/sutra-os",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Russisk leder: Bro til Krym angrepet",
+        "kilde": "NRK Nyheter",
+        "tid": "23:20",
+        "lenke": "https://www.nrk.no/nyheter/russisk-leder_-bro-til-krym-angrepet-1.18083128",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Aschenbrenners Situational Awareness satset på KI igjen før nedturen i oktober",
+        "kilde": "CNBC Top News",
+        "tid": "23:05",
+        "lenke": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Berkshire Hathaway økte sin eierandel i Delta i tredje kvartal. Selskapet reduserte også en viktig bankbeholdning",
+        "kilde": "CNBC Top News",
+        "tid": "23:01",
+        "lenke": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Optimizely kompromittert, distribuerte skadevare på Zoom, GitLab",
+        "kilde": "Hacker News",
+        "tid": "23:00",
+        "lenke": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Mannen min er lykkelig pensjonert som 64-åring og mener at jeg bør fortsette å jobbe. Er han rettferdig?",
+        "kilde": "MarketWatch",
+        "tid": "23:00",
+        "lenke": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Windows 11 samler inn data om hvilke kodingsagenter og utviklerverktøy du bruker",
+        "kilde": "Hacker News",
+        "tid": "22:58",
+        "lenke": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "USA vil si «nei» til et globalt forbud mot drapsroboter",
+        "kilde": "Hacker News",
+        "tid": "22:57",
+        "lenke": "https://www.newsweek.com/us-expected-to-block-killer-robot-treaty-talks-12722369",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "«Fullstendig systemtilbakestilling» er nødvendig for å få 440 000 unge i arbeid, sier en omfattende gjennomgang",
+        "kilde": "BBC Business",
+        "tid": "22:32",
+        "lenke": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
@@ -193,66 +284,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Berkshire Hathaway økte sin eierandel i Delta i tredje kvartal. Selskapet reduserte også en viktig bankbeholdning",
-        "kilde": "CNBC Top News",
-        "tid": "22:22",
-        "lenke": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "United Airlines har et omfattende systemsvikt",
-        "kilde": "Hacker News",
-        "tid": "22:22",
-        "lenke": "https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Slik bryter du deg inn i sikkerhet, Ptacek-utgaven",
+        "tittel": "Slik bryter du deg inn i sikkerhet, Ptacek-utgaven (2012)",
         "kilde": "Hacker News",
         "tid": "22:19",
         "lenke": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Omfattende systemsvikt hos United Airlines",
-        "kilde": "Hacker News",
-        "tid": "22:14",
-        "lenke": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "«Det gir meg en bitter smak i munnen»: Min eldre mor ga søskenbarnet vårt 800 dollar til bilreparasjon. Bør jeg være bekymret?",
-        "kilde": "MarketWatch",
-        "tid": "22:08",
-        "lenke": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Spamhaus' nye krav til e-postavsendere i november",
-        "kilde": "Hacker News",
-        "tid": "21:47",
-        "lenke": "https://www.spamhaus.org/sender-guidelines/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Mannen min er lykkelig pensjonist ved 64 års alder og mener at jeg bør fortsette å jobbe. Er han rettferdig?",
-        "kilde": "MarketWatch",
-        "tid": "21:45",
-        "lenke": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nå er det et perfekt tidspunkt for nettverksbygging. Slik sender du en e-post uten å skjemmes.",
-        "kilde": "MarketWatch",
-        "tid": "21:40",
-        "lenke": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "BugMeNot har stengt",
-        "kilde": "Hacker News",
-        "tid": "21:32",
-        "lenke": "https://www.bugmenot.com/",
         "engelsk_kilde": true
       },
       {
@@ -284,13 +319,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Fed-sjef Kevin Warsh understreker viktigheten av KI for økonomien, men sier at den kan «skuffe»",
-        "kilde": "CNBC Top News",
-        "tid": "18:46",
-        "lenke": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Astrup-familiens øy solgt for 131 mill.",
         "kilde": "E24",
         "tid": "18:30",
@@ -319,18 +347,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Warren Buffett donerer 5,5 milliarder dollar og sier at vennlighet «forsterkes» i et brev i anledning Thanksgiving",
+        "tittel": "Warren Buffett donerer 5,5 milliarder USD og sier at vennlighet «forrentes» i et brev i anledning Thanksgiving",
         "kilde": "CNBC Top News",
         "tid": "17:39",
         "lenke": "https://www.cnbc.com/2026/11/16/warren-buffett-donates-5point5-billion-thanksgiving.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Fyrte løs mot gamleklubben: – Ledere uten baller",
-        "kilde": "NRK Nyheter",
-        "tid": "17:17",
-        "lenke": "https://www.nrk.no/sport/stale-solbakken-fyrte-los-mot-gamleklubben-fc-kobenhavn-1.18083021",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Nscale i brev til regjeringen: – Det haster",
@@ -372,20 +393,6 @@
         "kilde": "BBC Business",
         "tid": "13:19",
         "lenke": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Unngå denne Black Friday-svindelen – slik sjekker du om det er et ekte tilbud",
-        "kilde": "BBC Business",
-        "tid": "09:58",
-        "lenke": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Gass begynner å strømme fra Jackdaw etter at myndighetene har gitt grønt lys",
-        "kilde": "BBC Business",
-        "tid": "06:24",
-        "lenke": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ]
