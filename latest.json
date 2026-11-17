@@ -1,47 +1,54 @@
 {
   "dato": "2026-11-17",
   "dato_norsk": "Tirsdag 17. november 2026",
-  "generert_kl": "18:05",
+  "generert_kl": "21:31",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Jensen Huang bryter tausheten før Nvidias resultat – pluss én aksje å kjøpe på svakhet",
-      "kilde": "CNBC Top News",
-      "tid": "16:42",
-      "lenke": "https://www.cnbc.com/investingclub/2026/11/17/jensen-huang-breaks-his-silence-ahead-of-nvidia-earnings-plus-1-stock-to-buy.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Trump om Irans påståtte plan om en skittenbombe i Washington DC: «Vi tar det svært alvorlig»",
-      "kilde": "CNBC Top News",
-      "tid": "17:49",
-      "lenke": "https://www.cnbc.com/2026/11/17/trump-iran-dirty-bomb-washington.html",
-      "engelsk_kilde": true
-    },
-    {
       "tittel": "Kalshi fjerner kontroversielle markeder for «omtale» av Trump på forespørsel fra CFTC",
       "kilde": "CNBC Top News",
-      "tid": "17:41",
+      "tid": "19:29",
       "lenke": "https://www.cnbc.com/2026/11/17/kalshi-takes-down-trump-mention-markets.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Tidligere Nvidia-administrerende direktør Jensen Huang sier at han er åpen for å komme tilbake i sin første uttalelse siden han gikk av",
+      "tittel": "Nvidia økte inntektene til 115,8 milliarder dollar i tredje kvartal",
+      "kilde": "E24",
+      "tid": "21:20",
+      "lenke": "https://e24.no/boers-og-finans/i/Oypzbq/nvidia-oekte-inntektene-til-115-8-milliarder-dollar-i-tredje-kvartal-bedre-enn-ventet?utm_medium=rss",
+      "engelsk_kilde": false
+    },
+    {
+      "tittel": "Wall Streets fryktmåler stiger igjen, og denne gangen handler det ikke bare om bekymringer knyttet til KI",
       "kilde": "CNBC Top News",
-      "tid": "17:13",
-      "lenke": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
+      "tid": "20:28",
+      "lenke": "https://www.cnbc.com/2026/11/17/wall-streets-fear-gauge-is-surging-again-and-this-time-its-not-just-about-ai-jitters.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Jensen Huang ønsker nå å komme tilbake som Nvidias administrerende direktør. Dette er grunnen til at det kan bli vanskelig.",
+      "tittel": "Hvorfor Salesforce-aksjen ledet S&P 500s tapere midt i teknologisk uro",
       "kilde": "MarketWatch",
-      "tid": "16:38",
-      "lenke": "https://www.marketwatch.com/story/jensen-huangs-fans-want-him-back-as-nvidia-ceo-this-is-why-thats-unlikely-2be28ac2?mod=mw_rss_topstories",
+      "tid": "21:12",
+      "lenke": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Summit Therapeutics' aksje faller igjen etter at FDA anbefaler en ny studie av lungekreftmedisinen",
+      "kilde": "MarketWatch",
+      "tid": "20:58",
+      "lenke": "https://www.marketwatch.com/story/summit-therapeutics-stock-tumbles-again-as-fda-recommends-new-trial-for-lung-cancer-drug-dcb8ff55?mod=mw_rss_topstories",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
+      {
+        "tittel": "Pågående cyberangrep mot Equinor",
+        "kilde": "NRK Nyheter",
+        "tid": "18:05",
+        "lenke": "https://www.nrk.no/nyheter/pagaende-cyberangrep-mot-equinor-1.18083829",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Slik spredte fugleinfluensaen seg til flere norske gårder",
         "kilde": "NRK Nyheter",
@@ -66,31 +73,24 @@
     ],
     "MARKEDER": [
       {
-        "tittel": "Mens aksjene sliter, hjelper obligasjonene endelig investorene med å spille defensivt igjen. Det er bare ett problem.",
+        "tittel": "Hvorfor Salesforce-aksjen ledet S&P 500s tapere midt i teknologisk uro",
         "kilde": "MarketWatch",
-        "tid": "17:40",
-        "lenke": "https://www.marketwatch.com/story/as-stocks-struggle-bonds-are-finally-helping-investors-play-defense-again-theres-just-one-problem-94c8a1d8?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvorfor Salesforce-aksjen leder S&P 500-fallerne midt i teknologinervøsiteten",
-        "kilde": "MarketWatch",
-        "tid": "17:36",
+        "tid": "21:12",
         "lenke": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hvis du eier et Nasdaq-100-fond, vil du eie Anthropic-aksjer etter 15 tradedager – enten du vil det eller ikke",
+        "tittel": "Summit Therapeutics' aksje faller igjen etter at FDA anbefaler en ny studie av lungekreftmedisinen",
         "kilde": "MarketWatch",
-        "tid": "17:02",
-        "lenke": "https://www.marketwatch.com/story/if-you-own-a-nasdaq-100-fund-youll-own-anthropic-shares-after-15-trading-days-whether-you-want-to-or-not-19b08485?mod=mw_rss_topstories",
+        "tid": "20:58",
+        "lenke": "https://www.marketwatch.com/story/summit-therapeutics-stock-tumbles-again-as-fda-recommends-new-trial-for-lung-cancer-drug-dcb8ff55?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Jensen Huang bryter tausheten før Nvidias resultat – pluss én aksje å kjøpe på svakhet",
+        "tittel": "Wall Streets fryktmåler stiger igjen, og denne gangen handler det ikke bare om bekymringer knyttet til KI",
         "kilde": "CNBC Top News",
-        "tid": "16:42",
-        "lenke": "https://www.cnbc.com/investingclub/2026/11/17/jensen-huang-breaks-his-silence-ahead-of-nvidia-earnings-plus-1-stock-to-buy.html",
+        "tid": "20:28",
+        "lenke": "https://www.cnbc.com/2026/11/17/wall-streets-fear-gauge-is-surging-again-and-this-time-its-not-just-about-ai-jitters.html",
         "engelsk_kilde": true
       },
       {
@@ -101,33 +101,35 @@
         "engelsk_kilde": true
       }
     ],
+    "ENERGI_RAAVARER": [
+      {
+        "tittel": "Gull er i et bjørnemarked – og hackesikkert i en stadig mer digital verden. Er det et godt tidspunkt å kjøpe nå?",
+        "kilde": "MarketWatch",
+        "tid": "20:24",
+        "lenke": "https://www.marketwatch.com/story/gold-is-in-a-bear-market-and-hackproof-in-an-increasingly-digital-world-is-this-a-good-time-to-buy-fabfd528?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      }
+    ],
     "TEKNOLOGI": [
       {
-        "tittel": "Jensen Huang presser på for Nvidias comeback etter at styret avviser presset om å gjeninnsette den tidligere sjefen",
-        "kilde": "BBC Business",
-        "tid": "17:42",
-        "lenke": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Tidligere Nvidia-administrerende direktør Jensen Huang sier at han er åpen for å komme tilbake i sin første uttalelse siden han gikk av",
+        "tittel": "Omfattende strømbrudd rammet banker, flyreiser, NSA og Apple, og forstyrret tilsynelatende alt",
         "kilde": "CNBC Top News",
-        "tid": "17:13",
-        "lenke": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
+        "tid": "21:24",
+        "lenke": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "YC skrev programvare for å kjøre praksismessen vår – og en 8-biters SIM for å vise den frem",
-        "kilde": "Hacker News",
-        "tid": "17:00",
-        "lenke": "https://news.ycombinator.com/item?id=50534429",
-        "engelsk_kilde": true
+        "tittel": "Nvidia økte inntektene til 115,8 milliarder dollar i tredje kvartal",
+        "kilde": "E24",
+        "tid": "21:20",
+        "lenke": "https://e24.no/boers-og-finans/i/Oypzbq/nvidia-oekte-inntektene-til-115-8-milliarder-dollar-i-tredje-kvartal-bedre-enn-ventet?utm_medium=rss",
+        "engelsk_kilde": false
       },
       {
-        "tittel": "Jensen Huang ønsker nå å komme tilbake som Nvidias administrerende direktør. Dette er grunnen til at det kan bli vanskelig.",
-        "kilde": "MarketWatch",
-        "tid": "16:38",
-        "lenke": "https://www.marketwatch.com/story/jensen-huangs-fans-want-him-back-as-nvidia-ceo-this-is-why-thats-unlikely-2be28ac2?mod=mw_rss_topstories",
+        "tittel": "Jensen Huang sier at han ville være «beæret» over å komme tilbake som administrerende direktør i Nvidia dersom styret ba ham om det",
+        "kilde": "BBC Business",
+        "tid": "18:24",
+        "lenke": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
@@ -145,7 +147,7 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Hvordan nye amerikanske brikkerestriksjoner for Sørøst-Asia vil ramme Kina",
+        "tittel": "Hvordan nye amerikanske brikkerestriksjoner mot Sørøst-Asia vil ramme Kina",
         "kilde": "BBC Business",
         "tid": "14:25",
         "lenke": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
@@ -161,17 +163,24 @@
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Trump om Irans påståtte plan om en skittenbombe i Washington DC: «Vi tar det svært alvorlig»",
-        "kilde": "CNBC Top News",
-        "tid": "17:49",
-        "lenke": "https://www.cnbc.com/2026/11/17/trump-iran-dirty-bomb-washington.html",
+        "tittel": "Virkningene av en atomdetonasjon i lav jordbane",
+        "kilde": "Hacker News",
+        "tid": "19:46",
+        "lenke": "https://arxiv.org/abs/2611.09827",
         "engelsk_kilde": true
       },
       {
         "tittel": "Kalshi fjerner kontroversielle markeder for «omtale» av Trump på forespørsel fra CFTC",
         "kilde": "CNBC Top News",
-        "tid": "17:41",
+        "tid": "19:29",
         "lenke": "https://www.cnbc.com/2026/11/17/kalshi-takes-down-trump-mention-markets.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump om Irans angivelige plan om en skittenbombe i Washington DC: «Vi tar det svært alvorlig»",
+        "kilde": "CNBC Top News",
+        "tid": "17:49",
+        "lenke": "https://www.cnbc.com/2026/11/17/trump-iran-dirty-bomb-washington.html",
         "engelsk_kilde": true
       },
       {
@@ -184,10 +193,101 @@
     ],
     "VILLKORT": [
       {
-        "tittel": "GPT‑6.2 Astra og Sol",
+        "tittel": "Min eldre bror, som ikke har barn, har utelatt vår eneste søster fra testamentet sitt. Jeg får alt i stedet. Skal jeg fortelle henne det?",
+        "kilde": "MarketWatch",
+        "tid": "21:30",
+        "lenke": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "«Kan jeg spørre deg om råd?» og andre forferdelige ting å si i en nettverks-e-post",
+        "kilde": "MarketWatch",
+        "tid": "21:11",
+        "lenke": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "«Det gir meg en bitter smak i munnen»: Min eldre mor ga søskenbarnet vårt 800 dollar til bilreparasjon. Bør jeg være bekymret?",
+        "kilde": "MarketWatch",
+        "tid": "21:00",
+        "lenke": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "FAA setter installasjonen av nye rutere på pause etter stans på bakken",
+        "kilde": "CNBC Top News",
+        "tid": "20:53",
+        "lenke": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Human.md",
         "kilde": "Hacker News",
-        "tid": "17:46",
-        "lenke": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+        "tid": "20:47",
+        "lenke": "https://www.human-md.ai/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "USAs klassifiserte kommunikasjonsnettverk for nasjonal sikkerhet opplever teknisk svikt",
+        "kilde": "MarketWatch",
+        "tid": "20:45",
+        "lenke": "https://www.marketwatch.com/story/the-latest-tech-failure-u-s-classified-national-security-communications-network-ad271899?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Private equity-fond har kjøpt opp hospicer – med slående konsekvenser",
+        "kilde": "MarketWatch",
+        "tid": "20:40",
+        "lenke": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Fikk en grusom start i Parken: – Nesten så jeg ikke tror det jeg ser",
+        "kilde": "NRK Nyheter",
+        "tid": "20:06",
+        "lenke": "https://www.nrk.no/sport/norge-moter-danmark-i-gruppefinalen-i-nasjonsligaen-1.18083756",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Feil på fartskamera kan ha gjort det mulig for bilister å slippe unna bøter",
+        "kilde": "BBC Business",
+        "tid": "20:04",
+        "lenke": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nettleserutvikling (2021)",
+        "kilde": "Hacker News",
+        "tid": "20:01",
+        "lenke": "https://browser.engineering/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "jQuery 4.1.0",
+        "kilde": "Hacker News",
+        "tid": "19:50",
+        "lenke": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Staten betaler nær 8000 kroner per billett, men ingen tør å kutte i kystruta",
+        "kilde": "NRK Nyheter",
+        "tid": "19:35",
+        "lenke": "https://www.nrk.no/nordland/kystruten-mellom-bergen-og-kirkenes-kan-bli-endret-1.18073331",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "For 350 år siden oppdaget denne mannen at lyset har en endelig hastighet",
+        "kilde": "Hacker News",
+        "tid": "19:25",
+        "lenke": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "USA mister offisielt statusen som meslingfritt land midt i pågående utbrudd",
+        "kilde": "CNBC Top News",
+        "tid": "18:10",
+        "lenke": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
         "engelsk_kilde": true
       },
       {
@@ -198,69 +298,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "FAA setter installasjonen av nye rutere på pause etter flystopp",
-        "kilde": "CNBC Top News",
-        "tid": "17:27",
-        "lenke": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Optimizely-hack infiserte nettstedene til CNN, Fox News, BBC og Salesforce med skadevare",
-        "kilde": "Hacker News",
-        "tid": "17:13",
-        "lenke": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Det siste teknologiske sammenbruddet: USAs klassifiserte kommunikasjonsnettverk for nasjonal sikkerhet",
-        "kilde": "MarketWatch",
-        "tid": "17:12",
-        "lenke": "https://www.marketwatch.com/story/the-latest-tech-failure-u-s-classified-national-security-communications-network-ad271899?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "USA mister offisielt statusen som meslingfritt land midt i pågående utbrudd",
-        "kilde": "CNBC Top News",
-        "tid": "17:09",
-        "lenke": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Foreldre fortalte oss hvordan det er å hjelpe barna sine med å bekjempe avhengighet av sportsspill: «Det finnes ingen håndbok»",
-        "kilde": "MarketWatch",
-        "tid": "17:07",
-        "lenke": "https://www.marketwatch.com/story/parents-told-us-what-its-like-to-help-their-kids-battle-sports-gambling-addiction-theres-no-handbook-6e2d5bb2?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "«Jeg følte meg så sett»: Hvorfor familier over hele USA ler – og gråter – av SNL-sketsjen «Sister»",
-        "kilde": "MarketWatch",
-        "tid": "17:03",
-        "lenke": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Antallet meslingtilfeller i USA er på sitt høyeste på 35 år. Her er den svimlende kostnaden av fallende vaksinasjonsrater for amerikanere.",
-        "kilde": "MarketWatch",
-        "tid": "16:47",
-        "lenke": "https://www.marketwatch.com/story/measles-cases-in-the-u-s-are-at-a-35-year-high-heres-the-staggering-cost-of-falling-vaccination-rates-for-americans-e80a7ac6?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jensen Huang legger ut innlegg på X",
-        "kilde": "Hacker News",
-        "tid": "16:23",
-        "lenke": "https://twitter.com/JensenHuang/status/2122726005219737649",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nettstedet til Charles Schwab går ned",
-        "kilde": "Hacker News",
-        "tid": "16:05",
-        "lenke": "https://www.businessinsider.com/charles-scwab-website-outage-reports-2026-11",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Vi har ikke råd til å ansette personer under 25 år, sier bedrifter. Vil Milburns planer hjelpe?",
         "kilde": "BBC Business",
         "tid": "15:56",
@@ -268,7 +305,7 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Boligbyggernes stemning faller til det laveste nivået på 14 år, noe som fører til at flere byggefirmaer senker prisene",
+        "tittel": "Boligbyggernes stemning faller til det laveste nivået på 14 år, noe som får flere byggefirmaer til å senke prisene",
         "kilde": "CNBC Top News",
         "tid": "15:36",
         "lenke": "https://www.cnbc.com/2026/11/17/homebuilder-sentiment-plunges-to-14-year-low-leading-more-builders-to-drop-prices.html",
@@ -289,13 +326,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Feil på fartskamera kan ha gjort det mulig for bilister å slippe unna bøter",
-        "kilde": "BBC Business",
-        "tid": "15:08",
-        "lenke": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Drapet på Jonas Aarseth Henriksen skal opp for Høyesterett",
         "kilde": "NRK Nyheter",
         "tid": "14:21",
@@ -307,13 +337,6 @@
         "kilde": "NRK Nyheter",
         "tid": "14:04",
         "lenke": "https://www.nrk.no/trondelag/kongeparet-er-pa-besok-i-trondheim-og-nidarosdomen_-_-store-forventingar-1.18083641",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "NRK erfarer: Solbakken overrasker: Nyland tilbake fra start mot Danmark",
-        "kilde": "NRK Nyheter",
-        "tid": "14:01",
-        "lenke": "https://www.nrk.no/sport/nrk-erfarer_-nyland-starter-mot-danmark-1.18083669",
         "engelsk_kilde": false
       },
       {
@@ -345,20 +368,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Sikrar fleirtal i bomsak: Vil halvere prisen i eit år",
-        "kilde": "NRK Nyheter",
-        "tid": "12:33",
-        "lenke": "https://www.nrk.no/sorlandet/fleirtal-i-bomsak_-prisen-skal-halverast-i-eit-ar-1.18079312",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Den trojanske langrennshest",
-        "kilde": "NRK Nyheter",
-        "tid": "11:59",
-        "lenke": "https://www.nrk.no/sport/jan-petter-saltvedts-kommentar_-den-trojanske-langrennshest-1.18082797",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Kiwi økte prisene – da kom beskjeden fra «Tøffe-Tom»",
         "kilde": "E24",
         "tid": "11:38",
@@ -366,18 +375,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Den amerikanske regjeringen bekrefter etterforskning av teknologibedriften Megaspeed",
+        "tittel": "Den amerikanske regjeringen bekrefter etterforskning av teknologifirmaet Megaspeed",
         "kilde": "BBC Business",
         "tid": "11:17",
         "lenke": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Ekspertene spriker: Slik ville de investert 100.000 kroner nå",
-        "kilde": "E24",
-        "tid": "11:11",
-        "lenke": "https://e24.no/norsk-oekonomi/i/eGln6O/naess-johannesen-og-due-andresen-slik-ville-vi-investert-100-000-kroner?utm_medium=rss",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Vi hadde ikke råd til et hus alene, så vi kjøpte et sammen med fremmede",
