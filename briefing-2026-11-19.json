@@ -1,58 +1,49 @@
 {
   "dato": "2026-11-19",
   "dato_norsk": "Torsdag 19. november 2026",
-  "generert_kl": "17:56",
+  "generert_kl": "21:13",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Federal Reserve Board iverksetter håndhevende tiltak mot en tidligere ansatt i First Security Bancorp",
-      "kilde": "Federal Reserve",
-      "tid": "16:00",
-      "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Trump, Xi og Putin sa at de planlegger å øke oljeproduksjonen og fornye FN etter trilaterale samtaler",
+      "tittel": "Trump kjøpte Nvidia, Palantir og SpaceX i september som følge av føderale avtaler, og båndene til Det hvite hus ble sterkere",
       "kilde": "CNBC Top News",
-      "tid": "17:01",
-      "lenke": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
+      "tid": "19:43",
+      "lenke": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
       "engelsk_kilde": true
     },
     {
       "tittel": "AMD faller på rapport fra shortselgere om påstått Kina-eksponering",
       "kilde": "CNBC Top News",
-      "tid": "16:53",
+      "tid": "18:24",
       "lenke": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
       "engelsk_kilde": true
     },
     {
       "tittel": "Jensen Huangs – og Nvidias – juridiske risiko øker kraftig",
       "kilde": "CNBC Top News",
-      "tid": "17:32",
+      "tid": "18:44",
       "lenke": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Palo Alto-aksjen stiger på resultatoverraskelsen og selskapets store satsing på å sikre open-weight-modeller",
-      "kilde": "CNBC Top News",
-      "tid": "16:28",
-      "lenke": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
+      "tittel": "«Nvidias turbulens har skremt meg»: Skal jeg selge aksjene mine og kjøpe eiendom – eller ri stormen av?",
+      "kilde": "MarketWatch",
+      "tid": "20:50",
+      "lenke": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Nvidias aksje faller ytterligere. Den har tapt 611 milliarder dollar på seks børsdager.",
+      "kilde": "MarketWatch",
+      "tid": "20:33",
+      "lenke": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
-    "NORGE": [
-      {
-        "tittel": "Storebrand tar fondsgrep etter DNB-kutt",
-        "kilde": "E24",
-        "tid": "10:07",
-        "lenke": "https://e24.no/privatoekonomi/i/bk5jQB/storebrand-svarer-dnb-med-priskutt-paa-indeksfond?utm_medium=rss",
-        "engelsk_kilde": false
-      }
-    ],
     "MAKRO": [
       {
-        "tittel": "Federal Reserve Board iverksetter håndhevende tiltak mot en tidligere ansatt i First Security Bancorp",
+        "tittel": "Federal Reserve Board iverksetter håndhevelsestiltak mot en tidligere ansatt i First Security Bancorp",
         "kilde": "Federal Reserve",
         "tid": "16:00",
         "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
@@ -61,10 +52,10 @@
     ],
     "MARKEDER": [
       {
-        "tittel": "UnitedHealths aksje fortsetter å stupe etter at myndighetene har signalisert en innsats mot svindel med Medicare Advantage",
+        "tittel": "Hvorfor Micron, Broadcom og andre KI-aksjer har gitt avkall på gevinstene sine",
         "kilde": "MarketWatch",
-        "tid": "17:26",
-        "lenke": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
+        "tid": "19:43",
+        "lenke": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -75,28 +66,14 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Anthropics børsnotering utgjør en stor risiko for et allerede ustøtt aksjemarked",
-        "kilde": "MarketWatch",
-        "tid": "16:49",
-        "lenke": "https://www.marketwatch.com/story/anthropics-ipo-poses-this-big-risk-to-an-already-shaky-stock-market-83ce7794?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Anthropics børsnotering: Investorer som selger aksjene raskt, kan risikere meglergebyr",
+        "tittel": "Anthropic-børsnotering: Investorer som selger aksjen raskt, kan risikere meglergebyr",
         "kilde": "CNBC Top News",
         "tid": "16:31",
         "lenke": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Palo Alto-aksjen stiger på resultatoverraskelsen og selskapets store satsing på å sikre open-weight-modeller",
-        "kilde": "CNBC Top News",
-        "tid": "16:28",
-        "lenke": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Voldsomme svingninger på Wall Street",
+        "tittel": "Kraftig nedgang på Wall Street tross Anthropic-opptur",
         "kilde": "E24",
         "tid": "16:26",
         "lenke": "https://e24.no/boers-og-finans/i/Pv9mGR/amd-raser-paa-wall-street?utm_medium=rss",
@@ -110,55 +87,207 @@
         "engelsk_kilde": true
       }
     ],
-    "ENERGI_RAAVARER": [
+    "TEKNOLOGI": [
       {
-        "tittel": "Trump, Xi og Putin sa at de planlegger å øke oljeproduksjonen og fornye FN etter trilaterale samtaler",
-        "kilde": "CNBC Top News",
-        "tid": "17:01",
-        "lenke": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
+        "tittel": "«Nvidias turbulens har skremt meg»: Skal jeg selge aksjene mine og kjøpe eiendom – eller ri stormen av?",
+        "kilde": "MarketWatch",
+        "tid": "20:50",
+        "lenke": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Gullets dårlige år blir verre. Hvorfor fortsetter prisen å falle?",
+        "tittel": "Amazon-appen advarer New York om høyere kostnader dersom Mamdani-loven om levering vedtas",
         "kilde": "CNBC Top News",
-        "tid": "16:29",
-        "lenke": "https://www.cnbc.com/2026/11/19/gold-prices-fall-fed-rates-dollar.html",
+        "tid": "20:46",
+        "lenke": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
         "engelsk_kilde": true
-      }
-    ],
-    "TEKNOLOGI": [
+      },
+      {
+        "tittel": "Nvidias aksje faller ytterligere. Den har tapt 611 milliarder dollar på seks børsdager.",
+        "kilde": "MarketWatch",
+        "tid": "20:33",
+        "lenke": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Trump kjøpte Nvidia, Palantir og SpaceX i september som følge av føderale avtaler, og båndene til Det hvite hus ble sterkere",
+        "kilde": "CNBC Top News",
+        "tid": "19:43",
+        "lenke": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
+        "engelsk_kilde": true
+      },
       {
         "tittel": "Jensen Huangs – og Nvidias – juridiske risiko øker kraftig",
         "kilde": "CNBC Top News",
-        "tid": "17:32",
+        "tid": "18:44",
         "lenke": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
         "engelsk_kilde": true
       },
       {
         "tittel": "AMD faller på rapport fra shortselgere om påstått Kina-eksponering",
         "kilde": "CNBC Top News",
-        "tid": "16:53",
+        "tid": "18:24",
         "lenke": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Amazon lanserer pushvarsler i appen mot Mamdani-støttet leveringslovforslag i New York City",
-        "kilde": "CNBC Top News",
-        "tid": "16:15",
-        "lenke": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
         "engelsk_kilde": true
       }
     ],
     "GEOPOLITIKK": [
       {
-        "tittel": "Danmark ratifiserer Trumps sikkerhetsavtale om Grønland etter flere måneders diplomatiske spenninger",
+        "tittel": "Kongressen vedtar lovforslag for å beskytte eldre investorer mot økonomisk svindel",
         "kilde": "CNBC Top News",
-        "tid": "12:02",
-        "lenke": "https://www.cnbc.com/2026/11/19/greenland-denmark-trump-security-military-bases.html",
+        "tid": "20:36",
+        "lenke": "https://www.cnbc.com/2026/11/19/financial-exploitation-prevention-act-older-investors-fraud.html",
         "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
+      {
+        "tittel": "Handelsdepartementet godkjente salg av mer enn 879 000 AI-brikker til kinesiske selskaper, sier representant Mast",
+        "kilde": "CNBC Top News",
+        "tid": "21:08",
+        "lenke": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "«Jeg følte meg så sett»: Hvorfor familier over hele USA ler – og gråter – over SNL-sketsjen «Sister»",
+        "kilde": "MarketWatch",
+        "tid": "21:06",
+        "lenke": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Stigende helsekostnader presser premiene for Medicare del B oppover",
+        "kilde": "MarketWatch",
+        "tid": "21:05",
+        "lenke": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "GTA sprenger grenser: – Gaming-feber",
+        "kilde": "E24",
+        "tid": "20:47",
+        "lenke": "https://e24.no/naeringsliv/i/kMJKbv/gta-sprenger-grenser-gaming-feber?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "En medgrunnlegger av CoreWeave har nettopp satset 30 millioner dollar på selskapets hardt rammede obligasjoner på en uvanlig måte",
+        "kilde": "MarketWatch",
+        "tid": "20:28",
+        "lenke": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Anthropic: Sam Bankman-Fried gikk glipp av 360 milliarder",
+        "kilde": "E24",
+        "tid": "20:24",
+        "lenke": "https://e24.no/boers-og-finans/i/g37KdL/anthropic-sam-bankman-fried-gikk-glipp-av-360-milliarder?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Hvorfor Walmart satser mer på levering av hurtigmat",
+        "kilde": "MarketWatch",
+        "tid": "20:24",
+        "lenke": "https://www.marketwatch.com/story/why-walmart-is-making-a-bigger-bet-on-fast-food-delivery-27263735?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Norwegian: 5.000 kunder har fått lekket kortinformasjon",
+        "kilde": "E24",
+        "tid": "20:06",
+        "lenke": "https://e24.no/naeringsliv/i/JnoGnm/norwegian-bekrefter-5-000-kunder-har-faatt-lekket-kortinformasjon?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Norwegian ber 5000 kundar sperre bankkortet etter datainnbrot",
+        "kilde": "NRK Nyheter",
+        "tid": "19:58",
+        "lenke": "https://www.nrk.no/nyheter/norwegian-ber-5000-kundar-sperre-bankkortet-etter-datainnbrot-1.18085456",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Walmart hever prognosen etter at administrerende direktør forteller CNBC at detaljisten har som mål å holde prisene lave til tross for skyhøye drivstoffkostnader",
+        "kilde": "CNBC Top News",
+        "tid": "19:58",
+        "lenke": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nytt drama om Carlsen: – Selvfølgelig er det kynisk",
+        "kilde": "NRK Nyheter",
+        "tid": "19:55",
+        "lenke": "https://www.nrk.no/sport/nye-kontroverser-om-magnus-carlsen-i-prove-vm-i-total-chess-1.18085393",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Bloomberg: Tiktok kan gi Nscale USA-problemer",
+        "kilde": "E24",
+        "tid": "19:50",
+        "lenke": "https://e24.no/boers-og-finans/i/8Pmzm2/bloomberg-tiktok-kan-gi-nscale-usa-problemer?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Endte opp alene på samling – mener langrennslandslaget er splittet",
+        "kilde": "NRK Nyheter",
+        "tid": "19:23",
+        "lenke": "https://www.nrk.no/sport/milla-andreassen-mener-langrennslandslaget-er-splittet_-_-ekstremt-kjipt-1.18085391",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Vi er i 50-årene og livredde for et børskrakk. Bør vi sette 400 000 dollar av pensjonssparingen vår på 1 million dollar i en annuitet?",
+        "kilde": "MarketWatch",
+        "tid": "19:15",
+        "lenke": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bør du begynne å ha kontanter på deg igjen i lys av de nylige bankavbruddene? Topprådgivere uttaler seg",
+        "kilde": "CNBC Top News",
+        "tid": "19:06",
+        "lenke": "https://www.cnbc.com/2026/11/19/banking-outages-emergency-cash.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Bør myndighetene bremse banebrytende KI? Jacob Coxon og Robin Hanson debatterer [video]",
+        "kilde": "Hacker News",
+        "tid": "18:47",
+        "lenke": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Spilleautomaten med 98 % sjanse: Hvordan betalt annonsering ble en utvinningsskatt",
+        "kilde": "Hacker News",
+        "tid": "18:35",
+        "lenke": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Her er katten Bagheera hjemme igjen etter elleve år: – En bit av livet har kommet tilbake",
+        "kilde": "NRK Nyheter",
+        "tid": "18:28",
+        "lenke": "https://www.nrk.no/nordland/siri-trodde-katten-bagheera-var-dod-_-ble-funnet-i-live-etter-elleve-ar-1.18083121",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "To minutter som fjerner stress",
+        "kilde": "E24",
+        "tid": "18:27",
+        "lenke": "https://e24.no/karriere-og-ledelse/i/bk58E5/to-minutter-som-fjerner-stress?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Verden etter Hormuz: Dette tror ekspertene",
+        "kilde": "E24",
+        "tid": "18:06",
+        "lenke": "https://e24.no/energi-og-klima/i/dJOp3j/verden-etter-hormuz-dette-tror-ekspertene?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Stoler ikke på Støres vekstløfter: – Gjenstår å se",
+        "kilde": "E24",
+        "tid": "17:55",
+        "lenke": "https://e24.no/hav-og-sjoemat/i/M5RqJM/stoler-ikke-paa-stoeres-vekstloefter-gjenstaar-aa-se?utm_medium=rss",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Verden ser til Stians (27) arbeidsplass – vil kopiere Norges største klima­satsing",
         "kilde": "NRK Nyheter",
@@ -167,7 +296,7 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Claude Fable 5.2 løser to uløste problemer innen fysikken for svarte hull",
+        "tittel": "Claude løser to uløste problemer innen fysikken for svarte hull",
         "kilde": "Hacker News",
         "tid": "17:30",
         "lenke": "https://www.anthropic.com/research/claude-black-hole-physics",
@@ -181,10 +310,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "En medgrunnlegger av CoreWeave har nettopp satset 30 millioner dollar på selskapets hardt rammede obligasjoner på en ukonvensjonell måte",
-        "kilde": "MarketWatch",
-        "tid": "17:21",
-        "lenke": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+        "tittel": "Bukspyttkjertelkreft stoppet av virusinjeksjon hos tre pasienter",
+        "kilde": "Hacker News",
+        "tid": "17:25",
+        "lenke": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
         "engelsk_kilde": true
       },
       {
@@ -195,34 +324,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "«Jeg har vært hjemmeværende mor»: Jeg er 50 år og har en kronisk sykdom. Mannen min mistet jobben sin. Bør han tømme 401(k)-en sin?",
-        "kilde": "MarketWatch",
-        "tid": "17:00",
-        "lenke": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Kromes AI-funksjoner sløser med mye båndbredde",
-        "kilde": "Hacker News",
-        "tid": "16:54",
-        "lenke": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Anthropic kommer til 401(k)-en din. Enten du liker det eller ikke, blir KI en stadig større del av økonomiplanen din.",
-        "kilde": "MarketWatch",
-        "tid": "16:53",
-        "lenke": "https://www.marketwatch.com/story/anthropic-is-coming-to-your-401-k-love-it-or-hate-it-ai-is-becoming-a-bigger-part-of-your-financial-plan-2e9ae533?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Alibabas skyvirksomhet blomstrer. Men disse overskuddene oppveies fullstendig av tapene fra selskapets AI-laboratorier.",
-        "kilde": "MarketWatch",
-        "tid": "16:52",
-        "lenke": "https://www.marketwatch.com/story/alibabas-cloud-business-is-thriving-but-those-profits-are-completely-offset-by-losses-from-its-ai-labs-74bf4b3c?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Toppmøtet: Seier for Kina og Russland",
         "kilde": "NRK Nyheter",
         "tid": "16:51",
@@ -230,52 +331,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Lansering HN: Onlook (YC W25) – Et open source-utviklerverktøy for designere",
-        "kilde": "Hacker News",
-        "tid": "16:34",
-        "lenke": "https://github.com/onlook-dev/onlook/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Faen ta KI-sikkerhetsmekanismene deres",
-        "kilde": "Hacker News",
-        "tid": "16:30",
-        "lenke": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Ønsker du å skape mer konkurranse innen dagligvarelevering? La DoorDash og Instacart slå seg sammen.",
-        "kilde": "MarketWatch",
-        "tid": "16:21",
-        "lenke": "https://www.marketwatch.com/story/want-to-create-more-competition-in-grocery-delivery-let-doordash-and-instacart-merge-10505ad0?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Vi er i 50-årene og livredde for et børskrakk. Bør vi sette 400 000 $ av pensjonssparingen vår på 1 million $ i en annuitet?",
-        "kilde": "MarketWatch",
-        "tid": "16:15",
-        "lenke": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Hunter Group vil kjøpe Jacktel",
         "kilde": "E24",
         "tid": "15:41",
         "lenke": "https://e24.no/boers-og-finans/i/KL316E/hunter-group-vil-kjoepe-jacktel?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Blei oppdaga som 5-åring: – Han var ein liten galning",
-        "kilde": "NRK Nyheter",
-        "tid": "15:33",
-        "lenke": "https://www.nrk.no/sport/turner-sebastian-sponevik-blei-oppdaga-av-espen-jansen-som-5-aring-1.18074469",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Høgsterett forkastar anken til Frogner-kvinna",
-        "kilde": "NRK Nyheter",
-        "tid": "15:33",
-        "lenke": "https://www.nrk.no/nyheter/hogsterett-forkastar-anken-til-frogner-kvinna-1.18085307",
         "engelsk_kilde": false
       },
       {
@@ -286,81 +345,18 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Politiet seier nei: Kan ikkje lenger invitere 15-åringar til festing med russen",
-        "kilde": "NRK Nyheter",
-        "tid": "14:28",
-        "lenke": "https://www.nrk.no/mr/inviterer-15-aringar-pa-russefestar-for-a-tene-pengar-_-no-set-politiet-ned-foten-1.18079096",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kritiserer regjeringens nei til å endre navneloven: – Et slag i ansiktet",
-        "kilde": "NRK Nyheter",
-        "tid": "14:17",
-        "lenke": "https://www.nrk.no/kvensk/kritiserer-regjeringen-for-ikke-a-ville-endre-navneloven-1.18082620",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kash Patel hopper over høring i Representantenes hus etter Mar-a-Lago-galla med 50 000 dollar i adgangsavgift",
+        "tittel": "Kash Patel uteblir fra høring i Representantenes hus etter Mar-a-Lago-galla med 50 000 $ i adgangsavgift",
         "kilde": "CNBC Top News",
         "tid": "14:15",
         "lenke": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Viagogo kan ha brutt loven om skjulte gebyrer, ifølge et foreløpig funn fra tilsynsmyndigheten",
+        "tittel": "Viagogo kan ha brutt loven om skjulte gebyrer, fastslår tilsynsmyndigheten foreløpig",
         "kilde": "BBC Business",
         "tid": "13:35",
         "lenke": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Anthropic-feber: – Interessen har vært eksepsjonelt stor",
-        "kilde": "E24",
-        "tid": "13:28",
-        "lenke": "https://e24.no/boers-og-finans/i/LoAqXp/anthropic-feber-interessen-har-vaert-eksepsjonelt-stor?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Walmart hever prognosen etter at administrerende direktør forteller CNBC at forhandleren har som mål å holde prisene lave til tross for skyhøye drivstoffkostnader",
-        "kilde": "CNBC Top News",
-        "tid": "13:23",
-        "lenke": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Frykter «strømprismareritt»",
-        "kilde": "E24",
-        "tid": "12:58",
-        "lenke": "https://e24.no/energi-og-klima/i/j3dwQn/frykter-stroemprismareritt?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Petter Stordalen kjøper Aschehougs forlagshus – bygger luksushotell",
-        "kilde": "E24",
-        "tid": "11:09",
-        "lenke": "https://e24.no/naeringsliv/i/Jnoq47/petter-stordalen-kjoeper-aschehougs-forlagskvartal-skal-bygge-luksushotell-med-aspelin-reitan?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Venter i spenning på Anthropics børsdebut: – Har typisk en knallstart",
-        "kilde": "E24",
-        "tid": "10:55",
-        "lenke": "https://e24.no/boers-og-finans/i/GPGnA6/venter-i-spenning-paa-anthropics-boersdebut-har-typisk-en-knallstart?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "De fleste venter nå noe høyere lønnsvekst",
-        "kilde": "E24",
-        "tid": "09:20",
-        "lenke": "https://e24.no/norsk-oekonomi/i/aGwy9O/de-fleste-venter-naa-noe-hoeyere-loennsvekst?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Ny krisemåned for nyboligsalget: – Ingen tegn til bedring",
-        "kilde": "E24",
-        "tid": "08:55",
-        "lenke": "https://e24.no/norsk-oekonomi/i/Wmbe5K/ny-krisemaaned-for-nyboligsalget-ingen-tegn-til-bedring?utm_medium=rss",
-        "engelsk_kilde": false
       },
       {
         "tittel": "Gilts vs. kilts: Hva skjer med skotske statsobligasjoner?",
@@ -370,14 +366,14 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Elon Musk sier at rekordutgiftene på 446 millioner dollar til mellomvalget i USA var «ganske tåpelige»",
+        "tittel": "Elon Musk sier at rekordutgiftene på 446 millioner dollar til mellomvalget i USA var «ganske dumt»",
         "kilde": "BBC Business",
         "tid": "02:59",
         "lenke": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Etterforskerne sier at mannskapet ikke var klar over risikoen før Mike Lynchs yacht Bayesian sank",
+        "tittel": "Etterforskere sier at mannskapet ikke var klar over risikoen før Mike Lynchs yacht Bayesian sank",
         "kilde": "BBC Business",
         "tid": "00:05",
         "lenke": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
@@ -391,7 +387,7 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Hvorfor har Waymo fjernet alle sine førerløse biler fra amerikanske motorveier?",
+        "tittel": "Hvorfor har Waymo fjernet alle sine selvkjørende biler fra amerikanske motorveier?",
         "kilde": "BBC Business",
         "tid": "23:47",
         "lenke": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
@@ -402,13 +398,6 @@
         "kilde": "BBC Business",
         "tid": "23:42",
         "lenke": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Referat fra Federal Open Market Committee, 27.–28. oktober 2026",
-        "kilde": "Federal Reserve",
-        "tid": "19:00",
-        "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
         "engelsk_kilde": true
       }
     ]
