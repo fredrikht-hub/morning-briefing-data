@@ -1,103 +1,112 @@
 {
-  "dato": "2026-11-18",
-  "dato_norsk": "Onsdag 18. november 2026",
-  "generert_kl": "21:07",
+  "dato": "2026-11-19",
+  "dato_norsk": "Torsdag 19. november 2026",
+  "generert_kl": "02:24",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Referater viser at Fed-tjenestemenn forventer flere rentehevinger og er bekymret for KI-ens innvirkning på inflasjonen",
+      "tittel": "Nvidias midlertidige administrerende direktør Kress sier til de ansatte «la oss gå videre» på det første fellesmøtet siden Jensen Huangs avgang",
       "kilde": "CNBC Top News",
-      "tid": "19:41",
-      "lenke": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+      "tid": "23:45",
+      "lenke": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Referat fra Fed-møtet viser økende bekymring for inflasjonsutsiktene",
+      "tittel": "«Urolighetene rundt Nvidia har skremt meg»: Skal jeg selge aksjene mine og kjøpe eiendom – eller ri stormen av?",
       "kilde": "MarketWatch",
-      "tid": "20:51",
-      "lenke": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
+      "tid": "00:30",
+      "lenke": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Jeg så Trump, Xi og Putin samles i Kina. Her er mine viktigste funn",
+      "tittel": "Store innsatser mot AI-gjeld, fra CoreWeave til Oracle og Mag 7, kan snart ramme ETF-markedet",
       "kilde": "CNBC Top News",
-      "tid": "19:47",
-      "lenke": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
+      "tid": "23:38",
+      "lenke": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Nvidia snur, metaller faller før Anthropics børsnotering",
-      "kilde": "CNBC Top News",
-      "tid": "20:10",
-      "lenke": "https://www.cnbc.com/2026/11/18/nvidia-reverses-metals-crash-ahead-of-anthropic-ipo-options-action-live.html",
+      "tittel": "Palo Alto Networks' aksje får en ny KI-drevet opptur takket være resultatene",
+      "kilde": "MarketWatch",
+      "tid": "01:02",
+      "lenke": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Vance skroter planen for å håndtere tekniske driftsstanser, mens Trump-administrasjonen insisterer på at hendelsene ikke er koblet til hverandre",
-      "kilde": "CNBC Top News",
-      "tid": "19:17",
-      "lenke": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
+      "tittel": "Claude-utvikleren Anthropic er klar for børsdebut verdt opptil 1,5 billioner dollar",
+      "kilde": "BBC Business",
+      "tid": "02:20",
+      "lenke": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
+    "NORGE": [
+      {
+        "tittel": "Russisk fiskerikonsern tapte søksmålet mot den norske stat",
+        "kilde": "NRK Nyheter",
+        "tid": "21:16",
+        "lenke": "https://www.nrk.no/tromsogfinnmark/russiske-norebo-tapte-soksmalet-mot-den-norske-stat-1.18084597",
+        "engelsk_kilde": false
+      }
+    ],
     "MAKRO": [
       {
-        "tittel": "Referat fra Fed-møtet viser økende bekymring for inflasjonsutsiktene",
-        "kilde": "MarketWatch",
-        "tid": "20:51",
-        "lenke": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Referater viser at Fed-tjenestemenn forventer flere rentehevinger og er bekymret for KI-ens innvirkning på inflasjonen",
+        "tittel": "Fed-tjenestepersoner forventer flere rentehevinger og er bekymret for KI-ens innvirkning på inflasjonen, viser referatene",
         "kilde": "CNBC Top News",
         "tid": "19:41",
         "lenke": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Feds Waller sier at sentralbanken kanskje må «sjokkere folk» med en renteheving på et halvt prosentpoeng",
-        "kilde": "CNBC Top News",
-        "tid": "15:13",
-        "lenke": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "En typisk strømregning forventes å stige med 443 £ i året fra januar, ettersom inflasjonen stiger igjen",
+        "tittel": "En typisk strømregning forventes å stige med 443 £ per år fra januar ettersom inflasjonen stiger igjen",
         "kilde": "BBC Business",
         "tid": "13:17",
         "lenke": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Varmeutgifter, sjokolade og kattemat: Hva inflasjonstallene betyr for deg",
-        "kilde": "BBC Business",
-        "tid": "13:10",
-        "lenke": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "Anthropics børsnotering: AI-laboratoriet vurderer å øke tilbudet ettersom etterspørselen fra investorer øker, sier kilder",
-        "kilde": "CNBC Top News",
-        "tid": "20:20",
-        "lenke": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+        "tittel": "Claude-utvikleren Anthropic er klar for børsdebut verdt opptil 1,5 billioner dollar",
+        "kilde": "BBC Business",
+        "tid": "02:20",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "En av KI-verdenens mest beryktede «doomere» står i ferd med å tjene milliarder på Anthropics børsnotering",
-        "kilde": "CNBC Top News",
-        "tid": "18:43",
-        "lenke": "https://www.cnbc.com/2026/11/18/jaan-tallinn-anthropic-ipo-series-a-investment.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "«GTA 6» er tidenes største spill. Hva det betyr for Take-Twos aksje.",
+        "tittel": "Palo Alto Networks' aksje får en ny KI-drevet opptur takket være resultatene",
         "kilde": "MarketWatch",
-        "tid": "18:28",
-        "lenke": "https://www.marketwatch.com/story/gta-6-is-the-biggest-game-ever-take-twos-stock-delivery-apps-and-podcasts-are-along-for-the-ride-71014bf2?mod=mw_rss_topstories",
+        "tid": "01:02",
+        "lenke": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Store innsatser mot AI-gjeld, fra CoreWeave til Oracle og Mag 7, kan snart ramme ETF-markedet",
+        "kilde": "CNBC Top News",
+        "tid": "23:38",
+        "lenke": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hva «dødens kors» i aksjer med lav markedsverdi betyr for resten av markedet",
+        "kilde": "MarketWatch",
+        "tid": "23:12",
+        "lenke": "https://www.marketwatch.com/story/what-the-death-cross-in-small-cap-stocks-means-for-the-rest-of-the-stock-market-edd8e86e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Aksjemarkedet rystes av den største omveltningen på en generasjon etter hvert som teknologisektoren henger etter",
+        "kilde": "MarketWatch",
+        "tid": "22:53",
+        "lenke": "https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kan Anthropics rekordstore børsnotering stoppe AI-boblen fra å sprekke?",
+        "kilde": "BBC Business",
+        "tid": "21:28",
+        "lenke": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
@@ -106,49 +115,65 @@
         "tid": "14:32",
         "lenke": "https://e24.no/boers-og-finans/i/g37reL/oppgang-paa-wall-street?utm_medium=rss",
         "engelsk_kilde": false
-      },
+      }
+    ],
+    "ENERGI_RAAVARER": [
       {
-        "tittel": "Roper kjøp om Wall Street-giganter",
-        "kilde": "E24",
-        "tid": "13:32",
-        "lenke": "https://e24.no/boers-og-finans/i/ez8qGl/roper-kjoep-om-wall-street-giganter?utm_medium=rss",
-        "engelsk_kilde": false
+        "tittel": "Hvordan kobberfallet kan skade utbyggingen av KI",
+        "kilde": "MarketWatch",
+        "tid": "23:02",
+        "lenke": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
+        "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Google vender seg til en vulkan og steinsmelteteknologi i et vilt nytt forsøk på å drive KI",
-        "kilde": "MarketWatch",
-        "tid": "21:01",
-        "lenke": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories",
+        "tittel": "LLM-inversjon basert på forrige tokens forutsigelse for rekonstruksjon av prompt",
+        "kilde": "Hacker News",
+        "tid": "01:27",
+        "lenke": "https://arxiv.org/abs/2607.29378",
         "engelsk_kilde": true
       },
       {
-        "tittel": "«Uroen rundt Nvidia har skremt meg»: Bør jeg selge aksjene mine og kjøpe eiendom – eller ri stormen av?",
+        "tittel": "Anthropics børsnotering innhenter over 81 milliarder USD i den største børsnoteringen noensinne, og overgår SpaceX",
+        "kilde": "CNBC Top News",
+        "tid": "01:13",
+        "lenke": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "«Urolighetene rundt Nvidia har skremt meg»: Skal jeg selge aksjene mine og kjøpe eiendom – eller ri stormen av?",
         "kilde": "MarketWatch",
-        "tid": "21:00",
+        "tid": "00:30",
         "lenke": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Google Geminis personlige assistent «Tasks» er nå gratis",
-        "kilde": "Hacker News",
-        "tid": "20:20",
-        "lenke": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nvidia snur, metaller faller før Anthropics børsnotering",
+        "tittel": "Palo Alto inngår en avtale verdt 4,5 milliarder USD med AI-oppstartsbedriften Applied Compute, aksjene stiger 7 % på resultatene",
         "kilde": "CNBC Top News",
-        "tid": "20:10",
-        "lenke": "https://www.cnbc.com/2026/11/18/nvidia-reverses-metals-crash-ahead-of-anthropic-ipo-options-action-live.html",
+        "tid": "00:07",
+        "lenke": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
         "engelsk_kilde": true
       },
       {
         "tittel": "Nvidias midlertidige administrerende direktør Kress sier til de ansatte «la oss gå videre» på det første fellesmøtet siden Jensen Huangs avgang",
         "kilde": "CNBC Top News",
-        "tid": "19:21",
+        "tid": "23:45",
         "lenke": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Privatinvestorers entusiasme for Anthropics børsnotering kan måle seg med SpaceX' debut",
+        "kilde": "CNBC Top News",
+        "tid": "22:37",
+        "lenke": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nvidias blomstrende etterspørsel er «vanskelig å ignorere», men disse fire spørsmålene henger over aksjen",
+        "kilde": "MarketWatch",
+        "tid": "22:31",
+        "lenke": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -156,27 +181,6 @@
         "kilde": "CNBC Top News",
         "tid": "09:45",
         "lenke": "https://www.cnbc.com/2026/11/18/nvidia-lutnick-china-ai-megaspeed-cantor-fitzgerald.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvor viktige er Nvidia og Jensen Huang for den amerikanske økonomien?",
-        "kilde": "BBC Business",
-        "tid": "06:04",
-        "lenke": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Nvidia sier at de ikke vil gjeninnsette Huang, samtidig som de rapporterer om skyhøyt salg",
-        "kilde": "BBC Business",
-        "tid": "01:18",
-        "lenke": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Europa planlegger å fange den neste bølgen av databrikker",
-        "kilde": "BBC Business",
-        "tid": "00:00",
-        "lenke": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ],
@@ -189,20 +193,6 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Vance skroter planen for å håndtere tekniske driftsstanser, mens Trump-administrasjonen insisterer på at hendelsene ikke er koblet til hverandre",
-        "kilde": "CNBC Top News",
-        "tid": "19:17",
-        "lenke": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Israel med ny offensiv – tre drept",
-        "kilde": "NRK Nyheter",
-        "tid": "14:43",
-        "lenke": "https://www.nrk.no/nyheter/israel-med-ny-offensiv-_-tre-drept-1.18084431",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Trump i Kina:  – Komisk",
         "kilde": "E24",
         "tid": "14:27",
@@ -212,18 +202,123 @@
     ],
     "VILLKORT": [
       {
+        "tittel": "Elon Musk sier at rekordbruken av penger på midtveigsvalget i USA var «ganske tåpelig»",
+        "kilde": "BBC Business",
+        "tid": "01:56",
+        "lenke": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "KI kommer ikke til å gjøre deg rik (2025)",
+        "kilde": "Hacker News",
+        "tid": "01:51",
+        "lenke": "https://colossus.com/article/ai-will-not-make-you-rich/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Vis HN: ADE-indeks – en kildebasert og rangert indeks over 975 agentiske kodingsverktøy",
+        "kilde": "Hacker News",
+        "tid": "01:33",
+        "lenke": "https://adeindex.com",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "FailTrace – Gjenskap en mislykket kjøring av GitHub Actions lokalt fra URL-adressen",
+        "kilde": "Hacker News",
+        "tid": "01:30",
+        "lenke": "https://github.com/Ri4dH/failtrace",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "«Jeg har vært hjemmeværende mor»: Jeg er 50 år og har en kronisk sykdom. Mannen min mistet jobben. Bør han tømme 401(k)-en sin?",
+        "kilde": "MarketWatch",
+        "tid": "01:00",
+        "lenke": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Gemini 4 Neon ser ut som en konkurrent til Opus 5.5",
+        "kilde": "Hacker News",
+        "tid": "00:29",
+        "lenke": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kash Patel hopper over høringen i Representantenes hus etter Mar-a-Lago-gallaen med 50 000 dollar i adgangsavgift",
+        "kilde": "CNBC Top News",
+        "tid": "00:08",
+        "lenke": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Militært vogntog av veien i Troms",
+        "kilde": "NRK Nyheter",
+        "tid": "00:01",
+        "lenke": "https://www.nrk.no/norge/militaert-vogntog-kjorte-av-veien-i-troms-1.18084632",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Seksuelle overgrep hos McDonald's: «De ventet på at de yngre jentene skulle fylle 18»",
+        "kilde": "BBC Business",
+        "tid": "00:00",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Hvorfor har Waymo fjernet alle sine selvkjørende biler fra amerikanske motorveier?",
+        "kilde": "BBC Business",
+        "tid": "23:47",
+        "lenke": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "De syv Anthropic-grunnleggerne som er i ferd med å bli multimilliardærer",
+        "kilde": "BBC Business",
+        "tid": "23:42",
+        "lenke": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Gilts vs. kilts: Hva skjer med skotske statsobligasjoner?",
+        "kilde": "BBC Business",
+        "tid": "23:01",
+        "lenke": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Medier: Anthropic-aksjen prises til 83 dollar",
+        "kilde": "NRK Nyheter",
+        "tid": "22:04",
+        "lenke": "https://www.nrk.no/nyheter/medier_-anthropic-aksjen-prises-til-83-dollar-1.18084614",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Er trygdesystemet et pyramidespill? Nei, men frykt gir næring til slik snakk.",
+        "kilde": "MarketWatch",
+        "tid": "22:00",
+        "lenke": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Medier: Anthropic gjør tidenes største børsnotering",
+        "kilde": "E24",
+        "tid": "21:51",
+        "lenke": "https://e24.no/boers-og-finans/i/xJPedp/anthropic-gjoer-tidenes-stoerste-boersnotering-aksjen-prises-til-83-dollar-melder-flere-medier?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Administrerende direktør ble informant: Hvordan FDA bygget en sak mot toppledere som lovet billige medisiner",
+        "kilde": "CNBC Top News",
+        "tid": "21:07",
+        "lenke": "https://www.cnbc.com/2026/11/18/fda-canarx-case-informant.html",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Tidenes dyreste biltyveri",
         "kilde": "E24",
         "tid": "20:46",
         "lenke": "https://e24.no/internasjonal-oekonomi/i/wdPKPn/tidenes-dyreste-biltyveri?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Grand Theft Callout: «GTA 6»-fans skulker jobben for å spille – og noen selskaper gjør spillets lansering til en fridag",
-        "kilde": "MarketWatch",
-        "tid": "20:29",
-        "lenke": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Sentralbanktopper vil ha renteheving i USA",
@@ -233,20 +328,6 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Search Browser – Minimalistisk WebKit-nettleser med støtte for Chrome-utvidelser",
-        "kilde": "Hacker News",
-        "tid": "20:04",
-        "lenke": "https://searchbrowser.app/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Sexp-matrise",
-        "kilde": "Hacker News",
-        "tid": "20:01",
-        "lenke": "https://lisper.cc/ideas/entangle.html",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Sør-Korea setter landet på pause for eksamen",
         "kilde": "E24",
         "tid": "19:41",
@@ -254,32 +335,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "DaisyRose-27B: RL med 1 200 oppgaver tok Qwen3.8 fra 5,6 % til 12 % på Terminal-Bench 4.1",
-        "kilde": "Hacker News",
-        "tid": "19:39",
-        "lenke": "https://www.radixark.com/blog/daisyrose-27b",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Washington jobber på spreng for å komme til bunns i det økende antallet tekniske svikt i hele USA",
-        "kilde": "MarketWatch",
-        "tid": "19:39",
-        "lenke": "https://www.marketwatch.com/story/washington-is-scrambling-to-get-to-the-bottom-of-the-growing-number-of-tech-outages-across-america-66fbf299?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Den fordømte Nasjonsligaen",
         "kilde": "NRK Nyheter",
         "tid": "19:35",
         "lenke": "https://www.nrk.no/sport/den-fordomte-nasjonsligaen-1.18084323",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Jeg er i 40-årene. Bør jeg godta en lavere pensjon i bytte mot å oppgi mannen min eller barnet mitt som begunstiget?",
-        "kilde": "MarketWatch",
-        "tid": "19:30",
-        "lenke": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Instruktør påkjørt under mørkekjøringskurs",
@@ -293,27 +353,6 @@
         "kilde": "Federal Reserve",
         "tid": "19:00",
         "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Genie 4 er nå tilgjengelig",
-        "kilde": "Hacker News",
-        "tid": "18:49",
-        "lenke": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Mannen min er lykkelig pensjonist ved 64 års alder og mener at jeg bør fortsette å jobbe. Er han rettferdig?",
-        "kilde": "MarketWatch",
-        "tid": "18:30",
-        "lenke": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Etterforskere gjør fremskritt i jakten på årsaken til FAAs flystopp",
-        "kilde": "CNBC Top News",
-        "tid": "18:13",
-        "lenke": "https://www.cnbc.com/2026/11/18/faa-ground-stop-router-investigation.html",
         "engelsk_kilde": true
       },
       {
@@ -364,41 +403,6 @@
         "tid": "14:08",
         "lenke": "https://e24.no/boers-og-finans/i/bk5jgd/dette-kan-gi-anthropic-fall?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "De syv Anthropic-grunnleggerne som er i ferd med å bli multimilliardærer",
-        "kilde": "BBC Business",
-        "tid": "13:55",
-        "lenke": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Mann døde av skadene etter påkjørsel",
-        "kilde": "NRK Nyheter",
-        "tid": "13:54",
-        "lenke": "https://www.nrk.no/ostfold/mann-dode-av-skadene-etter-pakjorsel-mellom-fotgjengerfelt-1.18084012",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Fagforening: Kvinner jobbar ein ekstra dag «gratis» i år: – Burde seie klart imot",
-        "kilde": "NRK Nyheter",
-        "tid": "13:41",
-        "lenke": "https://www.nrk.no/nordland/fagforening_-kvinner-jobbar-ein-ekstra-dag-_gratis_-i-ar_-_-burde-seie-klart-imot-1.18083677",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Sikkerhetsfeil oppdaget i Java, verdens tredje største programmeringsspråk",
-        "kilde": "BBC Business",
-        "tid": "08:47",
-        "lenke": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Jeff Bezos sier at han var «sterkt involvert» i å velge Robert Pattinson som ny Bond",
-        "kilde": "BBC Business",
-        "tid": "04:00",
-        "lenke": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
       }
     ]
   }
