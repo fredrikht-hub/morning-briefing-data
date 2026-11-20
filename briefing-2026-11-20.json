@@ -1,47 +1,54 @@
 {
   "dato": "2026-11-20",
   "dato_norsk": "Fredag 20. november 2026",
-  "generert_kl": "13:54",
+  "generert_kl": "17:29",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Handelen mellom USA og Kina, Taiwan og spenningene innen teknologi forblir uløste når Trump vender tilbake fra Asia",
+      "tittel": "Jensen Huang ble ikke nevnt i de siste samtalene med Kina, sier Bessent",
       "kilde": "CNBC Top News",
-      "tid": "13:29",
-      "lenke": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
+      "tid": "17:11",
+      "lenke": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Equinor-brann stenger oljeplattform ut året: – Krevst eit omfattande arbeid",
+      "tittel": "Federal Reserve Board offentliggjør resultatene av en undersøkelse blant ledende finansansvarlige i banker om deres strategier og praksis for forvaltning av reservesaldoer",
+      "kilde": "Federal Reserve",
+      "tid": "15:00",
+      "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "Nvidias aksje er på vei mot en periode med ukentlige tap som ikke er sett siden 2008",
+      "kilde": "MarketWatch",
+      "tid": "16:19",
+      "lenke": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "«Ingen» så Norge knuse verdenseliten: – Det er litt trist",
       "kilde": "NRK Nyheter",
-      "tid": "12:53",
-      "lenke": "https://www.nrk.no/rogaland/equinor-brann-stenger-visund-feltet-i-nordsjoen-ut-aret-1.18085802",
+      "tid": "16:56",
+      "lenke": "https://www.nrk.no/sport/hopp_-_ingen_-sa-norge-knuse-verdenseliten-pa-lillehammer-1.18086088",
       "engelsk_kilde": false
     },
     {
-      "tittel": "Anthropic trosser oddsen og gjennomfører en rekordstor børsnotering til tross for et «massivt forstyrret» marked",
+      "tittel": "Gap-aksjen stiger kraftig etter at forhandleren sier at Old Navys snuoperasjon viser tegn til forbedring",
       "kilde": "CNBC Top News",
-      "tid": "13:25",
-      "lenke": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Anthropics aksje faller nærmere børsintroduksjonsprisen og trekker ned AI-handelen",
-      "kilde": "MarketWatch",
-      "tid": "13:48",
-      "lenke": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Disse fem forsvarsaksjene tiltrekker seg millioner i innsidespill før oppsvinget i militærutgiftene i 2027",
-      "kilde": "MarketWatch",
-      "tid": "12:45",
-      "lenke": "https://www.marketwatch.com/story/these-5-defense-stocks-are-drawing-millions-in-insider-bets-ahead-of-military-spending-boom-in-2027-8b3b556b?mod=mw_rss_topstories",
+      "tid": "17:20",
+      "lenke": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "NORGE": [
+      {
+        "tittel": "«Ingen» så Norge knuse verdenseliten: – Det er litt trist",
+        "kilde": "NRK Nyheter",
+        "tid": "16:56",
+        "lenke": "https://www.nrk.no/sport/hopp_-_ingen_-sa-norge-knuse-verdenseliten-pa-lillehammer-1.18086088",
+        "engelsk_kilde": false
+      },
       {
         "tittel": "Equinor-brann stenger oljeplattform ut året: – Krevst eit omfattande arbeid",
         "kilde": "NRK Nyheter",
@@ -57,84 +64,70 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Flyktet fra Gaza til Norge, nå må hun reise til Ukraina",
-        "kilde": "NRK Nyheter",
-        "tid": "08:36",
-        "lenke": "https://www.nrk.no/tromsogfinnmark/flyktet-fra-gaza-til-norge_-na-ma-hun-reise-til-ukraina-1.18084497",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Equinor har stanset cyberangrep",
         "kilde": "E24",
         "tid": "08:26",
         "lenke": "https://e24.no/boers-og-finans/i/0vnqbG/equinor-har-stanset-cyberangrep-etter-flere-dager-har-meldt-hendelsen-til-politiet?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Nedgang på Oslo Børs",
-        "kilde": "E24",
-        "tid": "08:00",
-        "lenke": "https://e24.no/boers-og-finans/i/ez8RGy/nedgang-paa-oslo-boers?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Norge kan få revansje mot England: – De man drømte om",
-        "kilde": "NRK Nyheter",
-        "tid": "05:09",
-        "lenke": "https://www.nrk.no/sport/slik-blir-landslagsaret-2027_-sluttspill-og-em-kvalifisering-1.18084469",
-        "engelsk_kilde": false
       }
     ],
     "MAKRO": [
       {
-        "tittel": "Federal Reserve Board iverksetter håndhevelsestiltak mot tidligere ansatt i First Security Bancorp",
+        "tittel": "Jensen Huang ble ikke nevnt i de siste samtalene med Kina, sier Bessent",
+        "kilde": "CNBC Top News",
+        "tid": "17:11",
+        "lenke": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Federal Reserve Board offentliggjør resultatene av en undersøkelse blant ledende finansansvarlige i banker om deres strategier og praksis for forvaltning av reservesaldoer",
         "kilde": "Federal Reserve",
-        "tid": "16:00",
-        "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
+        "tid": "15:00",
+        "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
         "engelsk_kilde": true
       }
     ],
     "MARKEDER": [
       {
-        "tittel": "Anthropics aksje faller nærmere børsintroduksjonsprisen og trekker ned AI-handelen",
+        "tittel": "Gap-aksjen stiger kraftig etter at forhandleren sier at Old Navys snuoperasjon viser tegn til forbedring",
+        "kilde": "CNBC Top News",
+        "tid": "17:20",
+        "lenke": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Anthropics fall forsterker AI-salget",
+        "kilde": "Hacker News",
+        "tid": "17:16",
+        "lenke": "https://boamaehg.blogspot.com/2026/11/nasdaq-slides-as-anthropic-plunge-drags.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Anthropic-aksjene faller dagen etter en suksessrik børsnotering",
+        "kilde": "BBC Business",
+        "tid": "16:27",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Investorer flyktet til helseaksjer for å oppnå trygghet. Nå faller aksjene i forsikringsselskaper og sykehus kraftig.",
         "kilde": "MarketWatch",
-        "tid": "13:48",
+        "tid": "15:53",
+        "lenke": "https://www.marketwatch.com/story/investors-fled-to-healthcare-stocks-for-safety-now-insurance-and-hospital-shares-are-plunging-9cb6a96c?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Anthropics aksje faller nærmere børsintroduksjonsprisen og trekker ned KI-handelen",
+        "kilde": "MarketWatch",
+        "tid": "15:38",
         "lenke": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Anthropic trosser oddsen og gjennomfører en rekordstor børsnotering til tross for et «massivt forstyrret» marked",
+        "tittel": "Bull-markedet har et nytt problem. «Smarte penger» selger",
         "kilde": "CNBC Top News",
-        "tid": "13:25",
-        "lenke": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Disse fem forsvarsaksjene tiltrekker seg millioner i innsidespill før oppsvinget i militærutgiftene i 2027",
-        "kilde": "MarketWatch",
-        "tid": "12:45",
-        "lenke": "https://www.marketwatch.com/story/these-5-defense-stocks-are-drawing-millions-in-insider-bets-ahead-of-military-spending-boom-in-2027-8b3b556b?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Bank of America-strateg advarer om at en ond sirkel kan ramme aksjemarkedet når Wall Street undervurderer risikoen for en hard landing",
-        "kilde": "MarketWatch",
-        "tid": "12:43",
-        "lenke": "https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "GameStop har forvandlet seg fra en meme-aksje til et «ekte selskap», sier analytikere",
-        "kilde": "MarketWatch",
-        "tid": "12:24",
-        "lenke": "https://www.marketwatch.com/story/gamestop-has-transformed-from-a-meme-stock-into-a-real-company-analysts-say-7ae5c7ed?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Anthropic steg kraftig ved børsdebuten, mens aksjemarkedet falt kraftig. Bare én annen børsnotering har klart det siden 1990.",
-        "kilde": "MarketWatch",
-        "tid": "12:19",
-        "lenke": "https://www.marketwatch.com/story/anthropic-soared-in-its-debut-as-stocks-tanked-only-one-other-ipo-has-done-that-since-1990-77b75258?mod=mw_rss_topstories",
+        "tid": "14:15",
+        "lenke": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
         "engelsk_kilde": true
       },
       {
@@ -150,21 +143,14 @@
         "tid": "06:00",
         "lenke": "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html",
         "engelsk_kilde": true
-      },
-      {
-        "tittel": "Anthropic blir et av verdens mest verdifulle børsnoterte selskaper ved børsdebuten",
-        "kilde": "BBC Business",
-        "tid": "23:33",
-        "lenke": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "Intuits pessimistiske utsikter forsterker Wall Streets bekymring for programvareselskaper",
+        "tittel": "Nvidias aksje er på vei mot en periode med ukentlige tap som ikke er sett siden 2008",
         "kilde": "MarketWatch",
-        "tid": "12:59",
-        "lenke": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
+        "tid": "16:19",
+        "lenke": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -175,81 +161,149 @@
         "engelsk_kilde": true
       }
     ],
-    "GEOPOLITIKK": [
+    "VILLKORT": [
       {
-        "tittel": "Handelen mellom USA og Kina, Taiwan og spenningene innen teknologi forblir uløste når Trump vender tilbake fra Asia",
-        "kilde": "CNBC Top News",
-        "tid": "13:29",
-        "lenke": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
+        "tittel": "Medicare-mottakere kan unngå sykehjem og få billigere hjemmepleie i henhold til et nytt lovforslag",
+        "kilde": "MarketWatch",
+        "tid": "17:15",
+        "lenke": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Det hvite hus erstatter cyberdirektør Sean Cairncross midt under utbredte teknologiske driftsstanser",
-        "kilde": "CNBC Top News",
-        "tid": "10:59",
-        "lenke": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html",
+        "tittel": "Mannen min brukte 80 000 dollar på en båt, men sier at planene mine om et keramikkverksted til 100 000 dollar er uansvarlige. Hvem har rett?",
+        "kilde": "MarketWatch",
+        "tid": "17:15",
+        "lenke": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
         "engelsk_kilde": true
-      }
-    ],
-    "VILLKORT": [
+      },
       {
-        "tittel": "Anthropic skaffer til veie totalt 93,5 milliarder USD ettersom garantistene kjøper opp «greenshoe»-overtildelingen",
+        "tittel": "Kjøre to PSP-emulatorer på én Switch 2 og dele én via GameShare",
+        "kilde": "Hacker News",
+        "tid": "17:14",
+        "lenke": "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "PostgreSQL 19: En praktisk gjennomgang med kjørbare nettlesereksempler",
+        "kilde": "Hacker News",
+        "tid": "17:08",
+        "lenke": "https://certuvia.com/blog/postgres-19",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg er livredd for et børskrakk. Bør jeg sette inn 400 000 $ av pensjonssparingen min på 1 million $ i en annuitet?",
+        "kilde": "MarketWatch",
+        "tid": "17:05",
+        "lenke": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Byggekostnadene for datasentre stiger med 13 % i 2026",
         "kilde": "CNBC Top News",
-        "tid": "13:47",
+        "tid": "16:52",
+        "lenke": "https://www.cnbc.com/2026/11/20/data-center-construction-costs-soar-13-percent-in-2026.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Jeg heter Peter Roberts, og jeg er en immigrasjonsadvokat som jobber for YC og oppstartsbedrifter. Spør meg hva som helst.",
+        "kilde": "Hacker News",
+        "tid": "16:45",
+        "lenke": "https://news.ycombinator.com/item?id=50577613",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Faisal Islam: Denne kostnadsreduserende avtalen mellom Storbritannia og EU betyr ikke at lavere priser vil følge",
+        "kilde": "BBC Business",
+        "tid": "16:41",
+        "lenke": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "«Kjøperne er ute etter blod»: Med boligsalget på et rekordlavt nivå er det kjøperne som bestemmer",
+        "kilde": "MarketWatch",
+        "tid": "16:37",
+        "lenke": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Språkmodeller kan omskrive sine egne vekter",
+        "kilde": "Hacker News",
+        "tid": "16:29",
+        "lenke": "https://arxiv.org/abs/2611.21885",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Tidligere GM-administrerende direktør om Mary Barras suksjonsplanlegging: «Det kommer til å bli tøft»",
+        "kilde": "CNBC Top News",
+        "tid": "15:50",
+        "lenke": "https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kongen inviterer til takkekonsert etter kong Haralds gravferd",
+        "kilde": "NRK Nyheter",
+        "tid": "15:49",
+        "lenke": "https://www.nrk.no/nyheter/kongen-inviterer-til-takkekonsert-etter-kong-haralds-gravferd-1.18086069",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Airbnbs omstridte nye husregler trer i kraft",
+        "kilde": "BBC Business",
+        "tid": "15:48",
+        "lenke": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Dette foreslåtte tiltaket for å rette opp i trygdesystemet kan legge til billioner i statsgjelden",
+        "kilde": "MarketWatch",
+        "tid": "15:28",
+        "lenke": "https://www.marketwatch.com/story/this-proposed-social-security-fix-could-add-trillions-to-the-national-debt-17197e91?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Warsh ønsker at Fed-tjenestepersoner skal snakke mindre. I stedet snakker de mer",
+        "kilde": "CNBC Top News",
+        "tid": "15:20",
+        "lenke": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Etter hvert som Anthropic-aksjene faller, kjemper investorene for å sikre seg. Det kan bli veldig dyrt",
+        "kilde": "CNBC Top News",
+        "tid": "15:12",
+        "lenke": "https://www.cnbc.com/2026/11/20/as-anthropic-shares-tank-investors-scramble-to-hedge-it-could-be-very-expensive.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Anthropic skaffer til sammen 93,5 milliarder dollar etter at garantister kjøper opp «greenshoe»-overtildeling",
+        "kilde": "CNBC Top News",
+        "tid": "14:59",
         "lenke": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "KI kan hjelpe deg med å finne ferietilbud – men den er ikke så god til å oppdage svindel, sier eksperter",
-        "kilde": "CNBC Top News",
-        "tid": "13:15",
-        "lenke": "https://www.cnbc.com/2026/11/20/ai-holiday-shopping-scams.html",
-        "engelsk_kilde": true
+        "tittel": "Første gang i lagmannsretten: Sykepleier får ikke erstatning etter covid-vaksine",
+        "kilde": "NRK Nyheter",
+        "tid": "14:18",
+        "lenke": "https://www.nrk.no/trondelag/forste-gang-i-lagmannsretten_-sykepleier-far-ikke-erstatning-etter-covid-vaksine-1.18075458",
+        "engelsk_kilde": false
       },
       {
-        "tittel": "Cathie Woods ARK Invest var en stor kjøper av Anthropic, og forteller CNBC at hun er «ganske optimistisk»",
-        "kilde": "CNBC Top News",
-        "tid": "13:11",
-        "lenke": "https://www.cnbc.com/2026/11/20/cathie-woods-ark-invest-was-a-big-buyer-of-anthropic-during-debut.html",
-        "engelsk_kilde": true
+        "tittel": "Nye milliarder til Norgespris: – Stor usikkerhet",
+        "kilde": "E24",
+        "tid": "14:15",
+        "lenke": "https://e24.no/energi-og-klima/i/r8A4Gw/nye-milliarder-til-norgespris-stor-usikkerhet?utm_medium=rss",
+        "engelsk_kilde": false
       },
       {
-        "tittel": "GTA 6 fører til en økning i etterspørselen etter nedlastinger, ettersom det anslås at salget overstiger 2,3 milliarder dollar",
+        "tittel": "GTA 6 fører til en kraftig økning i etterspørselen etter nedlastinger, ettersom det anslås at salget overstiger 2,3 milliarder dollar",
         "kilde": "BBC Business",
         "tid": "13:08",
         "lenke": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Er trygdesystemet et pyramidespill? Nei. Ikke la deg rive med av undergangsprofesier fra 1930-tallet.",
-        "kilde": "MarketWatch",
-        "tid": "13:00",
-        "lenke": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Mannen min brukte 80 000 dollar på en båt, men sier at planene mine om et keramikkverksted til 100 000 dollar er uansvarlige. Hvem har rett?",
-        "kilde": "MarketWatch",
-        "tid": "12:30",
-        "lenke": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "A24 har et strålende år på kino. Det kan gi HBO Max et forsprang innen strømming",
-        "kilde": "CNBC Top News",
-        "tid": "12:00",
-        "lenke": "https://www.cnbc.com/2026/11/20/a24-box-office-hbo-max.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Avvisning av billige stoffer, høyere priser: Hvorfor kundene ber om bedre klær",
-        "kilde": "CNBC Top News",
-        "tid": "12:00",
-        "lenke": "https://www.cnbc.com/2026/11/20/clothing-prices-polyester-cotton-quality.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Sekundduell i skiopninga – Nyenget vann framfor Hjelmeset",
+        "tittel": "Rørt av kjærasten etter etterlengta comeback: – Ho betyr mykje",
         "kilde": "NRK Nyheter",
         "tid": "11:28",
         "lenke": "https://www.nrk.no/sport/langrenn_-martin-lowstrom-nyenget-vann-framfor-lars-agnar-hjelmeset-i-skiopninga-1.18085706",
@@ -284,25 +338,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Utviklingen av Oxygene",
-        "kilde": "Hacker News",
-        "tid": "10:41",
-        "lenke": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Budsjettforhandlingene: – Er på et kritisk punkt",
         "kilde": "E24",
         "tid": "10:21",
         "lenke": "https://e24.no/norsk-oekonomi/i/OypX4l/sv-lederen-kommer-ikke-til-aa-klare-budsjettfristen?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Frostbite: En ny CPU-arkitektur oppdaget, designet og verifisert av KI",
-        "kilde": "Hacker News",
-        "tid": "10:01",
-        "lenke": "https://architectlabs.com/blog/frostbite",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Ukens Investtech: Disse aksjene bør du eie i desember",
@@ -312,45 +352,10 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Airbnbs kontroversielle nye husregler trer i kraft",
-        "kilde": "BBC Business",
-        "tid": "09:55",
-        "lenke": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hva folk bygger, oppdaget gjennom nye domener",
-        "kilde": "Hacker News",
-        "tid": "09:54",
-        "lenke": "https://startups.novumsignals.com/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Britiske kjøleskap sikret mot hackere",
-        "kilde": "Hacker News",
-        "tid": "09:52",
-        "lenke": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvis du ikke kan forklare noe på en enkel måte, forstår du det ikke (2017)",
-        "kilde": "Hacker News",
-        "tid": "09:43",
-        "lenke": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Anthropic faller 6 prosent i førhandelen",
+        "tittel": "Anthropic faller kraftig dagen etter brakdebut",
         "kilde": "E24",
         "tid": "09:22",
         "lenke": "https://e24.no/boers-og-finans/i/KL3X96/anthropic-faller-6-prosent-i-foerhandelen-etter-historisk-boersdebut?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Slår seg konkurs etter Økokrims razzia",
-        "kilde": "NRK Nyheter",
-        "tid": "09:14",
-        "lenke": "https://www.nrk.no/tromsogfinnmark/bekrefter-konkurs-i-havoysund-fisk-1.18085672",
         "engelsk_kilde": false
       },
       {
@@ -386,13 +391,6 @@
         "kilde": "BBC Business",
         "tid": "00:08",
         "lenke": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Titusenvis av kjøleskap i Storbritannia sikret mot hackere i en hemmelig landsdekkende operasjon",
-        "kilde": "BBC Business",
-        "tid": "00:02",
-        "lenke": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ]
