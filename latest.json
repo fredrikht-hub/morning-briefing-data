@@ -1,49 +1,56 @@
 {
-  "dato": "2026-11-19",
-  "dato_norsk": "Torsdag 19. november 2026",
-  "generert_kl": "21:13",
+  "dato": "2026-11-20",
+  "dato_norsk": "Fredag 20. november 2026",
+  "generert_kl": "02:08",
   "intro": "Oversikt over markedsrelevante nyheter fra de siste 24 timene.",
   "dagens_fokus": [
     {
-      "tittel": "Trump kjøpte Nvidia, Palantir og SpaceX i september som følge av føderale avtaler, og båndene til Det hvite hus ble sterkere",
+      "tittel": "Japans kjerneinflasjon stiger til årets høyeste nivå ettersom utløpet av energisubsidier presser opp forbrukerprisene",
       "kilde": "CNBC Top News",
-      "tid": "19:43",
-      "lenke": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
+      "tid": "01:49",
+      "lenke": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "AMD faller på rapport fra shortselgere om påstått Kina-eksponering",
+      "tittel": "Californias statsadvokat utsteder stevning til Nvidia i forbindelse med etterforskning av omdirigering av brikker til Kina",
       "kilde": "CNBC Top News",
-      "tid": "18:24",
+      "tid": "23:21",
+      "lenke": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
+      "engelsk_kilde": true
+    },
+    {
+      "tittel": "AMD faller på rapport fra shortselgere om påstått eksponering mot Kina",
+      "kilde": "CNBC Top News",
+      "tid": "00:08",
       "lenke": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "Jensen Huangs – og Nvidias – juridiske risiko øker kraftig",
+      "tittel": "SoftBank faller over 16 % da AI-salget rammer asiatiske teknologiske aksjer etter Anthropics debut",
       "kilde": "CNBC Top News",
-      "tid": "18:44",
-      "lenke": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
+      "tid": "01:34",
+      "lenke": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
       "engelsk_kilde": true
     },
     {
-      "tittel": "«Nvidias turbulens har skremt meg»: Skal jeg selge aksjene mine og kjøpe eiendom – eller ri stormen av?",
+      "tittel": "Etter Anthropics «både gledelige og triste» børsnotering er dette det som ligger foran oss",
       "kilde": "MarketWatch",
-      "tid": "20:50",
-      "lenke": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-      "engelsk_kilde": true
-    },
-    {
-      "tittel": "Nvidias aksje faller ytterligere. Den har tapt 611 milliarder dollar på seks børsdager.",
-      "kilde": "MarketWatch",
-      "tid": "20:33",
-      "lenke": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
+      "tid": "23:56",
+      "lenke": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
       "engelsk_kilde": true
     }
   ],
   "kategorier": {
     "MAKRO": [
       {
-        "tittel": "Federal Reserve Board iverksetter håndhevelsestiltak mot en tidligere ansatt i First Security Bancorp",
+        "tittel": "Japans kjerneinflasjon stiger til årets høyeste nivå ettersom utløpet av energisubsidier presser opp forbrukerprisene",
+        "kilde": "CNBC Top News",
+        "tid": "01:49",
+        "lenke": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Federal Reserve Board iverksetter håndhevelsestiltak mot tidligere ansatt i First Security Bancorp",
         "kilde": "Federal Reserve",
         "tid": "16:00",
         "lenke": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
@@ -52,24 +59,38 @@
     ],
     "MARKEDER": [
       {
-        "tittel": "Hvorfor Micron, Broadcom og andre KI-aksjer har gitt avkall på gevinstene sine",
-        "kilde": "MarketWatch",
-        "tid": "19:43",
-        "lenke": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Anthropic når 2 billioner USD ved Nasdaq-debuten",
-        "kilde": "Hacker News",
-        "tid": "17:02",
-        "lenke": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Anthropic-børsnotering: Investorer som selger aksjen raskt, kan risikere meglergebyr",
+        "tittel": "SoftBank faller over 16 % da AI-salget rammer asiatiske teknologiske aksjer etter Anthropics debut",
         "kilde": "CNBC Top News",
-        "tid": "16:31",
-        "lenke": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html",
+        "tid": "01:34",
+        "lenke": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Etter Anthropics «både gledelige og triste» børsnotering er dette det som ligger foran oss",
+        "kilde": "MarketWatch",
+        "tid": "23:56",
+        "lenke": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Anthropic blir et av verdens mest verdifulle børsnoterte selskaper ved børsdebuten",
+        "kilde": "BBC Business",
+        "tid": "23:33",
+        "lenke": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Dette var de eneste aksjene som steg midt i aksjemarkedets kollaps torsdag",
+        "kilde": "MarketWatch",
+        "tid": "23:11",
+        "lenke": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Anthropics aksje stiger ved børsdebuten – og resten av markedet faller uansett",
+        "kilde": "MarketWatch",
+        "tid": "22:12",
+        "lenke": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
@@ -78,56 +99,58 @@
         "tid": "16:26",
         "lenke": "https://e24.no/boers-og-finans/i/Pv9mGR/amd-raser-paa-wall-street?utm_medium=rss",
         "engelsk_kilde": false
-      },
+      }
+    ],
+    "ENERGI_RAAVARER": [
       {
-        "tittel": "Simon Jack: Kan Anthropics rekordstore børsnotering hindre at AI-boblen sprekker?",
-        "kilde": "BBC Business",
-        "tid": "21:28",
-        "lenke": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+        "tittel": "Gjenoppbygging av min lokale stemmeassistent-pipeline",
+        "kilde": "Hacker News",
+        "tid": "20:57",
+        "lenke": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
         "engelsk_kilde": true
       }
     ],
     "TEKNOLOGI": [
       {
-        "tittel": "«Nvidias turbulens har skremt meg»: Skal jeg selge aksjene mine og kjøpe eiendom – eller ri stormen av?",
-        "kilde": "MarketWatch",
-        "tid": "20:50",
-        "lenke": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Amazon-appen advarer New York om høyere kostnader dersom Mamdani-loven om levering vedtas",
+        "tittel": "AMD faller på rapport fra shortselgere om påstått eksponering mot Kina",
         "kilde": "CNBC Top News",
-        "tid": "20:46",
-        "lenke": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
+        "tid": "00:08",
+        "lenke": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Nvidias aksje faller ytterligere. Den har tapt 611 milliarder dollar på seks børsdager.",
+        "tittel": "Californias statsadvokat utsteder stevning til Nvidia i forbindelse med etterforskning av omdirigering av brikker til Kina",
+        "kilde": "CNBC Top News",
+        "tid": "23:21",
+        "lenke": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "California retter søkelyset mot Nvidia i en undersøkelse av AI-brikker i Kina",
+        "kilde": "BBC Business",
+        "tid": "23:04",
+        "lenke": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Intuits dystre utsikter forsterker Wall Streets bekymring for programvareselskaper",
         "kilde": "MarketWatch",
-        "tid": "20:33",
-        "lenke": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
+        "tid": "22:53",
+        "lenke": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Trump kjøpte Nvidia, Palantir og SpaceX i september som følge av føderale avtaler, og båndene til Det hvite hus ble sterkere",
+        "tittel": "Trump kjøpte Nvidia, Palantir og SpaceX i september etter hvert som føderale avtaler og bånd til Det hvite hus ble sterkere",
         "kilde": "CNBC Top News",
         "tid": "19:43",
         "lenke": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Jensen Huangs – og Nvidias – juridiske risiko øker kraftig",
+        "tittel": "Jensen Huangs – og Nvidias – juridiske eksponering øker kraftig",
         "kilde": "CNBC Top News",
         "tid": "18:44",
         "lenke": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "AMD faller på rapport fra shortselgere om påstått Kina-eksponering",
-        "kilde": "CNBC Top News",
-        "tid": "18:24",
-        "lenke": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
         "engelsk_kilde": true
       }
     ],
@@ -135,32 +158,123 @@
       {
         "tittel": "Kongressen vedtar lovforslag for å beskytte eldre investorer mot økonomisk svindel",
         "kilde": "CNBC Top News",
-        "tid": "20:36",
+        "tid": "22:23",
         "lenke": "https://www.cnbc.com/2026/11/19/financial-exploitation-prevention-act-older-investors-fraud.html",
         "engelsk_kilde": true
       }
     ],
     "VILLKORT": [
       {
+        "tittel": "Jeg er livredd for et børskrakk. Bør jeg sette inn 400 000 USD av pensjonssparingen min på 1 million USD i en annuitet?",
+        "kilde": "MarketWatch",
+        "tid": "01:30",
+        "lenke": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kona mi finansierer familiens reiser til New York, og det tærer på sparepengene våre. Bør jeg be henne om å slutte?",
+        "kilde": "MarketWatch",
+        "tid": "01:22",
+        "lenke": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
         "tittel": "Handelsdepartementet godkjente salg av mer enn 879 000 AI-brikker til kinesiske selskaper, sier representant Mast",
         "kilde": "CNBC Top News",
-        "tid": "21:08",
+        "tid": "00:53",
         "lenke": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
         "engelsk_kilde": true
       },
       {
-        "tittel": "«Jeg følte meg så sett»: Hvorfor familier over hele USA ler – og gråter – over SNL-sketsjen «Sister»",
-        "kilde": "MarketWatch",
-        "tid": "21:06",
-        "lenke": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
+        "tittel": "Airbnbs nye, omstridte husregler trer i kraft",
+        "kilde": "BBC Business",
+        "tid": "00:12",
+        "lenke": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       },
       {
-        "tittel": "Stigende helsekostnader presser premiene for Medicare del B oppover",
-        "kilde": "MarketWatch",
-        "tid": "21:05",
-        "lenke": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
+        "tittel": "Fisk og egg ved skrivebordet? Hva man bør og ikke bør gjøre i lunsjpausen",
+        "kilde": "BBC Business",
+        "tid": "00:08",
+        "lenke": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
+      },
+      {
+        "tittel": "Titusenvis av kjøleskap i Storbritannia sikret mot hackere i en hemmelig landsdekkende operasjon",
+        "kilde": "BBC Business",
+        "tid": "00:02",
+        "lenke": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Anthropic skulle redde KI-handelen. Hva gikk galt?",
+        "kilde": "CNBC Top News",
+        "tid": "00:00",
+        "lenke": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Gemini 4 Neon er den nye eneren på Models Engineering Index",
+        "kilde": "Hacker News",
+        "tid": "23:35",
+        "lenke": "https://git-aarvin.github.io/mei/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Kundeopplysninger fra Visa, Mastercard og JPMorgan lekket av hackere",
+        "kilde": "Hacker News",
+        "tid": "23:32",
+        "lenke": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "En av CoreWeaves medgrunnleggere har nettopp satset 30 millioner dollar på selskapets hardt rammede obligasjoner på en ukonvensjonell måte",
+        "kilde": "MarketWatch",
+        "tid": "22:41",
+        "lenke": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "RegExr: Midlertidig frakoblet",
+        "kilde": "Hacker News",
+        "tid": "22:27",
+        "lenke": "https://regexr.com/",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Synologys sikkerhetsråd",
+        "kilde": "Hacker News",
+        "tid": "22:13",
+        "lenke": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Markedene sender urovekkende signaler om tilstanden i økonomien",
+        "kilde": "MarketWatch",
+        "tid": "21:57",
+        "lenke": "https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Nordnet etter Anthropic-debut: – Mange tok gevinst",
+        "kilde": "E24",
+        "tid": "21:46",
+        "lenke": "https://e24.no/boers-og-finans/i/1vn8yB/nordnet-etter-anthropic-debut-mange-tok-gevinst?utm_medium=rss",
+        "engelsk_kilde": false
+      },
+      {
+        "tittel": "Intuit selger Mailchimp til Bending Spoons for 3,68 milliarder dollar",
+        "kilde": "CNBC Top News",
+        "tid": "21:40",
+        "lenke": "https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html",
+        "engelsk_kilde": true
+      },
+      {
+        "tittel": "Her førebur han seg på ein vinter med kjeft",
+        "kilde": "NRK Nyheter",
+        "tid": "21:32",
+        "lenke": "https://www.nrk.no/sport/xl/her-forebur-anund-lid-byggland-seg-pa-ein-vinter-med-kjeft-1.18072113",
+        "engelsk_kilde": false
       },
       {
         "tittel": "GTA sprenger grenser: – Gaming-feber",
@@ -170,25 +284,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "En medgrunnlegger av CoreWeave har nettopp satset 30 millioner dollar på selskapets hardt rammede obligasjoner på en uvanlig måte",
-        "kilde": "MarketWatch",
-        "tid": "20:28",
-        "lenke": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Anthropic: Sam Bankman-Fried gikk glipp av 360 milliarder",
         "kilde": "E24",
         "tid": "20:24",
         "lenke": "https://e24.no/boers-og-finans/i/g37KdL/anthropic-sam-bankman-fried-gikk-glipp-av-360-milliarder?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Hvorfor Walmart satser mer på levering av hurtigmat",
-        "kilde": "MarketWatch",
-        "tid": "20:24",
-        "lenke": "https://www.marketwatch.com/story/why-walmart-is-making-a-bigger-bet-on-fast-food-delivery-27263735?mod=mw_rss_topstories",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Norwegian: 5.000 kunder har fått lekket kortinformasjon",
@@ -203,13 +303,6 @@
         "tid": "19:58",
         "lenke": "https://www.nrk.no/nyheter/norwegian-ber-5000-kundar-sperre-bankkortet-etter-datainnbrot-1.18085456",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Walmart hever prognosen etter at administrerende direktør forteller CNBC at detaljisten har som mål å holde prisene lave til tross for skyhøye drivstoffkostnader",
-        "kilde": "CNBC Top News",
-        "tid": "19:58",
-        "lenke": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Nytt drama om Carlsen: – Selvfølgelig er det kynisk",
@@ -231,34 +324,6 @@
         "tid": "19:23",
         "lenke": "https://www.nrk.no/sport/milla-andreassen-mener-langrennslandslaget-er-splittet_-_-ekstremt-kjipt-1.18085391",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Vi er i 50-årene og livredde for et børskrakk. Bør vi sette 400 000 dollar av pensjonssparingen vår på 1 million dollar i en annuitet?",
-        "kilde": "MarketWatch",
-        "tid": "19:15",
-        "lenke": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Bør du begynne å ha kontanter på deg igjen i lys av de nylige bankavbruddene? Topprådgivere uttaler seg",
-        "kilde": "CNBC Top News",
-        "tid": "19:06",
-        "lenke": "https://www.cnbc.com/2026/11/19/banking-outages-emergency-cash.html",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Bør myndighetene bremse banebrytende KI? Jacob Coxon og Robin Hanson debatterer [video]",
-        "kilde": "Hacker News",
-        "tid": "18:47",
-        "lenke": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Spilleautomaten med 98 % sjanse: Hvordan betalt annonsering ble en utvinningsskatt",
-        "kilde": "Hacker News",
-        "tid": "18:35",
-        "lenke": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Her er katten Bagheera hjemme igjen etter elleve år: – En bit av livet har kommet tilbake",
@@ -296,25 +361,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Claude løser to uløste problemer innen fysikken for svarte hull",
-        "kilde": "Hacker News",
-        "tid": "17:30",
-        "lenke": "https://www.anthropic.com/research/claude-black-hole-physics",
-        "engelsk_kilde": true
-      },
-      {
         "tittel": "Gelius bekreftet som ordførerkandidat",
         "kilde": "NRK Nyheter",
         "tid": "17:30",
         "lenke": "https://www.nrk.no/sorlandet/gelius-bekreftet-som-ordforerkandidat-1.18085326",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Bukspyttkjertelkreft stoppet av virusinjeksjon hos tre pasienter",
-        "kilde": "Hacker News",
-        "tid": "17:25",
-        "lenke": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Dagmamma frifunnet i retten: – Jeg vet at jeg ikke har gjort noe for å skade Martine",
@@ -324,32 +375,11 @@
         "engelsk_kilde": false
       },
       {
-        "tittel": "Toppmøtet: Seier for Kina og Russland",
-        "kilde": "NRK Nyheter",
-        "tid": "16:51",
-        "lenke": "https://www.nrk.no/ytring/toppmotet_-seier-for-kina-og-russland-1.18084798",
-        "engelsk_kilde": false
-      },
-      {
         "tittel": "Hunter Group vil kjøpe Jacktel",
         "kilde": "E24",
         "tid": "15:41",
         "lenke": "https://e24.no/boers-og-finans/i/KL316E/hunter-group-vil-kjoepe-jacktel?utm_medium=rss",
         "engelsk_kilde": false
-      },
-      {
-        "tittel": "Brakdebut for Anthropic i historisk børsnotering",
-        "kilde": "E24",
-        "tid": "14:32",
-        "lenke": "https://e24.no/boers-og-finans/i/xJPXQQ/markant-tek-hopp-paa-wall-street-paa-anthropics-debutdag?utm_medium=rss",
-        "engelsk_kilde": false
-      },
-      {
-        "tittel": "Kash Patel uteblir fra høring i Representantenes hus etter Mar-a-Lago-galla med 50 000 $ i adgangsavgift",
-        "kilde": "CNBC Top News",
-        "tid": "14:15",
-        "lenke": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
-        "engelsk_kilde": true
       },
       {
         "tittel": "Viagogo kan ha brutt loven om skjulte gebyrer, fastslår tilsynsmyndigheten foreløpig",
@@ -366,38 +396,10 @@
         "engelsk_kilde": true
       },
       {
-        "tittel": "Elon Musk sier at rekordutgiftene på 446 millioner dollar til mellomvalget i USA var «ganske dumt»",
+        "tittel": "Elon Musk sier at rekordutgiftene på 446 millioner dollar til USAs mellomvalg var «ganske tåpelige»",
         "kilde": "BBC Business",
         "tid": "02:59",
         "lenke": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Etterforskere sier at mannskapet ikke var klar over risikoen før Mike Lynchs yacht Bayesian sank",
-        "kilde": "BBC Business",
-        "tid": "00:05",
-        "lenke": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Seksuelle overgrep hos McDonald's: «De ventet på at de yngre jentene skulle fylle 18»",
-        "kilde": "BBC Business",
-        "tid": "00:00",
-        "lenke": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "Hvorfor har Waymo fjernet alle sine selvkjørende biler fra amerikanske motorveier?",
-        "kilde": "BBC Business",
-        "tid": "23:47",
-        "lenke": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
-        "engelsk_kilde": true
-      },
-      {
-        "tittel": "De syv grunnleggerne av Anthropic som er i ferd med å bli multimilliardærer",
-        "kilde": "BBC Business",
-        "tid": "23:42",
-        "lenke": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
         "engelsk_kilde": true
       }
     ]
